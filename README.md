@@ -26,6 +26,9 @@ $ virtualenv -p $PATH_TO_PYTHON Face_ID
 
 $ pip install -r requirements.txt
 
+
+
+
 FACE IDENTIFICATION
 
 1. python 'path to the code file' 'path to the original dataset folder' 'path to the aligned dataset folder'
