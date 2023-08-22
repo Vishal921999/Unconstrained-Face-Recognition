@@ -19,9 +19,10 @@ $ PATH_TO_PYTHON=/usr/bin/python3.5
 $ virtualenv -p $PATH_TO_PYTHON Face_ID
 
 3. $ cd Face_ID
+   
    $ source bin/activate
 
-4. Install all the necessary libraries (TensorFlow 1.7 is required for this project)
+5. Install all the necessary libraries (TensorFlow 1.7 is required for this project)
 
 $ pip install -r requirements.txt
 
