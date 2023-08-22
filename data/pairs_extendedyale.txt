@@ -1,0 +1,5601 @@
+100	28
+yaleB19	376	189
+yaleB27	154	174
+yaleB37	387	567
+yaleB16	131	244
+yaleB26	585	443
+yaleB20	543	124
+yaleB38	304	162
+yaleB18	153	337
+yaleB22	276	219
+yaleB25	429	439
+yaleB17	546	199
+yaleB11	414	59
+yaleB33	480	195
+yaleB32	174	25
+yaleB23	137	148
+yaleB29	257	104
+yaleB30	344	133
+yaleB24	558	466
+yaleB13	435	276
+yaleB39	276	497
+yaleB35	44	133
+yaleB34	280	221
+yaleB36	91	89
+yaleB12	371	87
+yaleB15	400	96
+yaleB21	232	314
+yaleB31	250	88
+yaleB28	494	474
+yaleB19	527	yaleB15	347
+yaleB27	8	yaleB22	537
+yaleB37	404	yaleB36	390
+yaleB16	62	yaleB11	314
+yaleB26	269	yaleB38	183
+yaleB20	237	yaleB11	544
+yaleB38	468	yaleB36	263
+yaleB18	530	yaleB16	126
+yaleB22	594	yaleB27	183
+yaleB25	55	yaleB23	472
+yaleB17	150	yaleB20	448
+yaleB11	270	yaleB32	439
+yaleB33	562	yaleB12	214
+yaleB32	461	yaleB38	538
+yaleB23	159	yaleB19	43
+yaleB29	93	yaleB30	204
+yaleB30	585	yaleB27	472
+yaleB24	57	yaleB18	330
+yaleB13	564	yaleB26	329
+yaleB39	473	yaleB15	517
+yaleB35	88	yaleB17	247
+yaleB34	47	yaleB27	64
+yaleB36	184	yaleB22	314
+yaleB12	463	yaleB35	275
+yaleB15	107	yaleB19	8
+yaleB21	429	yaleB33	93
+yaleB31	309	yaleB33	411
+yaleB28	384	yaleB34	460
+yaleB19	441	36
+yaleB27	569	195
+yaleB37	107	443
+yaleB16	34	584
+yaleB26	460	148
+yaleB20	455	146
+yaleB38	58	187
+yaleB18	235	534
+yaleB22	232	456
+yaleB25	586	492
+yaleB17	480	511
+yaleB11	503	153
+yaleB33	402	206
+yaleB32	272	347
+yaleB23	279	387
+yaleB29	544	250
+yaleB30	330	86
+yaleB24	71	453
+yaleB13	167	105
+yaleB39	227	461
+yaleB35	269	279
+yaleB34	230	77
+yaleB36	510	223
+yaleB12	197	21
+yaleB15	163	268
+yaleB21	488	36
+yaleB31	111	132
+yaleB28	452	588
+yaleB19	169	yaleB23	555
+yaleB27	167	yaleB11	579
+yaleB37	128	yaleB26	50
+yaleB16	427	yaleB35	309
+yaleB26	326	yaleB19	464
+yaleB20	73	yaleB32	436
+yaleB38	579	yaleB22	390
+yaleB18	72	yaleB24	224
+yaleB22	116	yaleB17	403
+yaleB25	123	yaleB36	437
+yaleB17	310	yaleB23	457
+yaleB11	177	yaleB36	170
+yaleB33	328	yaleB35	350
+yaleB32	384	yaleB18	420
+yaleB23	305	yaleB33	115
+yaleB29	556	yaleB19	363
+yaleB30	27	yaleB32	265
+yaleB24	52	yaleB12	576
+yaleB13	518	yaleB24	130
+yaleB39	358	yaleB28	216
+yaleB35	16	yaleB32	54
+yaleB34	535	yaleB31	112
+yaleB36	323	yaleB12	535
+yaleB12	390	yaleB15	475
+yaleB15	57	yaleB32	45
+yaleB21	538	yaleB35	471
+yaleB31	367	yaleB15	323
+yaleB28	343	yaleB19	57
+yaleB19	568	269
+yaleB27	97	128
+yaleB37	303	241
+yaleB16	473	198
+yaleB26	277	332
+yaleB20	528	549
+yaleB38	443	179
+yaleB18	309	23
+yaleB22	453	368
+yaleB25	445	564
+yaleB17	177	478
+yaleB11	522	518
+yaleB33	479	190
+yaleB32	388	557
+yaleB23	15	85
+yaleB29	356	459
+yaleB30	237	381
+yaleB24	575	254
+yaleB13	367	471
+yaleB39	223	418
+yaleB35	316	518
+yaleB34	391	348
+yaleB36	209	493
+yaleB12	481	15
+yaleB15	135	507
+yaleB21	387	181
+yaleB31	131	234
+yaleB28	293	497
+yaleB19	418	yaleB27	563
+yaleB27	212	yaleB16	161
+yaleB37	235	yaleB31	377
+yaleB16	267	yaleB31	347
+yaleB26	163	yaleB28	307
+yaleB20	133	yaleB29	402
+yaleB38	511	yaleB15	426
+yaleB18	534	yaleB37	502
+yaleB22	532	yaleB28	300
+yaleB25	582	yaleB18	474
+yaleB17	313	yaleB27	579
+yaleB11	462	yaleB17	435
+yaleB33	319	yaleB15	100
+yaleB32	371	yaleB39	407
+yaleB23	302	yaleB13	125
+yaleB29	411	yaleB21	260
+yaleB30	180	yaleB21	171
+yaleB24	546	yaleB12	147
+yaleB13	101	yaleB15	24
+yaleB39	341	yaleB28	250
+yaleB35	240	yaleB30	384
+yaleB34	496	yaleB16	369
+yaleB36	381	yaleB11	75
+yaleB12	501	yaleB35	141
+yaleB15	281	yaleB24	21
+yaleB21	107	yaleB27	381
+yaleB31	284	yaleB22	247
+yaleB28	432	yaleB25	154
+yaleB19	494	312
+yaleB27	57	546
+yaleB37	475	211
+yaleB16	433	213
+yaleB26	102	230
+yaleB20	2	148
+yaleB38	264	241
+yaleB18	394	263
+yaleB22	218	481
+yaleB25	305	586
+yaleB17	209	359
+yaleB11	551	100
+yaleB33	557	17
+yaleB32	583	475
+yaleB23	174	294
+yaleB29	110	300
+yaleB30	104	11
+yaleB24	502	541
+yaleB13	105	550
+yaleB39	430	525
+yaleB35	516	336
+yaleB34	270	315
+yaleB36	110	188
+yaleB12	190	109
+yaleB15	21	406
+yaleB21	193	445
+yaleB31	570	511
+yaleB28	165	79
+yaleB19	520	yaleB15	540
+yaleB27	286	yaleB18	253
+yaleB37	453	yaleB23	486
+yaleB16	448	yaleB17	186
+yaleB26	557	yaleB34	491
+yaleB20	466	yaleB34	71
+yaleB38	410	yaleB37	315
+yaleB18	275	yaleB26	63
+yaleB22	366	yaleB38	434
+yaleB25	375	yaleB17	271
+yaleB17	500	yaleB39	461
+yaleB11	144	yaleB13	303
+yaleB33	241	yaleB38	118
+yaleB32	1	yaleB20	543
+yaleB23	33	yaleB18	524
+yaleB29	573	yaleB24	72
+yaleB30	55	yaleB32	203
+yaleB24	440	yaleB12	197
+yaleB13	62	yaleB30	105
+yaleB39	410	yaleB27	549
+yaleB35	75	yaleB29	155
+yaleB34	273	yaleB26	146
+yaleB36	29	yaleB35	306
+yaleB12	172	yaleB13	246
+yaleB15	20	yaleB36	582
+yaleB21	187	yaleB20	308
+yaleB31	541	yaleB35	134
+yaleB28	179	yaleB26	91
+yaleB19	318	483
+yaleB27	36	204
+yaleB37	374	509
+yaleB16	148	511
+yaleB26	580	493
+yaleB20	458	23
+yaleB38	487	477
+yaleB18	64	570
+yaleB22	330	552
+yaleB25	554	10
+yaleB17	546	109
+yaleB11	91	348
+yaleB33	211	89
+yaleB32	130	324
+yaleB23	52	421
+yaleB29	383	532
+yaleB30	368	583
+yaleB24	231	198
+yaleB13	12	423
+yaleB39	433	457
+yaleB35	147	130
+yaleB34	218	306
+yaleB36	145	449
+yaleB12	350	241
+yaleB15	534	235
+yaleB21	583	332
+yaleB31	491	428
+yaleB28	379	559
+yaleB19	227	yaleB15	317
+yaleB27	477	yaleB12	314
+yaleB37	245	yaleB19	41
+yaleB16	520	yaleB29	378
+yaleB26	378	yaleB18	398
+yaleB20	11	yaleB24	212
+yaleB38	546	yaleB11	367
+yaleB18	525	yaleB28	101
+yaleB22	368	yaleB12	177
+yaleB25	216	yaleB37	218
+yaleB17	479	yaleB12	253
+yaleB11	503	yaleB30	485
+yaleB33	307	yaleB30	449
+yaleB32	465	yaleB25	570
+yaleB23	280	yaleB35	222
+yaleB29	78	yaleB32	135
+yaleB30	586	yaleB11	99
+yaleB24	443	yaleB22	208
+yaleB13	263	yaleB20	54
+yaleB39	539	yaleB32	189
+yaleB35	293	yaleB15	496
+yaleB34	414	yaleB18	471
+yaleB36	23	yaleB23	289
+yaleB12	332	yaleB21	199
+yaleB15	244	yaleB19	260
+yaleB21	544	yaleB18	188
+yaleB31	247	yaleB21	115
+yaleB28	361	yaleB11	5
+yaleB19	483	391
+yaleB27	288	30
+yaleB37	349	492
+yaleB16	378	54
+yaleB26	79	109
+yaleB20	87	378
+yaleB38	490	365
+yaleB18	178	172
+yaleB22	579	369
+yaleB25	254	39
+yaleB17	541	42
+yaleB11	363	452
+yaleB33	285	37
+yaleB32	256	143
+yaleB23	304	555
+yaleB29	271	327
+yaleB30	297	486
+yaleB24	439	98
+yaleB13	350	135
+yaleB39	8	461
+yaleB35	70	343
+yaleB34	448	267
+yaleB36	161	465
+yaleB12	410	9
+yaleB15	388	471
+yaleB21	488	534
+yaleB31	260	165
+yaleB28	326	347
+yaleB19	258	yaleB30	528
+yaleB27	46	yaleB15	40
+yaleB37	221	yaleB39	556
+yaleB16	51	yaleB13	3
+yaleB26	187	yaleB20	152
+yaleB20	443	yaleB24	229
+yaleB38	261	yaleB18	593
+yaleB18	400	yaleB29	480
+yaleB22	577	yaleB31	432
+yaleB25	91	yaleB34	572
+yaleB17	523	yaleB39	282
+yaleB11	272	yaleB38	98
+yaleB33	289	yaleB26	506
+yaleB32	347	yaleB18	122
+yaleB23	320	yaleB39	51
+yaleB29	309	yaleB39	405
+yaleB30	410	yaleB19	453
+yaleB24	252	yaleB19	116
+yaleB13	196	yaleB30	109
+yaleB39	104	yaleB33	97
+yaleB35	136	yaleB27	409
+yaleB34	329	yaleB27	299
+yaleB36	237	yaleB31	332
+yaleB12	73	yaleB15	75
+yaleB15	276	yaleB36	315
+yaleB21	81	yaleB34	217
+yaleB31	324	yaleB13	470
+yaleB28	73	yaleB26	321
+yaleB19	68	385
+yaleB27	98	450
+yaleB37	58	543
+yaleB16	284	56
+yaleB26	46	114
+yaleB20	186	257
+yaleB38	306	561
+yaleB18	276	6
+yaleB22	264	199
+yaleB25	225	186
+yaleB17	243	383
+yaleB11	49	96
+yaleB33	143	436
+yaleB32	306	421
+yaleB23	206	218
+yaleB29	567	262
+yaleB30	508	349
+yaleB24	355	584
+yaleB13	473	119
+yaleB39	484	485
+yaleB35	94	337
+yaleB34	91	145
+yaleB36	99	91
+yaleB12	426	517
+yaleB15	178	552
+yaleB21	110	74
+yaleB31	587	244
+yaleB28	129	387
+yaleB19	167	yaleB11	571
+yaleB27	37	yaleB12	86
+yaleB37	477	yaleB31	284
+yaleB16	57	yaleB19	446
+yaleB26	548	yaleB33	329
+yaleB20	158	yaleB22	123
+yaleB38	312	yaleB22	515
+yaleB18	361	yaleB32	256
+yaleB22	539	yaleB20	45
+yaleB25	22	yaleB12	59
+yaleB17	134	yaleB12	370
+yaleB11	452	yaleB27	374
+yaleB33	113	yaleB21	383
+yaleB32	81	yaleB16	217
+yaleB23	155	yaleB25	347
+yaleB29	470	yaleB30	51
+yaleB30	86	yaleB28	458
+yaleB24	229	yaleB18	485
+yaleB13	305	yaleB29	308
+yaleB39	88	yaleB27	367
+yaleB35	361	yaleB28	490
+yaleB34	129	yaleB18	437
+yaleB36	462	yaleB32	16
+yaleB12	322	yaleB23	325
+yaleB15	490	yaleB18	573
+yaleB21	18	yaleB35	392
+yaleB31	127	yaleB19	337
+yaleB28	213	yaleB34	375
+yaleB19	575	545
+yaleB27	473	493
+yaleB37	234	550
+yaleB16	336	490
+yaleB26	424	392
+yaleB20	530	339
+yaleB38	129	481
+yaleB18	544	584
+yaleB22	462	454
+yaleB25	76	506
+yaleB17	371	537
+yaleB11	522	3
+yaleB33	463	78
+yaleB32	84	285
+yaleB23	151	230
+yaleB29	347	392
+yaleB30	60	85
+yaleB24	543	47
+yaleB13	105	409
+yaleB39	122	110
+yaleB35	362	436
+yaleB34	463	301
+yaleB36	150	256
+yaleB12	14	357
+yaleB15	40	370
+yaleB21	306	513
+yaleB31	353	65
+yaleB28	120	365
+yaleB19	95	yaleB27	128
+yaleB27	546	yaleB28	135
+yaleB37	70	yaleB23	322
+yaleB16	449	yaleB38	188
+yaleB26	525	yaleB18	347
+yaleB20	65	yaleB12	580
+yaleB38	517	yaleB39	283
+yaleB18	103	yaleB31	134
+yaleB22	7	yaleB28	174
+yaleB25	520	yaleB18	88
+yaleB17	87	yaleB13	56
+yaleB11	543	yaleB24	583
+yaleB33	269	yaleB11	235
+yaleB32	356	yaleB13	478
+yaleB23	511	yaleB19	51
+yaleB29	14	yaleB22	409
+yaleB30	224	yaleB25	516
+yaleB24	95	yaleB39	540
+yaleB13	248	yaleB16	327
+yaleB39	319	yaleB35	98
+yaleB35	401	yaleB18	423
+yaleB34	572	yaleB20	31
+yaleB36	16	yaleB23	432
+yaleB12	385	yaleB18	262
+yaleB15	391	yaleB13	165
+yaleB21	538	yaleB24	277
+yaleB31	473	yaleB34	408
+yaleB28	242	yaleB36	359
+yaleB19	476	397
+yaleB27	3	301
+yaleB37	484	137
+yaleB16	35	543
+yaleB26	514	16
+yaleB20	81	122
+yaleB38	526	36
+yaleB18	263	211
+yaleB22	493	587
+yaleB25	253	299
+yaleB17	6	7
+yaleB11	545	271
+yaleB33	471	284
+yaleB32	167	427
+yaleB23	241	20
+yaleB29	310	419
+yaleB30	532	346
+yaleB24	334	90
+yaleB13	571	290
+yaleB39	73	450
+yaleB35	448	41
+yaleB34	367	267
+yaleB36	294	12
+yaleB12	188	131
+yaleB15	410	578
+yaleB21	35	356
+yaleB31	68	233
+yaleB28	374	529
+yaleB19	572	yaleB29	34
+yaleB27	272	yaleB15	190
+yaleB37	41	yaleB18	323
+yaleB16	257	yaleB38	324
+yaleB26	69	yaleB34	564
+yaleB20	403	yaleB17	491
+yaleB38	476	yaleB30	142
+yaleB18	52	yaleB13	157
+yaleB22	438	yaleB12	525
+yaleB25	594	yaleB20	15
+yaleB17	522	yaleB20	277
+yaleB11	199	yaleB29	314
+yaleB33	342	yaleB36	509
+yaleB32	277	yaleB16	138
+yaleB23	149	yaleB27	381
+yaleB29	244	yaleB23	207
+yaleB30	127	yaleB39	217
+yaleB24	541	yaleB32	467
+yaleB13	66	yaleB34	547
+yaleB39	553	yaleB16	161
+yaleB35	511	yaleB30	344
+yaleB34	156	yaleB18	440
+yaleB36	5	yaleB31	533
+yaleB12	84	yaleB20	289
+yaleB15	276	yaleB24	214
+yaleB21	421	yaleB31	302
+yaleB31	167	yaleB39	440
+yaleB28	497	yaleB18	172
+yaleB19	535	363
+yaleB27	98	412
+yaleB37	49	96
+yaleB16	239	558
+yaleB26	181	338
+yaleB20	272	389
+yaleB38	69	519
+yaleB18	587	286
+yaleB22	493	380
+yaleB25	193	420
+yaleB17	66	329
+yaleB11	428	516
+yaleB33	491	303
+yaleB32	404	474
+yaleB23	435	308
+yaleB29	543	139
+yaleB30	590	375
+yaleB24	417	108
+yaleB13	508	78
+yaleB39	22	34
+yaleB35	59	587
+yaleB34	560	409
+yaleB36	334	193
+yaleB12	511	56
+yaleB15	200	585
+yaleB21	324	323
+yaleB31	207	102
+yaleB28	182	74
+yaleB19	14	yaleB34	519
+yaleB27	53	yaleB13	323
+yaleB37	188	yaleB29	317
+yaleB16	457	yaleB30	488
+yaleB26	587	yaleB18	216
+yaleB20	114	yaleB24	301
+yaleB38	153	yaleB34	429
+yaleB18	212	yaleB25	108
+yaleB22	299	yaleB27	483
+yaleB25	81	yaleB24	296
+yaleB17	117	yaleB30	182
+yaleB11	272	yaleB16	481
+yaleB33	43	yaleB28	140
+yaleB32	163	yaleB33	98
+yaleB23	78	yaleB13	246
+yaleB29	319	yaleB35	412
+yaleB30	195	yaleB20	459
+yaleB24	436	yaleB34	169
+yaleB13	437	yaleB22	199
+yaleB39	294	yaleB17	327
+yaleB35	2	yaleB15	231
+yaleB34	459	yaleB26	325
+yaleB36	309	yaleB34	326
+yaleB12	475	yaleB25	202
+yaleB15	343	yaleB39	414
+yaleB21	237	yaleB33	213
+yaleB31	164	yaleB26	254
+yaleB28	76	yaleB20	530
+yaleB19	143	324
+yaleB27	548	81
+yaleB37	183	157
+yaleB16	518	1
+yaleB26	439	414
+yaleB20	11	554
+yaleB38	194	394
+yaleB18	52	244
+yaleB22	483	276
+yaleB25	61	567
+yaleB17	487	546
+yaleB11	314	467
+yaleB33	466	456
+yaleB32	522	152
+yaleB23	162	457
+yaleB29	591	371
+yaleB30	219	303
+yaleB24	386	356
+yaleB13	218	255
+yaleB39	504	240
+yaleB35	145	356
+yaleB34	66	220
+yaleB36	376	429
+yaleB12	574	405
+yaleB15	54	111
+yaleB21	230	381
+yaleB31	260	584
+yaleB28	218	375
+yaleB19	105	yaleB25	241
+yaleB27	478	yaleB22	252
+yaleB37	157	yaleB17	375
+yaleB16	203	yaleB11	325
+yaleB26	578	yaleB39	77
+yaleB20	65	yaleB31	300
+yaleB38	124	yaleB28	245
+yaleB18	414	yaleB29	177
+yaleB22	222	yaleB11	330
+yaleB25	250	yaleB26	45
+yaleB17	30	yaleB18	393
+yaleB11	534	yaleB12	155
+yaleB33	255	yaleB23	84
+yaleB32	487	yaleB11	140
+yaleB23	354	yaleB27	154
+yaleB29	138	yaleB24	537
+yaleB30	198	yaleB35	572
+yaleB24	561	yaleB12	302
+yaleB13	45	yaleB28	399
+yaleB39	319	yaleB27	70
+yaleB35	482	yaleB31	110
+yaleB34	496	yaleB25	217
+yaleB36	440	yaleB34	181
+yaleB12	516	yaleB20	151
+yaleB15	555	yaleB12	562
+yaleB21	168	yaleB15	257
+yaleB31	516	yaleB38	29
+yaleB28	297	yaleB26	562
+yaleB19	558	67
+yaleB27	472	496
+yaleB37	167	82
+yaleB16	218	194
+yaleB26	126	58
+yaleB20	526	580
+yaleB38	394	215
+yaleB18	343	547
+yaleB22	296	441
+yaleB25	462	353
+yaleB17	443	432
+yaleB11	66	469
+yaleB33	388	241
+yaleB32	91	550
+yaleB23	259	343
+yaleB29	392	370
+yaleB30	256	287
+yaleB24	64	571
+yaleB13	578	183
+yaleB39	378	83
+yaleB35	27	161
+yaleB34	401	2
+yaleB36	355	461
+yaleB12	451	508
+yaleB15	245	202
+yaleB21	139	532
+yaleB31	554	507
+yaleB28	105	276
+yaleB19	6	yaleB35	40
+yaleB27	310	yaleB33	478
+yaleB37	581	yaleB15	428
+yaleB16	94	yaleB27	242
+yaleB26	381	yaleB38	592
+yaleB20	452	yaleB25	256
+yaleB38	136	yaleB28	298
+yaleB18	439	yaleB30	398
+yaleB22	344	yaleB33	181
+yaleB25	229	yaleB24	376
+yaleB17	184	yaleB36	245
+yaleB11	329	yaleB19	163
+yaleB33	65	yaleB38	13
+yaleB32	91	yaleB22	259
+yaleB23	315	yaleB32	222
+yaleB29	374	yaleB17	546
+yaleB30	55	yaleB15	286
+yaleB24	61	yaleB18	469
+yaleB13	245	yaleB36	15
+yaleB39	436	yaleB27	287
+yaleB35	234	yaleB11	34
+yaleB34	147	yaleB19	248
+yaleB36	255	yaleB21	478
+yaleB12	267	yaleB31	15
+yaleB15	257	yaleB13	145
+yaleB21	258	yaleB30	541
+yaleB31	245	yaleB26	361
+yaleB28	303	yaleB36	317
+yaleB19	117	217
+yaleB27	201	40
+yaleB37	163	430
+yaleB16	196	136
+yaleB26	187	212
+yaleB20	556	256
+yaleB38	576	290
+yaleB18	78	2
+yaleB22	108	22
+yaleB25	70	535
+yaleB17	244	592
+yaleB11	460	101
+yaleB33	521	158
+yaleB32	354	526
+yaleB23	75	471
+yaleB29	288	101
+yaleB30	570	571
+yaleB24	117	221
+yaleB13	5	382
+yaleB39	416	210
+yaleB35	359	393
+yaleB34	542	372
+yaleB36	168	477
+yaleB12	307	380
+yaleB15	539	294
+yaleB21	475	578
+yaleB31	111	56
+yaleB28	265	128
+yaleB19	103	yaleB28	403
+yaleB27	470	yaleB31	214
+yaleB37	498	yaleB27	180
+yaleB16	466	yaleB27	197
+yaleB26	435	yaleB12	293
+yaleB20	320	yaleB11	253
+yaleB38	241	yaleB18	324
+yaleB18	134	yaleB21	384
+yaleB22	162	yaleB31	530
+yaleB25	30	yaleB21	478
+yaleB17	157	yaleB34	54
+yaleB11	42	yaleB19	441
+yaleB33	95	yaleB35	309
+yaleB32	188	yaleB33	223
+yaleB23	21	yaleB30	16
+yaleB29	336	yaleB30	80
+yaleB30	539	yaleB28	470
+yaleB24	129	yaleB19	227
+yaleB13	523	yaleB23	520
+yaleB39	528	yaleB12	119
+yaleB35	448	yaleB13	1
+yaleB34	233	yaleB36	187
+yaleB36	366	yaleB30	1
+yaleB12	27	yaleB17	179
+yaleB15	202	yaleB19	547
+yaleB21	406	yaleB36	95
+yaleB31	493	yaleB17	426
+yaleB28	278	yaleB23	187
+yaleB19	354	458
+yaleB27	133	155
+yaleB37	264	338
+yaleB16	43	472
+yaleB26	285	122
+yaleB20	361	122
+yaleB38	29	74
+yaleB18	588	491
+yaleB22	557	387
+yaleB25	41	13
+yaleB17	344	86
+yaleB11	240	182
+yaleB33	227	12
+yaleB32	147	1
+yaleB23	202	530
+yaleB29	334	290
+yaleB30	481	332
+yaleB24	444	229
+yaleB13	521	512
+yaleB39	211	332
+yaleB35	165	280
+yaleB34	436	126
+yaleB36	387	213
+yaleB12	474	381
+yaleB15	313	498
+yaleB21	432	578
+yaleB31	427	534
+yaleB28	22	54
+yaleB19	237	yaleB34	556
+yaleB27	531	yaleB36	172
+yaleB37	80	yaleB25	593
+yaleB16	485	yaleB33	480
+yaleB26	307	yaleB20	73
+yaleB20	446	yaleB38	222
+yaleB38	472	yaleB35	446
+yaleB18	547	yaleB23	229
+yaleB22	361	yaleB12	409
+yaleB25	150	yaleB36	333
+yaleB17	102	yaleB24	129
+yaleB11	347	yaleB15	347
+yaleB33	77	yaleB23	304
+yaleB32	371	yaleB21	165
+yaleB23	564	yaleB34	573
+yaleB29	327	yaleB27	37
+yaleB30	280	yaleB19	381
+yaleB24	45	yaleB20	360
+yaleB13	8	yaleB25	236
+yaleB39	162	yaleB24	193
+yaleB35	105	yaleB26	492
+yaleB34	213	yaleB22	257
+yaleB36	296	yaleB20	444
+yaleB12	399	yaleB23	275
+yaleB15	408	yaleB26	518
+yaleB21	488	yaleB29	306
+yaleB31	176	yaleB15	582
+yaleB28	556	yaleB19	212
+yaleB19	468	296
+yaleB27	142	539
+yaleB37	465	305
+yaleB16	577	187
+yaleB26	396	15
+yaleB20	9	151
+yaleB38	133	183
+yaleB18	482	444
+yaleB22	331	573
+yaleB25	500	409
+yaleB17	261	300
+yaleB11	412	24
+yaleB33	547	219
+yaleB32	170	182
+yaleB23	94	558
+yaleB29	100	273
+yaleB30	236	149
+yaleB24	83	588
+yaleB13	328	279
+yaleB39	210	306
+yaleB35	164	171
+yaleB34	175	131
+yaleB36	546	110
+yaleB12	535	254
+yaleB15	400	544
+yaleB21	461	471
+yaleB31	367	264
+yaleB28	403	357
+yaleB19	72	yaleB32	170
+yaleB27	539	yaleB24	354
+yaleB37	354	yaleB29	340
+yaleB16	429	yaleB12	17
+yaleB26	559	yaleB27	589
+yaleB20	200	yaleB39	365
+yaleB38	122	yaleB37	411
+yaleB18	186	yaleB17	228
+yaleB22	486	yaleB15	72
+yaleB25	362	yaleB35	430
+yaleB17	240	yaleB30	502
+yaleB11	278	yaleB26	152
+yaleB33	143	yaleB28	242
+yaleB32	436	yaleB21	174
+yaleB23	517	yaleB32	436
+yaleB29	526	yaleB16	151
+yaleB30	364	yaleB32	49
+yaleB24	588	yaleB32	179
+yaleB13	64	yaleB24	182
+yaleB39	148	yaleB19	118
+yaleB35	273	yaleB18	201
+yaleB34	249	yaleB23	377
+yaleB36	69	yaleB34	310
+yaleB12	411	yaleB28	344
+yaleB15	582	yaleB32	331
+yaleB21	270	yaleB38	108
+yaleB31	387	yaleB18	54
+yaleB28	131	yaleB13	379
+yaleB19	21	58
+yaleB27	72	291
+yaleB37	277	59
+yaleB16	38	113
+yaleB26	49	536
+yaleB20	84	117
+yaleB38	564	49
+yaleB18	520	204
+yaleB22	31	175
+yaleB25	176	331
+yaleB17	147	339
+yaleB11	29	343
+yaleB33	389	273
+yaleB32	432	89
+yaleB23	295	259
+yaleB29	363	549
+yaleB30	591	535
+yaleB24	134	206
+yaleB13	336	174
+yaleB39	280	461
+yaleB35	312	132
+yaleB34	120	381
+yaleB36	470	557
+yaleB12	314	575
+yaleB15	343	559
+yaleB21	141	312
+yaleB31	437	130
+yaleB28	326	448
+yaleB19	146	yaleB27	138
+yaleB27	254	yaleB38	417
+yaleB37	403	yaleB25	87
+yaleB16	476	yaleB38	257
+yaleB26	332	yaleB21	60
+yaleB20	242	yaleB33	424
+yaleB38	520	yaleB30	429
+yaleB18	322	yaleB32	159
+yaleB22	109	yaleB15	513
+yaleB25	151	yaleB20	521
+yaleB17	66	yaleB18	105
+yaleB11	25	yaleB32	392
+yaleB33	39	yaleB21	184
+yaleB32	4	yaleB18	445
+yaleB23	411	yaleB18	106
+yaleB29	248	yaleB21	34
+yaleB30	469	yaleB20	50
+yaleB24	38	yaleB18	453
+yaleB13	181	yaleB12	392
+yaleB39	431	yaleB28	79
+yaleB35	262	yaleB19	127
+yaleB34	420	yaleB15	137
+yaleB36	223	yaleB11	109
+yaleB12	48	yaleB38	319
+yaleB15	281	yaleB28	377
+yaleB21	470	yaleB17	130
+yaleB31	308	yaleB36	256
+yaleB28	189	yaleB38	314
+yaleB19	485	456
+yaleB27	559	471
+yaleB37	47	238
+yaleB16	208	344
+yaleB26	539	478
+yaleB20	515	475
+yaleB38	169	131
+yaleB18	565	232
+yaleB22	395	576
+yaleB25	364	59
+yaleB17	31	326
+yaleB11	378	502
+yaleB33	24	238
+yaleB32	151	501
+yaleB23	386	492
+yaleB29	325	143
+yaleB30	180	171
+yaleB24	310	442
+yaleB13	518	270
+yaleB39	205	311
+yaleB35	37	158
+yaleB34	213	575
+yaleB36	240	388
+yaleB12	339	213
+yaleB15	49	114
+yaleB21	200	262
+yaleB31	574	143
+yaleB28	472	250
+yaleB19	394	yaleB30	271
+yaleB27	278	yaleB35	218
+yaleB37	563	yaleB20	211
+yaleB16	196	yaleB24	588
+yaleB26	195	yaleB18	421
+yaleB20	564	yaleB22	68
+yaleB38	58	yaleB22	438
+yaleB18	222	yaleB17	520
+yaleB22	287	yaleB34	139
+yaleB25	468	yaleB30	421
+yaleB17	308	yaleB33	385
+yaleB11	211	yaleB22	392
+yaleB33	559	yaleB39	335
+yaleB32	144	yaleB34	365
+yaleB23	311	yaleB25	119
+yaleB29	241	yaleB35	335
+yaleB30	536	yaleB22	337
+yaleB24	546	yaleB32	517
+yaleB13	225	yaleB17	44
+yaleB39	556	yaleB21	2
+yaleB35	93	yaleB16	568
+yaleB34	37	yaleB18	57
+yaleB36	203	yaleB21	159
+yaleB12	564	yaleB26	263
+yaleB15	1	yaleB31	143
+yaleB21	300	yaleB35	491
+yaleB31	177	yaleB33	560
+yaleB28	482	yaleB38	519
+yaleB19	569	475
+yaleB27	395	557
+yaleB37	271	327
+yaleB16	392	112
+yaleB26	152	360
+yaleB20	323	421
+yaleB38	541	592
+yaleB18	460	173
+yaleB22	83	312
+yaleB25	238	438
+yaleB17	318	425
+yaleB11	106	39
+yaleB33	375	441
+yaleB32	385	403
+yaleB23	118	275
+yaleB29	88	239
+yaleB30	344	446
+yaleB24	303	460
+yaleB13	172	412
+yaleB39	584	334
+yaleB35	201	42
+yaleB34	422	220
+yaleB36	12	548
+yaleB12	151	97
+yaleB15	109	476
+yaleB21	307	168
+yaleB31	559	134
+yaleB28	13	187
+yaleB19	332	yaleB38	480
+yaleB27	321	yaleB11	492
+yaleB37	244	yaleB12	523
+yaleB16	269	yaleB12	177
+yaleB26	352	yaleB38	390
+yaleB20	424	yaleB11	303
+yaleB38	298	yaleB30	253
+yaleB18	126	yaleB16	441
+yaleB22	407	yaleB38	158
+yaleB25	61	yaleB39	356
+yaleB17	162	yaleB33	478
+yaleB11	504	yaleB37	160
+yaleB33	37	yaleB30	164
+yaleB32	577	yaleB36	548
+yaleB23	41	yaleB16	385
+yaleB29	382	yaleB30	456
+yaleB30	410	yaleB16	206
+yaleB24	95	yaleB27	233
+yaleB13	573	yaleB35	55
+yaleB39	520	yaleB22	302
+yaleB35	220	yaleB32	110
+yaleB34	40	yaleB18	155
+yaleB36	534	yaleB15	549
+yaleB12	530	yaleB11	252
+yaleB15	166	yaleB26	91
+yaleB21	545	yaleB39	28
+yaleB31	11	yaleB29	166
+yaleB28	417	yaleB11	517
+yaleB19	275	112
+yaleB27	334	99
+yaleB37	484	248
+yaleB16	389	397
+yaleB26	279	105
+yaleB20	381	253
+yaleB38	323	149
+yaleB18	325	153
+yaleB22	269	51
+yaleB25	311	584
+yaleB17	136	44
+yaleB11	337	344
+yaleB33	140	176
+yaleB32	258	257
+yaleB23	38	351
+yaleB29	352	85
+yaleB30	199	474
+yaleB24	265	45
+yaleB13	111	149
+yaleB39	560	58
+yaleB35	41	175
+yaleB34	468	297
+yaleB36	311	523
+yaleB12	411	211
+yaleB15	64	571
+yaleB21	271	314
+yaleB31	521	453
+yaleB28	27	362
+yaleB19	120	yaleB17	267
+yaleB27	487	yaleB36	565
+yaleB37	382	yaleB13	499
+yaleB16	459	yaleB29	538
+yaleB26	248	yaleB35	157
+yaleB20	380	yaleB31	60
+yaleB38	514	yaleB32	438
+yaleB18	220	yaleB25	503
+yaleB22	139	yaleB27	254
+yaleB25	66	yaleB24	359
+yaleB17	517	yaleB23	487
+yaleB11	14	yaleB27	132
+yaleB33	130	yaleB13	2
+yaleB32	309	yaleB33	228
+yaleB23	262	yaleB34	299
+yaleB29	395	yaleB24	206
+yaleB30	342	yaleB29	25
+yaleB24	210	yaleB30	236
+yaleB13	225	yaleB26	215
+yaleB39	478	yaleB29	280
+yaleB35	82	yaleB32	275
+yaleB34	348	yaleB35	266
+yaleB36	23	yaleB31	111
+yaleB12	158	yaleB33	382
+yaleB15	296	yaleB36	324
+yaleB21	471	yaleB31	264
+yaleB31	200	yaleB17	392
+yaleB28	290	yaleB32	445
+yaleB19	328	318
+yaleB27	353	465
+yaleB37	447	392
+yaleB16	319	185
+yaleB26	453	137
+yaleB20	324	93
+yaleB38	530	231
+yaleB18	517	542
+yaleB22	398	63
+yaleB25	331	408
+yaleB17	64	428
+yaleB11	484	415
+yaleB33	206	34
+yaleB32	324	79
+yaleB23	59	398
+yaleB29	298	151
+yaleB30	287	554
+yaleB24	71	66
+yaleB13	441	56
+yaleB39	108	279
+yaleB35	560	533
+yaleB34	270	527
+yaleB36	479	179
+yaleB12	120	201
+yaleB15	136	23
+yaleB21	447	236
+yaleB31	559	429
+yaleB28	281	483
+yaleB19	28	yaleB27	430
+yaleB27	276	yaleB11	178
+yaleB37	439	yaleB20	112
+yaleB16	207	yaleB19	255
+yaleB26	45	yaleB18	430
+yaleB20	555	yaleB16	243
+yaleB38	315	yaleB25	478
+yaleB18	59	yaleB29	107
+yaleB22	579	yaleB24	349
+yaleB25	384	yaleB11	11
+yaleB17	107	yaleB11	188
+yaleB11	220	yaleB18	296
+yaleB33	427	yaleB38	115
+yaleB32	130	yaleB39	506
+yaleB23	392	yaleB31	460
+yaleB29	240	yaleB18	476
+yaleB30	206	yaleB20	363
+yaleB24	562	yaleB29	594
+yaleB13	399	yaleB32	224
+yaleB39	296	yaleB35	189
+yaleB35	433	yaleB24	293
+yaleB34	112	yaleB26	238
+yaleB36	190	yaleB23	324
+yaleB12	345	yaleB32	115
+yaleB15	541	yaleB39	24
+yaleB21	203	yaleB39	531
+yaleB31	56	yaleB13	191
+yaleB28	61	yaleB29	370
+yaleB19	522	173
+yaleB27	431	50
+yaleB37	421	236
+yaleB16	195	156
+yaleB26	440	128
+yaleB20	438	18
+yaleB38	519	12
+yaleB18	335	332
+yaleB22	537	587
+yaleB25	405	257
+yaleB17	516	34
+yaleB11	59	54
+yaleB33	27	9
+yaleB32	59	250
+yaleB23	528	206
+yaleB29	217	323
+yaleB30	517	74
+yaleB24	460	296
+yaleB13	484	434
+yaleB39	418	192
+yaleB35	412	440
+yaleB34	591	237
+yaleB36	45	211
+yaleB12	533	264
+yaleB15	315	76
+yaleB21	432	174
+yaleB31	339	196
+yaleB28	379	537
+yaleB19	420	yaleB35	518
+yaleB27	67	yaleB24	376
+yaleB37	372	yaleB30	274
+yaleB16	369	yaleB28	53
+yaleB26	515	yaleB33	83
+yaleB20	411	yaleB19	259
+yaleB38	102	yaleB24	394
+yaleB18	82	yaleB25	329
+yaleB22	43	yaleB26	58
+yaleB25	383	yaleB20	162
+yaleB17	95	yaleB22	46
+yaleB11	222	yaleB38	511
+yaleB33	276	yaleB35	155
+yaleB32	22	yaleB19	182
+yaleB23	246	yaleB20	237
+yaleB29	425	yaleB32	45
+yaleB30	499	yaleB38	94
+yaleB24	394	yaleB22	221
+yaleB13	182	yaleB39	414
+yaleB39	576	yaleB16	276
+yaleB35	170	yaleB37	480
+yaleB34	352	yaleB28	155
+yaleB36	575	yaleB32	157
+yaleB12	14	yaleB24	66
+yaleB15	125	yaleB20	74
+yaleB21	336	yaleB29	376
+yaleB31	417	yaleB39	269
+yaleB28	184	yaleB31	410
+yaleB19	78	20
+yaleB27	30	507
+yaleB37	81	409
+yaleB16	56	384
+yaleB26	160	405
+yaleB20	19	306
+yaleB38	369	307
+yaleB18	365	7
+yaleB22	546	515
+yaleB25	306	344
+yaleB17	466	244
+yaleB11	544	509
+yaleB33	402	502
+yaleB32	368	216
+yaleB23	105	313
+yaleB29	573	428
+yaleB30	451	107
+yaleB24	333	199
+yaleB13	558	28
+yaleB39	56	123
+yaleB35	489	41
+yaleB34	21	382
+yaleB36	577	440
+yaleB12	340	266
+yaleB15	227	439
+yaleB21	387	73
+yaleB31	23	387
+yaleB28	268	531
+yaleB19	86	yaleB18	164
+yaleB27	347	yaleB19	428
+yaleB37	122	yaleB38	29
+yaleB16	344	yaleB33	399
+yaleB26	288	yaleB17	528
+yaleB20	292	yaleB18	4
+yaleB38	568	yaleB34	530
+yaleB18	333	yaleB33	434
+yaleB22	42	yaleB24	170
+yaleB25	50	yaleB37	396
+yaleB17	285	yaleB26	198
+yaleB11	553	yaleB24	534
+yaleB33	42	yaleB34	20
+yaleB32	258	yaleB38	426
+yaleB23	52	yaleB29	262
+yaleB29	185	yaleB18	138
+yaleB30	569	yaleB31	272
+yaleB24	115	yaleB34	391
+yaleB13	526	yaleB20	226
+yaleB39	448	yaleB12	431
+yaleB35	436	yaleB29	16
+yaleB34	19	yaleB39	409
+yaleB36	590	yaleB32	357
+yaleB12	336	yaleB32	4
+yaleB15	363	yaleB38	358
+yaleB21	274	yaleB34	422
+yaleB31	228	yaleB11	215
+yaleB28	411	yaleB37	196
+yaleB19	184	271
+yaleB27	387	348
+yaleB37	121	572
+yaleB16	518	242
+yaleB26	589	170
+yaleB20	10	495
+yaleB38	327	550
+yaleB18	242	124
+yaleB22	146	197
+yaleB25	323	587
+yaleB17	148	290
+yaleB11	351	400
+yaleB33	567	329
+yaleB32	181	467
+yaleB23	445	451
+yaleB29	585	269
+yaleB30	563	228
+yaleB24	430	244
+yaleB13	99	186
+yaleB39	389	555
+yaleB35	310	23
+yaleB34	392	95
+yaleB36	454	55
+yaleB12	342	193
+yaleB15	373	41
+yaleB21	382	129
+yaleB31	113	152
+yaleB28	461	129
+yaleB19	73	yaleB37	233
+yaleB27	431	yaleB17	503
+yaleB37	207	yaleB36	506
+yaleB16	433	yaleB30	295
+yaleB26	364	yaleB34	145
+yaleB20	341	yaleB27	67
+yaleB38	457	yaleB16	77
+yaleB18	359	yaleB32	346
+yaleB22	422	yaleB18	222
+yaleB25	342	yaleB27	349
+yaleB17	7	yaleB33	474
+yaleB11	405	yaleB24	170
+yaleB33	340	yaleB20	94
+yaleB32	167	yaleB16	404
+yaleB23	577	yaleB27	475
+yaleB29	308	yaleB31	72
+yaleB30	350	yaleB37	498
+yaleB24	338	yaleB21	499
+yaleB13	470	yaleB27	181
+yaleB39	100	yaleB23	334
+yaleB35	343	yaleB37	398
+yaleB34	44	yaleB28	393
+yaleB36	472	yaleB12	227
+yaleB12	111	yaleB33	2
+yaleB15	403	yaleB16	96
+yaleB21	555	yaleB17	29
+yaleB31	470	yaleB26	49
+yaleB28	256	yaleB34	571
+yaleB19	349	148
+yaleB27	113	20
+yaleB37	566	102
+yaleB16	86	534
+yaleB26	136	481
+yaleB20	50	29
+yaleB38	110	34
+yaleB18	486	186
+yaleB22	66	96
+yaleB25	419	214
+yaleB17	14	422
+yaleB11	261	397
+yaleB33	238	561
+yaleB32	487	185
+yaleB23	447	581
+yaleB29	549	63
+yaleB30	541	557
+yaleB24	166	359
+yaleB13	414	155
+yaleB39	246	319
+yaleB35	243	29
+yaleB34	13	317
+yaleB36	427	3
+yaleB12	510	97
+yaleB15	26	544
+yaleB21	130	259
+yaleB31	58	153
+yaleB28	98	413
+yaleB19	345	yaleB23	225
+yaleB27	22	yaleB39	552
+yaleB37	256	yaleB25	185
+yaleB16	337	yaleB21	203
+yaleB26	580	yaleB12	104
+yaleB20	569	yaleB25	527
+yaleB38	138	yaleB21	489
+yaleB18	384	yaleB11	125
+yaleB22	350	yaleB34	590
+yaleB25	330	yaleB11	476
+yaleB17	532	yaleB31	494
+yaleB11	62	yaleB17	180
+yaleB33	55	yaleB23	366
+yaleB32	577	yaleB31	319
+yaleB23	491	yaleB34	467
+yaleB29	18	yaleB37	391
+yaleB30	451	yaleB12	98
+yaleB24	251	yaleB34	579
+yaleB13	576	yaleB32	220
+yaleB39	96	yaleB34	506
+yaleB35	422	yaleB26	112
+yaleB34	137	yaleB17	381
+yaleB36	247	yaleB23	55
+yaleB12	74	yaleB20	389
+yaleB15	473	yaleB26	232
+yaleB21	339	yaleB24	332
+yaleB31	285	yaleB33	347
+yaleB28	57	yaleB33	27
+yaleB19	479	131
+yaleB27	55	505
+yaleB37	475	250
+yaleB16	31	17
+yaleB26	544	380
+yaleB20	37	117
+yaleB38	483	506
+yaleB18	138	562
+yaleB22	455	315
+yaleB25	525	127
+yaleB17	203	510
+yaleB11	415	359
+yaleB33	195	234
+yaleB32	545	130
+yaleB23	256	30
+yaleB29	479	227
+yaleB30	105	172
+yaleB24	511	415
+yaleB13	309	347
+yaleB39	453	79
+yaleB35	332	162
+yaleB34	36	111
+yaleB36	334	74
+yaleB12	488	533
+yaleB15	566	2
+yaleB21	447	315
+yaleB31	514	248
+yaleB28	594	307
+yaleB19	583	yaleB11	253
+yaleB27	21	yaleB11	156
+yaleB37	374	yaleB27	111
+yaleB16	579	yaleB28	126
+yaleB26	478	yaleB16	288
+yaleB20	453	yaleB31	398
+yaleB38	426	yaleB13	314
+yaleB18	100	yaleB22	264
+yaleB22	134	yaleB11	578
+yaleB25	544	yaleB18	430
+yaleB17	223	yaleB27	86
+yaleB11	210	yaleB32	252
+yaleB33	453	yaleB16	315
+yaleB32	224	yaleB27	138
+yaleB23	499	yaleB13	337
+yaleB29	566	yaleB39	522
+yaleB30	455	yaleB17	557
+yaleB24	518	yaleB28	44
+yaleB13	183	yaleB37	3
+yaleB39	122	yaleB24	64
+yaleB35	318	yaleB11	37
+yaleB34	119	yaleB31	288
+yaleB36	382	yaleB32	441
+yaleB12	540	yaleB38	563
+yaleB15	20	yaleB29	489
+yaleB21	526	yaleB36	32
+yaleB31	310	yaleB11	276
+yaleB28	218	yaleB34	46
+yaleB19	106	199
+yaleB27	323	500
+yaleB37	388	564
+yaleB16	332	572
+yaleB26	588	556
+yaleB20	436	19
+yaleB38	112	175
+yaleB18	29	389
+yaleB22	438	351
+yaleB25	186	102
+yaleB17	401	422
+yaleB11	357	485
+yaleB33	529	328
+yaleB32	159	72
+yaleB23	355	74
+yaleB29	163	544
+yaleB30	134	277
+yaleB24	303	325
+yaleB13	290	461
+yaleB39	107	202
+yaleB35	586	236
+yaleB34	192	394
+yaleB36	61	294
+yaleB12	91	276
+yaleB15	117	561
+yaleB21	373	36
+yaleB31	393	186
+yaleB28	443	594
+yaleB19	235	yaleB13	59
+yaleB27	180	yaleB13	61
+yaleB37	119	yaleB22	216
+yaleB16	163	yaleB31	252
+yaleB26	402	yaleB38	90
+yaleB20	362	yaleB35	328
+yaleB38	230	yaleB22	386
+yaleB18	321	yaleB21	181
+yaleB22	248	yaleB33	324
+yaleB25	12	yaleB12	24
+yaleB17	272	yaleB32	346
+yaleB11	522	yaleB37	304
+yaleB33	175	yaleB22	497
+yaleB32	233	yaleB36	449
+yaleB23	218	yaleB28	374
+yaleB29	123	yaleB34	534
+yaleB30	110	yaleB35	181
+yaleB24	510	yaleB28	569
+yaleB13	480	yaleB33	462
+yaleB39	28	yaleB31	150
+yaleB35	348	yaleB24	208
+yaleB34	104	yaleB31	445
+yaleB36	178	yaleB12	429
+yaleB12	330	yaleB22	22
+yaleB15	122	yaleB26	507
+yaleB21	267	yaleB35	91
+yaleB31	318	yaleB27	292
+yaleB28	258	yaleB22	201
+yaleB19	27	407
+yaleB27	411	142
+yaleB37	283	87
+yaleB16	325	120
+yaleB26	162	185
+yaleB20	330	117
+yaleB38	252	491
+yaleB18	529	441
+yaleB22	277	341
+yaleB25	304	158
+yaleB17	309	210
+yaleB11	65	535
+yaleB33	176	190
+yaleB32	439	331
+yaleB23	568	538
+yaleB29	128	339
+yaleB30	303	162
+yaleB24	221	588
+yaleB13	296	3
+yaleB39	450	582
+yaleB35	53	489
+yaleB34	572	56
+yaleB36	456	271
+yaleB12	551	382
+yaleB15	244	5
+yaleB21	400	451
+yaleB31	517	74
+yaleB28	383	29
+yaleB19	38	yaleB20	156
+yaleB27	393	yaleB20	565
+yaleB37	220	yaleB19	251
+yaleB16	369	yaleB17	367
+yaleB26	450	yaleB19	270
+yaleB20	70	yaleB35	174
+yaleB38	477	yaleB32	350
+yaleB18	311	yaleB29	567
+yaleB22	532	yaleB17	365
+yaleB25	582	yaleB13	2
+yaleB17	157	yaleB15	192
+yaleB11	570	yaleB13	413
+yaleB33	315	yaleB11	187
+yaleB32	39	yaleB23	239
+yaleB23	376	yaleB25	504
+yaleB29	555	yaleB30	147
+yaleB30	397	yaleB33	471
+yaleB24	330	yaleB18	267
+yaleB13	86	yaleB16	186
+yaleB39	292	yaleB24	590
+yaleB35	455	yaleB16	131
+yaleB34	366	yaleB33	583
+yaleB36	376	yaleB27	392
+yaleB12	543	yaleB19	538
+yaleB15	118	yaleB20	268
+yaleB21	352	yaleB20	540
+yaleB31	462	yaleB20	403
+yaleB28	277	yaleB31	242
+yaleB19	48	367
+yaleB27	157	141
+yaleB37	369	246
+yaleB16	129	262
+yaleB26	561	546
+yaleB20	553	592
+yaleB38	68	2
+yaleB18	418	399
+yaleB22	539	375
+yaleB25	158	455
+yaleB17	590	12
+yaleB11	349	141
+yaleB33	488	398
+yaleB32	397	81
+yaleB23	331	377
+yaleB29	90	497
+yaleB30	24	139
+yaleB24	481	13
+yaleB13	444	349
+yaleB39	73	439
+yaleB35	416	328
+yaleB34	241	444
+yaleB36	314	288
+yaleB12	521	393
+yaleB15	149	489
+yaleB21	317	74
+yaleB31	369	592
+yaleB28	167	365
+yaleB19	586	yaleB39	27
+yaleB27	137	yaleB22	384
+yaleB37	253	yaleB11	60
+yaleB16	5	yaleB38	288
+yaleB26	550	yaleB17	36
+yaleB20	84	yaleB33	415
+yaleB38	432	yaleB33	381
+yaleB18	571	yaleB21	494
+yaleB22	553	yaleB37	67
+yaleB25	104	yaleB28	108
+yaleB17	34	yaleB26	195
+yaleB11	269	yaleB18	317
+yaleB33	76	yaleB35	282
+yaleB32	194	yaleB35	135
+yaleB23	206	yaleB29	397
+yaleB29	539	yaleB27	165
+yaleB30	281	yaleB29	359
+yaleB24	591	yaleB13	233
+yaleB13	29	yaleB32	475
+yaleB39	279	yaleB30	189
+yaleB35	511	yaleB30	186
+yaleB34	431	yaleB13	291
+yaleB36	13	yaleB16	553
+yaleB12	370	yaleB29	354
+yaleB15	446	yaleB23	135
+yaleB21	281	yaleB27	83
+yaleB31	303	yaleB33	37
+yaleB28	174	yaleB33	81
+yaleB19	176	487
+yaleB27	546	299
+yaleB37	507	413
+yaleB16	323	231
+yaleB26	53	15
+yaleB20	303	156
+yaleB38	351	120
+yaleB18	50	418
+yaleB22	298	540
+yaleB25	134	299
+yaleB17	246	80
+yaleB11	576	96
+yaleB33	213	253
+yaleB32	181	165
+yaleB23	247	392
+yaleB29	248	15
+yaleB30	176	104
+yaleB24	444	72
+yaleB13	49	529
+yaleB39	547	63
+yaleB35	276	102
+yaleB34	60	127
+yaleB36	340	200
+yaleB12	563	101
+yaleB15	535	233
+yaleB21	88	1
+yaleB31	231	512
+yaleB28	52	109
+yaleB19	38	yaleB16	207
+yaleB27	199	yaleB28	186
+yaleB37	273	yaleB39	549
+yaleB16	557	yaleB18	215
+yaleB26	136	yaleB31	181
+yaleB20	568	yaleB26	338
+yaleB38	578	yaleB15	520
+yaleB18	6	yaleB34	243
+yaleB22	115	yaleB26	553
+yaleB25	229	yaleB32	406
+yaleB17	20	yaleB31	562
+yaleB11	329	yaleB16	563
+yaleB33	551	yaleB24	587
+yaleB32	309	yaleB30	412
+yaleB23	414	yaleB38	310
+yaleB29	495	yaleB21	280
+yaleB30	362	yaleB22	399
+yaleB24	54	yaleB16	162
+yaleB13	522	yaleB23	261
+yaleB39	263	yaleB15	515
+yaleB35	37	yaleB36	355
+yaleB34	149	yaleB19	394
+yaleB36	208	yaleB12	427
+yaleB12	60	yaleB16	466
+yaleB15	341	yaleB29	315
+yaleB21	364	yaleB31	32
+yaleB31	125	yaleB20	560
+yaleB28	220	yaleB15	24
+yaleB19	493	290
+yaleB27	591	541
+yaleB37	81	335
+yaleB16	167	442
+yaleB26	439	524
+yaleB20	148	489
+yaleB38	431	25
+yaleB18	544	66
+yaleB22	321	330
+yaleB25	557	214
+yaleB17	238	319
+yaleB11	42	244
+yaleB33	394	538
+yaleB32	96	361
+yaleB23	128	591
+yaleB29	402	86
+yaleB30	354	69
+yaleB24	502	197
+yaleB13	523	424
+yaleB39	44	203
+yaleB35	93	420
+yaleB34	240	101
+yaleB36	99	409
+yaleB12	553	61
+yaleB15	341	361
+yaleB21	272	328
+yaleB31	558	423
+yaleB28	58	147
+yaleB19	385	yaleB23	435
+yaleB27	287	yaleB26	541
+yaleB37	125	yaleB22	164
+yaleB16	421	yaleB21	25
+yaleB26	477	yaleB39	232
+yaleB20	501	yaleB28	353
+yaleB38	89	yaleB39	450
+yaleB18	62	yaleB22	191
+yaleB22	66	yaleB32	315
+yaleB25	390	yaleB22	314
+yaleB17	354	yaleB20	516
+yaleB11	366	yaleB20	122
+yaleB33	368	yaleB35	234
+yaleB32	137	yaleB33	587
+yaleB23	178	yaleB37	77
+yaleB29	37	yaleB13	584
+yaleB30	528	yaleB24	218
+yaleB24	142	yaleB19	440
+yaleB13	463	yaleB32	451
+yaleB39	481	yaleB37	466
+yaleB35	27	yaleB11	403
+yaleB34	548	yaleB23	238
+yaleB36	74	yaleB31	484
+yaleB12	370	yaleB28	483
+yaleB15	153	yaleB38	199
+yaleB21	65	yaleB26	108
+yaleB31	517	yaleB33	344
+yaleB28	471	yaleB15	348
+yaleB19	159	323
+yaleB27	398	348
+yaleB37	44	493
+yaleB16	348	61
+yaleB26	35	228
+yaleB20	430	453
+yaleB38	576	348
+yaleB18	166	219
+yaleB22	301	367
+yaleB25	76	502
+yaleB17	193	232
+yaleB11	178	96
+yaleB33	370	556
+yaleB32	256	59
+yaleB23	23	74
+yaleB29	411	214
+yaleB30	62	589
+yaleB24	589	153
+yaleB13	409	46
+yaleB39	141	474
+yaleB35	525	98
+yaleB34	147	490
+yaleB36	200	505
+yaleB12	44	484
+yaleB15	197	517
+yaleB21	162	340
+yaleB31	299	284
+yaleB28	531	85
+yaleB19	254	yaleB16	178
+yaleB27	299	yaleB29	497
+yaleB37	524	yaleB21	175
+yaleB16	93	yaleB30	396
+yaleB26	58	yaleB24	338
+yaleB20	153	yaleB19	228
+yaleB38	138	yaleB18	303
+yaleB18	173	yaleB32	185
+yaleB22	518	yaleB18	126
+yaleB25	384	yaleB17	327
+yaleB17	541	yaleB25	208
+yaleB11	94	yaleB25	559
+yaleB33	580	yaleB16	229
+yaleB32	211	yaleB19	163
+yaleB23	188	yaleB29	593
+yaleB29	433	yaleB28	154
+yaleB30	85	yaleB13	258
+yaleB24	53	yaleB28	430
+yaleB13	562	yaleB31	14
+yaleB39	61	yaleB19	277
+yaleB35	530	yaleB13	18
+yaleB34	431	yaleB36	77
+yaleB36	196	yaleB31	198
+yaleB12	136	yaleB23	228
+yaleB15	443	yaleB17	331
+yaleB21	310	yaleB22	236
+yaleB31	44	yaleB35	215
+yaleB28	321	yaleB30	232
+yaleB19	200	568
+yaleB27	39	114
+yaleB37	285	16
+yaleB16	270	271
+yaleB26	468	192
+yaleB20	70	292
+yaleB38	501	75
+yaleB18	564	428
+yaleB22	22	141
+yaleB25	367	372
+yaleB17	155	40
+yaleB11	408	211
+yaleB33	14	508
+yaleB32	384	583
+yaleB23	145	499
+yaleB29	490	261
+yaleB30	428	580
+yaleB24	570	577
+yaleB13	526	266
+yaleB39	16	560
+yaleB35	260	450
+yaleB34	159	435
+yaleB36	271	527
+yaleB12	373	460
+yaleB15	132	240
+yaleB21	419	86
+yaleB31	333	402
+yaleB28	13	129
+yaleB19	473	yaleB30	544
+yaleB27	314	yaleB33	410
+yaleB37	127	yaleB27	578
+yaleB16	35	yaleB21	183
+yaleB26	345	yaleB18	446
+yaleB20	426	yaleB33	363
+yaleB38	534	yaleB31	435
+yaleB18	485	yaleB37	484
+yaleB22	456	yaleB11	277
+yaleB25	148	yaleB26	255
+yaleB17	73	yaleB33	333
+yaleB11	143	yaleB17	332
+yaleB33	413	yaleB27	111
+yaleB32	128	yaleB35	88
+yaleB23	124	yaleB24	363
+yaleB29	433	yaleB18	451
+yaleB30	542	yaleB27	561
+yaleB24	252	yaleB26	483
+yaleB13	100	yaleB38	143
+yaleB39	494	yaleB26	593
+yaleB35	583	yaleB17	55
+yaleB34	572	yaleB37	163
+yaleB36	19	yaleB24	479
+yaleB12	352	yaleB15	324
+yaleB15	430	yaleB21	472
+yaleB21	316	yaleB27	295
+yaleB31	265	yaleB19	281
+yaleB28	244	yaleB19	237
+yaleB19	493	393
+yaleB27	112	377
+yaleB37	562	446
+yaleB16	520	281
+yaleB26	247	300
+yaleB20	422	69
+yaleB38	379	23
+yaleB18	512	297
+yaleB22	587	386
+yaleB25	303	420
+yaleB17	63	39
+yaleB11	430	242
+yaleB33	182	233
+yaleB32	49	120
+yaleB23	484	483
+yaleB29	96	430
+yaleB30	436	383
+yaleB24	473	54
+yaleB13	304	349
+yaleB39	240	285
+yaleB35	132	355
+yaleB34	452	95
+yaleB36	593	400
+yaleB12	485	274
+yaleB15	193	280
+yaleB21	274	277
+yaleB31	357	197
+yaleB28	554	203
+yaleB19	168	yaleB35	82
+yaleB27	209	yaleB31	200
+yaleB37	465	yaleB16	188
+yaleB16	202	yaleB13	521
+yaleB26	364	yaleB28	472
+yaleB20	445	yaleB22	306
+yaleB38	329	yaleB23	164
+yaleB18	316	yaleB23	320
+yaleB22	344	yaleB18	342
+yaleB25	6	yaleB31	591
+yaleB17	463	yaleB26	161
+yaleB11	418	yaleB30	570
+yaleB33	325	yaleB13	150
+yaleB32	375	yaleB19	343
+yaleB23	525	yaleB19	402
+yaleB29	247	yaleB36	11
+yaleB30	392	yaleB11	77
+yaleB24	263	yaleB30	585
+yaleB13	563	yaleB24	172
+yaleB39	569	yaleB21	507
+yaleB35	377	yaleB30	329
+yaleB34	508	yaleB25	260
+yaleB36	564	yaleB39	299
+yaleB12	184	yaleB26	116
+yaleB15	410	yaleB20	188
+yaleB21	357	yaleB37	581
+yaleB31	248	yaleB28	434
+yaleB28	460	yaleB36	147
+yaleB19	137	452
+yaleB27	452	169
+yaleB37	585	490
+yaleB16	358	19
+yaleB26	79	16
+yaleB20	464	133
+yaleB38	375	482
+yaleB18	442	345
+yaleB22	71	176
+yaleB25	140	451
+yaleB17	530	585
+yaleB11	151	338
+yaleB33	19	363
+yaleB32	392	474
+yaleB23	142	462
+yaleB29	308	18
+yaleB30	485	564
+yaleB24	485	165
+yaleB13	250	377
+yaleB39	209	404
+yaleB35	78	407
+yaleB34	370	498
+yaleB36	433	380
+yaleB12	393	84
+yaleB15	90	475
+yaleB21	195	18
+yaleB31	83	277
+yaleB28	20	531
+yaleB19	148	yaleB11	27
+yaleB27	256	yaleB36	456
+yaleB37	162	yaleB31	125
+yaleB16	453	yaleB24	537
+yaleB26	106	yaleB16	133
+yaleB20	117	yaleB30	108
+yaleB38	32	yaleB26	51
+yaleB18	168	yaleB16	490
+yaleB22	156	yaleB17	429
+yaleB25	29	yaleB39	50
+yaleB17	323	yaleB38	192
+yaleB11	401	yaleB15	471
+yaleB33	585	yaleB11	72
+yaleB32	292	yaleB18	228
+yaleB23	499	yaleB17	412
+yaleB29	297	yaleB36	233
+yaleB30	241	yaleB27	375
+yaleB24	68	yaleB19	527
+yaleB13	527	yaleB33	519
+yaleB39	487	yaleB13	69
+yaleB35	254	yaleB37	437
+yaleB34	490	yaleB32	317
+yaleB36	228	yaleB29	391
+yaleB12	243	yaleB30	126
+yaleB15	152	yaleB11	228
+yaleB21	331	yaleB31	295
+yaleB31	521	yaleB29	43
+yaleB28	50	yaleB11	20
+yaleB19	530	98
+yaleB27	556	573
+yaleB37	24	249
+yaleB16	79	158
+yaleB26	335	348
+yaleB20	589	491
+yaleB38	507	491
+yaleB18	312	523
+yaleB22	7	419
+yaleB25	51	183
+yaleB17	39	10
+yaleB11	273	521
+yaleB33	384	94
+yaleB32	231	179
+yaleB23	83	394
+yaleB29	465	273
+yaleB30	389	254
+yaleB24	238	302
+yaleB13	155	159
+yaleB39	4	560
+yaleB35	517	442
+yaleB34	75	72
+yaleB36	127	541
+yaleB12	445	44
+yaleB15	117	137
+yaleB21	268	444
+yaleB31	399	129
+yaleB28	185	248
+yaleB19	515	yaleB16	86
+yaleB27	122	yaleB24	355
+yaleB37	490	yaleB17	71
+yaleB16	6	yaleB18	364
+yaleB26	110	yaleB11	518
+yaleB20	218	yaleB15	132
+yaleB38	593	yaleB28	56
+yaleB18	565	yaleB30	512
+yaleB22	308	yaleB27	492
+yaleB25	273	yaleB32	354
+yaleB17	546	yaleB36	41
+yaleB11	89	yaleB20	14
+yaleB33	567	yaleB19	77
+yaleB32	335	yaleB31	51
+yaleB23	77	yaleB27	364
+yaleB29	295	yaleB11	143
+yaleB30	146	yaleB20	218
+yaleB24	408	yaleB27	21
+yaleB13	480	yaleB27	168
+yaleB39	511	yaleB13	77
+yaleB35	401	yaleB33	575
+yaleB34	549	yaleB19	80
+yaleB36	360	yaleB16	201
+yaleB12	52	yaleB17	385
+yaleB15	538	yaleB32	276
+yaleB21	551	yaleB15	121
+yaleB31	222	yaleB27	36
+yaleB28	522	yaleB24	380
+yaleB19	576	138
+yaleB27	131	290
+yaleB37	585	586
+yaleB16	327	200
+yaleB26	248	105
+yaleB20	3	23
+yaleB38	462	219
+yaleB18	52	293
+yaleB22	536	569
+yaleB25	304	88
+yaleB17	501	403
+yaleB11	369	132
+yaleB33	568	42
+yaleB32	247	577
+yaleB23	465	213
+yaleB29	468	586
+yaleB30	514	142
+yaleB24	477	118
+yaleB13	174	318
+yaleB39	15	538
+yaleB35	54	234
+yaleB34	574	484
+yaleB36	232	236
+yaleB12	409	173
+yaleB15	366	237
+yaleB21	130	351
+yaleB31	324	292
+yaleB28	307	415
+yaleB19	144	yaleB11	19
+yaleB27	378	yaleB33	124
+yaleB37	392	yaleB26	341
+yaleB16	119	yaleB25	432
+yaleB26	424	yaleB24	13
+yaleB20	19	yaleB25	271
+yaleB38	136	yaleB22	207
+yaleB18	498	yaleB36	376
+yaleB22	135	yaleB28	374
+yaleB25	525	yaleB23	343
+yaleB17	542	yaleB36	7
+yaleB11	11	yaleB18	485
+yaleB33	111	yaleB26	553
+yaleB32	231	yaleB35	85
+yaleB23	411	yaleB17	389
+yaleB29	589	yaleB30	59
+yaleB30	360	yaleB36	464
+yaleB24	363	yaleB28	333
+yaleB13	165	yaleB38	57
+yaleB39	76	yaleB11	153
+yaleB35	68	yaleB16	548
+yaleB34	506	yaleB25	485
+yaleB36	306	yaleB22	128
+yaleB12	475	yaleB32	492
+yaleB15	43	yaleB36	531
+yaleB21	228	yaleB33	284
+yaleB31	496	yaleB20	170
+yaleB28	562	yaleB18	158
+yaleB19	189	583
+yaleB27	444	246
+yaleB37	253	129
+yaleB16	405	465
+yaleB26	17	268
+yaleB20	42	272
+yaleB38	180	297
+yaleB18	375	568
+yaleB22	480	51
+yaleB25	271	154
+yaleB17	58	152
+yaleB11	9	533
+yaleB33	552	48
+yaleB32	536	29
+yaleB23	115	20
+yaleB29	484	380
+yaleB30	74	3
+yaleB24	86	410
+yaleB13	256	48
+yaleB39	512	328
+yaleB35	388	9
+yaleB34	505	290
+yaleB36	314	166
+yaleB12	87	416
+yaleB15	159	121
+yaleB21	2	571
+yaleB31	398	111
+yaleB28	61	463
+yaleB19	125	yaleB26	392
+yaleB27	170	yaleB13	5
+yaleB37	446	yaleB15	202
+yaleB16	520	yaleB25	129
+yaleB26	343	yaleB27	212
+yaleB20	559	yaleB19	94
+yaleB38	241	yaleB23	354
+yaleB18	276	yaleB37	357
+yaleB22	66	yaleB18	302
+yaleB25	366	yaleB31	475
+yaleB17	581	yaleB34	106
+yaleB11	54	yaleB16	98
+yaleB33	218	yaleB17	237
+yaleB32	549	yaleB23	299
+yaleB23	204	yaleB25	473
+yaleB29	31	yaleB20	312
+yaleB30	12	yaleB22	43
+yaleB24	278	yaleB37	70
+yaleB13	6	yaleB38	290
+yaleB39	310	yaleB20	524
+yaleB35	450	yaleB25	335
+yaleB34	298	yaleB23	137
+yaleB36	499	yaleB35	435
+yaleB12	407	yaleB37	492
+yaleB15	223	yaleB12	504
+yaleB21	373	yaleB28	39
+yaleB31	216	yaleB39	354
+yaleB28	256	yaleB36	57
+yaleB19	416	274
+yaleB27	54	321
+yaleB37	169	22
+yaleB16	434	298
+yaleB26	48	51
+yaleB20	276	300
+yaleB38	164	432
+yaleB18	240	270
+yaleB22	251	6
+yaleB25	192	26
+yaleB17	163	410
+yaleB11	188	311
+yaleB33	514	299
+yaleB32	51	159
+yaleB23	134	578
+yaleB29	252	439
+yaleB30	494	559
+yaleB24	222	89
+yaleB13	50	49
+yaleB39	264	576
+yaleB35	38	349
+yaleB34	534	65
+yaleB36	282	334
+yaleB12	151	136
+yaleB15	516	461
+yaleB21	93	119
+yaleB31	372	317
+yaleB28	357	438
+yaleB19	529	yaleB22	459
+yaleB27	269	yaleB37	69
+yaleB37	577	yaleB18	520
+yaleB16	252	yaleB31	314
+yaleB26	400	yaleB29	305
+yaleB20	431	yaleB13	10
+yaleB38	360	yaleB32	196
+yaleB18	365	yaleB21	569
+yaleB22	577	yaleB24	179
+yaleB25	594	yaleB16	145
+yaleB17	441	yaleB34	325
+yaleB11	355	yaleB35	106
+yaleB33	311	yaleB11	170
+yaleB32	590	yaleB24	231
+yaleB23	35	yaleB18	484
+yaleB29	217	yaleB34	538
+yaleB30	312	yaleB21	441
+yaleB24	109	yaleB33	210
+yaleB13	152	yaleB26	487
+yaleB39	532	yaleB24	53
+yaleB35	310	yaleB31	252
+yaleB34	269	yaleB15	559
+yaleB36	64	yaleB38	314
+yaleB12	400	yaleB24	359
+yaleB15	264	yaleB33	371
+yaleB21	391	yaleB29	19
+yaleB31	211	yaleB26	154
+yaleB28	332	yaleB24	190
+yaleB19	43	169
+yaleB27	282	569
+yaleB37	568	397
+yaleB16	94	182
+yaleB26	16	450
+yaleB20	448	74
+yaleB38	294	592
+yaleB18	335	21
+yaleB22	97	505
+yaleB25	461	210
+yaleB17	572	415
+yaleB11	190	291
+yaleB33	570	514
+yaleB32	398	470
+yaleB23	580	583
+yaleB29	465	158
+yaleB30	272	518
+yaleB24	239	464
+yaleB13	86	32
+yaleB39	152	501
+yaleB35	85	189
+yaleB34	120	229
+yaleB36	208	218
+yaleB12	544	295
+yaleB15	327	376
+yaleB21	499	31
+yaleB31	396	513
+yaleB28	125	59
+yaleB19	143	yaleB31	590
+yaleB27	60	yaleB31	203
+yaleB37	54	yaleB19	572
+yaleB16	407	yaleB36	440
+yaleB26	382	yaleB31	325
+yaleB20	190	yaleB15	349
+yaleB38	589	yaleB39	113
+yaleB18	160	yaleB31	559
+yaleB22	55	yaleB16	295
+yaleB25	404	yaleB36	504
+yaleB17	3	yaleB28	398
+yaleB11	242	yaleB21	216
+yaleB33	323	yaleB20	411
+yaleB32	257	yaleB18	31
+yaleB23	261	yaleB13	457
+yaleB29	117	yaleB38	207
+yaleB30	85	yaleB39	198
+yaleB24	206	yaleB16	158
+yaleB13	205	yaleB12	15
+yaleB39	502	yaleB27	516
+yaleB35	501	yaleB36	216
+yaleB34	241	yaleB12	572
+yaleB36	330	yaleB27	392
+yaleB12	245	yaleB38	48
+yaleB15	528	yaleB11	354
+yaleB21	294	yaleB17	191
+yaleB31	356	yaleB34	11
+yaleB28	359	yaleB34	24
+yaleB19	212	585
+yaleB27	494	232
+yaleB37	190	314
+yaleB16	257	35
+yaleB26	326	351
+yaleB20	511	594
+yaleB38	151	43
+yaleB18	360	128
+yaleB22	315	247
+yaleB25	172	132
+yaleB17	408	587
+yaleB11	288	222
+yaleB33	300	93
+yaleB32	394	525
+yaleB23	317	350
+yaleB29	98	526
+yaleB30	130	448
+yaleB24	182	424
+yaleB13	183	529
+yaleB39	132	312
+yaleB35	133	586
+yaleB34	297	347
+yaleB36	6	67
+yaleB12	525	30
+yaleB15	19	540
+yaleB21	68	573
+yaleB31	68	159
+yaleB28	536	101
+yaleB19	15	yaleB39	284
+yaleB27	569	yaleB11	235
+yaleB37	62	yaleB12	529
+yaleB16	551	yaleB28	482
+yaleB26	218	yaleB20	119
+yaleB20	342	yaleB16	385
+yaleB38	522	yaleB25	317
+yaleB18	178	yaleB20	500
+yaleB22	561	yaleB23	254
+yaleB25	328	yaleB20	192
+yaleB17	131	yaleB28	340
+yaleB11	46	yaleB13	158
+yaleB33	16	yaleB28	427
+yaleB32	438	yaleB29	513
+yaleB23	526	yaleB13	91
+yaleB29	150	yaleB20	186
+yaleB30	462	yaleB18	328
+yaleB24	311	yaleB23	505
+yaleB13	521	yaleB39	315
+yaleB39	477	yaleB36	198
+yaleB35	134	yaleB31	114
+yaleB34	516	yaleB25	582
+yaleB36	565	yaleB29	593
+yaleB12	162	yaleB15	440
+yaleB15	79	yaleB11	567
+yaleB21	376	yaleB29	428
+yaleB31	9	yaleB22	487
+yaleB28	581	yaleB22	301
+yaleB19	323	108
+yaleB27	422	557
+yaleB37	135	295
+yaleB16	132	38
+yaleB26	437	366
+yaleB20	160	15
+yaleB38	413	412
+yaleB18	519	88
+yaleB22	507	221
+yaleB25	399	84
+yaleB17	367	244
+yaleB11	378	67
+yaleB33	301	319
+yaleB32	114	342
+yaleB23	182	419
+yaleB29	567	583
+yaleB30	51	396
+yaleB24	222	385
+yaleB13	392	353
+yaleB39	497	448
+yaleB35	133	158
+yaleB34	290	361
+yaleB36	250	174
+yaleB12	54	343
+yaleB15	382	122
+yaleB21	577	589
+yaleB31	533	275
+yaleB28	282	105
+yaleB19	246	yaleB36	191
+yaleB27	282	yaleB30	531
+yaleB37	237	yaleB32	189
+yaleB16	181	yaleB29	401
+yaleB26	97	yaleB15	349
+yaleB20	391	yaleB34	460
+yaleB38	305	yaleB25	245
+yaleB18	463	yaleB24	297
+yaleB22	160	yaleB24	299
+yaleB25	105	yaleB16	566
+yaleB17	366	yaleB37	465
+yaleB11	285	yaleB23	411
+yaleB33	158	yaleB25	363
+yaleB32	317	yaleB15	581
+yaleB23	200	yaleB35	69
+yaleB29	94	yaleB25	1
+yaleB30	314	yaleB29	33
+yaleB24	156	yaleB35	79
+yaleB13	87	yaleB39	148
+yaleB39	539	yaleB36	480
+yaleB35	517	yaleB21	552
+yaleB34	284	yaleB33	48
+yaleB36	357	yaleB27	31
+yaleB12	154	yaleB22	83
+yaleB15	129	yaleB35	482
+yaleB21	377	yaleB39	86
+yaleB31	111	yaleB23	353
+yaleB28	235	yaleB20	65
+yaleB19	22	344
+yaleB27	576	131
+yaleB37	374	382
+yaleB16	252	258
+yaleB26	356	584
+yaleB20	187	273
+yaleB38	492	210
+yaleB18	172	151
+yaleB22	344	479
+yaleB25	341	300
+yaleB17	62	306
+yaleB11	43	117
+yaleB33	253	185
+yaleB32	58	500
+yaleB23	131	411
+yaleB29	546	577
+yaleB30	256	280
+yaleB24	383	82
+yaleB13	58	388
+yaleB39	44	121
+yaleB35	189	51
+yaleB34	15	303
+yaleB36	389	118
+yaleB12	276	314
+yaleB15	347	41
+yaleB21	345	198
+yaleB31	398	484
+yaleB28	514	529
+yaleB19	204	yaleB36	33
+yaleB27	490	yaleB29	67
+yaleB37	290	yaleB13	173
+yaleB16	420	yaleB23	17
+yaleB26	167	yaleB21	38
+yaleB20	64	yaleB13	118
+yaleB38	238	yaleB27	53
+yaleB18	214	yaleB19	73
+yaleB22	456	yaleB28	247
+yaleB25	31	yaleB30	128
+yaleB17	366	yaleB24	288
+yaleB11	549	yaleB12	152
+yaleB33	302	yaleB35	229
+yaleB32	560	yaleB15	220
+yaleB23	523	yaleB16	409
+yaleB29	113	yaleB16	169
+yaleB30	451	yaleB39	445
+yaleB24	403	yaleB17	451
+yaleB13	211	yaleB30	559
+yaleB39	7	yaleB20	40
+yaleB35	190	yaleB36	226
+yaleB34	469	yaleB26	446
+yaleB36	578	yaleB26	127
+yaleB12	442	yaleB29	169
+yaleB15	183	yaleB18	3
+yaleB21	370	yaleB34	362
+yaleB31	525	yaleB18	131
+yaleB28	450	yaleB25	544
+yaleB19	109	47
+yaleB27	127	522
+yaleB37	208	540
+yaleB16	172	289
+yaleB26	439	47
+yaleB20	571	216
+yaleB38	244	123
+yaleB18	292	158
+yaleB22	413	564
+yaleB25	332	237
+yaleB17	398	384
+yaleB11	272	30
+yaleB33	39	592
+yaleB32	585	93
+yaleB23	81	216
+yaleB29	276	371
+yaleB30	354	40
+yaleB24	165	529
+yaleB13	86	522
+yaleB39	68	561
+yaleB35	230	381
+yaleB34	467	585
+yaleB36	369	330
+yaleB12	276	61
+yaleB15	116	238
+yaleB21	368	182
+yaleB31	175	218
+yaleB28	1	290
+yaleB19	49	yaleB31	18
+yaleB27	416	yaleB16	412
+yaleB37	388	yaleB27	495
+yaleB16	276	yaleB26	585
+yaleB26	584	yaleB24	459
+yaleB20	455	yaleB22	558
+yaleB38	451	yaleB20	427
+yaleB18	30	yaleB12	541
+yaleB22	418	yaleB38	340
+yaleB25	535	yaleB20	295
+yaleB17	532	yaleB29	264
+yaleB11	199	yaleB31	472
+yaleB33	516	yaleB24	53
+yaleB32	193	yaleB13	288
+yaleB23	568	yaleB38	490
+yaleB29	19	yaleB26	50
+yaleB30	476	yaleB33	218
+yaleB24	156	yaleB21	161
+yaleB13	168	yaleB31	512
+yaleB39	113	yaleB22	192
+yaleB35	404	yaleB39	419
+yaleB34	256	yaleB35	249
+yaleB36	229	yaleB17	27
+yaleB12	342	yaleB39	4
+yaleB15	499	yaleB26	99
+yaleB21	512	yaleB29	591
+yaleB31	69	yaleB37	180
+yaleB28	157	yaleB29	183
+yaleB19	283	592
+yaleB27	372	282
+yaleB37	394	163
+yaleB16	495	466
+yaleB26	152	507
+yaleB20	490	375
+yaleB38	58	494
+yaleB18	405	384
+yaleB22	143	392
+yaleB25	85	239
+yaleB17	277	415
+yaleB11	220	339
+yaleB33	388	474
+yaleB32	375	4
+yaleB23	557	1
+yaleB29	352	551
+yaleB30	480	163
+yaleB24	153	138
+yaleB13	210	2
+yaleB39	44	360
+yaleB35	421	121
+yaleB34	449	586
+yaleB36	391	375
+yaleB12	147	209
+yaleB15	582	391
+yaleB21	39	539
+yaleB31	335	332
+yaleB28	77	355
+yaleB19	571	yaleB27	422
+yaleB27	310	yaleB23	214
+yaleB37	387	yaleB28	235
+yaleB16	555	yaleB21	315
+yaleB26	194	yaleB25	171
+yaleB20	573	yaleB29	504
+yaleB38	470	yaleB20	579
+yaleB18	584	yaleB36	208
+yaleB22	169	yaleB20	11
+yaleB25	2	yaleB31	295
+yaleB17	186	yaleB31	47
+yaleB11	262	yaleB12	84
+yaleB33	215	yaleB34	217
+yaleB32	76	yaleB11	288
+yaleB23	376	yaleB37	67
+yaleB29	300	yaleB25	158
+yaleB30	315	yaleB29	315
+yaleB24	110	yaleB18	572
+yaleB13	62	yaleB19	359
+yaleB39	405	yaleB30	83
+yaleB35	288	yaleB26	362
+yaleB34	175	yaleB26	330
+yaleB36	157	yaleB21	31
+yaleB12	255	yaleB31	165
+yaleB15	576	yaleB22	267
+yaleB21	175	yaleB30	474
+yaleB31	356	yaleB38	285
+yaleB28	439	yaleB19	309
+yaleB19	230	292
+yaleB27	71	22
+yaleB37	107	254
+yaleB16	335	382
+yaleB26	373	541
+yaleB20	280	48
+yaleB38	324	328
+yaleB18	32	299
+yaleB22	305	258
+yaleB25	267	403
+yaleB17	584	29
+yaleB11	171	323
+yaleB33	548	355
+yaleB32	253	574
+yaleB23	396	365
+yaleB29	60	82
+yaleB30	74	250
+yaleB24	460	295
+yaleB13	200	577
+yaleB39	536	452
+yaleB35	422	387
+yaleB34	492	84
+yaleB36	223	589
+yaleB12	254	520
+yaleB15	23	518
+yaleB21	513	355
+yaleB31	120	345
+yaleB28	331	57
+yaleB19	224	yaleB15	78
+yaleB27	76	yaleB29	401
+yaleB37	156	yaleB11	272
+yaleB16	31	yaleB35	288
+yaleB26	494	yaleB32	92
+yaleB20	139	yaleB18	175
+yaleB38	475	yaleB32	287
+yaleB18	210	yaleB35	160
+yaleB22	502	yaleB28	464
+yaleB25	278	yaleB36	581
+yaleB17	528	yaleB12	75
+yaleB11	117	yaleB37	128
+yaleB33	541	yaleB36	390
+yaleB32	49	yaleB12	516
+yaleB23	229	yaleB33	504
+yaleB29	287	yaleB13	375
+yaleB30	20	yaleB18	279
+yaleB24	271	yaleB11	458
+yaleB13	103	yaleB38	558
+yaleB39	236	yaleB38	436
+yaleB35	552	yaleB28	270
+yaleB34	38	yaleB13	373
+yaleB36	317	yaleB17	492
+yaleB12	202	yaleB18	197
+yaleB15	110	yaleB32	112
+yaleB21	89	yaleB32	470
+yaleB31	212	yaleB19	272
+yaleB28	403	yaleB20	119
+yaleB19	242	151
+yaleB27	459	318
+yaleB37	581	77
+yaleB16	123	138
+yaleB26	173	229
+yaleB20	265	424
+yaleB38	524	561
+yaleB18	55	236
+yaleB22	322	292
+yaleB25	276	46
+yaleB17	147	53
+yaleB11	373	577
+yaleB33	398	39
+yaleB32	287	467
+yaleB23	167	188
+yaleB29	416	128
+yaleB30	140	102
+yaleB24	272	320
+yaleB13	266	583
+yaleB39	110	139
+yaleB35	338	28
+yaleB34	112	221
+yaleB36	30	410
+yaleB12	513	184
+yaleB15	258	287
+yaleB21	166	338
+yaleB31	485	28
+yaleB28	7	331
+yaleB19	526	yaleB22	537
+yaleB27	328	yaleB36	106
+yaleB37	446	yaleB34	176
+yaleB16	122	yaleB12	212
+yaleB26	428	yaleB15	42
+yaleB20	99	yaleB28	552
+yaleB38	2	yaleB19	402
+yaleB18	359	yaleB34	508
+yaleB22	553	yaleB12	204
+yaleB25	468	yaleB28	242
+yaleB17	204	yaleB11	544
+yaleB11	185	yaleB38	129
+yaleB33	435	yaleB24	430
+yaleB32	407	yaleB21	285
+yaleB23	299	yaleB37	249
+yaleB29	418	yaleB30	281
+yaleB30	285	yaleB29	56
+yaleB24	48	yaleB16	174
+yaleB13	264	yaleB33	532
+yaleB39	184	yaleB34	246
+yaleB35	498	yaleB32	319
+yaleB34	542	yaleB38	57
+yaleB36	430	yaleB34	206
+yaleB12	253	yaleB13	168
+yaleB15	123	yaleB33	266
+yaleB21	150	yaleB19	20
+yaleB31	389	yaleB21	363
+yaleB28	228	yaleB39	330
+yaleB19	459	209
+yaleB27	310	304
+yaleB37	513	252
+yaleB16	126	490
+yaleB26	121	244
+yaleB20	338	578
+yaleB38	43	439
+yaleB18	451	306
+yaleB22	354	70
+yaleB25	141	310
+yaleB17	387	575
+yaleB11	392	112
+yaleB33	532	270
+yaleB32	581	191
+yaleB23	208	76
+yaleB29	298	518
+yaleB30	566	336
+yaleB24	367	13
+yaleB13	494	111
+yaleB39	459	189
+yaleB35	434	355
+yaleB34	319	484
+yaleB36	67	242
+yaleB12	309	520
+yaleB15	41	99
+yaleB21	110	440
+yaleB31	318	303
+yaleB28	554	230
+yaleB19	227	yaleB30	423
+yaleB27	475	yaleB28	149
+yaleB37	225	yaleB30	527
+yaleB16	554	yaleB15	227
+yaleB26	239	yaleB24	583
+yaleB20	154	yaleB26	43
+yaleB38	34	yaleB32	567
+yaleB18	533	yaleB12	184
+yaleB22	190	yaleB31	570
+yaleB25	557	yaleB26	426
+yaleB17	189	yaleB38	439
+yaleB11	441	yaleB28	526
+yaleB33	102	yaleB22	92
+yaleB32	470	yaleB11	61
+yaleB23	353	yaleB37	264
+yaleB29	319	yaleB31	314
+yaleB30	430	yaleB22	327
+yaleB24	414	yaleB22	21
+yaleB13	405	yaleB31	157
+yaleB39	352	yaleB26	244
+yaleB35	499	yaleB39	21
+yaleB34	19	yaleB12	281
+yaleB36	35	yaleB38	224
+yaleB12	214	yaleB36	570
+yaleB15	49	yaleB19	466
+yaleB21	295	yaleB17	248
+yaleB31	36	yaleB25	210
+yaleB28	331	yaleB27	247
+yaleB19	35	450
+yaleB27	264	403
+yaleB37	352	14
+yaleB16	288	100
+yaleB26	84	530
+yaleB20	94	304
+yaleB38	35	25
+yaleB18	451	59
+yaleB22	7	363
+yaleB25	564	437
+yaleB17	111	588
+yaleB11	581	364
+yaleB33	522	182
+yaleB32	515	1
+yaleB23	358	209
+yaleB29	495	553
+yaleB30	56	200
+yaleB24	225	425
+yaleB13	252	61
+yaleB39	404	155
+yaleB35	58	257
+yaleB34	358	64
+yaleB36	577	104
+yaleB12	576	96
+yaleB15	571	277
+yaleB21	53	55
+yaleB31	381	430
+yaleB28	375	176
+yaleB19	173	yaleB15	136
+yaleB27	181	yaleB21	368
+yaleB37	322	yaleB26	47
+yaleB16	432	yaleB18	197
+yaleB26	480	yaleB12	518
+yaleB20	508	yaleB17	319
+yaleB38	55	yaleB37	264
+yaleB18	339	yaleB27	96
+yaleB22	45	yaleB39	553
+yaleB25	223	yaleB23	113
+yaleB17	169	yaleB21	459
+yaleB11	268	yaleB18	410
+yaleB33	137	yaleB27	565
+yaleB32	247	yaleB25	564
+yaleB23	186	yaleB26	223
+yaleB29	337	yaleB24	280
+yaleB30	185	yaleB38	202
+yaleB24	132	yaleB19	355
+yaleB13	469	yaleB34	267
+yaleB39	360	yaleB12	440
+yaleB35	523	yaleB19	398
+yaleB34	162	yaleB38	524
+yaleB36	239	yaleB11	464
+yaleB12	200	yaleB31	473
+yaleB15	196	yaleB13	309
+yaleB21	357	yaleB37	393
+yaleB31	279	yaleB35	62
+yaleB28	121	yaleB11	474
+yaleB19	50	266
+yaleB27	373	289
+yaleB37	102	279
+yaleB16	426	30
+yaleB26	86	359
+yaleB20	529	225
+yaleB38	300	362
+yaleB18	567	175
+yaleB22	94	84
+yaleB25	164	14
+yaleB17	281	291
+yaleB11	464	513
+yaleB33	464	425
+yaleB32	64	148
+yaleB23	51	434
+yaleB29	477	183
+yaleB30	440	122
+yaleB24	543	265
+yaleB13	487	314
+yaleB39	87	357
+yaleB35	140	38
+yaleB34	426	250
+yaleB36	397	166
+yaleB12	344	358
+yaleB15	518	207
+yaleB21	588	49
+yaleB31	467	156
+yaleB28	299	450
+yaleB19	76	yaleB20	479
+yaleB27	301	yaleB26	356
+yaleB37	61	yaleB16	132
+yaleB16	279	yaleB30	65
+yaleB26	566	yaleB37	338
+yaleB20	309	yaleB19	129
+yaleB38	278	yaleB39	310
+yaleB18	152	yaleB37	349
+yaleB22	76	yaleB32	299
+yaleB25	404	yaleB24	374
+yaleB17	591	yaleB24	594
+yaleB11	266	yaleB13	383
+yaleB33	11	yaleB15	476
+yaleB32	567	yaleB34	165
+yaleB23	291	yaleB29	528
+yaleB29	113	yaleB30	490
+yaleB30	340	yaleB16	6
+yaleB24	553	yaleB37	389
+yaleB13	98	yaleB18	429
+yaleB39	51	yaleB12	25
+yaleB35	331	yaleB17	155
+yaleB34	251	yaleB18	82
+yaleB36	510	yaleB11	173
+yaleB12	370	yaleB25	25
+yaleB15	299	yaleB23	99
+yaleB21	435	yaleB22	246
+yaleB31	77	yaleB30	546
+yaleB28	582	yaleB30	415
+yaleB19	556	157
+yaleB27	509	206
+yaleB37	235	68
+yaleB16	426	74
+yaleB26	176	236
+yaleB20	225	85
+yaleB38	593	260
+yaleB18	161	183
+yaleB22	484	532
+yaleB25	139	35
+yaleB17	71	134
+yaleB11	21	535
+yaleB33	413	473
+yaleB32	520	374
+yaleB23	238	338
+yaleB29	78	59
+yaleB30	162	303
+yaleB24	526	153
+yaleB13	315	241
+yaleB39	443	291
+yaleB35	543	344
+yaleB34	140	137
+yaleB36	414	273
+yaleB12	86	559
+yaleB15	31	457
+yaleB21	43	123
+yaleB31	104	333
+yaleB28	326	542
+yaleB19	61	yaleB15	393
+yaleB27	61	yaleB30	390
+yaleB37	532	yaleB26	320
+yaleB16	575	yaleB39	513
+yaleB26	361	yaleB25	500
+yaleB20	323	yaleB18	530
+yaleB38	487	yaleB31	136
+yaleB18	385	yaleB20	65
+yaleB22	243	yaleB35	340
+yaleB25	160	yaleB17	27
+yaleB17	297	yaleB27	325
+yaleB11	517	yaleB23	56
+yaleB33	102	yaleB17	286
+yaleB32	517	yaleB30	440
+yaleB23	179	yaleB21	461
+yaleB29	222	yaleB27	263
+yaleB30	326	yaleB20	375
+yaleB24	222	yaleB20	203
+yaleB13	581	yaleB30	590
+yaleB39	470	yaleB24	381
+yaleB35	82	yaleB16	227
+yaleB34	265	yaleB21	513
+yaleB36	417	yaleB16	437
+yaleB12	236	yaleB34	27
+yaleB15	405	yaleB12	218
+yaleB21	563	yaleB34	564
+yaleB31	280	yaleB33	304
+yaleB28	481	yaleB15	79
+yaleB19	109	70
+yaleB27	343	203
+yaleB37	68	178
+yaleB16	186	103
+yaleB26	13	35
+yaleB20	361	339
+yaleB38	178	387
+yaleB18	274	415
+yaleB22	243	28
+yaleB25	384	357
+yaleB17	243	311
+yaleB11	468	384
+yaleB33	263	239
+yaleB32	462	445
+yaleB23	97	470
+yaleB29	373	390
+yaleB30	86	289
+yaleB24	27	116
+yaleB13	485	403
+yaleB39	386	317
+yaleB35	61	539
+yaleB34	234	209
+yaleB36	80	102
+yaleB12	212	543
+yaleB15	350	141
+yaleB21	89	585
+yaleB31	66	594
+yaleB28	135	216
+yaleB19	354	yaleB27	53
+yaleB27	583	yaleB26	386
+yaleB37	569	yaleB38	528
+yaleB16	490	yaleB21	419
+yaleB26	100	yaleB19	527
+yaleB20	183	yaleB30	593
+yaleB38	351	yaleB15	405
+yaleB18	283	yaleB24	586
+yaleB22	29	yaleB20	232
+yaleB25	526	yaleB37	574
+yaleB17	336	yaleB11	289
+yaleB11	432	yaleB33	76
+yaleB33	250	yaleB39	147
+yaleB32	16	yaleB11	497
+yaleB23	294	yaleB30	19
+yaleB29	164	yaleB13	10
+yaleB30	430	yaleB19	406
+yaleB24	213	yaleB31	339
+yaleB13	452	yaleB26	136
+yaleB39	142	yaleB31	385
+yaleB35	586	yaleB38	540
+yaleB34	175	yaleB26	238
+yaleB36	106	yaleB29	283
+yaleB12	476	yaleB22	129
+yaleB15	492	yaleB31	222
+yaleB21	215	yaleB37	230
+yaleB31	400	yaleB23	279
+yaleB28	222	yaleB16	262
+yaleB19	26	332
+yaleB27	456	41
+yaleB37	507	420
+yaleB16	59	110
+yaleB26	91	346
+yaleB20	23	499
+yaleB38	43	320
+yaleB18	130	150
+yaleB22	387	105
+yaleB25	305	331
+yaleB17	159	241
+yaleB11	559	578
+yaleB33	191	56
+yaleB32	100	451
+yaleB23	514	216
+yaleB29	482	352
+yaleB30	286	372
+yaleB24	303	235
+yaleB13	508	129
+yaleB39	251	240
+yaleB35	404	420
+yaleB34	348	42
+yaleB36	282	125
+yaleB12	397	499
+yaleB15	34	552
+yaleB21	7	37
+yaleB31	327	281
+yaleB28	346	33
+yaleB19	277	yaleB33	419
+yaleB27	287	yaleB29	380
+yaleB37	57	yaleB29	584
+yaleB16	298	yaleB22	240
+yaleB26	26	yaleB25	367
+yaleB20	285	yaleB32	275
+yaleB38	120	yaleB39	226
+yaleB18	232	yaleB17	299
+yaleB22	410	yaleB12	443
+yaleB25	130	yaleB28	560
+yaleB17	162	yaleB36	469
+yaleB11	464	yaleB12	466
+yaleB33	59	yaleB31	161
+yaleB32	214	yaleB21	589
+yaleB23	99	yaleB31	342
+yaleB29	377	yaleB35	109
+yaleB30	234	yaleB13	84
+yaleB24	526	yaleB26	456
+yaleB13	253	yaleB34	166
+yaleB39	78	yaleB32	115
+yaleB35	212	yaleB37	279
+yaleB34	44	yaleB16	275
+yaleB36	2	yaleB33	3
+yaleB12	59	yaleB30	212
+yaleB15	139	yaleB26	326
+yaleB21	467	yaleB39	208
+yaleB31	69	yaleB27	459
+yaleB28	551	yaleB25	366
+yaleB19	192	283
+yaleB27	90	344
+yaleB37	502	91
+yaleB16	421	526
+yaleB26	449	115
+yaleB20	447	124
+yaleB38	213	151
+yaleB18	449	236
+yaleB22	197	293
+yaleB25	594	554
+yaleB17	203	392
+yaleB11	281	381
+yaleB33	591	118
+yaleB32	539	332
+yaleB23	276	303
+yaleB29	37	473
+yaleB30	99	56
+yaleB24	277	286
+yaleB13	374	327
+yaleB39	339	361
+yaleB35	455	62
+yaleB34	477	566
+yaleB36	359	496
+yaleB12	553	442
+yaleB15	168	277
+yaleB21	380	64
+yaleB31	474	210
+yaleB28	383	292
+yaleB19	53	yaleB36	200
+yaleB27	321	yaleB31	200
+yaleB37	224	yaleB11	361
+yaleB16	85	yaleB34	78
+yaleB26	459	yaleB33	370
+yaleB20	585	yaleB39	16
+yaleB38	492	yaleB21	173
+yaleB18	540	yaleB19	72
+yaleB22	390	yaleB16	284
+yaleB25	281	yaleB18	60
+yaleB17	177	yaleB23	1
+yaleB11	87	yaleB18	126
+yaleB33	306	yaleB36	344
+yaleB32	296	yaleB16	33
+yaleB23	173	yaleB28	507
+yaleB29	252	yaleB27	39
+yaleB30	583	yaleB18	20
+yaleB24	58	yaleB20	308
+yaleB13	187	yaleB29	125
+yaleB39	63	yaleB35	240
+yaleB35	556	yaleB16	82
+yaleB34	213	yaleB39	386
+yaleB36	313	yaleB22	452
+yaleB12	86	yaleB19	66
+yaleB15	377	yaleB35	334
+yaleB21	49	yaleB11	479
+yaleB31	121	yaleB39	262
+yaleB28	502	yaleB34	100
+yaleB19	32	366
+yaleB27	425	30
+yaleB37	512	343
+yaleB16	544	264
+yaleB26	155	197
+yaleB20	104	243
+yaleB38	427	80
+yaleB18	363	539
+yaleB22	65	534
+yaleB25	172	549
+yaleB17	347	412
+yaleB11	107	171
+yaleB33	123	521
+yaleB32	312	363
+yaleB23	42	508
+yaleB29	213	520
+yaleB30	438	583
+yaleB24	227	105
+yaleB13	167	215
+yaleB39	576	8
+yaleB35	432	236
+yaleB34	392	316
+yaleB36	263	366
+yaleB12	248	138
+yaleB15	132	8
+yaleB21	421	304
+yaleB31	142	403
+yaleB28	525	270
+yaleB19	208	yaleB34	401
+yaleB27	324	yaleB32	252
+yaleB37	390	yaleB12	181
+yaleB16	491	yaleB36	500
+yaleB26	500	yaleB28	414
+yaleB20	547	yaleB38	365
+yaleB38	159	yaleB39	123
+yaleB18	529	yaleB27	13
+yaleB22	157	yaleB34	88
+yaleB25	310	yaleB27	3
+yaleB17	109	yaleB35	254
+yaleB11	265	yaleB26	7
+yaleB33	210	yaleB36	141
+yaleB32	396	yaleB15	164
+yaleB23	518	yaleB33	522
+yaleB29	277	yaleB19	393
+yaleB30	269	yaleB13	495
+yaleB24	137	yaleB11	399
+yaleB13	545	yaleB15	443
+yaleB39	307	yaleB27	330
+yaleB35	238	yaleB32	133
+yaleB34	242	yaleB30	259
+yaleB36	46	yaleB20	41
+yaleB12	431	yaleB13	339
+yaleB15	130	yaleB12	135
+yaleB21	376	yaleB26	13
+yaleB31	427	yaleB22	37
+yaleB28	104	yaleB25	201
+yaleB19	462	575
+yaleB27	174	526
+yaleB37	303	89
+yaleB16	519	41
+yaleB26	18	469
+yaleB20	144	143
+yaleB38	176	202
+yaleB18	580	542
+yaleB22	288	58
+yaleB25	231	368
+yaleB17	509	39
+yaleB11	37	437
+yaleB33	216	274
+yaleB32	11	417
+yaleB23	575	264
+yaleB29	32	417
+yaleB30	433	470
+yaleB24	570	168
+yaleB13	546	564
+yaleB39	18	336
+yaleB35	117	53
+yaleB34	374	7
+yaleB36	418	385
+yaleB12	372	244
+yaleB15	455	302
+yaleB21	538	296
+yaleB31	399	167
+yaleB28	21	205
+yaleB19	109	yaleB36	281
+yaleB27	256	yaleB11	340
+yaleB37	493	yaleB24	359
+yaleB16	519	yaleB11	559
+yaleB26	7	yaleB32	189
+yaleB20	302	yaleB35	84
+yaleB38	299	yaleB21	72
+yaleB18	394	yaleB24	170
+yaleB22	586	yaleB20	318
+yaleB25	276	yaleB30	451
+yaleB17	232	yaleB38	16
+yaleB11	112	yaleB38	431
+yaleB33	483	yaleB19	297
+yaleB32	343	yaleB23	118
+yaleB23	185	yaleB38	199
+yaleB29	90	yaleB28	466
+yaleB30	149	yaleB12	8
+yaleB24	386	yaleB32	32
+yaleB13	401	yaleB18	450
+yaleB39	132	yaleB12	436
+yaleB35	88	yaleB25	544
+yaleB34	442	yaleB12	32
+yaleB36	84	yaleB31	184
+yaleB12	388	yaleB20	292
+yaleB15	30	yaleB21	30
+yaleB21	357	yaleB18	381
+yaleB31	216	yaleB19	29
+yaleB28	367	yaleB39	421
+yaleB19	66	321
+yaleB27	399	266
+yaleB37	190	279
+yaleB16	401	279
+yaleB26	425	580
+yaleB20	10	528
+yaleB38	369	471
+yaleB18	208	45
+yaleB22	534	105
+yaleB25	201	13
+yaleB17	163	148
+yaleB11	421	166
+yaleB33	458	162
+yaleB32	39	465
+yaleB23	50	302
+yaleB29	53	484
+yaleB30	65	34
+yaleB24	557	219
+yaleB13	571	417
+yaleB39	32	368
+yaleB35	577	275
+yaleB34	437	142
+yaleB36	414	113
+yaleB12	191	406
+yaleB15	158	23
+yaleB21	123	344
+yaleB31	452	17
+yaleB28	135	66
+yaleB19	3	yaleB26	426
+yaleB27	91	yaleB19	55
+yaleB37	565	yaleB30	73
+yaleB16	298	yaleB35	100
+yaleB26	454	yaleB33	114
+yaleB20	341	yaleB31	200
+yaleB38	201	yaleB19	484
+yaleB18	591	yaleB35	290
+yaleB22	302	yaleB24	361
+yaleB25	115	yaleB11	557
+yaleB17	118	yaleB28	416
+yaleB11	33	yaleB15	148
+yaleB33	394	yaleB11	479
+yaleB32	465	yaleB12	578
+yaleB23	361	yaleB38	247
+yaleB29	206	yaleB35	511
+yaleB30	540	yaleB17	464
+yaleB24	377	yaleB31	88
+yaleB13	152	yaleB23	43
+yaleB39	5	yaleB22	278
+yaleB35	550	yaleB29	33
+yaleB34	394	yaleB22	57
+yaleB36	170	yaleB21	185
+yaleB12	22	yaleB30	271
+yaleB15	406	yaleB24	577
+yaleB21	378	yaleB23	200
+yaleB31	546	yaleB35	526
+yaleB28	424	yaleB31	205
+yaleB19	519	32
+yaleB27	347	176
+yaleB37	241	40
+yaleB16	219	136
+yaleB26	450	43
+yaleB20	33	151
+yaleB38	42	202
+yaleB18	219	184
+yaleB22	337	563
+yaleB25	328	361
+yaleB17	552	247
+yaleB11	393	146
+yaleB33	430	217
+yaleB32	257	277
+yaleB23	246	569
+yaleB29	337	1
+yaleB30	340	31
+yaleB24	314	587
+yaleB13	120	166
+yaleB39	234	581
+yaleB35	240	325
+yaleB34	130	436
+yaleB36	510	577
+yaleB12	240	217
+yaleB15	96	540
+yaleB21	447	41
+yaleB31	235	373
+yaleB28	294	278
+yaleB19	202	yaleB11	243
+yaleB27	229	yaleB28	418
+yaleB37	239	yaleB21	144
+yaleB16	343	yaleB29	96
+yaleB26	295	yaleB28	549
+yaleB20	97	yaleB11	94
+yaleB38	585	yaleB34	477
+yaleB18	523	yaleB26	375
+yaleB22	18	yaleB21	395
+yaleB25	455	yaleB32	311
+yaleB17	38	yaleB12	66
+yaleB11	467	yaleB39	160
+yaleB33	98	yaleB34	379
+yaleB32	61	yaleB39	356
+yaleB23	499	yaleB34	65
+yaleB29	165	yaleB11	113
+yaleB30	514	yaleB38	320
+yaleB24	368	yaleB28	232
+yaleB13	495	yaleB23	573
+yaleB39	399	yaleB22	59
+yaleB35	433	yaleB38	550
+yaleB34	321	yaleB22	294
+yaleB36	259	yaleB21	69
+yaleB12	64	yaleB26	426
+yaleB15	342	yaleB20	128
+yaleB21	252	yaleB31	486
+yaleB31	210	yaleB13	270
+yaleB28	161	yaleB23	10
+yaleB19	346	579
+yaleB27	291	452
+yaleB37	425	453
+yaleB16	584	555
+yaleB26	500	399
+yaleB20	11	243
+yaleB38	375	409
+yaleB18	421	553
+yaleB22	26	216
+yaleB25	425	423
+yaleB17	80	451
+yaleB11	192	159
+yaleB33	480	202
+yaleB32	182	467
+yaleB23	134	402
+yaleB29	198	431
+yaleB30	115	264
+yaleB24	547	37
+yaleB13	450	290
+yaleB39	345	188
+yaleB35	535	159
+yaleB34	11	471
+yaleB36	172	294
+yaleB12	247	562
+yaleB15	154	143
+yaleB21	310	502
+yaleB31	535	255
+yaleB28	311	417
+yaleB19	496	yaleB24	419
+yaleB27	434	yaleB34	530
+yaleB37	571	yaleB18	562
+yaleB16	365	yaleB19	414
+yaleB26	537	yaleB25	462
+yaleB20	368	yaleB32	379
+yaleB38	8	yaleB11	344
+yaleB18	34	yaleB12	563
+yaleB22	49	yaleB30	29
+yaleB25	74	yaleB38	170
+yaleB17	169	yaleB29	121
+yaleB11	262	yaleB38	248
+yaleB33	160	yaleB34	134
+yaleB32	575	yaleB28	142
+yaleB23	360	yaleB29	554
+yaleB29	218	yaleB38	560
+yaleB30	499	yaleB33	97
+yaleB24	579	yaleB29	443
+yaleB13	360	yaleB15	185
+yaleB39	557	yaleB38	504
+yaleB35	81	yaleB39	517
+yaleB34	463	yaleB31	548
+yaleB36	504	yaleB32	56
+yaleB12	189	yaleB26	58
+yaleB15	420	yaleB20	443
+yaleB21	116	yaleB17	212
+yaleB31	437	yaleB22	220
+yaleB28	219	yaleB38	366
+yaleB19	259	271
+yaleB27	344	554
+yaleB37	137	408
+yaleB16	359	71
+yaleB26	14	327
+yaleB20	457	129
+yaleB38	110	180
+yaleB18	390	150
+yaleB22	325	160
+yaleB25	259	386
+yaleB17	321	256
+yaleB11	147	217
+yaleB33	539	312
+yaleB32	147	30
+yaleB23	381	197
+yaleB29	517	95
+yaleB30	41	498
+yaleB24	291	351
+yaleB13	54	333
+yaleB39	50	270
+yaleB35	193	53
+yaleB34	24	131
+yaleB36	504	477
+yaleB12	398	367
+yaleB15	379	281
+yaleB21	274	389
+yaleB31	513	218
+yaleB28	186	383
+yaleB19	255	yaleB32	355
+yaleB27	541	yaleB30	117
+yaleB37	533	yaleB34	219
+yaleB16	373	yaleB32	1
+yaleB26	375	yaleB13	9
+yaleB20	320	yaleB12	170
+yaleB38	187	yaleB35	317
+yaleB18	429	yaleB32	299
+yaleB22	139	yaleB27	555
+yaleB25	555	yaleB20	215
+yaleB17	533	yaleB23	301
+yaleB11	160	yaleB13	194
+yaleB33	339	yaleB28	354
+yaleB32	427	yaleB19	572
+yaleB23	517	yaleB19	410
+yaleB29	327	yaleB18	243
+yaleB30	68	yaleB31	192
+yaleB24	189	yaleB16	54
+yaleB13	84	yaleB33	121
+yaleB39	1	yaleB30	51
+yaleB35	479	yaleB30	16
+yaleB34	339	yaleB36	16
+yaleB36	517	yaleB39	368
+yaleB12	573	yaleB22	389
+yaleB15	186	yaleB13	113
+yaleB21	445	yaleB15	15
+yaleB31	249	yaleB30	64
+yaleB28	195	yaleB25	2
+yaleB19	212	8
+yaleB27	299	149
+yaleB37	6	76
+yaleB16	449	300
+yaleB26	175	573
+yaleB20	439	364
+yaleB38	410	261
+yaleB18	14	280
+yaleB22	37	106
+yaleB25	23	5
+yaleB17	300	155
+yaleB11	517	340
+yaleB33	341	92
+yaleB32	417	147
+yaleB23	302	209
+yaleB29	365	73
+yaleB30	391	535
+yaleB24	57	84
+yaleB13	353	423
+yaleB39	183	422
+yaleB35	155	107
+yaleB34	497	2
+yaleB36	91	45
+yaleB12	352	508
+yaleB15	339	426
+yaleB21	152	388
+yaleB31	468	301
+yaleB28	445	299
+yaleB19	451	yaleB27	22
+yaleB27	513	yaleB23	277
+yaleB37	44	yaleB28	222
+yaleB16	367	yaleB30	137
+yaleB26	468	yaleB25	278
+yaleB20	582	yaleB13	290
+yaleB38	266	yaleB39	235
+yaleB18	520	yaleB20	41
+yaleB22	408	yaleB24	559
+yaleB25	405	yaleB26	571
+yaleB17	540	yaleB11	71
+yaleB11	503	yaleB35	45
+yaleB33	165	yaleB32	418
+yaleB32	549	yaleB20	108
+yaleB23	167	yaleB39	63
+yaleB29	154	yaleB18	407
+yaleB30	168	yaleB11	49
+yaleB24	533	yaleB22	291
+yaleB13	583	yaleB15	185
+yaleB39	553	yaleB37	445
+yaleB35	249	yaleB34	369
+yaleB34	132	yaleB30	299
+yaleB36	416	yaleB32	461
+yaleB12	407	yaleB17	193
+yaleB15	465	yaleB30	105
+yaleB21	277	yaleB23	260
+yaleB31	518	yaleB36	58
+yaleB28	546	yaleB27	323
+yaleB19	259	113
+yaleB27	1	353
+yaleB37	148	33
+yaleB16	116	49
+yaleB26	197	522
+yaleB20	233	49
+yaleB38	369	28
+yaleB18	370	87
+yaleB22	82	250
+yaleB25	342	286
+yaleB17	481	323
+yaleB11	86	285
+yaleB33	238	282
+yaleB32	415	273
+yaleB23	319	289
+yaleB29	436	73
+yaleB30	342	347
+yaleB24	91	576
+yaleB13	59	365
+yaleB39	201	418
+yaleB35	177	134
+yaleB34	585	42
+yaleB36	222	6
+yaleB12	559	578
+yaleB15	519	12
+yaleB21	416	395
+yaleB31	484	488
+yaleB28	275	532
+yaleB19	204	yaleB18	30
+yaleB27	389	yaleB36	201
+yaleB37	312	yaleB25	81
+yaleB16	462	yaleB22	547
+yaleB26	516	yaleB39	549
+yaleB20	552	yaleB38	152
+yaleB38	121	yaleB23	331
+yaleB18	103	yaleB31	40
+yaleB22	104	yaleB21	129
+yaleB25	2	yaleB36	65
+yaleB17	40	yaleB20	148
+yaleB11	534	yaleB19	571
+yaleB33	154	yaleB19	236
+yaleB32	379	yaleB20	430
+yaleB23	554	yaleB19	27
+yaleB29	119	yaleB16	301
+yaleB30	392	yaleB20	300
+yaleB24	90	yaleB27	167
+yaleB13	383	yaleB17	311
+yaleB39	228	yaleB15	270
+yaleB35	251	yaleB17	193
+yaleB34	192	yaleB22	387
+yaleB36	511	yaleB12	374
+yaleB12	310	yaleB19	361
+yaleB15	545	yaleB26	173
+yaleB21	224	yaleB34	412
+yaleB31	18	yaleB17	342
+yaleB28	53	yaleB24	107
+yaleB19	495	24
+yaleB27	511	547
+yaleB37	492	583
+yaleB16	405	206
+yaleB26	579	288
+yaleB20	343	224
+yaleB38	439	377
+yaleB18	165	302
+yaleB22	410	56
+yaleB25	167	14
+yaleB17	415	404
+yaleB11	322	573
+yaleB33	273	523
+yaleB32	317	309
+yaleB23	64	81
+yaleB29	110	315
+yaleB30	199	303
+yaleB24	301	299
+yaleB13	523	316
+yaleB39	594	534
+yaleB35	579	410
+yaleB34	573	54
+yaleB36	250	198
+yaleB12	350	175
+yaleB15	40	384
+yaleB21	35	518
+yaleB31	338	9
+yaleB28	507	560
+yaleB19	99	yaleB33	463
+yaleB27	427	yaleB36	453
+yaleB37	7	yaleB18	295
+yaleB16	252	yaleB13	290
+yaleB26	572	yaleB21	365
+yaleB20	202	yaleB35	510
+yaleB38	80	yaleB34	119
+yaleB18	464	yaleB33	575
+yaleB22	216	yaleB27	405
+yaleB25	290	yaleB11	531
+yaleB17	22	yaleB19	581
+yaleB11	58	yaleB34	119
+yaleB33	594	yaleB16	448
+yaleB32	25	yaleB35	288
+yaleB23	311	yaleB21	159
+yaleB29	521	yaleB26	362
+yaleB30	378	yaleB26	380
+yaleB24	321	yaleB29	91
+yaleB13	516	yaleB37	109
+yaleB39	427	yaleB20	531
+yaleB35	435	yaleB20	160
+yaleB34	139	yaleB31	127
+yaleB36	338	yaleB16	470
+yaleB12	304	yaleB28	249
+yaleB15	77	yaleB11	341
+yaleB21	72	yaleB33	77
+yaleB31	574	yaleB13	269
+yaleB28	102	yaleB21	174
+yaleB19	82	75
+yaleB27	495	102
+yaleB37	264	291
+yaleB16	256	131
+yaleB26	387	94
+yaleB20	287	156
+yaleB38	206	383
+yaleB18	227	195
+yaleB22	444	496
+yaleB25	80	339
+yaleB17	436	131
+yaleB11	412	294
+yaleB33	68	375
+yaleB32	224	254
+yaleB23	3	591
+yaleB29	395	360
+yaleB30	162	53
+yaleB24	462	68
+yaleB13	466	466
+yaleB39	327	401
+yaleB35	557	252
+yaleB34	134	469
+yaleB36	129	256
+yaleB12	442	331
+yaleB15	421	10
+yaleB21	48	331
+yaleB31	8	356
+yaleB28	298	192
+yaleB19	186	yaleB27	327
+yaleB27	298	yaleB28	87
+yaleB37	87	yaleB34	218
+yaleB16	418	yaleB11	103
+yaleB26	524	yaleB35	3
+yaleB20	313	yaleB16	198
+yaleB38	74	yaleB28	433
+yaleB18	457	yaleB15	400
+yaleB22	7	yaleB20	260
+yaleB25	517	yaleB28	375
+yaleB17	225	yaleB13	211
+yaleB11	516	yaleB15	213
+yaleB33	222	yaleB22	140
+yaleB32	162	yaleB17	487
+yaleB23	438	yaleB16	480
+yaleB29	217	yaleB23	68
+yaleB30	193	yaleB25	13
+yaleB24	579	yaleB12	476
+yaleB13	158	yaleB33	29
+yaleB39	34	yaleB35	148
+yaleB35	69	yaleB12	109
+yaleB34	131	yaleB36	350
+yaleB36	231	yaleB11	540
+yaleB12	154	yaleB38	417
+yaleB15	523	yaleB27	72
+yaleB21	388	yaleB11	488
+yaleB31	156	yaleB32	499
+yaleB28	458	yaleB27	454
+yaleB19	481	130
+yaleB27	88	487
+yaleB37	68	204
+yaleB16	332	509
+yaleB26	5	327
+yaleB20	593	565
+yaleB38	501	563
+yaleB18	180	552
+yaleB22	395	444
+yaleB25	300	411
+yaleB17	280	556
+yaleB11	20	77
+yaleB33	556	521
+yaleB32	192	46
+yaleB23	474	557
+yaleB29	183	459
+yaleB30	433	587
+yaleB24	357	248
+yaleB13	8	277
+yaleB39	491	108
+yaleB35	454	523
+yaleB34	267	217
+yaleB36	143	464
+yaleB12	176	88
+yaleB15	377	114
+yaleB21	130	388
+yaleB31	471	87
+yaleB28	60	102
+yaleB19	543	yaleB38	17
+yaleB27	555	yaleB29	208
+yaleB37	456	yaleB18	140
+yaleB16	533	yaleB39	316
+yaleB26	437	yaleB11	206
+yaleB20	457	yaleB29	522
+yaleB38	562	yaleB17	262
+yaleB18	265	yaleB28	307
+yaleB22	140	yaleB31	52
+yaleB25	305	yaleB19	372
+yaleB17	262	yaleB11	91
+yaleB11	426	yaleB16	327
+yaleB33	438	yaleB17	436
+yaleB32	366	yaleB27	487
+yaleB23	92	yaleB16	299
+yaleB29	19	yaleB28	120
+yaleB30	451	yaleB13	402
+yaleB24	442	yaleB25	334
+yaleB13	570	yaleB25	358
+yaleB39	79	yaleB30	193
+yaleB35	82	yaleB29	116
+yaleB34	484	yaleB15	109
+yaleB36	26	yaleB12	474
+yaleB12	115	yaleB37	130
+yaleB15	82	yaleB19	21
+yaleB21	43	yaleB25	9
+yaleB31	306	yaleB25	517
+yaleB28	476	yaleB21	403
+yaleB19	158	79
+yaleB27	288	298
+yaleB37	504	322
+yaleB16	96	442
+yaleB26	148	88
+yaleB20	495	581
+yaleB38	553	255
+yaleB18	247	265
+yaleB22	560	557
+yaleB25	328	229
+yaleB17	425	463
+yaleB11	10	71
+yaleB33	450	156
+yaleB32	336	33
+yaleB23	130	262
+yaleB29	280	75
+yaleB30	20	51
+yaleB24	78	347
+yaleB13	485	221
+yaleB39	304	227
+yaleB35	552	484
+yaleB34	553	72
+yaleB36	60	140
+yaleB12	259	59
+yaleB15	218	218
+yaleB21	109	589
+yaleB31	305	578
+yaleB28	97	297
+yaleB19	14	yaleB27	483
+yaleB27	116	yaleB15	453
+yaleB37	324	yaleB27	249
+yaleB16	290	yaleB12	259
+yaleB26	149	yaleB27	205
+yaleB20	433	yaleB38	583
+yaleB38	345	yaleB17	493
+yaleB18	417	yaleB11	415
+yaleB22	139	yaleB13	554
+yaleB25	49	yaleB38	325
+yaleB17	200	yaleB25	60
+yaleB11	47	yaleB15	43
+yaleB33	373	yaleB32	209
+yaleB32	118	yaleB16	392
+yaleB23	330	yaleB34	536
+yaleB29	237	yaleB16	551
+yaleB30	586	yaleB21	173
+yaleB24	550	yaleB37	334
+yaleB13	505	yaleB30	100
+yaleB39	437	yaleB15	400
+yaleB35	73	yaleB33	51
+yaleB34	124	yaleB35	280
+yaleB36	362	yaleB18	312
+yaleB12	312	yaleB26	550
+yaleB15	228	yaleB32	296
+yaleB21	288	yaleB19	112
+yaleB31	60	yaleB12	281
+yaleB28	544	yaleB38	87
+yaleB19	299	520
+yaleB27	245	533
+yaleB37	62	391
+yaleB16	528	66
+yaleB26	340	506
+yaleB20	102	233
+yaleB38	366	266
+yaleB18	577	578
+yaleB22	113	152
+yaleB25	86	109
+yaleB17	318	29
+yaleB11	230	551
+yaleB33	99	164
+yaleB32	543	29
+yaleB23	113	98
+yaleB29	75	427
+yaleB30	518	139
+yaleB24	532	132
+yaleB13	52	470
+yaleB39	449	450
+yaleB35	355	593
+yaleB34	191	225
+yaleB36	226	159
+yaleB12	386	405
+yaleB15	489	499
+yaleB21	421	526
+yaleB31	302	373
+yaleB28	118	220
+yaleB19	281	yaleB18	285
+yaleB27	553	yaleB13	412
+yaleB37	402	yaleB26	99
+yaleB16	426	yaleB33	236
+yaleB26	76	yaleB28	430
+yaleB20	436	yaleB17	382
+yaleB38	193	yaleB12	14
+yaleB18	170	yaleB28	252
+yaleB22	83	yaleB11	567
+yaleB25	539	yaleB33	310
+yaleB17	123	yaleB19	387
+yaleB11	451	yaleB15	314
+yaleB33	516	yaleB12	71
+yaleB32	480	yaleB33	575
+yaleB23	456	yaleB15	553
+yaleB29	147	yaleB24	24
+yaleB30	510	yaleB15	585
+yaleB24	95	yaleB30	469
+yaleB13	390	yaleB26	514
+yaleB39	520	yaleB26	522
+yaleB35	559	yaleB20	565
+yaleB34	130	yaleB39	180
+yaleB36	269	yaleB32	476
+yaleB12	385	yaleB19	117
+yaleB15	112	yaleB13	391
+yaleB21	549	yaleB24	445
+yaleB31	516	yaleB17	92
+yaleB28	451	yaleB30	47
+yaleB19	583	296
+yaleB27	417	589
+yaleB37	22	539
+yaleB16	472	441
+yaleB26	591	33
+yaleB20	127	477
+yaleB38	5	355
+yaleB18	150	567
+yaleB22	587	276
+yaleB25	536	539
+yaleB17	366	366
+yaleB11	384	529
+yaleB33	78	165
+yaleB32	564	362
+yaleB23	360	299
+yaleB29	215	350
+yaleB30	108	262
+yaleB24	83	468
+yaleB13	23	328
+yaleB39	487	243
+yaleB35	310	281
+yaleB34	289	269
+yaleB36	417	435
+yaleB12	58	413
+yaleB15	479	62
+yaleB21	307	572
+yaleB31	513	189
+yaleB28	5	49
+yaleB19	261	yaleB17	140
+yaleB27	138	yaleB29	593
+yaleB37	319	yaleB22	136
+yaleB16	508	yaleB39	584
+yaleB26	11	yaleB23	51
+yaleB20	548	yaleB12	16
+yaleB38	463	yaleB30	379
+yaleB18	96	yaleB22	380
+yaleB22	167	yaleB18	273
+yaleB25	419	yaleB21	161
+yaleB17	408	yaleB15	176
+yaleB11	34	yaleB33	382
+yaleB33	527	yaleB31	163
+yaleB32	65	yaleB18	246
+yaleB23	224	yaleB28	427
+yaleB29	118	yaleB31	516
+yaleB30	330	yaleB35	480
+yaleB24	363	yaleB28	329
+yaleB13	188	yaleB39	106
+yaleB39	421	yaleB11	421
+yaleB35	389	yaleB30	552
+yaleB34	220	yaleB32	568
+yaleB36	117	yaleB18	45
+yaleB12	390	yaleB31	183
+yaleB15	363	yaleB37	150
+yaleB21	219	yaleB35	405
+yaleB31	409	yaleB21	119
+yaleB28	157	yaleB24	50
+yaleB19	514	440
+yaleB27	561	390
+yaleB37	177	517
+yaleB16	398	34
+yaleB26	139	549
+yaleB20	461	48
+yaleB38	23	90
+yaleB18	202	559
+yaleB22	127	250
+yaleB25	521	550
+yaleB17	346	5
+yaleB11	58	492
+yaleB33	495	113
+yaleB32	554	45
+yaleB23	37	389
+yaleB29	318	394
+yaleB30	512	498
+yaleB24	103	500
+yaleB13	515	129
+yaleB39	547	351
+yaleB35	114	27
+yaleB34	505	124
+yaleB36	35	95
+yaleB12	447	508
+yaleB15	56	270
+yaleB21	317	159
+yaleB31	52	123
+yaleB28	93	339
+yaleB19	224	yaleB24	458
+yaleB27	108	yaleB24	82
+yaleB37	333	yaleB21	192
+yaleB16	210	yaleB17	320
+yaleB26	239	yaleB22	162
+yaleB20	241	yaleB13	37
+yaleB38	250	yaleB19	421
+yaleB18	479	yaleB11	392
+yaleB22	555	yaleB13	94
+yaleB25	78	yaleB34	309
+yaleB17	213	yaleB27	162
+yaleB11	131	yaleB39	497
+yaleB33	82	yaleB19	480
+yaleB32	18	yaleB28	339
+yaleB23	587	yaleB39	152
+yaleB29	209	yaleB33	122
+yaleB30	570	yaleB19	458
+yaleB24	563	yaleB32	327
+yaleB13	71	yaleB12	44
+yaleB39	117	yaleB12	441
+yaleB35	174	yaleB28	566
+yaleB34	535	yaleB32	427
+yaleB36	351	yaleB25	207
+yaleB12	41	yaleB18	12
+yaleB15	216	yaleB22	265
+yaleB21	303	yaleB38	424
+yaleB31	244	yaleB29	502
+yaleB28	247	yaleB15	66
+yaleB19	312	129
+yaleB27	280	448
+yaleB37	266	314
+yaleB16	515	427
+yaleB26	524	442
+yaleB20	47	257
+yaleB38	436	325
+yaleB18	259	309
+yaleB22	196	552
+yaleB25	423	45
+yaleB17	246	442
+yaleB11	209	284
+yaleB33	78	36
+yaleB32	4	270
+yaleB23	259	235
+yaleB29	446	154
+yaleB30	286	64
+yaleB24	433	28
+yaleB13	464	246
+yaleB39	10	402
+yaleB35	102	447
+yaleB34	46	517
+yaleB36	434	555
+yaleB12	245	60
+yaleB15	532	42
+yaleB21	154	364
+yaleB31	568	236
+yaleB28	216	538
+yaleB19	358	yaleB33	310
+yaleB27	329	yaleB18	390
+yaleB37	352	yaleB28	514
+yaleB16	456	yaleB28	397
+yaleB26	235	yaleB38	522
+yaleB20	446	yaleB36	164
+yaleB38	533	yaleB33	543
+yaleB18	289	yaleB39	85
+yaleB22	255	yaleB17	493
+yaleB25	160	yaleB18	558
+yaleB17	76	yaleB15	581
+yaleB11	344	yaleB16	427
+yaleB33	155	yaleB31	281
+yaleB32	263	yaleB28	292
+yaleB23	472	yaleB26	243
+yaleB29	286	yaleB12	27
+yaleB30	358	yaleB35	556
+yaleB24	203	yaleB23	411
+yaleB13	235	yaleB30	42
+yaleB39	3	yaleB22	399
+yaleB35	317	yaleB20	141
+yaleB34	584	yaleB17	499
+yaleB36	37	yaleB20	118
+yaleB12	322	yaleB20	450
+yaleB15	256	yaleB36	306
+yaleB21	151	yaleB36	245
+yaleB31	453	yaleB24	587
+yaleB28	125	yaleB18	264
+yaleB19	245	79
+yaleB27	502	8
+yaleB37	496	327
+yaleB16	160	341
+yaleB26	289	59
+yaleB20	144	129
+yaleB38	69	111
+yaleB18	446	6
+yaleB22	330	495
+yaleB25	162	445
+yaleB17	470	61
+yaleB11	47	325
+yaleB33	260	124
+yaleB32	1	289
+yaleB23	174	436
+yaleB29	220	170
+yaleB30	335	3
+yaleB24	178	590
+yaleB13	152	224
+yaleB39	3	383
+yaleB35	155	308
+yaleB34	129	106
+yaleB36	510	508
+yaleB12	128	227
+yaleB15	191	541
+yaleB21	309	11
+yaleB31	585	164
+yaleB28	205	228
+yaleB19	220	yaleB39	404
+yaleB27	587	yaleB34	409
+yaleB37	533	yaleB20	263
+yaleB16	386	yaleB31	380
+yaleB26	317	yaleB34	490
+yaleB20	438	yaleB12	528
+yaleB38	413	yaleB18	190
+yaleB18	453	yaleB24	192
+yaleB22	511	yaleB11	119
+yaleB25	68	yaleB34	352
+yaleB17	98	yaleB15	232
+yaleB11	455	yaleB25	298
+yaleB33	187	yaleB31	444
+yaleB32	265	yaleB13	95
+yaleB23	531	yaleB32	53
+yaleB29	24	yaleB12	86
+yaleB30	303	yaleB21	409
+yaleB24	308	yaleB18	361
+yaleB13	138	yaleB26	460
+yaleB39	448	yaleB29	67
+yaleB35	396	yaleB13	327
+yaleB34	437	yaleB36	451
+yaleB36	499	yaleB18	526
+yaleB12	500	yaleB21	384
+yaleB15	3	yaleB16	357
+yaleB21	484	yaleB17	136
+yaleB31	324	yaleB28	183
+yaleB28	473	yaleB38	135
+yaleB19	187	130
+yaleB27	587	92
+yaleB37	512	1
+yaleB16	532	344
+yaleB26	61	550
+yaleB20	70	124
+yaleB38	188	74
+yaleB18	591	109
+yaleB22	297	130
+yaleB25	507	561
+yaleB17	110	571
+yaleB11	566	153
+yaleB33	386	335
+yaleB32	568	185
+yaleB23	264	188
+yaleB29	544	85
+yaleB30	272	394
+yaleB24	567	28
+yaleB13	144	295
+yaleB39	418	438
+yaleB35	80	372
+yaleB34	236	311
+yaleB36	135	276
+yaleB12	173	114
+yaleB15	558	241
+yaleB21	137	243
+yaleB31	142	133
+yaleB28	85	563
+yaleB19	506	yaleB12	245
+yaleB27	509	yaleB26	105
+yaleB37	319	yaleB11	360
+yaleB16	224	yaleB29	546
+yaleB26	32	yaleB11	431
+yaleB20	225	yaleB22	205
+yaleB38	497	yaleB24	70
+yaleB18	432	yaleB35	96
+yaleB22	356	yaleB36	203
+yaleB25	403	yaleB16	551
+yaleB17	58	yaleB20	428
+yaleB11	407	yaleB28	294
+yaleB33	476	yaleB38	43
+yaleB32	543	yaleB13	505
+yaleB23	540	yaleB24	194
+yaleB29	255	yaleB12	583
+yaleB30	529	yaleB37	163
+yaleB24	84	yaleB30	388
+yaleB13	212	yaleB24	549
+yaleB39	130	yaleB24	357
+yaleB35	374	yaleB29	222
+yaleB34	127	yaleB35	23
+yaleB36	369	yaleB32	183
+yaleB12	431	yaleB26	114
+yaleB15	578	yaleB27	425
+yaleB21	214	yaleB30	552
+yaleB31	203	yaleB26	18
+yaleB28	468	yaleB20	239
+yaleB19	344	299
+yaleB27	208	141
+yaleB37	420	473
+yaleB16	576	184
+yaleB26	14	56
+yaleB20	179	70
+yaleB38	23	534
+yaleB18	435	553
+yaleB22	529	481
+yaleB25	6	151
+yaleB17	415	25
+yaleB11	529	329
+yaleB33	98	195
+yaleB32	528	591
+yaleB23	513	164
+yaleB29	328	546
+yaleB30	362	346
+yaleB24	531	221
+yaleB13	512	323
+yaleB39	479	572
+yaleB35	59	179
+yaleB34	425	135
+yaleB36	526	180
+yaleB12	372	164
+yaleB15	64	96
+yaleB21	452	575
+yaleB31	374	185
+yaleB28	138	449
+yaleB19	264	yaleB22	145
+yaleB27	303	yaleB32	442
+yaleB37	460	yaleB11	506
+yaleB16	353	yaleB12	227
+yaleB26	313	yaleB30	105
+yaleB20	91	yaleB25	473
+yaleB38	105	yaleB29	316
+yaleB18	74	yaleB20	296
+yaleB22	457	yaleB24	510
+yaleB25	352	yaleB36	503
+yaleB17	139	yaleB25	440
+yaleB11	521	yaleB27	303
+yaleB33	548	yaleB35	547
+yaleB32	383	yaleB30	254
+yaleB23	528	yaleB29	345
+yaleB29	338	yaleB39	108
+yaleB30	1	yaleB24	28
+yaleB24	93	yaleB39	38
+yaleB13	43	yaleB36	102
+yaleB39	578	yaleB27	185
+yaleB35	202	yaleB25	212
+yaleB34	246	yaleB33	317
+yaleB36	188	yaleB23	550
+yaleB12	388	yaleB34	450
+yaleB15	569	yaleB12	74
+yaleB21	401	yaleB17	151
+yaleB31	411	yaleB34	327
+yaleB28	29	yaleB30	180
+yaleB19	378	183
+yaleB27	126	35
+yaleB37	407	57
+yaleB16	466	61
+yaleB26	143	364
+yaleB20	129	589
+yaleB38	547	388
+yaleB18	552	324
+yaleB22	24	407
+yaleB25	315	137
+yaleB17	590	162
+yaleB11	362	59
+yaleB33	457	118
+yaleB32	309	152
+yaleB23	211	152
+yaleB29	298	30
+yaleB30	62	114
+yaleB24	262	278
+yaleB13	263	200
+yaleB39	529	16
+yaleB35	133	290
+yaleB34	221	81
+yaleB36	364	496
+yaleB12	105	440
+yaleB15	428	548
+yaleB21	403	248
+yaleB31	485	564
+yaleB28	342	261
+yaleB19	429	yaleB20	137
+yaleB27	183	yaleB38	92
+yaleB37	128	yaleB15	82
+yaleB16	81	yaleB20	480
+yaleB26	60	yaleB29	401
+yaleB20	158	yaleB30	392
+yaleB38	427	yaleB37	314
+yaleB18	346	yaleB39	234
+yaleB22	274	yaleB37	328
+yaleB25	229	yaleB38	463
+yaleB17	162	yaleB15	471
+yaleB11	346	yaleB17	23
+yaleB33	6	yaleB34	429
+yaleB32	244	yaleB30	165
+yaleB23	298	yaleB19	442
+yaleB29	480	yaleB20	128
+yaleB30	246	yaleB36	59
+yaleB24	255	yaleB23	122
+yaleB13	56	yaleB30	559
+yaleB39	421	yaleB34	320
+yaleB35	392	yaleB11	213
+yaleB34	457	yaleB22	364
+yaleB36	454	yaleB31	378
+yaleB12	261	yaleB25	232
+yaleB15	372	yaleB37	35
+yaleB21	384	yaleB18	295
+yaleB31	111	yaleB12	472
+yaleB28	393	yaleB23	313
+yaleB19	180	340
+yaleB27	146	114
+yaleB37	360	159
+yaleB16	336	472
+yaleB26	81	315
+yaleB20	280	89
+yaleB38	478	421
+yaleB18	12	309
+yaleB22	54	200
+yaleB25	561	123
+yaleB17	274	575
+yaleB11	19	165
+yaleB33	555	88
+yaleB32	240	510
+yaleB23	412	475
+yaleB29	67	570
+yaleB30	360	175
+yaleB24	433	353
+yaleB13	18	232
+yaleB39	247	422
+yaleB35	467	335
+yaleB34	340	538
+yaleB36	65	227
+yaleB12	43	161
+yaleB15	351	210
+yaleB21	492	86
+yaleB31	161	501
+yaleB28	507	213
+yaleB19	286	yaleB36	72
+yaleB27	387	yaleB28	480
+yaleB37	467	yaleB29	364
+yaleB16	337	yaleB18	399
+yaleB26	442	yaleB31	525
+yaleB20	313	yaleB15	349
+yaleB38	218	yaleB23	520
+yaleB18	452	yaleB38	295
+yaleB22	18	yaleB12	390
+yaleB25	312	yaleB28	228
+yaleB17	78	yaleB30	43
+yaleB11	86	yaleB26	26
+yaleB33	307	yaleB16	327
+yaleB32	397	yaleB35	99
+yaleB23	481	yaleB31	52
+yaleB29	367	yaleB21	411
+yaleB30	423	yaleB38	335
+yaleB24	411	yaleB25	559
+yaleB13	542	yaleB11	138
+yaleB39	175	yaleB31	128
+yaleB35	565	yaleB18	78
+yaleB34	256	yaleB18	363
+yaleB36	427	yaleB29	185
+yaleB12	480	yaleB20	466
+yaleB15	488	yaleB24	326
+yaleB21	589	yaleB37	26
+yaleB31	228	yaleB25	363
+yaleB28	138	yaleB17	560
+yaleB19	104	372
+yaleB27	103	352
+yaleB37	227	572
+yaleB16	178	80
+yaleB26	233	151
+yaleB20	325	530
+yaleB38	419	359
+yaleB18	529	517
+yaleB22	54	505
+yaleB25	29	10
+yaleB17	422	232
+yaleB11	38	507
+yaleB33	212	211
+yaleB32	502	21
+yaleB23	281	187
+yaleB29	347	552
+yaleB30	55	56
+yaleB24	163	562
+yaleB13	476	157
+yaleB39	162	357
+yaleB35	323	457
+yaleB34	305	189
+yaleB36	442	108
+yaleB12	487	82
+yaleB15	305	31
+yaleB21	565	126
+yaleB31	474	586
+yaleB28	199	186
+yaleB19	139	yaleB22	262
+yaleB27	283	yaleB19	2
+yaleB37	26	yaleB21	83
+yaleB16	504	yaleB12	381
+yaleB26	335	yaleB23	496
+yaleB20	580	yaleB16	271
+yaleB38	490	yaleB37	96
+yaleB18	554	yaleB30	263
+yaleB22	488	yaleB30	390
+yaleB25	186	yaleB39	246
+yaleB17	549	yaleB34	206
+yaleB11	446	yaleB12	119
+yaleB33	356	yaleB39	195
+yaleB32	57	yaleB18	306
+yaleB23	319	yaleB36	248
+yaleB29	185	yaleB13	375
+yaleB30	62	yaleB24	197
+yaleB24	482	yaleB38	524
+yaleB13	152	yaleB27	591
+yaleB39	466	yaleB35	341
+yaleB35	94	yaleB19	500
+yaleB34	566	yaleB18	263
+yaleB36	347	yaleB37	183
+yaleB12	564	yaleB20	359
+yaleB15	182	yaleB34	467
+yaleB21	57	yaleB25	345
+yaleB31	222	yaleB27	55
+yaleB28	152	yaleB37	187
+yaleB19	538	211
+yaleB27	20	457
+yaleB37	285	310
+yaleB16	557	483
+yaleB26	223	495
+yaleB20	426	376
+yaleB38	222	95
+yaleB18	184	88
+yaleB22	194	209
+yaleB25	438	105
+yaleB17	318	568
+yaleB11	377	446
+yaleB33	239	410
+yaleB32	115	557
+yaleB23	506	41
+yaleB29	133	502
+yaleB30	560	19
+yaleB24	234	18
+yaleB13	360	276
+yaleB39	224	458
+yaleB35	73	503
+yaleB34	342	289
+yaleB36	227	574
+yaleB12	37	61
+yaleB15	116	212
+yaleB21	363	43
+yaleB31	8	367
+yaleB28	456	352
+yaleB19	194	yaleB34	498
+yaleB27	202	yaleB13	303
+yaleB37	392	yaleB32	299
+yaleB16	81	yaleB36	366
+yaleB26	43	yaleB39	418
+yaleB20	166	yaleB24	302
+yaleB38	470	yaleB33	501
+yaleB18	562	yaleB25	519
+yaleB22	363	yaleB17	371
+yaleB25	554	yaleB29	438
+yaleB17	255	yaleB24	521
+yaleB11	199	yaleB36	541
+yaleB33	137	yaleB35	130
+yaleB32	151	yaleB38	256
+yaleB23	87	yaleB17	523
+yaleB29	417	yaleB11	339
+yaleB30	204	yaleB13	457
+yaleB24	320	yaleB13	231
+yaleB13	102	yaleB27	550
+yaleB39	142	yaleB16	381
+yaleB35	552	yaleB36	12
+yaleB34	290	yaleB18	398
+yaleB36	547	yaleB37	576
+yaleB12	376	yaleB13	157
+yaleB15	490	yaleB22	509
+yaleB21	17	yaleB25	228
+yaleB31	542	yaleB33	339
+yaleB28	6	yaleB38	575
+yaleB19	235	145
+yaleB27	200	111
+yaleB37	499	208
+yaleB16	361	251
+yaleB26	168	569
+yaleB20	424	300
+yaleB38	579	282
+yaleB18	581	100
+yaleB22	338	116
+yaleB25	238	548
+yaleB17	14	479
+yaleB11	361	401
+yaleB33	408	151
+yaleB32	329	386
+yaleB23	578	512
+yaleB29	286	402
+yaleB30	206	461
+yaleB24	25	208
+yaleB13	487	350
+yaleB39	24	579
+yaleB35	204	361
+yaleB34	126	221
+yaleB36	269	292
+yaleB12	433	333
+yaleB15	432	550
+yaleB21	311	147
+yaleB31	295	339
+yaleB28	424	206
+yaleB19	201	yaleB32	368
+yaleB27	579	yaleB32	350
+yaleB37	587	yaleB38	421
+yaleB16	151	yaleB32	237
+yaleB26	324	yaleB30	213
+yaleB20	7	yaleB35	265
+yaleB38	547	yaleB16	574
+yaleB18	201	yaleB28	189
+yaleB22	247	yaleB36	76
+yaleB25	279	yaleB30	145
+yaleB17	356	yaleB28	580
+yaleB11	399	yaleB36	81
+yaleB33	17	yaleB27	590
+yaleB32	536	yaleB38	442
+yaleB23	557	yaleB19	202
+yaleB29	107	yaleB23	11
+yaleB30	118	yaleB27	299
+yaleB24	20	yaleB19	75
+yaleB13	176	yaleB20	47
+yaleB39	20	yaleB31	433
+yaleB35	162	yaleB31	339
+yaleB34	519	yaleB23	189
+yaleB36	530	yaleB16	56
+yaleB12	446	yaleB13	404
+yaleB15	65	yaleB16	159
+yaleB21	92	yaleB39	538
+yaleB31	419	yaleB19	509
+yaleB28	461	yaleB21	51
+yaleB19	23	427
+yaleB27	424	178
+yaleB37	308	569
+yaleB16	29	444
+yaleB26	327	440
+yaleB20	564	239
+yaleB38	228	585
+yaleB18	273	410
+yaleB22	470	29
+yaleB25	254	211
+yaleB17	449	489
+yaleB11	338	39
+yaleB33	489	165
+yaleB32	38	238
+yaleB23	284	21
+yaleB29	404	209
+yaleB30	174	165
+yaleB24	433	288
+yaleB13	302	256
+yaleB39	531	121
+yaleB35	54	481
+yaleB34	558	475
+yaleB36	79	511
+yaleB12	214	340
+yaleB15	115	102
+yaleB21	286	351
+yaleB31	316	567
+yaleB28	543	266
+yaleB19	499	yaleB18	362
+yaleB27	343	yaleB13	304
+yaleB37	532	yaleB13	291
+yaleB16	125	yaleB17	71
+yaleB26	504	yaleB38	275
+yaleB20	95	yaleB32	19
+yaleB38	509	yaleB25	555
+yaleB18	463	yaleB33	217
+yaleB22	363	yaleB26	257
+yaleB25	527	yaleB26	117
+yaleB17	76	yaleB26	15
+yaleB11	527	yaleB35	248
+yaleB33	456	yaleB31	530
+yaleB32	521	yaleB34	457
+yaleB23	149	yaleB30	41
+yaleB29	313	yaleB18	295
+yaleB30	271	yaleB13	332
+yaleB24	164	yaleB18	534
+yaleB13	466	yaleB21	355
+yaleB39	13	yaleB23	434
+yaleB35	569	yaleB25	299
+yaleB34	101	yaleB29	390
+yaleB36	218	yaleB19	278
+yaleB12	73	yaleB29	276
+yaleB15	104	yaleB31	587
+yaleB21	46	yaleB38	80
+yaleB31	281	yaleB25	77
+yaleB28	358	yaleB26	172
+yaleB19	555	354
+yaleB27	493	578
+yaleB37	459	337
+yaleB16	473	319
+yaleB26	492	492
+yaleB20	267	319
+yaleB38	407	154
+yaleB18	234	64
+yaleB22	355	134
+yaleB25	396	467
+yaleB17	59	126
+yaleB11	521	346
+yaleB33	276	128
+yaleB32	482	427
+yaleB23	458	52
+yaleB29	169	252
+yaleB30	516	106
+yaleB24	193	290
+yaleB13	425	245
+yaleB39	445	524
+yaleB35	326	120
+yaleB34	533	218
+yaleB36	352	198
+yaleB12	138	264
+yaleB15	423	195
+yaleB21	64	385
+yaleB31	87	72
+yaleB28	427	243
+yaleB19	215	yaleB11	438
+yaleB27	442	yaleB13	181
+yaleB37	593	yaleB12	373
+yaleB16	437	yaleB29	73
+yaleB26	275	yaleB15	339
+yaleB20	246	yaleB18	211
+yaleB38	49	yaleB39	379
+yaleB18	53	yaleB13	561
+yaleB22	428	yaleB25	317
+yaleB25	298	yaleB34	384
+yaleB17	284	yaleB28	532
+yaleB11	122	yaleB18	175
+yaleB33	401	yaleB16	99
+yaleB32	551	yaleB11	395
+yaleB23	171	yaleB13	562
+yaleB29	509	yaleB38	238
+yaleB30	180	yaleB27	351
+yaleB24	343	yaleB34	106
+yaleB13	563	yaleB11	577
+yaleB39	515	yaleB19	125
+yaleB35	102	yaleB23	136
+yaleB34	16	yaleB30	73
+yaleB36	151	yaleB13	145
+yaleB12	136	yaleB17	98
+yaleB15	282	yaleB27	548
+yaleB21	413	yaleB26	585
+yaleB31	47	yaleB12	463
+yaleB28	53	yaleB35	21
+yaleB19	555	107
+yaleB27	513	418
+yaleB37	161	442
+yaleB16	413	580
+yaleB26	291	504
+yaleB20	576	398
+yaleB38	381	434
+yaleB18	425	288
+yaleB22	502	202
+yaleB25	129	496
+yaleB17	490	228
+yaleB11	540	299
+yaleB33	124	455
+yaleB32	327	357
+yaleB23	137	26
+yaleB29	526	427
+yaleB30	137	560
+yaleB24	129	18
+yaleB13	261	466
+yaleB39	476	106
+yaleB35	98	320
+yaleB34	449	317
+yaleB36	500	199
+yaleB12	308	164
+yaleB15	64	424
+yaleB21	528	376
+yaleB31	166	13
+yaleB28	403	508
+yaleB19	547	yaleB17	423
+yaleB27	315	yaleB11	411
+yaleB37	432	yaleB22	236
+yaleB16	422	yaleB30	68
+yaleB26	109	yaleB27	389
+yaleB20	241	yaleB31	5
+yaleB38	179	yaleB17	150
+yaleB18	187	yaleB11	579
+yaleB22	518	yaleB27	531
+yaleB25	87	yaleB16	482
+yaleB17	327	yaleB36	156
+yaleB11	224	yaleB24	410
+yaleB33	219	yaleB39	149
+yaleB32	394	yaleB15	14
+yaleB23	10	yaleB28	387
+yaleB29	334	yaleB26	281
+yaleB30	109	yaleB21	175
+yaleB24	361	yaleB35	556
+yaleB13	579	yaleB21	246
+yaleB39	79	yaleB33	42
+yaleB35	328	yaleB22	347
+yaleB34	299	yaleB36	421
+yaleB36	242	yaleB29	334
+yaleB12	106	yaleB25	520
+yaleB15	132	yaleB27	475
+yaleB21	447	yaleB25	227
+yaleB31	381	yaleB32	200
+yaleB28	398	yaleB37	477
+yaleB19	177	485
+yaleB27	215	187
+yaleB37	212	111
+yaleB16	314	448
+yaleB26	26	376
+yaleB20	223	531
+yaleB38	3	104
+yaleB18	359	33
+yaleB22	487	594
+yaleB25	296	68
+yaleB17	232	123
+yaleB11	422	303
+yaleB33	573	369
+yaleB32	575	560
+yaleB23	41	471
+yaleB29	82	220
+yaleB30	413	567
+yaleB24	70	520
+yaleB13	235	417
+yaleB39	112	487
+yaleB35	220	450
+yaleB34	108	154
+yaleB36	570	279
+yaleB12	302	266
+yaleB15	372	506
+yaleB21	142	537
+yaleB31	35	70
+yaleB28	296	434
+yaleB19	475	yaleB25	216
+yaleB27	102	yaleB20	149
+yaleB37	65	yaleB11	296
+yaleB16	556	yaleB19	77
+yaleB26	344	yaleB20	527
+yaleB20	499	yaleB35	131
+yaleB38	243	yaleB19	417
+yaleB18	438	yaleB13	566
+yaleB22	577	yaleB32	381
+yaleB25	492	yaleB32	249
+yaleB17	154	yaleB37	276
+yaleB11	461	yaleB33	78
+yaleB33	335	yaleB21	419
+yaleB32	147	yaleB13	391
+yaleB23	576	yaleB36	474
+yaleB29	268	yaleB34	526
+yaleB30	314	yaleB29	74
+yaleB24	541	yaleB16	492
+yaleB13	490	yaleB29	425
+yaleB39	212	yaleB12	33
+yaleB35	498	yaleB32	182
+yaleB34	302	yaleB26	448
+yaleB36	127	yaleB30	286
+yaleB12	445	yaleB19	101
+yaleB15	312	yaleB39	342
+yaleB21	447	yaleB23	84
+yaleB31	324	yaleB13	203
+yaleB28	299	yaleB22	299
+yaleB19	457	58
+yaleB27	390	15
+yaleB37	20	31
+yaleB16	421	512
+yaleB26	362	228
+yaleB20	477	48
+yaleB38	335	350
+yaleB18	560	445
+yaleB22	101	3
+yaleB25	262	152
+yaleB17	548	212
+yaleB11	173	437
+yaleB33	360	492
+yaleB32	401	205
+yaleB23	238	90
+yaleB29	224	345
+yaleB30	416	406
+yaleB24	562	207
+yaleB13	24	163
+yaleB39	422	137
+yaleB35	73	51
+yaleB34	154	221
+yaleB36	226	281
+yaleB12	294	415
+yaleB15	101	14
+yaleB21	287	416
+yaleB31	564	149
+yaleB28	231	446
+yaleB19	342	yaleB16	353
+yaleB27	62	yaleB11	243
+yaleB37	134	yaleB17	441
+yaleB16	203	yaleB30	217
+yaleB26	242	yaleB27	255
+yaleB20	29	yaleB17	487
+yaleB38	17	yaleB29	323
+yaleB18	492	yaleB34	65
+yaleB22	236	yaleB25	161
+yaleB25	223	yaleB30	469
+yaleB17	206	yaleB27	578
+yaleB11	9	yaleB36	446
+yaleB33	268	yaleB16	558
+yaleB32	343	yaleB37	585
+yaleB23	247	yaleB37	20
+yaleB29	90	yaleB18	505
+yaleB30	124	yaleB21	137
+yaleB24	402	yaleB34	192
+yaleB13	268	yaleB24	379
+yaleB39	408	yaleB30	135
+yaleB35	408	yaleB17	206
+yaleB34	315	yaleB12	472
+yaleB36	13	yaleB32	423
+yaleB12	246	yaleB25	218
+yaleB15	24	yaleB12	43
+yaleB21	29	yaleB34	4
+yaleB31	404	yaleB25	185
+yaleB28	22	yaleB17	449
+yaleB19	407	277
+yaleB27	271	372
+yaleB37	502	65
+yaleB16	485	109
+yaleB26	110	522
+yaleB20	102	224
+yaleB38	309	419
+yaleB18	121	174
+yaleB22	217	365
+yaleB25	64	354
+yaleB17	147	375
+yaleB11	396	541
+yaleB33	153	461
+yaleB32	391	80
+yaleB23	131	302
+yaleB29	317	302
+yaleB30	489	295
+yaleB24	569	163
+yaleB13	540	496
+yaleB39	346	171
+yaleB35	443	372
+yaleB34	461	95
+yaleB36	327	195
+yaleB12	405	452
+yaleB15	302	201
+yaleB21	3	60
+yaleB31	246	480
+yaleB28	565	368
+yaleB19	265	yaleB31	159
+yaleB27	111	yaleB11	550
+yaleB37	199	yaleB31	381
+yaleB16	360	yaleB15	57
+yaleB26	391	yaleB33	466
+yaleB20	180	yaleB35	246
+yaleB38	530	yaleB22	87
+yaleB18	30	yaleB13	233
+yaleB22	365	yaleB23	412
+yaleB25	130	yaleB34	558
+yaleB17	470	yaleB36	495
+yaleB11	46	yaleB36	140
+yaleB33	443	yaleB28	592
+yaleB32	25	yaleB20	273
+yaleB23	391	yaleB36	375
+yaleB29	268	yaleB32	332
+yaleB30	12	yaleB37	565
+yaleB24	573	yaleB34	127
+yaleB13	404	yaleB31	396
+yaleB39	37	yaleB34	217
+yaleB35	225	yaleB30	183
+yaleB34	330	yaleB24	271
+yaleB36	522	yaleB26	465
+yaleB12	559	yaleB39	375
+yaleB15	580	yaleB20	479
+yaleB21	345	yaleB18	405
+yaleB31	484	yaleB19	225
+yaleB28	104	yaleB38	106
+yaleB19	47	393
+yaleB27	503	460
+yaleB37	378	403
+yaleB16	438	288
+yaleB26	301	487
+yaleB20	523	457
+yaleB38	358	552
+yaleB18	337	15
+yaleB22	262	301
+yaleB25	44	208
+yaleB17	469	123
+yaleB11	188	489
+yaleB33	511	349
+yaleB32	591	500
+yaleB23	118	285
+yaleB29	155	66
+yaleB30	110	559
+yaleB24	109	55
+yaleB13	348	219
+yaleB39	150	455
+yaleB35	408	306
+yaleB34	242	305
+yaleB36	215	197
+yaleB12	140	575
+yaleB15	493	179
+yaleB21	219	307
+yaleB31	141	419
+yaleB28	224	188
+yaleB19	202	yaleB27	575
+yaleB27	51	yaleB32	555
+yaleB37	78	yaleB21	98
+yaleB16	526	yaleB18	511
+yaleB26	550	yaleB22	300
+yaleB20	327	yaleB39	25
+yaleB38	375	yaleB19	3
+yaleB18	492	yaleB13	566
+yaleB22	472	yaleB23	565
+yaleB25	236	yaleB26	475
+yaleB17	384	yaleB18	565
+yaleB11	23	yaleB38	578
+yaleB33	205	yaleB38	56
+yaleB32	32	yaleB13	209
+yaleB23	230	yaleB25	256
+yaleB29	104	yaleB30	446
+yaleB30	323	yaleB22	253
+yaleB24	357	yaleB34	19
+yaleB13	316	yaleB19	194
+yaleB39	47	yaleB12	192
+yaleB35	170	yaleB20	152
+yaleB34	535	yaleB32	436
+yaleB36	373	yaleB25	521
+yaleB12	176	yaleB35	267
+yaleB15	368	yaleB27	81
+yaleB21	304	yaleB11	187
+yaleB31	223	yaleB33	48
+yaleB28	348	yaleB39	135
+yaleB19	122	586
+yaleB27	30	501
+yaleB37	183	161
+yaleB16	336	462
+yaleB26	47	400
+yaleB20	31	487
+yaleB38	574	81
+yaleB18	466	422
+yaleB22	388	540
+yaleB25	548	108
+yaleB17	548	27
+yaleB11	1	458
+yaleB33	106	430
+yaleB32	430	293
+yaleB23	85	176
+yaleB29	482	490
+yaleB30	250	87
+yaleB24	135	11
+yaleB13	43	163
+yaleB39	141	482
+yaleB35	530	108
+yaleB34	399	317
+yaleB36	490	9
+yaleB12	139	518
+yaleB15	166	53
+yaleB21	179	534
+yaleB31	411	127
+yaleB28	416	390
+yaleB19	182	yaleB22	157
+yaleB27	61	yaleB39	340
+yaleB37	312	yaleB39	141
+yaleB16	35	yaleB15	228
+yaleB26	412	yaleB25	167
+yaleB20	440	yaleB26	18
+yaleB38	308	yaleB31	111
+yaleB18	177	yaleB38	13
+yaleB22	404	yaleB27	34
+yaleB25	121	yaleB21	546
+yaleB17	253	yaleB15	519
+yaleB11	256	yaleB13	200
+yaleB33	477	yaleB26	448
+yaleB32	594	yaleB31	569
+yaleB23	419	yaleB34	82
+yaleB29	156	yaleB30	261
+yaleB30	83	yaleB17	429
+yaleB24	233	yaleB33	591
+yaleB13	570	yaleB17	332
+yaleB39	111	yaleB34	280
+yaleB35	492	yaleB29	517
+yaleB34	244	yaleB39	484
+yaleB36	381	yaleB17	557
+yaleB12	508	yaleB37	148
+yaleB15	285	yaleB17	294
+yaleB21	508	yaleB32	412
+yaleB31	199	yaleB18	46
+yaleB28	222	yaleB39	328
+yaleB19	320	354
+yaleB27	114	118
+yaleB37	514	260
+yaleB16	397	114
+yaleB26	369	515
+yaleB20	583	3
+yaleB38	23	568
+yaleB18	265	528
+yaleB22	95	200
+yaleB25	89	484
+yaleB17	232	79
+yaleB11	146	445
+yaleB33	216	1
+yaleB32	373	382
+yaleB23	195	160
+yaleB29	365	92
+yaleB30	112	55
+yaleB24	302	233
+yaleB13	14	458
+yaleB39	22	201
+yaleB35	145	579
+yaleB34	591	280
+yaleB36	99	544
+yaleB12	420	21
+yaleB15	190	183
+yaleB21	513	32
+yaleB31	575	135
+yaleB28	516	273
+yaleB19	583	yaleB15	419
+yaleB27	461	yaleB38	255
+yaleB37	588	yaleB39	449
+yaleB16	94	yaleB18	418
+yaleB26	485	yaleB13	471
+yaleB20	127	yaleB38	469
+yaleB38	146	yaleB30	543
+yaleB18	451	yaleB15	578
+yaleB22	570	yaleB37	153
+yaleB25	95	yaleB39	546
+yaleB17	17	yaleB11	497
+yaleB11	349	yaleB27	520
+yaleB33	274	yaleB27	185
+yaleB32	521	yaleB13	415
+yaleB23	583	yaleB30	504
+yaleB29	81	yaleB18	471
+yaleB30	583	yaleB19	230
+yaleB24	84	yaleB26	218
+yaleB13	513	yaleB11	170
+yaleB39	207	yaleB24	391
+yaleB35	418	yaleB11	83
+yaleB34	346	yaleB20	342
+yaleB36	224	yaleB35	225
+yaleB12	452	yaleB28	415
+yaleB15	202	yaleB31	87
+yaleB21	327	yaleB19	42
+yaleB31	173	yaleB36	134
+yaleB28	112	yaleB29	93
+yaleB19	127	467
+yaleB27	395	587
+yaleB37	532	54
+yaleB16	572	79
+yaleB26	555	6
+yaleB20	473	593
+yaleB38	367	17
+yaleB18	360	242
+yaleB22	47	383
+yaleB25	485	1
+yaleB17	175	162
+yaleB11	162	519
+yaleB33	40	105
+yaleB32	105	331
+yaleB23	294	380
+yaleB29	83	83
+yaleB30	310	71
+yaleB24	500	339
+yaleB13	429	157
+yaleB39	431	328
+yaleB35	109	317
+yaleB34	137	400
+yaleB36	19	255
+yaleB12	378	156
+yaleB15	427	548
+yaleB21	281	195
+yaleB31	120	334
+yaleB28	438	415
+yaleB19	458	yaleB15	388
+yaleB27	30	yaleB24	191
+yaleB37	215	yaleB12	87
+yaleB16	509	yaleB29	392
+yaleB26	287	yaleB33	215
+yaleB20	148	yaleB31	146
+yaleB38	361	yaleB30	264
+yaleB18	168	yaleB38	388
+yaleB22	146	yaleB33	195
+yaleB25	219	yaleB37	214
+yaleB17	320	yaleB31	70
+yaleB11	448	yaleB34	102
+yaleB33	31	yaleB19	289
+yaleB32	247	yaleB29	450
+yaleB23	137	yaleB36	122
+yaleB29	233	yaleB11	89
+yaleB30	372	yaleB18	557
+yaleB24	439	yaleB38	401
+yaleB13	161	yaleB19	43
+yaleB39	464	yaleB23	90
+yaleB35	53	yaleB38	69
+yaleB34	70	yaleB18	293
+yaleB36	17	yaleB19	125
+yaleB12	162	yaleB38	586
+yaleB15	189	yaleB36	76
+yaleB21	216	yaleB11	434
+yaleB31	274	yaleB32	75
+yaleB28	128	yaleB35	364
+yaleB19	378	354
+yaleB27	307	128
+yaleB37	299	445
+yaleB16	191	358
+yaleB26	408	383
+yaleB20	103	93
+yaleB38	113	361
+yaleB18	205	433
+yaleB22	66	114
+yaleB25	259	233
+yaleB17	237	205
+yaleB11	484	2
+yaleB33	402	431
+yaleB32	41	194
+yaleB23	398	102
+yaleB29	117	106
+yaleB30	8	123
+yaleB24	447	84
+yaleB13	71	94
+yaleB39	449	517
+yaleB35	127	310
+yaleB34	230	284
+yaleB36	221	248
+yaleB12	196	33
+yaleB15	558	344
+yaleB21	307	31
+yaleB31	387	553
+yaleB28	71	111
+yaleB19	411	yaleB29	421
+yaleB27	116	yaleB39	154
+yaleB37	19	yaleB23	333
+yaleB16	209	yaleB24	66
+yaleB26	217	yaleB30	270
+yaleB20	330	yaleB11	230
+yaleB38	426	yaleB36	313
+yaleB18	463	yaleB38	457
+yaleB22	207	yaleB15	399
+yaleB25	56	yaleB32	210
+yaleB17	1	yaleB37	469
+yaleB11	343	yaleB39	19
+yaleB33	106	yaleB13	118
+yaleB32	245	yaleB15	451
+yaleB23	207	yaleB22	80
+yaleB29	287	yaleB23	85
+yaleB30	30	yaleB31	60
+yaleB24	239	yaleB31	518
+yaleB13	427	yaleB27	461
+yaleB39	534	yaleB35	256
+yaleB35	281	yaleB28	384
+yaleB34	91	yaleB16	122
+yaleB36	508	yaleB18	218
+yaleB12	251	yaleB23	38
+yaleB15	325	yaleB20	582
+yaleB21	37	yaleB35	53
+yaleB31	15	yaleB20	83
+yaleB28	269	yaleB23	227
+yaleB19	378	14
+yaleB27	271	14
+yaleB37	532	309
+yaleB16	183	493
+yaleB26	321	108
+yaleB20	555	139
+yaleB38	113	264
+yaleB18	407	111
+yaleB22	109	399
+yaleB25	2	220
+yaleB17	238	387
+yaleB11	125	312
+yaleB33	142	342
+yaleB32	484	530
+yaleB23	571	36
+yaleB29	487	230
+yaleB30	203	75
+yaleB24	330	540
+yaleB13	571	210
+yaleB39	431	553
+yaleB35	343	543
+yaleB34	29	305
+yaleB36	102	495
+yaleB12	31	120
+yaleB15	521	529
+yaleB21	268	492
+yaleB31	375	476
+yaleB28	128	361
+yaleB19	247	yaleB22	253
+yaleB27	93	yaleB24	142
+yaleB37	567	yaleB29	479
+yaleB16	573	yaleB27	66
+yaleB26	52	yaleB18	373
+yaleB20	183	yaleB37	9
+yaleB38	439	yaleB23	518
+yaleB18	439	yaleB34	564
+yaleB22	472	yaleB32	163
+yaleB25	32	yaleB23	519
+yaleB17	86	yaleB36	263
+yaleB11	493	yaleB19	137
+yaleB33	455	yaleB31	121
+yaleB32	159	yaleB34	431
+yaleB23	219	yaleB28	298
+yaleB29	409	yaleB25	234
+yaleB30	577	yaleB32	537
+yaleB24	113	yaleB32	480
+yaleB13	193	yaleB33	14
+yaleB39	58	yaleB35	409
+yaleB35	531	yaleB38	526
+yaleB34	465	yaleB39	407
+yaleB36	509	yaleB39	585
+yaleB12	534	yaleB25	407
+yaleB15	93	yaleB25	404
+yaleB21	532	yaleB17	441
+yaleB31	498	yaleB12	252
+yaleB28	31	yaleB37	370
+yaleB19	402	3
+yaleB27	213	105
+yaleB37	238	458
+yaleB16	123	505
+yaleB26	280	315
+yaleB20	521	298
+yaleB38	328	303
+yaleB18	405	275
+yaleB22	186	152
+yaleB25	59	35
+yaleB17	88	265
+yaleB11	78	581
+yaleB33	575	424
+yaleB32	304	211
+yaleB23	425	548
+yaleB29	586	14
+yaleB30	56	118
+yaleB24	105	484
+yaleB13	273	402
+yaleB39	88	553
+yaleB35	307	190
+yaleB34	519	234
+yaleB36	536	185
+yaleB12	431	115
+yaleB15	196	201
+yaleB21	35	105
+yaleB31	150	143
+yaleB28	88	571
+yaleB19	570	yaleB36	477
+yaleB27	418	yaleB12	280
+yaleB37	309	yaleB17	312
+yaleB16	127	yaleB27	471
+yaleB26	326	yaleB13	266
+yaleB20	536	yaleB17	169
+yaleB38	39	yaleB21	552
+yaleB18	223	yaleB16	38
+yaleB22	520	yaleB23	46
+yaleB25	513	yaleB39	554
+yaleB17	286	yaleB28	519
+yaleB11	171	yaleB12	580
+yaleB33	567	yaleB27	501
+yaleB32	311	yaleB35	62
+yaleB23	529	yaleB24	265
+yaleB29	9	yaleB32	117
+yaleB30	27	yaleB16	553
+yaleB24	470	yaleB11	56
+yaleB13	584	yaleB26	486
+yaleB39	401	yaleB24	107
+yaleB35	136	yaleB15	184
+yaleB34	449	yaleB18	304
+yaleB36	583	yaleB15	113
+yaleB12	433	yaleB28	128
+yaleB15	7	yaleB18	130
+yaleB21	336	yaleB16	462
+yaleB31	434	yaleB29	287
+yaleB28	117	yaleB39	478
+yaleB19	485	547
+yaleB27	430	162
+yaleB37	320	540
+yaleB16	210	267
+yaleB26	47	53
+yaleB20	350	153
+yaleB38	459	532
+yaleB18	8	396
+yaleB22	326	22
+yaleB25	223	586
+yaleB17	56	57
+yaleB11	86	153
+yaleB33	584	293
+yaleB32	436	164
+yaleB23	131	158
+yaleB29	167	33
+yaleB30	52	445
+yaleB24	519	408
+yaleB13	326	390
+yaleB39	143	184
+yaleB35	388	587
+yaleB34	308	181
+yaleB36	454	296
+yaleB12	548	126
+yaleB15	104	489
+yaleB21	176	455
+yaleB31	2	566
+yaleB28	538	38
+yaleB19	204	yaleB36	276
+yaleB27	354	yaleB26	495
+yaleB37	551	yaleB18	147
+yaleB16	497	yaleB19	437
+yaleB26	232	yaleB30	62
+yaleB20	39	yaleB21	125
+yaleB38	439	yaleB17	3
+yaleB18	353	yaleB39	561
+yaleB22	536	yaleB36	582
+yaleB25	263	yaleB18	110
+yaleB17	490	yaleB33	415
+yaleB11	483	yaleB33	209
+yaleB33	385	yaleB31	441
+yaleB32	517	yaleB21	531
+yaleB23	372	yaleB22	233
+yaleB29	541	yaleB23	528
+yaleB30	436	yaleB34	16
+yaleB24	298	yaleB12	123
+yaleB13	508	yaleB16	295
+yaleB39	13	yaleB17	399
+yaleB35	204	yaleB22	331
+yaleB34	107	yaleB27	557
+yaleB36	369	yaleB26	366
+yaleB12	304	yaleB11	517
+yaleB15	358	yaleB36	11
+yaleB21	332	yaleB20	169
+yaleB31	235	yaleB25	341
+yaleB28	320	yaleB37	467
+yaleB19	480	239
+yaleB27	278	536
+yaleB37	571	310
+yaleB16	505	327
+yaleB26	142	320
+yaleB20	503	509
+yaleB38	245	152
+yaleB18	435	92
+yaleB22	459	444
+yaleB25	285	402
+yaleB17	479	383
+yaleB11	277	25
+yaleB33	446	72
+yaleB32	517	356
+yaleB23	89	168
+yaleB29	195	473
+yaleB30	245	231
+yaleB24	332	361
+yaleB13	51	124
+yaleB39	556	109
+yaleB35	577	61
+yaleB34	55	46
+yaleB36	117	461
+yaleB12	460	538
+yaleB15	263	223
+yaleB21	588	190
+yaleB31	88	149
+yaleB28	315	266
+yaleB19	65	yaleB16	110
+yaleB27	168	yaleB34	237
+yaleB37	334	yaleB22	220
+yaleB16	178	yaleB29	439
+yaleB26	356	yaleB22	360
+yaleB20	581	yaleB11	179
+yaleB38	362	yaleB29	107
+yaleB18	576	yaleB37	382
+yaleB22	384	yaleB23	389
+yaleB25	240	yaleB23	472
+yaleB17	15	yaleB28	517
+yaleB11	99	yaleB32	522
+yaleB33	392	yaleB13	573
+yaleB32	231	yaleB15	295
+yaleB23	565	yaleB18	79
+yaleB29	100	yaleB23	95
+yaleB30	423	yaleB11	395
+yaleB24	152	yaleB28	16
+yaleB13	463	yaleB39	287
+yaleB39	592	yaleB13	398
+yaleB35	212	yaleB19	548
+yaleB34	262	yaleB18	24
+yaleB36	261	yaleB25	496
+yaleB12	116	yaleB26	248
+yaleB15	499	yaleB18	282
+yaleB21	279	yaleB25	417
+yaleB31	320	yaleB37	425
+yaleB28	341	yaleB22	454
+yaleB19	132	500
+yaleB27	318	86
+yaleB37	380	183
+yaleB16	35	202
+yaleB26	125	65
+yaleB20	338	57
+yaleB38	131	276
+yaleB18	58	124
+yaleB22	36	197
+yaleB25	404	396
+yaleB17	401	361
+yaleB11	493	507
+yaleB33	134	238
+yaleB32	221	384
+yaleB23	220	135
+yaleB29	386	328
+yaleB30	86	535
+yaleB24	405	518
+yaleB13	514	29
+yaleB39	48	406
+yaleB35	452	73
+yaleB34	13	520
+yaleB36	62	405
+yaleB12	570	191
+yaleB15	451	6
+yaleB21	63	56
+yaleB31	484	5
+yaleB28	189	241
+yaleB19	347	yaleB30	310
+yaleB27	451	yaleB37	233
+yaleB37	493	yaleB36	587
+yaleB16	212	yaleB15	303
+yaleB26	545	yaleB35	100
+yaleB20	512	yaleB12	416
+yaleB38	113	yaleB24	547
+yaleB18	462	yaleB17	184
+yaleB22	391	yaleB11	23
+yaleB25	197	yaleB24	85
+yaleB17	140	yaleB34	259
+yaleB11	321	yaleB26	61
+yaleB33	122	yaleB31	590
+yaleB32	557	yaleB15	565
+yaleB23	434	yaleB39	470
+yaleB29	76	yaleB15	516
+yaleB30	14	yaleB26	320
+yaleB24	452	yaleB28	266
+yaleB13	248	yaleB35	54
+yaleB39	287	yaleB18	314
+yaleB35	333	yaleB26	238
+yaleB34	493	yaleB20	420
+yaleB36	247	yaleB30	283
+yaleB12	355	yaleB15	539
+yaleB15	403	yaleB37	80
+yaleB21	331	yaleB34	250
+yaleB31	461	yaleB33	313
+yaleB28	217	yaleB33	323
+yaleB19	82	515
+yaleB27	321	202
+yaleB37	383	400
+yaleB16	459	463
+yaleB26	247	279
+yaleB20	36	236
+yaleB38	366	578
+yaleB18	306	306
+yaleB22	388	24
+yaleB25	173	163
+yaleB17	94	523
+yaleB11	573	577
+yaleB33	450	379
+yaleB32	211	403
+yaleB23	281	151
+yaleB29	517	12
+yaleB30	358	542
+yaleB24	306	279
+yaleB13	365	419
+yaleB39	365	521
+yaleB35	108	91
+yaleB34	210	176
+yaleB36	549	39
+yaleB12	532	312
+yaleB15	6	426
+yaleB21	202	138
+yaleB31	292	460
+yaleB28	85	481
+yaleB19	358	yaleB20	73
+yaleB27	228	yaleB36	488
+yaleB37	445	yaleB22	365
+yaleB16	580	yaleB26	64
+yaleB26	290	yaleB30	527
+yaleB20	35	yaleB35	363
+yaleB38	94	yaleB39	376
+yaleB18	363	yaleB39	130
+yaleB22	359	yaleB35	54
+yaleB25	154	yaleB30	347
+yaleB17	528	yaleB34	131
+yaleB11	207	yaleB31	59
+yaleB33	78	yaleB15	275
+yaleB32	545	yaleB31	322
+yaleB23	252	yaleB28	214
+yaleB29	86	yaleB27	448
+yaleB30	189	yaleB25	155
+yaleB24	455	yaleB18	45
+yaleB13	500	yaleB20	421
+yaleB39	184	yaleB12	175
+yaleB35	316	yaleB27	213
+yaleB34	578	yaleB31	557
+yaleB36	47	yaleB13	453
+yaleB12	446	yaleB38	193
+yaleB15	272	yaleB18	60
+yaleB21	149	yaleB16	556
+yaleB31	172	yaleB37	224
+yaleB28	38	yaleB39	480
+yaleB19	582	510
+yaleB27	392	332
+yaleB37	550	105
+yaleB16	401	178
+yaleB26	65	99
+yaleB20	207	196
+yaleB38	365	388
+yaleB18	419	204
+yaleB22	25	489
+yaleB25	368	211
+yaleB17	169	44
+yaleB11	299	135
+yaleB33	73	344
+yaleB32	240	133
+yaleB23	218	183
+yaleB29	76	71
+yaleB30	516	557
+yaleB24	533	228
+yaleB13	344	77
+yaleB39	101	466
+yaleB35	213	255
+yaleB34	459	371
+yaleB36	156	229
+yaleB12	204	389
+yaleB15	152	468
+yaleB21	521	295
+yaleB31	402	365
+yaleB28	564	585
+yaleB19	209	yaleB35	95
+yaleB27	337	yaleB16	204
+yaleB37	580	yaleB16	257
+yaleB16	125	yaleB33	359
+yaleB26	342	yaleB21	434
+yaleB20	205	yaleB18	542
+yaleB38	576	yaleB37	189
+yaleB18	156	yaleB34	437
+yaleB22	390	yaleB19	206
+yaleB25	183	yaleB28	520
+yaleB17	11	yaleB22	313
+yaleB11	129	yaleB34	361
+yaleB33	320	yaleB17	527
+yaleB32	160	yaleB24	527
+yaleB23	506	yaleB32	35
+yaleB29	365	yaleB33	213
+yaleB30	333	yaleB16	377
+yaleB24	518	yaleB17	180
+yaleB13	281	yaleB19	109
+yaleB39	231	yaleB15	257
+yaleB35	20	yaleB19	112
+yaleB34	526	yaleB19	51
+yaleB36	117	yaleB24	420
+yaleB12	407	yaleB25	441
+yaleB15	451	yaleB13	1
+yaleB21	142	yaleB30	529
+yaleB31	70	yaleB23	333
+yaleB28	192	yaleB37	88
+yaleB19	590	118
+yaleB27	24	80
+yaleB37	513	67
+yaleB16	354	580
+yaleB26	265	360
+yaleB20	309	216
+yaleB38	111	90
+yaleB18	90	216
+yaleB22	456	278
+yaleB25	236	557
+yaleB17	39	18
+yaleB11	84	75
+yaleB33	556	371
+yaleB32	333	287
+yaleB23	512	397
+yaleB29	495	86
+yaleB30	163	143
+yaleB24	22	357
+yaleB13	170	458
+yaleB39	261	99
+yaleB35	556	440
+yaleB34	7	64
+yaleB36	360	535
+yaleB12	445	461
+yaleB15	113	488
+yaleB21	68	511
+yaleB31	339	308
+yaleB28	503	58
+yaleB19	405	yaleB13	209
+yaleB27	91	yaleB17	375
+yaleB37	455	yaleB34	381
+yaleB16	504	yaleB27	2
+yaleB26	574	yaleB39	223
+yaleB20	133	yaleB19	344
+yaleB38	121	yaleB30	591
+yaleB18	39	yaleB16	288
+yaleB22	231	yaleB39	260
+yaleB25	157	yaleB11	433
+yaleB17	140	yaleB20	168
+yaleB11	461	yaleB22	495
+yaleB33	514	yaleB34	457
+yaleB32	291	yaleB30	341
+yaleB23	392	yaleB38	405
+yaleB29	499	yaleB35	362
+yaleB30	58	yaleB26	143
+yaleB24	560	yaleB17	585
+yaleB13	95	yaleB25	412
+yaleB39	576	yaleB18	280
+yaleB35	273	yaleB34	156
+yaleB34	37	yaleB20	243
+yaleB36	535	yaleB25	421
+yaleB12	57	yaleB25	103
+yaleB15	301	yaleB34	262
+yaleB21	222	yaleB11	532
+yaleB31	117	yaleB21	31
+yaleB28	252	yaleB12	128
+yaleB19	467	201
+yaleB27	299	473
+yaleB37	212	398
+yaleB16	335	100
+yaleB26	255	255
+yaleB20	202	342
+yaleB38	230	403
+yaleB18	468	475
+yaleB22	87	418
+yaleB25	161	421
+yaleB17	485	30
+yaleB11	164	243
+yaleB33	306	235
+yaleB32	325	273
+yaleB23	200	477
+yaleB29	220	340
+yaleB30	106	405
+yaleB24	210	242
+yaleB13	521	413
+yaleB39	233	218
+yaleB35	215	229
+yaleB34	376	136
+yaleB36	265	450
+yaleB12	255	142
+yaleB15	306	6
+yaleB21	41	184
+yaleB31	395	265
+yaleB28	151	221
+yaleB19	362	yaleB13	330
+yaleB27	226	yaleB37	518
+yaleB37	205	yaleB16	1
+yaleB16	175	yaleB12	508
+yaleB26	478	yaleB12	381
+yaleB20	264	yaleB35	440
+yaleB38	456	yaleB15	206
+yaleB18	425	yaleB13	430
+yaleB22	364	yaleB25	456
+yaleB25	136	yaleB19	349
+yaleB17	148	yaleB38	32
+yaleB11	316	yaleB24	528
+yaleB33	233	yaleB32	235
+yaleB32	386	yaleB12	295
+yaleB23	258	yaleB13	271
+yaleB29	3	yaleB36	454
+yaleB30	50	yaleB33	464
+yaleB24	433	yaleB18	192
+yaleB13	35	yaleB37	459
+yaleB39	335	yaleB33	117
+yaleB35	401	yaleB32	367
+yaleB34	545	yaleB32	452
+yaleB36	343	yaleB15	347
+yaleB12	162	yaleB26	424
+yaleB15	502	yaleB36	19
+yaleB21	112	yaleB22	116
+yaleB31	79	yaleB32	292
+yaleB28	227	yaleB25	192
+yaleB19	467	376
+yaleB27	170	64
+yaleB37	48	449
+yaleB16	501	559
+yaleB26	449	499
+yaleB20	547	465
+yaleB38	186	337
+yaleB18	45	129
+yaleB22	247	430
+yaleB25	143	325
+yaleB17	94	451
+yaleB11	313	379
+yaleB33	56	386
+yaleB32	51	335
+yaleB23	481	77
+yaleB29	317	366
+yaleB30	23	390
+yaleB24	582	199
+yaleB13	252	151
+yaleB39	129	162
+yaleB35	24	38
+yaleB34	557	475
+yaleB36	344	59
+yaleB12	538	288
+yaleB15	398	228
+yaleB21	296	92
+yaleB31	539	22
+yaleB28	113	226
+yaleB19	267	yaleB38	21
+yaleB27	292	yaleB35	42
+yaleB37	434	yaleB38	121
+yaleB16	431	yaleB30	14
+yaleB26	100	yaleB30	140
+yaleB20	139	yaleB16	479
+yaleB38	260	yaleB23	184
+yaleB18	526	yaleB13	412
+yaleB22	156	yaleB13	529
+yaleB25	259	yaleB29	110
+yaleB17	399	yaleB36	465
+yaleB11	170	yaleB24	360
+yaleB33	542	yaleB34	72
+yaleB32	32	yaleB21	500
+yaleB23	500	yaleB27	51
+yaleB29	314	yaleB11	352
+yaleB30	386	yaleB36	104
+yaleB24	496	yaleB11	39
+yaleB13	478	yaleB28	485
+yaleB39	325	yaleB34	576
+yaleB35	201	yaleB30	159
+yaleB34	102	yaleB15	143
+yaleB36	195	yaleB18	337
+yaleB12	569	yaleB29	141
+yaleB15	377	yaleB36	289
+yaleB21	192	yaleB12	171
+yaleB31	223	yaleB15	37
+yaleB28	511	yaleB34	549
+yaleB19	397	181
+yaleB27	210	184
+yaleB37	583	226
+yaleB16	277	435
+yaleB26	304	491
+yaleB20	508	511
+yaleB38	98	367
+yaleB18	236	523
+yaleB22	200	489
+yaleB25	569	581
+yaleB17	1	466
+yaleB11	131	505
+yaleB33	334	501
+yaleB32	506	471
+yaleB23	288	141
+yaleB29	165	369
+yaleB30	577	587
+yaleB24	21	346
+yaleB13	84	119
+yaleB39	301	88
+yaleB35	308	356
+yaleB34	593	294
+yaleB36	217	406
+yaleB12	135	196
+yaleB15	452	437
+yaleB21	386	235
+yaleB31	529	197
+yaleB28	474	311
+yaleB19	473	yaleB22	134
+yaleB27	210	yaleB31	398
+yaleB37	453	yaleB27	183
+yaleB16	417	yaleB39	343
+yaleB26	351	yaleB37	134
+yaleB20	70	yaleB26	305
+yaleB38	22	yaleB21	512
+yaleB18	233	yaleB19	151
+yaleB22	549	yaleB20	380
+yaleB25	369	yaleB26	47
+yaleB17	575	yaleB23	306
+yaleB11	122	yaleB31	3
+yaleB33	438	yaleB15	132
+yaleB32	51	yaleB25	307
+yaleB23	589	yaleB38	163
+yaleB29	546	yaleB26	568
+yaleB30	589	yaleB21	84
+yaleB24	577	yaleB13	323
+yaleB13	175	yaleB37	578
+yaleB39	55	yaleB31	494
+yaleB35	184	yaleB17	7
+yaleB34	77	yaleB32	240
+yaleB36	81	yaleB37	248
+yaleB12	66	yaleB15	36
+yaleB15	345	yaleB22	532
+yaleB21	220	yaleB33	519
+yaleB31	384	yaleB17	135
+yaleB28	360	yaleB30	41
+yaleB19	481	329
+yaleB27	190	35
+yaleB37	102	59
+yaleB16	466	161
+yaleB26	64	520
+yaleB20	85	189
+yaleB38	112	351
+yaleB18	99	291
+yaleB22	80	288
+yaleB25	156	49
+yaleB17	471	93
+yaleB11	381	130
+yaleB33	388	121
+yaleB32	590	436
+yaleB23	238	426
+yaleB29	470	206
+yaleB30	566	342
+yaleB24	441	254
+yaleB13	339	417
+yaleB39	297	470
+yaleB35	566	269
+yaleB34	323	436
+yaleB36	287	520
+yaleB12	31	418
+yaleB15	554	40
+yaleB21	456	492
+yaleB31	460	202
+yaleB28	313	222
+yaleB19	443	yaleB39	12
+yaleB27	225	yaleB12	103
+yaleB37	390	yaleB22	486
+yaleB16	57	yaleB25	370
+yaleB26	592	yaleB17	31
+yaleB20	532	yaleB22	347
+yaleB38	471	yaleB33	40
+yaleB18	547	yaleB17	232
+yaleB22	279	yaleB36	106
+yaleB25	481	yaleB37	314
+yaleB17	200	yaleB26	49
+yaleB11	256	yaleB26	329
+yaleB33	12	yaleB32	168
+yaleB32	152	yaleB26	366
+yaleB23	104	yaleB25	482
+yaleB29	175	yaleB30	359
+yaleB30	200	yaleB25	435
+yaleB24	153	yaleB38	6
+yaleB13	168	yaleB29	285
+yaleB39	57	yaleB22	286
+yaleB35	544	yaleB15	196
+yaleB34	571	yaleB38	347
+yaleB36	477	yaleB19	275
+yaleB12	270	yaleB39	303
+yaleB15	264	yaleB13	379
+yaleB21	55	yaleB16	49
+yaleB31	539	yaleB24	510
+yaleB28	455	yaleB20	195

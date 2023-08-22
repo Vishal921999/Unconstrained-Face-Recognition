@@ -1,0 +1,3001 @@
+100	15
+person9	8	11
+person10	1	1
+person2	2	9
+person14	6	3
+person6	7	10
+person5	10	5
+person7	9	2
+person1	4	7
+person8	4	5
+person12	2	1
+person3	1	5
+person15	3	1
+person11	11	6
+person13	10	6
+person4	9	2
+person9	1	person13	1
+person10	11	person1	6
+person2	6	person13	8
+person14	5	person2	9
+person6	5	person3	11
+person5	11	person1	10
+person7	9	person4	2
+person1	8	person10	3
+person8	9	person10	8
+person12	6	person11	1
+person3	5	person2	6
+person15	2	person11	1
+person11	3	person14	9
+person13	1	person7	11
+person4	10	person9	4
+person9	3	5
+person10	11	7
+person2	6	4
+person14	3	4
+person6	9	5
+person5	8	11
+person7	2	6
+person1	5	6
+person8	5	5
+person12	8	5
+person3	1	6
+person15	4	5
+person11	11	10
+person13	4	2
+person4	8	1
+person9	2	person7	2
+person10	2	person4	10
+person2	5	person3	9
+person14	2	person5	6
+person6	4	person10	3
+person5	10	person11	5
+person7	3	person1	1
+person1	5	person2	5
+person8	7	person11	11
+person12	11	person15	6
+person3	9	person12	10
+person15	6	person13	6
+person11	11	person1	11
+person13	4	person6	8
+person4	10	person5	5
+person9	7	11
+person10	9	1
+person2	4	3
+person14	4	4
+person6	6	3
+person5	1	2
+person7	1	6
+person1	9	8
+person8	11	6
+person12	11	8
+person3	3	7
+person15	2	11
+person11	7	9
+person13	6	2
+person4	5	11
+person9	9	person6	4
+person10	2	person14	5
+person2	5	person6	8
+person14	8	person12	10
+person6	4	person11	9
+person5	1	person2	1
+person7	11	person5	1
+person1	5	person9	7
+person8	3	person3	6
+person12	11	person2	11
+person3	2	person7	3
+person15	6	person8	4
+person11	4	person6	10
+person13	10	person12	4
+person4	6	person8	9
+person9	3	11
+person10	11	7
+person2	8	7
+person14	7	4
+person6	7	4
+person5	10	9
+person7	11	1
+person1	11	11
+person8	9	11
+person12	11	8
+person3	11	5
+person15	2	7
+person11	4	1
+person13	3	9
+person4	8	6
+person9	11	person10	4
+person10	5	person1	1
+person2	1	person15	2
+person14	7	person6	11
+person6	11	person10	4
+person5	7	person7	4
+person7	6	person15	4
+person1	11	person11	3
+person8	8	person14	6
+person12	1	person3	2
+person3	8	person7	3
+person15	8	person2	11
+person11	11	person14	6
+person13	7	person4	1
+person4	11	person7	8
+person9	9	8
+person10	3	2
+person2	6	5
+person14	3	10
+person6	7	7
+person5	2	1
+person7	9	7
+person1	11	4
+person8	11	2
+person12	6	1
+person3	6	8
+person15	11	1
+person11	10	9
+person13	7	6
+person4	10	8
+person9	8	person13	3
+person10	7	person8	2
+person2	7	person5	6
+person14	5	person9	5
+person6	7	person13	6
+person5	5	person6	10
+person7	2	person11	1
+person1	6	person14	10
+person8	7	person7	1
+person12	7	person13	11
+person3	3	person15	4
+person15	11	person2	10
+person11	6	person6	2
+person13	7	person9	10
+person4	10	person8	10
+person9	1	6
+person10	11	6
+person2	10	2
+person14	4	2
+person6	10	1
+person5	9	11
+person7	6	10
+person1	6	10
+person8	8	8
+person12	5	5
+person3	1	5
+person15	2	5
+person11	10	6
+person13	9	6
+person4	3	6
+person9	4	person11	7
+person10	6	person6	4
+person2	7	person9	5
+person14	6	person6	11
+person6	9	person8	2
+person5	5	person15	11
+person7	7	person13	5
+person1	5	person9	4
+person8	8	person7	9
+person12	6	person5	3
+person3	3	person12	8
+person15	2	person10	3
+person11	1	person3	9
+person13	10	person8	1
+person4	1	person1	11
+person9	5	10
+person10	2	1
+person2	7	3
+person14	5	5
+person6	1	4
+person5	11	10
+person7	6	9
+person1	5	7
+person8	10	3
+person12	1	4
+person3	1	6
+person15	9	3
+person11	3	4
+person13	2	6
+person4	9	2
+person9	11	person4	3
+person10	11	person3	9
+person2	7	person6	5
+person14	3	person9	5
+person6	6	person13	7
+person5	11	person6	5
+person7	2	person4	8
+person1	8	person9	10
+person8	9	person12	6
+person12	11	person15	8
+person3	10	person8	11
+person15	10	person13	1
+person11	1	person9	3
+person13	10	person11	6
+person4	11	person5	8
+person9	7	11
+person10	9	2
+person2	4	4
+person14	4	6
+person6	9	9
+person5	4	6
+person7	9	6
+person1	4	3
+person8	3	9
+person12	5	1
+person3	7	6
+person15	8	5
+person11	9	2
+person13	1	5
+person4	4	10
+person9	9	person11	9
+person10	8	person14	11
+person2	1	person10	4
+person14	4	person15	9
+person6	2	person2	8
+person5	2	person4	4
+person7	7	person8	4
+person1	6	person2	8
+person8	11	person9	1
+person12	8	person6	7
+person3	1	person11	11
+person15	4	person14	7
+person11	8	person9	8
+person13	11	person10	11
+person4	1	person3	10
+person9	10	4
+person10	9	2
+person2	2	6
+person14	6	10
+person6	7	10
+person5	3	2
+person7	1	2
+person1	10	11
+person8	6	10
+person12	1	7
+person3	1	9
+person15	9	2
+person11	10	9
+person13	9	1
+person4	6	7
+person9	10	person14	7
+person10	9	person5	5
+person2	3	person5	6
+person14	1	person3	4
+person6	7	person10	2
+person5	11	person15	1
+person7	2	person2	9
+person1	1	person15	4
+person8	11	person13	10
+person12	10	person8	6
+person3	3	person15	9
+person15	3	person4	5
+person11	11	person9	8
+person13	5	person6	11
+person4	8	person14	1
+person9	2	4
+person10	3	2
+person2	4	4
+person14	8	6
+person6	1	6
+person5	7	6
+person7	4	11
+person1	8	2
+person8	6	10
+person12	11	3
+person3	5	4
+person15	3	1
+person11	1	7
+person13	2	4
+person4	7	6
+person9	9	person7	10
+person10	10	person15	10
+person2	2	person7	11
+person14	7	person12	9
+person6	11	person11	6
+person5	3	person2	6
+person7	6	person11	6
+person1	9	person4	6
+person8	6	person9	3
+person12	3	person1	6
+person3	5	person6	11
+person15	8	person7	10
+person11	9	person13	1
+person13	1	person3	4
+person4	1	person15	2
+person9	7	8
+person10	8	6
+person2	7	9
+person14	10	4
+person6	3	4
+person5	5	5
+person7	1	4
+person1	1	6
+person8	5	8
+person12	3	1
+person3	9	6
+person15	1	4
+person11	10	8
+person13	9	2
+person4	8	7
+person9	5	person3	4
+person10	11	person8	2
+person2	1	person10	1
+person14	8	person10	10
+person6	3	person5	3
+person5	1	person14	5
+person7	8	person8	3
+person1	11	person11	5
+person8	4	person15	5
+person12	4	person2	8
+person3	8	person1	9
+person15	7	person3	1
+person11	11	person14	2
+person13	4	person12	10
+person4	2	person3	8
+person9	9	3
+person10	9	7
+person2	1	2
+person14	6	3
+person6	6	6
+person5	10	7
+person7	4	9
+person1	2	3
+person8	4	2
+person12	5	1
+person3	8	1
+person15	4	11
+person11	6	10
+person13	7	1
+person4	6	11
+person9	8	person12	11
+person10	6	person7	5
+person2	9	person11	1
+person14	5	person12	1
+person6	3	person7	10
+person5	5	person6	7
+person7	10	person3	11
+person1	8	person13	7
+person8	8	person6	7
+person12	6	person13	1
+person3	8	person9	3
+person15	1	person14	3
+person11	4	person15	2
+person13	4	person15	8
+person4	1	person15	11
+person9	6	4
+person10	6	10
+person2	9	11
+person14	9	11
+person6	3	5
+person5	6	4
+person7	4	9
+person1	10	12
+person8	10	5
+person12	4	11
+person3	5	5
+person15	11	7
+person11	9	5
+person13	9	1
+person4	3	8
+person9	3	person4	7
+person10	11	person1	10
+person2	10	person1	2
+person14	3	person4	2
+person6	7	person13	8
+person5	1	person8	3
+person7	8	person6	11
+person1	1	person14	7
+person8	8	person5	11
+person12	9	person6	4
+person3	11	person8	4
+person15	9	person12	8
+person11	2	person6	9
+person13	9	person10	11
+person4	1	person14	10
+person9	6	11
+person10	9	4
+person2	1	6
+person14	8	5
+person6	10	3
+person5	2	6
+person7	11	4
+person1	4	3
+person8	3	11
+person12	5	5
+person3	6	4
+person15	7	2
+person11	1	10
+person13	8	2
+person4	2	6
+person9	1	person6	3
+person10	5	person11	6
+person2	4	person3	8
+person14	10	person1	9
+person6	6	person11	8
+person5	7	person15	9
+person7	6	person12	5
+person1	12	person11	6
+person8	2	person6	7
+person12	5	person9	7
+person3	8	person12	10
+person15	10	person1	3
+person11	5	person9	11
+person13	3	person11	4
+person4	5	person1	6
+person9	5	4
+person10	1	4
+person2	3	11
+person14	2	11
+person6	8	8
+person5	4	1
+person7	4	8
+person1	5	5
+person8	9	2
+person12	8	6
+person3	10	7
+person15	2	2
+person11	8	10
+person13	5	2
+person4	9	6
+person9	8	person2	3
+person10	4	person15	5
+person2	2	person3	2
+person14	11	person4	11
+person6	3	person5	8
+person5	8	person14	7
+person7	1	person13	4
+person1	2	person2	3
+person8	10	person15	3
+person12	7	person4	1
+person3	9	person8	11
+person15	7	person2	5
+person11	8	person9	7
+person13	10	person10	3
+person4	6	person11	1
+person9	9	8
+person10	10	8
+person2	8	9
+person14	4	8
+person6	9	2
+person5	4	3
+person7	9	8
+person1	12	11
+person8	1	5
+person12	8	1
+person3	10	7
+person15	3	5
+person11	6	4
+person13	7	1
+person4	10	9
+person9	7	person2	7
+person10	6	person2	11
+person2	4	person14	1
+person14	6	person3	10
+person6	10	person12	4
+person5	4	person8	2
+person7	6	person14	4
+person1	4	person9	11
+person8	9	person5	8
+person12	9	person14	10
+person3	6	person5	1
+person15	5	person8	7
+person11	9	person13	11
+person13	10	person3	2
+person4	11	person13	9
+person9	2	11
+person10	11	10
+person2	1	2
+person14	4	9
+person6	2	3
+person5	6	8
+person7	8	3
+person1	10	1
+person8	9	8
+person12	11	7
+person3	8	4
+person15	4	6
+person11	8	8
+person13	3	11
+person4	10	6
+person9	11	person7	6
+person10	2	person8	7
+person2	6	person12	4
+person14	7	person5	1
+person6	8	person12	5
+person5	10	person14	1
+person7	9	person2	3
+person1	8	person10	4
+person8	5	person2	6
+person12	6	person10	3
+person3	11	person6	6
+person15	6	person4	3
+person11	9	person1	10
+person13	7	person10	9
+person4	10	person6	4
+person9	6	4
+person10	9	5
+person2	8	9
+person14	10	11
+person6	3	3
+person5	7	11
+person7	10	8
+person1	1	10
+person8	2	3
+person12	7	4
+person3	5	3
+person15	6	4
+person11	1	6
+person13	10	2
+person4	5	4
+person9	5	person13	5
+person10	3	person1	2
+person2	4	person9	11
+person14	6	person5	2
+person6	8	person12	2
+person5	10	person3	5
+person7	2	person13	5
+person1	2	person9	2
+person8	6	person14	2
+person12	10	person9	10
+person3	11	person13	9
+person15	4	person1	4
+person11	7	person15	2
+person13	3	person12	8
+person4	3	person7	2
+person9	1	8
+person10	3	6
+person2	1	3
+person14	3	3
+person6	9	5
+person5	9	11
+person7	8	10
+person1	2	10
+person8	8	3
+person12	10	4
+person3	8	1
+person15	6	1
+person11	7	3
+person13	7	6
+person4	3	5
+person9	4	person13	6
+person10	9	person1	6
+person2	7	person7	6
+person14	6	person2	2
+person6	11	person5	7
+person5	5	person12	4
+person7	7	person5	6
+person1	6	person7	3
+person8	6	person1	8
+person12	2	person6	8
+person3	1	person7	1
+person15	2	person13	11
+person11	1	person6	1
+person13	1	person7	2
+person4	5	person7	8
+person9	4	5
+person10	5	4
+person2	2	5
+person14	2	6
+person6	9	5
+person5	1	11
+person7	6	2
+person1	3	10
+person8	8	9
+person12	11	3
+person3	5	2
+person15	2	10
+person11	11	6
+person13	1	3
+person4	4	2
+person9	10	person2	10
+person10	5	person7	4
+person2	8	person6	3
+person14	2	person3	7
+person6	8	person3	5
+person5	6	person15	6
+person7	5	person15	10
+person1	3	person4	4
+person8	5	person1	8
+person12	2	person3	5
+person3	7	person7	7
+person15	1	person10	1
+person11	7	person9	10
+person13	9	person10	10
+person4	2	person14	2
+person9	7	4
+person10	3	10
+person2	6	4
+person14	5	9
+person6	7	9
+person5	1	5
+person7	2	5
+person1	7	9
+person8	6	8
+person12	7	1
+person3	10	10
+person15	10	8
+person11	1	6
+person13	11	1
+person4	6	7
+person9	2	person2	11
+person10	9	person4	2
+person2	6	person15	5
+person14	2	person3	11
+person6	8	person12	4
+person5	10	person12	9
+person7	8	person9	3
+person1	11	person4	6
+person8	10	person12	1
+person12	5	person1	5
+person3	4	person10	3
+person15	11	person4	3
+person11	2	person9	1
+person13	2	person8	4
+person4	6	person5	3
+person9	5	1
+person10	11	4
+person2	4	4
+person14	10	10
+person6	11	6
+person5	10	6
+person7	8	8
+person1	1	3
+person8	5	11
+person12	1	3
+person3	9	7
+person15	5	3
+person11	5	4
+person13	10	7
+person4	10	1
+person9	11	person1	2
+person10	2	person2	1
+person2	4	person10	2
+person14	1	person15	6
+person6	9	person12	5
+person5	10	person8	2
+person7	7	person13	9
+person1	11	person6	10
+person8	2	person6	8
+person12	9	person3	10
+person3	5	person12	6
+person15	7	person4	10
+person11	11	person7	4
+person13	3	person10	3
+person4	4	person13	4
+person9	9	2
+person10	11	4
+person2	4	10
+person14	6	4
+person6	7	8
+person5	7	8
+person7	2	11
+person1	10	12
+person8	7	4
+person12	5	7
+person3	2	11
+person15	4	4
+person11	2	5
+person13	5	2
+person4	10	5
+person9	6	person11	6
+person10	4	person7	6
+person2	5	person4	8
+person14	8	person5	8
+person6	1	person10	3
+person5	5	person2	6
+person7	5	person13	3
+person1	8	person15	7
+person8	8	person10	6
+person12	5	person10	8
+person3	3	person1	10
+person15	2	person3	9
+person11	6	person5	10
+person13	5	person3	7
+person4	11	person9	10
+person9	8	1
+person10	7	7
+person2	1	6
+person14	8	10
+person6	2	4
+person5	11	9
+person7	3	5
+person1	5	2
+person8	10	5
+person12	5	11
+person3	9	6
+person15	3	4
+person11	7	6
+person13	2	4
+person4	8	4
+person9	2	person1	10
+person10	3	person13	5
+person2	3	person9	9
+person14	8	person3	11
+person6	3	person10	7
+person5	4	person7	5
+person7	6	person14	7
+person1	8	person9	4
+person8	5	person15	8
+person12	11	person13	4
+person3	6	person15	8
+person15	10	person9	2
+person11	11	person14	2
+person13	4	person4	5
+person4	7	person3	6
+person9	8	7
+person10	4	9
+person2	1	1
+person14	3	3
+person6	5	6
+person5	1	4
+person7	11	10
+person1	4	4
+person8	7	10
+person12	5	3
+person3	2	8
+person15	6	5
+person11	10	4
+person13	7	6
+person4	7	6
+person9	11	person6	9
+person10	5	person3	8
+person2	9	person14	7
+person14	8	person2	5
+person6	6	person10	6
+person5	3	person10	2
+person7	7	person1	3
+person1	10	person9	10
+person8	5	person1	1
+person12	11	person7	10
+person3	6	person15	8
+person15	1	person14	7
+person11	11	person2	9
+person13	8	person8	4
+person4	2	person7	10
+person9	3	9
+person10	10	6
+person2	8	4
+person14	2	5
+person6	11	6
+person5	10	7
+person7	6	1
+person1	11	2
+person8	10	8
+person12	8	4
+person3	11	7
+person15	1	2
+person11	7	6
+person13	1	3
+person4	1	1
+person9	1	person12	8
+person10	2	person12	11
+person2	9	person15	8
+person14	4	person12	6
+person6	8	person4	3
+person5	4	person8	3
+person7	10	person11	7
+person1	5	person8	4
+person8	5	person13	8
+person12	6	person13	10
+person3	9	person15	3
+person15	5	person1	1
+person11	11	person3	11
+person13	4	person12	7
+person4	2	person14	5
+person9	9	1
+person10	5	6
+person2	5	5
+person14	7	4
+person6	1	10
+person5	2	9
+person7	7	4
+person1	3	6
+person8	4	3
+person12	5	6
+person3	7	1
+person15	11	1
+person11	10	7
+person13	10	10
+person4	10	7
+person9	6	person3	3
+person10	1	person8	4
+person2	4	person15	5
+person14	10	person4	2
+person6	4	person4	5
+person5	3	person9	6
+person7	1	person14	7
+person1	2	person2	11
+person8	11	person11	2
+person12	9	person11	3
+person3	10	person5	1
+person15	9	person9	6
+person11	1	person14	7
+person13	10	person9	6
+person4	11	person2	3
+person9	11	10
+person10	7	4
+person2	6	6
+person14	10	1
+person6	6	1
+person5	1	3
+person7	2	11
+person1	2	11
+person8	9	1
+person12	6	4
+person3	11	8
+person15	9	3
+person11	8	7
+person13	8	8
+person4	7	4
+person9	5	person5	9
+person10	2	person4	2
+person2	4	person6	10
+person14	3	person13	10
+person6	5	person2	4
+person5	8	person6	6
+person7	8	person9	4
+person1	3	person2	2
+person8	9	person1	7
+person12	8	person4	6
+person3	4	person11	3
+person15	1	person13	7
+person11	9	person14	7
+person13	10	person2	10
+person4	7	person3	6
+person9	10	2
+person10	6	1
+person2	5	1
+person14	10	4
+person6	3	1
+person5	3	7
+person7	9	7
+person1	1	5
+person8	8	1
+person12	6	1
+person3	1	1
+person15	6	10
+person11	4	6
+person13	2	1
+person4	11	7
+person9	7	person5	5
+person10	11	person15	8
+person2	4	person14	6
+person14	2	person9	2
+person6	10	person4	11
+person5	3	person3	6
+person7	5	person1	12
+person1	11	person3	5
+person8	11	person1	2
+person12	7	person8	7
+person3	3	person11	3
+person15	5	person6	10
+person11	7	person1	12
+person13	7	person9	7
+person4	4	person2	10
+person9	1	9
+person10	8	5
+person2	10	8
+person14	11	10
+person6	6	11
+person5	6	7
+person7	11	6
+person1	3	4
+person8	5	11
+person12	11	7
+person3	1	6
+person15	7	3
+person11	10	4
+person13	1	8
+person4	8	1
+person9	1	person4	10
+person10	8	person8	8
+person2	1	person9	5
+person14	9	person8	4
+person6	1	person1	9
+person5	9	person1	8
+person7	9	person15	1
+person1	1	person11	3
+person8	8	person13	10
+person12	11	person3	7
+person3	6	person10	1
+person15	10	person2	5
+person11	10	person13	4
+person13	6	person7	5
+person4	8	person15	5
+person9	10	11
+person10	1	7
+person2	9	6
+person14	5	6
+person6	9	5
+person5	5	9
+person7	1	1
+person1	11	1
+person8	4	7
+person12	9	4
+person3	11	8
+person15	4	11
+person11	6	2
+person13	2	9
+person4	5	1
+person9	4	person12	4
+person10	4	person12	11
+person2	2	person12	6
+person14	2	person2	3
+person6	2	person14	11
+person5	7	person8	4
+person7	10	person2	8
+person1	3	person15	9
+person8	1	person5	10
+person12	2	person9	6
+person3	7	person10	5
+person15	1	person9	1
+person11	3	person8	2
+person13	8	person4	11
+person4	4	person10	3
+person9	9	2
+person10	10	4
+person2	10	5
+person14	10	8
+person6	3	3
+person5	6	6
+person7	5	8
+person1	1	4
+person8	8	3
+person12	5	6
+person3	9	4
+person15	4	6
+person11	3	10
+person13	3	7
+person4	3	11
+person9	10	person12	6
+person10	4	person12	7
+person2	8	person7	9
+person14	7	person8	9
+person6	9	person3	3
+person5	1	person9	2
+person7	8	person3	3
+person1	9	person5	6
+person8	1	person5	10
+person12	5	person10	11
+person3	1	person6	2
+person15	4	person12	2
+person11	10	person10	7
+person13	7	person1	11
+person4	1	person8	11
+person9	1	1
+person10	2	9
+person2	9	9
+person14	4	1
+person6	6	9
+person5	9	2
+person7	11	2
+person1	3	1
+person8	3	4
+person12	6	10
+person3	7	9
+person15	9	9
+person11	4	6
+person13	5	3
+person4	4	2
+person9	2	person12	9
+person10	8	person2	10
+person2	7	person12	11
+person14	5	person6	8
+person6	7	person2	8
+person5	6	person13	4
+person7	10	person8	8
+person1	10	person12	4
+person8	7	person4	5
+person12	5	person1	12
+person3	5	person8	9
+person15	3	person10	9
+person11	9	person14	8
+person13	3	person6	2
+person4	6	person8	4
+person9	3	3
+person10	5	9
+person2	11	1
+person14	10	1
+person6	7	2
+person5	8	2
+person7	11	6
+person1	2	2
+person8	9	5
+person12	7	8
+person3	3	2
+person15	9	1
+person11	3	11
+person13	5	9
+person4	6	4
+person9	6	person8	9
+person10	6	person2	8
+person2	11	person14	3
+person14	6	person11	6
+person6	3	person5	4
+person5	7	person10	1
+person7	4	person15	5
+person1	5	person3	10
+person8	5	person13	10
+person12	9	person5	10
+person3	7	person7	3
+person15	5	person3	7
+person11	2	person1	1
+person13	3	person5	1
+person4	2	person7	3
+person9	1	6
+person10	4	2
+person2	7	1
+person14	1	11
+person6	5	11
+person5	10	9
+person7	9	7
+person1	8	1
+person8	4	8
+person12	7	8
+person3	9	7
+person15	1	9
+person11	7	2
+person13	2	2
+person4	1	3
+person9	1	person2	6
+person10	1	person8	2
+person2	7	person13	10
+person14	7	person2	3
+person6	2	person3	1
+person5	1	person7	3
+person7	5	person14	4
+person1	6	person8	11
+person8	6	person6	8
+person12	1	person6	1
+person3	11	person15	11
+person15	4	person6	6
+person11	5	person1	11
+person13	8	person1	5
+person4	9	person5	6
+person9	6	2
+person10	2	2
+person2	6	9
+person14	6	8
+person6	5	10
+person5	2	10
+person7	2	3
+person1	7	8
+person8	11	8
+person12	8	6
+person3	6	9
+person15	1	2
+person11	1	3
+person13	3	9
+person4	2	4
+person9	9	person12	7
+person10	5	person4	9
+person2	9	person6	1
+person14	2	person11	7
+person6	6	person7	5
+person5	3	person14	6
+person7	6	person4	6
+person1	9	person10	10
+person8	3	person10	4
+person12	3	person3	6
+person3	11	person9	2
+person15	8	person5	11
+person11	4	person13	6
+person13	8	person5	7
+person4	6	person11	7
+person9	11	10
+person10	6	6
+person2	3	8
+person14	8	3
+person6	2	10
+person5	2	11
+person7	6	3
+person1	6	6
+person8	7	9
+person12	9	7
+person3	5	7
+person15	5	9
+person11	6	7
+person13	1	10
+person4	11	6
+person9	11	person6	1
+person10	6	person6	11
+person2	8	person10	9
+person14	5	person4	10
+person6	9	person5	9
+person5	5	person6	3
+person7	3	person11	9
+person1	10	person13	9
+person8	3	person2	2
+person12	9	person5	10
+person3	10	person10	10
+person15	6	person13	11
+person11	3	person5	9
+person13	6	person12	7
+person4	9	person11	1
+person9	8	1
+person10	5	5
+person2	11	2
+person14	4	9
+person6	10	7
+person5	8	3
+person7	3	9
+person1	6	3
+person8	9	11
+person12	10	3
+person3	5	11
+person15	4	2
+person11	8	11
+person13	9	8
+person4	10	10
+person9	1	person14	2
+person10	7	person5	11
+person2	1	person13	3
+person14	4	person12	5
+person6	6	person10	5
+person5	10	person6	1
+person7	9	person6	1
+person1	3	person14	3
+person8	1	person1	6
+person12	10	person5	6
+person3	4	person4	3
+person15	9	person7	10
+person11	6	person3	3
+person13	2	person4	4
+person4	2	person14	8
+person9	1	9
+person10	7	7
+person2	9	9
+person14	4	2
+person6	5	10
+person5	3	4
+person7	6	9
+person1	9	1
+person8	8	1
+person12	4	5
+person3	11	8
+person15	9	4
+person11	2	6
+person13	7	11
+person4	8	5
+person9	10	person8	2
+person10	5	person7	4
+person2	10	person15	11
+person14	2	person9	7
+person6	4	person7	7
+person5	10	person3	3
+person7	2	person3	6
+person1	2	person14	10
+person8	11	person6	6
+person12	4	person2	9
+person3	11	person9	3
+person15	7	person10	3
+person11	8	person9	7
+person13	4	person6	1
+person4	10	person6	4
+person9	5	1
+person10	6	1
+person2	2	11
+person14	11	9
+person6	1	8
+person5	10	7
+person7	8	10
+person1	12	5
+person8	10	6
+person12	10	3
+person3	11	7
+person15	5	5
+person11	8	2
+person13	10	10
+person4	3	7
+person9	7	person5	11
+person10	10	person15	7
+person2	11	person9	10
+person14	3	person4	7
+person6	4	person13	6
+person5	6	person11	8
+person7	1	person11	8
+person1	7	person14	6
+person8	8	person2	1
+person12	9	person13	4
+person3	8	person6	7
+person15	5	person2	1
+person11	11	person9	7
+person13	10	person1	4
+person4	5	person5	9
+person9	1	9
+person10	9	10
+person2	10	6
+person14	2	5
+person6	5	9
+person5	6	11
+person7	2	7
+person1	5	9
+person8	11	4
+person12	7	1
+person3	1	11
+person15	3	5
+person11	2	11
+person13	8	11
+person4	6	10
+person9	3	person11	4
+person10	1	person14	9
+person2	1	person14	11
+person14	2	person10	3
+person6	9	person9	11
+person5	4	person11	3
+person7	3	person2	5
+person1	6	person14	11
+person8	5	person10	9
+person12	6	person6	10
+person3	3	person4	8
+person15	6	person12	11
+person11	6	person8	4
+person13	11	person15	7
+person4	4	person2	7
+person9	1	10
+person10	1	6
+person2	4	5
+person14	7	8
+person6	7	4
+person5	1	1
+person7	2	7
+person1	7	5
+person8	6	4
+person12	11	11
+person3	5	5
+person15	6	6
+person11	5	7
+person13	5	1
+person4	3	7
+person9	10	person6	3
+person10	3	person13	2
+person2	2	person12	1
+person14	2	person7	4
+person6	9	person13	1
+person5	5	person7	9
+person7	3	person13	11
+person1	7	person14	1
+person8	10	person10	2
+person12	1	person9	4
+person3	8	person8	3
+person15	11	person12	5
+person11	9	person7	9
+person13	8	person12	8
+person4	6	person8	2
+person9	8	1
+person10	1	11
+person2	6	3
+person14	8	1
+person6	10	3
+person5	10	8
+person7	6	3
+person1	9	11
+person8	4	7
+person12	3	2
+person3	11	11
+person15	1	7
+person11	1	1
+person13	4	8
+person4	3	1
+person9	11	person1	3
+person10	1	person7	10
+person2	3	person10	3
+person14	7	person7	7
+person6	4	person10	10
+person5	11	person4	4
+person7	7	person9	8
+person1	11	person15	1
+person8	3	person4	11
+person12	5	person11	5
+person3	4	person5	2
+person15	8	person12	4
+person11	9	person10	3
+person13	4	person8	5
+person4	2	person7	10
+person9	10	4
+person10	8	5
+person2	2	3
+person14	10	11
+person6	5	6
+person5	2	9
+person7	10	11
+person1	3	5
+person8	11	5
+person12	4	10
+person3	4	3
+person15	3	7
+person11	10	5
+person13	8	3
+person4	1	6
+person9	11	person15	3
+person10	9	person14	10
+person2	5	person12	5
+person14	4	person13	1
+person6	8	person14	8
+person5	7	person15	6
+person7	1	person3	6
+person1	5	person10	9
+person8	10	person5	2
+person12	2	person13	8
+person3	2	person11	7
+person15	8	person14	4
+person11	1	person7	9
+person13	7	person8	4
+person4	9	person10	6
+person9	2	8
+person10	6	11
+person2	4	1
+person14	8	2
+person6	7	8
+person5	5	5
+person7	11	5
+person1	9	4
+person8	11	9
+person12	8	5
+person3	1	8
+person15	2	7
+person11	10	6
+person13	9	10
+person4	3	5
+person9	10	person6	9
+person10	2	person4	11
+person2	11	person11	10
+person14	6	person1	6
+person6	8	person15	3
+person5	8	person7	10
+person7	5	person12	10
+person1	9	person9	7
+person8	11	person3	8
+person12	11	person9	11
+person3	7	person5	3
+person15	9	person7	1
+person11	7	person4	3
+person13	10	person6	5
+person4	2	person9	4
+person9	9	1
+person10	9	3
+person2	7	11
+person14	9	3
+person6	9	9
+person5	2	6
+person7	11	3
+person1	11	6
+person8	11	6
+person12	10	3
+person3	1	8
+person15	11	9
+person11	2	2
+person13	6	6
+person4	4	2
+person9	9	person1	6
+person10	3	person15	6
+person2	9	person12	10
+person14	1	person10	9
+person6	7	person10	4
+person5	7	person11	5
+person7	4	person12	11
+person1	7	person2	7
+person8	11	person5	10
+person12	11	person3	1
+person3	9	person8	2
+person15	4	person13	3
+person11	8	person14	6
+person13	7	person11	10
+person4	9	person1	11
+person9	9	4
+person10	11	11
+person2	3	7
+person14	2	7
+person6	1	10
+person5	10	9
+person7	11	1
+person1	1	8
+person8	7	3
+person12	6	6
+person3	8	2
+person15	6	6
+person11	3	4
+person13	5	11
+person4	9	1
+person9	6	person8	8
+person10	8	person7	7
+person2	10	person12	1
+person14	11	person3	7
+person6	5	person14	8
+person5	2	person4	5
+person7	9	person5	5
+person1	10	person13	10
+person8	8	person14	3
+person12	7	person10	5
+person3	1	person1	4
+person15	4	person10	10
+person11	3	person3	6
+person13	10	person3	11
+person4	9	person6	2
+person9	3	6
+person10	10	5
+person2	5	11
+person14	8	6
+person6	10	8
+person5	5	6
+person7	3	8
+person1	10	3
+person8	11	6
+person12	1	11
+person3	11	5
+person15	7	11
+person11	1	11
+person13	2	6
+person4	9	3
+person9	1	person4	3
+person10	3	person2	5
+person2	4	person1	3
+person14	1	person8	4
+person6	9	person13	3
+person5	9	person15	8
+person7	11	person8	6
+person1	1	person9	5
+person8	11	person7	4
+person12	2	person14	7
+person3	1	person11	2
+person15	2	person4	4
+person11	9	person1	10
+person13	4	person10	8
+person4	2	person5	3
+person9	10	8
+person10	8	10
+person2	3	9
+person14	8	8
+person6	2	4
+person5	1	8
+person7	3	11
+person1	6	7
+person8	8	10
+person12	1	5
+person3	3	7
+person15	4	5
+person11	1	3
+person13	6	5
+person4	8	5
+person9	8	person8	10
+person10	11	person6	10
+person2	1	person13	1
+person14	2	person5	11
+person6	9	person8	5
+person5	2	person10	1
+person7	2	person3	5
+person1	5	person3	5
+person8	11	person15	1
+person12	11	person9	6
+person3	11	person6	8
+person15	1	person7	7
+person11	10	person15	6
+person13	7	person9	11
+person4	2	person8	10
+person9	2	5
+person10	3	5
+person2	8	3
+person14	9	4
+person6	1	3
+person5	1	8
+person7	3	4
+person1	6	4
+person8	1	1
+person12	11	1
+person3	7	5
+person15	10	11
+person11	4	7
+person13	5	6
+person4	3	7
+person9	8	person12	10
+person10	8	person7	10
+person2	5	person11	4
+person14	11	person15	5
+person6	6	person4	5
+person5	2	person14	11
+person7	7	person8	5
+person1	8	person3	7
+person8	2	person1	8
+person12	3	person15	6
+person3	2	person12	5
+person15	1	person14	2
+person11	7	person12	7
+person13	2	person1	5
+person4	10	person1	5
+person9	4	8
+person10	1	3
+person2	6	4
+person14	10	4
+person6	6	8
+person5	6	2
+person7	3	2
+person1	9	1
+person8	4	9
+person12	5	9
+person3	1	6
+person15	8	6
+person11	5	5
+person13	1	9
+person4	10	6
+person9	8	person12	9
+person10	6	person13	4
+person2	8	person7	11
+person14	4	person4	2
+person6	6	person8	11
+person5	9	person10	9
+person7	4	person12	2
+person1	7	person11	4
+person8	8	person5	11
+person12	3	person6	7
+person3	3	person10	8
+person15	6	person12	2
+person11	10	person1	5
+person13	9	person2	9
+person4	9	person13	9
+person9	11	11
+person10	3	4
+person2	7	2
+person14	10	1
+person6	9	5
+person5	6	3
+person7	9	10
+person1	11	2
+person8	4	7
+person12	1	10
+person3	5	10
+person15	11	11
+person11	3	1
+person13	3	2
+person4	4	3
+person9	1	person2	1
+person10	5	person6	8
+person2	8	person7	6
+person14	1	person13	2
+person6	10	person12	9
+person5	2	person7	2
+person7	5	person4	8
+person1	10	person6	7
+person8	6	person9	10
+person12	3	person4	11
+person3	11	person2	10
+person15	5	person11	9
+person11	3	person8	10
+person13	9	person2	11
+person4	6	person10	9
+person9	1	8
+person10	6	5
+person2	8	10
+person14	6	8
+person6	8	2
+person5	1	6
+person7	1	7
+person1	5	10
+person8	5	3
+person12	8	10
+person3	8	11
+person15	6	10
+person11	8	11
+person13	4	2
+person4	3	11
+person9	6	person4	1
+person10	7	person15	9
+person2	10	person4	6
+person14	5	person5	8
+person6	8	person9	6
+person5	5	person1	3
+person7	2	person11	8
+person1	12	person7	4
+person8	1	person5	5
+person12	5	person13	1
+person3	7	person5	2
+person15	11	person6	6
+person11	8	person8	4
+person13	5	person2	11
+person4	1	person13	7
+person9	1	11
+person10	2	5
+person2	1	7
+person14	11	3
+person6	5	9
+person5	5	1
+person7	4	9
+person1	3	10
+person8	9	3
+person12	2	6
+person3	6	11
+person15	2	3
+person11	9	11
+person13	4	9
+person4	4	4
+person9	10	person4	4
+person10	5	person7	9
+person2	2	person11	3
+person14	10	person4	1
+person6	7	person1	2
+person5	1	person14	5
+person7	6	person2	3
+person1	8	person8	5
+person8	2	person13	6
+person12	4	person13	1
+person3	3	person8	11
+person15	6	person9	11
+person11	3	person12	2
+person13	7	person9	5
+person4	8	person8	4
+person9	7	11
+person10	2	8
+person2	9	8
+person14	9	2
+person6	2	7
+person5	3	6
+person7	9	6
+person1	4	11
+person8	6	11
+person12	8	6
+person3	5	5
+person15	11	7
+person11	7	2
+person13	10	2
+person4	5	7
+person9	9	person6	10
+person10	11	person14	4
+person2	9	person6	2
+person14	2	person8	9
+person6	10	person3	6
+person5	5	person9	11
+person7	11	person1	9
+person1	1	person9	10
+person8	10	person15	7
+person12	6	person15	11
+person3	4	person2	5
+person15	5	person1	4
+person11	6	person7	3
+person13	9	person12	1
+person4	8	person15	9
+person9	2	3
+person10	4	11
+person2	2	1
+person14	8	2
+person6	2	8
+person5	5	6
+person7	11	11
+person1	3	11
+person8	4	7
+person12	9	6
+person3	9	11
+person15	9	2
+person11	8	4
+person13	3	10
+person4	11	3
+person9	3	person6	3
+person10	3	person7	7
+person2	4	person14	3
+person14	1	person15	7
+person6	1	person9	3
+person5	5	person14	4
+person7	5	person8	8
+person1	5	person4	1
+person8	3	person12	8
+person12	6	person1	8
+person3	1	person2	3
+person15	2	person6	10
+person11	11	person4	9
+person13	9	person8	1
+person4	11	person15	5
+person9	7	6
+person10	11	8
+person2	8	10
+person14	11	1
+person6	9	1
+person5	7	9
+person7	2	2
+person1	6	5
+person8	11	5
+person12	1	1
+person3	10	7
+person15	1	3
+person11	2	5
+person13	7	3
+person4	5	8
+person9	1	person3	3
+person10	7	person1	10
+person2	7	person8	11
+person14	1	person15	10
+person6	2	person11	11
+person5	11	person13	4
+person7	8	person11	3
+person1	5	person9	6
+person8	7	person4	4
+person12	9	person11	1
+person3	1	person4	4
+person15	3	person13	10
+person11	4	person8	10
+person13	2	person8	4
+person4	5	person6	9
+person9	8	8
+person10	2	11
+person2	10	5
+person14	1	4
+person6	11	11
+person5	3	5
+person7	5	5
+person1	7	3
+person8	6	11
+person12	11	5
+person3	5	5
+person15	6	10
+person11	8	10
+person13	6	9
+person4	11	8
+person9	11	person13	9
+person10	6	person9	9
+person2	3	person5	5
+person14	2	person7	1
+person6	10	person13	6
+person5	6	person1	4
+person7	5	person15	9
+person1	2	person9	6
+person8	7	person15	5
+person12	1	person7	7
+person3	10	person11	5
+person15	2	person2	3
+person11	6	person14	3
+person13	10	person1	7
+person4	6	person9	1
+person9	9	8
+person10	3	6
+person2	7	3
+person14	8	2
+person6	1	10
+person5	8	9
+person7	2	7
+person1	2	11
+person8	7	8
+person12	8	7
+person3	5	8
+person15	3	5
+person11	11	8
+person13	7	10
+person4	4	7
+person9	2	person8	8
+person10	5	person11	11
+person2	1	person11	8
+person14	11	person15	4
+person6	10	person7	3
+person5	8	person2	6
+person7	2	person6	10
+person1	12	person14	11
+person8	3	person3	5
+person12	8	person5	7
+person3	10	person9	3
+person15	3	person9	4
+person11	3	person13	5
+person13	6	person1	10
+person4	6	person9	7
+person9	5	6
+person10	6	10
+person2	8	9
+person14	3	3
+person6	5	4
+person5	3	10
+person7	10	10
+person1	10	8
+person8	6	9
+person12	1	10
+person3	5	8
+person15	5	8
+person11	2	6
+person13	1	11
+person4	4	8
+person9	1	person6	9
+person10	3	person1	11
+person2	8	person12	7
+person14	11	person2	2
+person6	5	person13	4
+person5	7	person13	2
+person7	8	person9	10
+person1	1	person13	9
+person8	8	person15	5
+person12	4	person11	9
+person3	5	person5	4
+person15	3	person11	1
+person11	3	person9	5
+person13	3	person7	1
+person4	5	person7	11
+person9	7	1
+person10	3	2
+person2	4	8
+person14	7	7
+person6	8	9
+person5	7	7
+person7	4	8
+person1	1	10
+person8	3	2
+person12	9	9
+person3	10	4
+person15	4	5
+person11	1	5
+person13	8	7
+person4	11	8
+person9	8	person15	10
+person10	9	person11	9
+person2	5	person14	3
+person14	1	person6	1
+person6	4	person10	11
+person5	6	person10	10
+person7	3	person13	3
+person1	10	person7	10
+person8	2	person4	6
+person12	2	person9	6
+person3	9	person12	1
+person15	1	person1	8
+person11	8	person14	3
+person13	2	person4	10
+person4	6	person3	9
+person9	6	4
+person10	7	9
+person2	5	8
+person14	6	8
+person6	10	3
+person5	7	7
+person7	5	6
+person1	11	2
+person8	7	7
+person12	6	8
+person3	7	6
+person15	9	8
+person11	3	1
+person13	5	11
+person4	10	3
+person9	9	person10	1
+person10	1	person14	10
+person2	5	person4	9
+person14	5	person2	6
+person6	3	person14	10
+person5	2	person11	11
+person7	7	person9	8
+person1	11	person3	6
+person8	7	person1	8
+person12	7	person5	9
+person3	10	person8	11
+person15	10	person8	3
+person11	7	person4	8
+person13	7	person15	11
+person4	1	person7	5
+person9	4	2
+person10	6	2
+person2	2	3
+person14	4	5
+person6	1	1
+person5	4	3
+person7	6	1
+person1	2	8
+person8	11	11
+person12	8	4
+person3	5	6
+person15	7	4
+person11	4	9
+person13	4	6
+person4	8	3
+person9	5	person2	5
+person10	10	person7	8
+person2	11	person5	1
+person14	1	person13	1
+person6	2	person5	11
+person5	10	person12	8
+person7	6	person10	11
+person1	3	person8	1
+person8	9	person7	11
+person12	2	person7	11
+person3	9	person15	2
+person15	1	person4	9
+person11	9	person10	7
+person13	6	person9	9
+person4	4	person8	7
+person9	4	3
+person10	9	11
+person2	3	2
+person14	9	5
+person6	9	3
+person5	9	1
+person7	9	7
+person1	3	7
+person8	6	8
+person12	1	1
+person3	9	3
+person15	9	11
+person11	10	9
+person13	5	5
+person4	1	9
+person9	3	person7	1
+person10	11	person6	10
+person2	4	person14	6
+person14	10	person8	3
+person6	8	person5	10
+person5	5	person15	5
+person7	9	person11	1
+person1	6	person5	3
+person8	7	person10	1
+person12	7	person1	12
+person3	2	person15	1
+person15	4	person12	6
+person11	11	person10	11
+person13	3	person15	6
+person4	8	person10	5
+person9	11	9
+person10	4	6
+person2	2	9
+person14	1	3
+person6	8	8
+person5	11	1
+person7	9	9
+person1	11	7
+person8	4	3
+person12	11	11
+person3	5	9
+person15	9	1
+person11	6	6
+person13	9	9
+person4	4	8
+person9	8	person11	9
+person10	6	person15	8
+person2	11	person15	6
+person14	6	person7	11
+person6	8	person5	8
+person5	3	person8	10
+person7	9	person11	6
+person1	1	person9	7
+person8	7	person14	1
+person12	8	person1	11
+person3	10	person4	7
+person15	1	person14	3
+person11	11	person14	4
+person13	6	person1	6
+person4	4	person3	1
+person9	8	10
+person10	5	10
+person2	9	7
+person14	8	11
+person6	10	5
+person5	6	6
+person7	9	4
+person1	2	9
+person8	7	8
+person12	7	9
+person3	7	6
+person15	8	8
+person11	11	8
+person13	2	7
+person4	3	4
+person9	2	person13	2
+person10	2	person9	5
+person2	2	person4	5
+person14	1	person12	7
+person6	7	person1	9
+person5	11	person11	9
+person7	1	person12	3
+person1	5	person14	1
+person8	10	person2	10
+person12	7	person13	11
+person3	4	person14	9
+person15	4	person7	1
+person11	7	person3	10
+person13	7	person12	11
+person4	1	person15	4
+person9	1	6
+person10	10	8
+person2	8	8
+person14	11	2
+person6	2	8
+person5	6	6
+person7	4	4
+person1	6	1
+person8	9	4
+person12	3	10
+person3	5	5
+person15	8	1
+person11	3	11
+person13	4	3
+person4	3	6
+person9	6	person10	1
+person10	1	person2	8
+person2	11	person11	2
+person14	9	person10	10
+person6	11	person13	1
+person5	6	person9	4
+person7	6	person12	9
+person1	11	person2	3
+person8	4	person6	7
+person12	9	person14	7
+person3	7	person13	1
+person15	5	person12	6
+person11	11	person3	2
+person13	8	person15	4
+person4	3	person12	8
+person9	4	11
+person10	11	10
+person2	8	3
+person14	6	7
+person6	4	3
+person5	9	7
+person7	5	10
+person1	5	10
+person8	6	4
+person12	9	10
+person3	6	11
+person15	11	11
+person11	6	4
+person13	7	1
+person4	8	4
+person9	3	person11	6
+person10	3	person6	2
+person2	7	person15	11
+person14	5	person13	9
+person6	10	person15	4
+person5	10	person15	10
+person7	10	person8	9
+person1	8	person14	6
+person8	6	person1	12
+person12	8	person5	6
+person3	8	person12	7
+person15	3	person8	9
+person11	3	person12	2
+person13	10	person11	11
+person4	8	person13	4
+person9	6	3
+person10	9	11
+person2	1	7
+person14	1	7
+person6	2	10
+person5	5	8
+person7	5	5
+person1	12	12
+person8	10	8
+person12	9	2
+person3	8	1
+person15	5	3
+person11	9	9
+person13	11	8
+person4	10	7
+person9	11	person2	2
+person10	10	person5	6
+person2	5	person14	5
+person14	7	person13	4
+person6	5	person9	3
+person5	11	person15	1
+person7	1	person14	1
+person1	3	person9	2
+person8	2	person10	2
+person12	3	person15	5
+person3	3	person1	5
+person15	2	person13	9
+person11	2	person4	11
+person13	11	person2	4
+person4	1	person1	9
+person9	11	6
+person10	3	10
+person2	8	3
+person14	8	2
+person6	1	8
+person5	9	2
+person7	10	5
+person1	1	7
+person8	11	1
+person12	2	8
+person3	3	5
+person15	8	11
+person11	8	6
+person13	3	1
+person4	7	1
+person9	8	person11	3
+person10	4	person11	8
+person2	10	person13	8
+person14	9	person12	10
+person6	11	person11	7
+person5	5	person12	11
+person7	6	person2	8
+person1	1	person14	7
+person8	8	person12	9
+person12	2	person13	8
+person3	10	person4	3
+person15	11	person7	7
+person11	10	person7	3
+person13	2	person8	9
+person4	11	person2	4
+person9	3	3
+person10	3	3
+person2	9	3
+person14	9	10
+person6	10	10
+person5	10	7
+person7	6	7
+person1	3	12
+person8	6	8
+person12	6	10
+person3	6	7
+person15	4	2
+person11	4	5
+person13	11	10
+person4	5	4
+person9	8	person14	3
+person10	4	person12	9
+person2	2	person4	10
+person14	9	person3	8
+person6	4	person13	3
+person5	11	person11	1
+person7	3	person11	6
+person1	10	person9	1
+person8	11	person9	2
+person12	8	person4	6
+person3	5	person7	1
+person15	5	person9	3
+person11	9	person3	6
+person13	3	person8	9
+person4	9	person6	2
+person9	7	4
+person10	3	7
+person2	5	11
+person14	9	5
+person6	10	4
+person5	6	11
+person7	1	9
+person1	5	9
+person8	10	6
+person12	3	11
+person3	11	5
+person15	4	2
+person11	3	2
+person13	11	6
+person4	2	5
+person9	1	person11	10
+person10	4	person2	1
+person2	8	person4	2
+person14	1	person13	3
+person6	11	person7	9
+person5	4	person11	4
+person7	1	person5	8
+person1	1	person2	4
+person8	2	person11	10
+person12	4	person5	8
+person3	10	person12	5
+person15	3	person13	7
+person11	11	person10	2
+person13	10	person8	2
+person4	8	person1	3
+person9	5	9
+person10	2	8
+person2	11	6
+person14	2	7
+person6	2	10
+person5	6	11
+person7	9	2
+person1	8	11
+person8	3	1
+person12	9	7
+person3	11	5
+person15	1	1
+person11	9	1
+person13	3	8
+person4	10	5
+person9	2	person7	5
+person10	2	person4	2
+person2	11	person4	8
+person14	8	person2	7
+person6	3	person5	8
+person5	2	person11	10
+person7	8	person11	9
+person1	10	person11	5
+person8	7	person10	1
+person12	3	person11	6
+person3	6	person12	9
+person15	4	person14	9
+person11	5	person15	11
+person13	5	person4	7
+person4	11	person1	4
+person9	5	1
+person10	6	4
+person2	7	3
+person14	10	6
+person6	3	2
+person5	8	2
+person7	9	2
+person1	7	7
+person8	3	5
+person12	7	6
+person3	6	11
+person15	3	11
+person11	1	7
+person13	9	4
+person4	3	11
+person9	2	person4	8
+person10	1	person8	7
+person2	5	person7	5
+person14	11	person1	6
+person6	5	person1	2
+person5	8	person14	6
+person7	3	person8	11
+person1	7	person12	2
+person8	4	person9	11
+person12	2	person9	3
+person3	1	person5	6
+person15	8	person2	9
+person11	8	person9	2
+person13	4	person12	7
+person4	11	person7	8
+person9	3	6
+person10	11	3
+person2	4	3
+person14	6	4
+person6	1	7
+person5	8	8
+person7	7	1
+person1	11	2
+person8	8	9
+person12	10	8
+person3	7	8
+person15	10	4
+person11	3	3
+person13	6	11
+person4	4	6
+person9	5	person11	6
+person10	3	person14	8
+person2	3	person15	9
+person14	4	person11	6
+person6	4	person9	11
+person5	2	person13	2
+person7	1	person1	7
+person1	7	person7	10
+person8	2	person10	6
+person12	7	person3	4
+person3	2	person2	3
+person15	9	person13	6
+person11	11	person10	1
+person13	8	person3	11
+person4	3	person7	10
+person9	1	2
+person10	5	6
+person2	2	10
+person14	1	11
+person6	11	11
+person5	4	9
+person7	4	10
+person1	10	8
+person8	3	6
+person12	2	11
+person3	9	5
+person15	6	4
+person11	11	2
+person13	11	9
+person4	5	11
+person9	4	person1	8
+person10	9	person7	1
+person2	9	person12	6
+person14	11	person1	11
+person6	7	person5	9
+person5	5	person11	7
+person7	9	person12	7
+person1	2	person3	8
+person8	7	person3	3
+person12	11	person11	5
+person3	7	person10	11
+person15	5	person6	3
+person11	11	person15	6
+person13	9	person14	2
+person4	11	person11	2
+person9	11	9
+person10	3	6
+person2	11	1
+person14	6	2
+person6	1	2
+person5	6	4
+person7	10	5
+person1	2	2
+person8	4	10
+person12	4	11
+person3	2	2
+person15	6	9
+person11	2	8
+person13	7	6
+person4	1	6
+person9	10	person10	5
+person10	7	person14	9
+person2	7	person15	11
+person14	1	person7	5
+person6	1	person5	1
+person5	6	person15	8
+person7	4	person2	5
+person1	9	person11	1
+person8	6	person14	8
+person12	6	person13	9
+person3	8	person1	8
+person15	11	person4	5
+person11	9	person5	5
+person13	4	person9	1
+person4	3	person8	1
+person9	2	4
+person10	7	7
+person2	3	1
+person14	2	4
+person6	1	11
+person5	7	9
+person7	4	1
+person1	6	7
+person8	10	3
+person12	10	2
+person3	11	8
+person15	4	4
+person11	6	6
+person13	10	5
+person4	5	3
+person9	1	person1	1
+person10	7	person14	5
+person2	9	person8	8
+person14	5	person9	8
+person6	8	person11	5
+person5	9	person12	5
+person7	8	person5	8
+person1	4	person13	4
+person8	2	person9	10
+person12	6	person8	4
+person3	6	person12	7
+person15	1	person5	2
+person11	3	person10	4
+person13	10	person8	5
+person4	2	person10	3
+person9	11	1
+person10	6	11
+person2	4	5
+person14	7	8
+person6	4	4
+person5	8	2
+person7	8	5
+person1	5	9
+person8	6	9
+person12	4	7
+person3	2	11
+person15	10	11
+person11	9	5
+person13	2	6
+person4	10	7
+person9	5	person10	5
+person10	3	person6	3
+person2	1	person4	10
+person14	3	person6	10
+person6	7	person11	11
+person5	4	person13	6
+person7	6	person6	6
+person1	4	person4	7
+person8	2	person3	5
+person12	3	person7	4
+person3	9	person12	3
+person15	3	person12	5
+person11	7	person15	4
+person13	4	person2	11
+person4	6	person3	11
+person9	1	8
+person10	10	3
+person2	11	2
+person14	2	9
+person6	5	8
+person5	5	10
+person7	6	8
+person1	10	6
+person8	4	1
+person12	11	3
+person3	6	4
+person15	10	3
+person11	7	2
+person13	1	5
+person4	5	11
+person9	3	person8	11
+person10	10	person14	3
+person2	5	person5	7
+person14	10	person10	5
+person6	11	person15	4
+person5	2	person15	2
+person7	3	person14	11
+person1	7	person14	10
+person8	9	person5	7
+person12	3	person2	4
+person3	7	person1	10
+person15	3	person11	8
+person11	11	person9	3
+person13	6	person15	6
+person4	10	person14	7
+person9	7	4
+person10	5	2
+person2	1	11
+person14	8	4
+person6	4	5
+person5	1	5
+person7	5	4
+person1	9	10
+person8	4	1
+person12	4	9
+person3	2	9
+person15	8	11
+person11	8	11
+person13	11	1
+person4	3	11
+person9	1	person10	1
+person10	9	person6	9
+person2	1	person6	9
+person14	6	person4	6
+person6	1	person7	4
+person5	6	person9	5
+person7	8	person3	10
+person1	1	person12	3
+person8	8	person11	10
+person12	4	person7	8
+person3	8	person6	4
+person15	7	person11	1
+person11	5	person4	5
+person13	10	person2	1
+person4	5	person15	3
+person9	3	8
+person10	4	8
+person2	7	9
+person14	11	1
+person6	6	4
+person5	9	9
+person7	2	3
+person1	10	10
+person8	8	4
+person12	6	11
+person3	1	9
+person15	3	10
+person11	9	3
+person13	4	7
+person4	9	11
+person9	5	person10	5
+person10	2	person11	5
+person2	2	person11	7
+person14	6	person8	7
+person6	9	person5	9
+person5	6	person7	5
+person7	4	person14	5
+person1	7	person5	9
+person8	8	person15	6
+person12	11	person7	10
+person3	4	person7	3
+person15	2	person3	9
+person11	2	person9	8
+person13	4	person12	9
+person4	8	person13	11
+person9	3	11
+person10	4	5
+person2	10	9
+person14	4	1
+person6	11	1
+person5	4	4
+person7	8	4
+person1	10	6
+person8	11	7
+person12	4	7
+person3	2	1
+person15	10	11
+person11	4	11
+person13	3	8
+person4	3	6
+person9	4	person7	5
+person10	2	person7	5
+person2	4	person7	4
+person14	7	person5	3
+person6	4	person9	1
+person5	6	person14	4
+person7	4	person14	10
+person1	3	person12	4
+person8	6	person13	2
+person12	8	person1	7
+person3	10	person5	10
+person15	5	person3	8
+person11	7	person1	5
+person13	4	person11	1
+person4	7	person7	2
+person9	10	10
+person10	2	2
+person2	8	6
+person14	11	11
+person6	11	2
+person5	1	9
+person7	1	5
+person1	1	9
+person8	11	6
+person12	1	7
+person3	8	1
+person15	1	4
+person11	6	10
+person13	11	11
+person4	2	4
+person9	2	person1	2
+person10	10	person12	2
+person2	1	person6	10
+person14	10	person10	11
+person6	10	person8	10
+person5	2	person3	3
+person7	7	person6	11
+person1	10	person5	6
+person8	4	person15	2
+person12	9	person10	5
+person3	3	person8	3
+person15	9	person6	4
+person11	9	person7	7
+person13	2	person10	5
+person4	7	person6	2
+person9	2	10
+person10	8	7
+person2	6	9
+person14	4	4
+person6	6	9
+person5	10	8
+person7	8	7
+person1	6	10
+person8	6	5
+person12	3	7
+person3	8	9
+person15	11	6
+person11	11	10
+person13	9	7
+person4	11	10
+person9	9	person4	11
+person10	6	person15	5
+person2	10	person14	9
+person14	7	person1	12
+person6	2	person15	11
+person5	1	person6	6
+person7	3	person4	3
+person1	6	person8	9
+person8	8	person2	8
+person12	11	person9	7
+person3	9	person12	10
+person15	2	person6	9
+person11	4	person7	9
+person13	3	person15	4
+person4	5	person6	5
+person9	5	6
+person10	10	8
+person2	4	11
+person14	3	1
+person6	7	6
+person5	10	9
+person7	3	11
+person1	9	6
+person8	11	3
+person12	6	3
+person3	2	4
+person15	10	6
+person11	6	5
+person13	10	9
+person4	4	4
+person9	6	person4	8
+person10	1	person1	10
+person2	4	person9	3
+person14	6	person11	8
+person6	9	person3	1
+person5	8	person12	3
+person7	8	person13	3
+person1	5	person11	3
+person8	10	person4	1
+person12	3	person8	2
+person3	7	person9	2
+person15	4	person14	6
+person11	11	person1	6
+person13	9	person2	6
+person4	4	person14	1
+person9	3	6
+person10	9	10
+person2	1	11
+person14	11	10
+person6	4	5
+person5	9	10
+person7	3	7
+person1	7	2
+person8	6	8
+person12	3	7
+person3	7	8
+person15	6	9
+person11	1	6
+person13	4	7
+person4	2	7
+person9	1	person6	3
+person10	6	person8	8
+person2	8	person8	6
+person14	7	person2	1
+person6	1	person1	3
+person5	2	person8	6
+person7	11	person1	1
+person1	10	person8	9
+person8	10	person6	5
+person12	10	person8	9
+person3	1	person15	8
+person15	9	person4	4
+person11	5	person7	1
+person13	2	person4	11
+person4	3	person11	8
+person9	9	2
+person10	4	9
+person2	8	11
+person14	10	3
+person6	3	4
+person5	10	2
+person7	10	1
+person1	3	6
+person8	7	10
+person12	5	10
+person3	8	1
+person15	1	8
+person11	8	1
+person13	5	9
+person4	2	3
+person9	3	person3	6
+person10	8	person5	1
+person2	5	person11	6
+person14	10	person13	2
+person6	11	person13	7
+person5	5	person4	8
+person7	9	person8	2
+person1	1	person13	5
+person8	6	person10	2
+person12	10	person15	6
+person3	11	person10	3
+person15	7	person1	3
+person11	10	person13	4
+person13	11	person2	7
+person4	8	person6	2
+person9	2	7
+person10	11	8
+person2	9	7
+person14	6	11
+person6	5	4
+person5	6	10
+person7	9	5
+person1	5	9
+person8	1	8
+person12	9	7
+person3	4	6
+person15	5	1
+person11	2	2
+person13	10	6
+person4	8	2
+person9	8	person11	6
+person10	11	person15	2
+person2	8	person7	6
+person14	10	person13	8
+person6	10	person5	10
+person5	4	person7	7
+person7	10	person11	8
+person1	5	person15	5
+person8	9	person6	4
+person12	11	person8	10
+person3	5	person8	2
+person15	8	person4	1
+person11	10	person3	3
+person13	2	person11	6
+person4	8	person14	9
+person9	5	5
+person10	3	6
+person2	4	4
+person14	4	10
+person6	6	4
+person5	9	3
+person7	1	9
+person1	4	2
+person8	6	3
+person12	2	6
+person3	1	7
+person15	2	6
+person11	1	7
+person13	8	11
+person4	10	4
+person9	8	person7	11
+person10	7	person1	10
+person2	9	person14	2
+person14	7	person5	5
+person6	2	person1	1
+person5	5	person13	10
+person7	6	person14	1
+person1	8	person6	4
+person8	1	person14	9
+person12	7	person7	1
+person3	7	person2	2
+person15	4	person2	4
+person11	1	person4	11
+person13	9	person10	8
+person4	7	person15	10
+person9	4	10
+person10	8	11
+person2	1	11
+person14	9	10
+person6	10	10
+person5	6	2
+person7	6	1
+person1	5	4
+person8	4	9
+person12	2	11
+person3	7	5
+person15	8	2
+person11	4	6
+person13	11	2
+person4	6	10
+person9	8	person3	1
+person10	8	person12	10
+person2	1	person5	3
+person14	8	person9	5
+person6	1	person2	4
+person5	10	person7	4
+person7	6	person8	10
+person1	12	person11	2
+person8	5	person7	10
+person12	10	person1	10
+person3	2	person4	5
+person15	4	person9	9
+person11	2	person2	6
+person13	1	person11	1
+person4	9	person2	9
+person9	8	10
+person10	9	4
+person2	4	6
+person14	9	11
+person6	7	9
+person5	1	8
+person7	2	2
+person1	11	5
+person8	10	7
+person12	1	3
+person3	4	6
+person15	7	11
+person11	4	6
+person13	6	4
+person4	1	2
+person9	7	person3	4
+person10	9	person8	5
+person2	5	person15	7
+person14	11	person5	11
+person6	8	person11	5
+person5	8	person7	10
+person7	5	person12	6
+person1	9	person10	3
+person8	9	person9	7
+person12	2	person13	8
+person3	2	person15	4
+person15	9	person14	2
+person11	3	person7	10
+person13	4	person12	7
+person4	3	person15	2
+person9	10	6
+person10	1	11
+person2	9	4
+person14	7	3
+person6	8	4
+person5	7	3
+person7	10	5
+person1	5	5
+person8	7	7
+person12	3	8
+person3	4	10
+person15	8	6
+person11	1	3
+person13	7	8
+person4	9	11
+person9	7	person3	4
+person10	3	person14	1
+person2	3	person12	11
+person14	11	person11	9
+person6	3	person13	9
+person5	1	person8	4
+person7	2	person13	11
+person1	4	person8	6
+person8	5	person7	11
+person12	10	person10	2
+person3	2	person5	3
+person15	10	person12	2
+person11	9	person9	2
+person13	8	person6	10
+person4	5	person1	3
+person9	11	11
+person10	1	6
+person2	2	8
+person14	10	1
+person6	6	9
+person5	4	10
+person7	11	5
+person1	8	3
+person8	3	7
+person12	3	2
+person3	7	5
+person15	7	8
+person11	11	7
+person13	1	10
+person4	4	9
+person9	1	person14	11
+person10	5	person9	1
+person2	3	person14	7
+person14	6	person3	3
+person6	2	person5	9
+person5	10	person7	3
+person7	5	person13	5
+person1	3	person14	5
+person8	3	person11	1
+person12	2	person11	9
+person3	2	person13	2
+person15	6	person8	8
+person11	8	person8	7
+person13	8	person11	8
+person4	9	person12	2
+person9	1	1
+person10	2	5
+person2	5	6
+person14	4	10
+person6	8	6
+person5	4	8
+person7	6	10
+person1	10	1
+person8	8	4
+person12	10	9
+person3	2	7
+person15	4	3
+person11	3	11
+person13	1	10
+person4	11	2
+person9	6	person14	8
+person10	8	person15	6
+person2	11	person5	7
+person14	7	person10	8
+person6	11	person13	1
+person5	5	person12	6
+person7	8	person11	9
+person1	2	person7	8
+person8	7	person7	1
+person12	3	person8	3
+person3	2	person13	9
+person15	8	person3	5
+person11	10	person7	5
+person13	1	person3	1
+person4	1	person12	2
+person9	1	8
+person10	9	4
+person2	4	3
+person14	4	2
+person6	2	10
+person5	7	6
+person7	10	10
+person1	2	7
+person8	7	10
+person12	6	4
+person3	11	2
+person15	9	1
+person11	5	2
+person13	8	11
+person4	7	8
+person9	11	person14	4
+person10	1	person5	5
+person2	5	person7	3
+person14	7	person2	3
+person6	7	person1	6
+person5	1	person7	2
+person7	5	person15	1
+person1	12	person8	8
+person8	9	person6	2
+person12	2	person10	5
+person3	4	person7	2
+person15	7	person12	9
+person11	10	person2	6
+person13	2	person9	3
+person4	1	person9	7
+person9	2	7
+person10	1	7
+person2	1	7
+person14	8	3
+person6	5	8
+person5	9	10
+person7	10	8
+person1	8	6
+person8	9	3
+person12	10	7
+person3	1	2
+person15	3	8
+person11	5	9
+person13	8	5
+person4	11	2
+person9	5	person13	2
+person10	6	person14	3
+person2	2	person3	10
+person14	4	person1	10
+person6	5	person12	11
+person5	8	person11	11
+person7	6	person15	8
+person1	11	person7	7
+person8	7	person6	10
+person12	6	person14	6
+person3	1	person1	2
+person15	4	person14	1
+person11	2	person2	11
+person13	8	person6	8
+person4	5	person15	9
+person9	1	2
+person10	8	4
+person2	9	5
+person14	3	9
+person6	3	2
+person5	2	10
+person7	6	2
+person1	4	12
+person8	9	11
+person12	10	10
+person3	5	1
+person15	10	10
+person11	10	11
+person13	2	5
+person4	5	7
+person9	4	person6	4
+person10	2	person1	6
+person2	7	person1	4
+person14	7	person10	10
+person6	3	person12	4
+person5	5	person14	4
+person7	10	person1	6
+person1	2	person8	1
+person8	10	person14	7
+person12	9	person1	7
+person3	7	person8	6
+person15	7	person2	3
+person11	5	person14	9
+person13	1	person6	6
+person4	3	person15	9
+person9	1	4
+person10	7	7
+person2	10	5
+person14	7	6
+person6	9	6
+person5	2	5
+person7	10	1
+person1	7	9
+person8	9	7
+person12	6	7
+person3	7	9
+person15	2	8
+person11	7	1
+person13	5	5
+person4	9	9
+person9	9	person13	8
+person10	9	person15	3
+person2	9	person8	7
+person14	5	person15	8
+person6	2	person4	7
+person5	2	person10	2
+person7	8	person12	7
+person1	10	person10	10
+person8	6	person13	4
+person12	10	person14	3
+person3	9	person7	3
+person15	7	person6	7
+person11	1	person3	3
+person13	4	person8	11
+person4	11	person10	10
+person9	3	2
+person10	5	11
+person2	5	3
+person14	3	8
+person6	1	5
+person5	2	9
+person7	5	11
+person1	10	6
+person8	2	11
+person12	1	5
+person3	4	8
+person15	8	4
+person11	5	8
+person13	11	2
+person4	8	6
+person9	5	person15	7
+person10	8	person8	2
+person2	4	person10	1
+person14	4	person8	4
+person6	8	person8	6
+person5	8	person2	3
+person7	1	person5	6
+person1	1	person9	3
+person8	11	person3	1
+person12	8	person9	7
+person3	4	person9	8
+person15	5	person1	4
+person11	2	person4	4
+person13	7	person7	10
+person4	11	person1	8

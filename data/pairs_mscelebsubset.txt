@@ -1,0 +1,2001 @@
+100	10
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	78	54
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Touré	44
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	15	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	59	56
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	42	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	72	33
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Touré	51
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	80	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	1	41
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Brannon_Braga	Braga
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Touré	43
+Touré	61	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	45	39
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Touré	23
+Moira_Quirk	Quirk	Primo_Levi	Levi
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	5	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	42	5
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	27	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	71	40
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Touré	34
+Mr._Scruff	Scruff	Touré	57
+Moira_Quirk	Quirk	Touré	3
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	1	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	19	75
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Touré	53
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Touré	24
+Touré	2	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	78	45
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Touré	39
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Touré	19
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	65	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	66	75
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	56	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	77	22
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Touré	44
+Touré	61	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	49	57
+Brannon_Braga	Braga	Touré	23
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Touré	18
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Touré	28
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	1	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	21	63
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Touré	72
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	79	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	1	73
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Touré	61
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	39	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	22	30
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Touré	24
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Touré	77
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	35	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	63	57
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Touré	38
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	9	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	48	65
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Brannon_Braga	Braga
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Lady_Mi	Mi
+Touré	22	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	24	7
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Touré	19
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	26	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	67	69
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Touré	48
+Mr._Scruff	Scruff	Touré	41
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Touré	66
+Touré	62	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	5	9
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Mr._Scruff	Scruff
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	47	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	76	82
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	77	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	8	71
+Brannon_Braga	Braga	Touré	80
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Brannon_Braga	Braga
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Touré	66
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	82	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	32	67
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	57	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	12	77
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Touré	12
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	42	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	32	40
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	68	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	57	65
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Touré	63
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	10	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	82	19
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	23	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	38	15
+Brannon_Braga	Braga	Touré	60
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	38	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	41	56
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	14	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	63	66
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Touré	28
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Touré	26
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	2	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	27	72
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	38	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	20	47
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Touré	12
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Lady_Mi	Mi
+Touré	67	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	5	27
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Touré	79
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Lady_Mi	Mi
+Touré	52	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	44	4
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	25	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	37	74
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Touré	2
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Touré	33
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Touré	36
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	22	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	50	3
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Touré	17
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	61	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	55	62
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Touré	26
+Touré	55	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	48	50
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Touré	46
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Touré	23
+Touré	17	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	55	48
+Brannon_Braga	Braga	Touré	50
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Touré	7
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Touré	79
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	59	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	15	63
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Touré	14
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	27	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	59	27
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Mr._Scruff	Scruff
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	52	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	30	61
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Touré	13
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Touré	78
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	69	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	64	9
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Touré	71
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Touré	1
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	19	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	18	74
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Touré	80
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Touré	20
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	69	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	38	4
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	4	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	17	25
+Brannon_Braga	Braga	Touré	22
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	20	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	14	72
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Touré	61
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Touré	56
+Touré	75	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	29	26
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Touré	45
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Touré	40
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Touré	31
+Touré	33	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	25	21
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	4	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	67	78
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Mr._Scruff	Scruff
+Pang_Ji	Ji	Touré	34
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	6	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	34	81
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Mr._Scruff	Scruff
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	42	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	40	50
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Touré	47
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Touré	29
+Touré	36	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	55	47
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Mr._Scruff	Scruff
+Pang_Ji	Ji	Touré	10
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	54	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	78	62
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Touré	61
+Pang_Ji	Ji	Brannon_Braga	Braga
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Touré	81
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	5	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	4	58
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Touré	8
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Touré	12
+Touré	81	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	78	73
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	81	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	38	36
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Touré	28
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Touré	17
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	54	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	54	25
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Touré	69
+Touré	26	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	25	55
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	50	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	56	60
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	34	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	33	9
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Touré	13
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Touré	28
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	6	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	60	67
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Touré	23
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Touré	32
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Touré	60
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	16	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	23	58
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Touré	17
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Touré	7
+Lepa_Brena	Brena	Touré	72
+Vernon_Duke	Duke	Touré	19
+Touré	81	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	18	10
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	50	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	74	48
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Lady_Mi	Mi
+Touré	1	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	51	23
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Touré	48
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Touré	12
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	65	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	5	31
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Lady_Mi	Mi
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	51	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	22	57
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	59	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	77	12
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	73	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	38	74
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Touré	54
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	14	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	23	79
+Brannon_Braga	Braga	Mr._Scruff	Scruff
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Brannon_Braga	Braga
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	68	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	13	75
+Brannon_Braga	Braga	Lady_Mi	Mi
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Touré	48
+Jane_Elliot	Elliot	Touré	14
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	77	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	69	49
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Touré	56
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Brannon_Braga	Braga
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	57	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	55	48
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Primo_Levi	Levi
+Pang_Ji	Ji	Touré	13
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	70	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	21	10
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Brannon_Braga	Braga
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	67	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	80	6
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Touré	70
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	22	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	63	36
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Jane_Elliot	Elliot
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Moira_Quirk	Quirk
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	21	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	7	16
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Vernon_Duke	Duke
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Brannon_Braga	Braga
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	3	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	30	19
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Pang_Ji	Ji
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	43	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	34	64
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Touré	39
+Moira_Quirk	Quirk	Mr._Scruff	Scruff
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Brannon_Braga	Braga
+Touré	21	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	77	38
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Touré	44
+Pang_Ji	Ji	Vernon_Duke	Duke
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Touré	39
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	50	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	31	74
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Primo_Levi	Levi
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Touré	28
+Lepa_Brena	Brena	Touré	4
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	46	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	78	48
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Touré	52
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Touré	67
+Vernon_Duke	Duke	Lady_Mi	Mi
+Touré	71	Brannon_Braga	Braga
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	6	82
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Primo_Levi	Levi
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Touré	54
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	5	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	6	1
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	31	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	32	18
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Touré	27
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	45	Lady_Mi	Mi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	9	33
+Brannon_Braga	Braga	Lepa_Brena	Brena
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Brannon_Braga	Braga
+Moira_Quirk	Quirk	Touré	49
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	69	Pang_Ji	Ji
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	61	30
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Touré	24
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Lady_Mi	Mi
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Mr._Scruff	Scruff
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	78	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	48	31
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Touré	46
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	28	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	82	58
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	14	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	75	12
+Brannon_Braga	Braga	Pang_Ji	Ji
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Touré	1
+Pang_Ji	Ji	Primo_Levi	Levi
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Moira_Quirk	Quirk
+Touré	60	Mr._Scruff	Scruff
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	15	5
+Brannon_Braga	Braga	Jane_Elliot	Elliot
+Primo_Levi	Levi	Lepa_Brena	Brena
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Primo_Levi	Levi
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Touré	81
+Lady_Mi	Mi	Jane_Elliot	Elliot
+Lepa_Brena	Brena	Primo_Levi	Levi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	60	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	72	30
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Touré	45
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Primo_Levi	Levi
+Pang_Ji	Ji	Lepa_Brena	Brena
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Touré	21
+Lepa_Brena	Brena	Mr._Scruff	Scruff
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	8	Vernon_Duke	Duke
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	8	32
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Moira_Quirk	Quirk
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Pang_Ji	Ji
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Primo_Levi	Levi
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Vernon_Duke	Duke
+Vernon_Duke	Duke	Mr._Scruff	Scruff
+Touré	78	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	7	67
+Brannon_Braga	Braga	Vernon_Duke	Duke
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Touré	25
+Moira_Quirk	Quirk	Brannon_Braga	Braga
+Pang_Ji	Ji	Lady_Mi	Mi
+Jane_Elliot	Elliot	Pang_Ji	Ji
+Lady_Mi	Mi	Lepa_Brena	Brena
+Lepa_Brena	Brena	Pang_Ji	Ji
+Vernon_Duke	Duke	Touré	62
+Touré	81	Jane_Elliot	Elliot
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	44	44
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Lepa_Brena	Brena
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Pang_Ji	Ji
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Pang_Ji	Ji
+Touré	66	Moira_Quirk	Quirk
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	12	4
+Brannon_Braga	Braga	Touré	29
+Primo_Levi	Levi	Pang_Ji	Ji
+Mr._Scruff	Scruff	Lady_Mi	Mi
+Moira_Quirk	Quirk	Touré	16
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Vernon_Duke	Duke
+Lady_Mi	Mi	Vernon_Duke	Duke
+Lepa_Brena	Brena	Lady_Mi	Mi
+Vernon_Duke	Duke	Jane_Elliot	Elliot
+Touré	7	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	28	41
+Brannon_Braga	Braga	Primo_Levi	Levi
+Primo_Levi	Levi	Mr._Scruff	Scruff
+Mr._Scruff	Scruff	Jane_Elliot	Elliot
+Moira_Quirk	Quirk	Vernon_Duke	Duke
+Pang_Ji	Ji	Mr._Scruff	Scruff
+Jane_Elliot	Elliot	Lady_Mi	Mi
+Lady_Mi	Mi	Primo_Levi	Levi
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Primo_Levi	Levi
+Touré	43	Primo_Levi	Levi
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	25	39
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Vernon_Duke	Duke
+Moira_Quirk	Quirk	Jane_Elliot	Elliot
+Pang_Ji	Ji	Moira_Quirk	Quirk
+Jane_Elliot	Elliot	Lepa_Brena	Brena
+Lady_Mi	Mi	Mr._Scruff	Scruff
+Lepa_Brena	Brena	Moira_Quirk	Quirk
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	50	Lepa_Brena	Brena
+Brannon	Braga	Braga
+Primo	Levi	Levi
+Mr.	Scruff	Scruff
+Moira	Quirk	Quirk
+Pang	Ji	Ji
+Jane	Elliot	Elliot
+Lady	Mi	Mi
+Lepa	Brena	Brena
+Vernon	Duke	Duke
+Touré	56	8
+Brannon_Braga	Braga	Moira_Quirk	Quirk
+Primo_Levi	Levi	Brannon_Braga	Braga
+Mr._Scruff	Scruff	Moira_Quirk	Quirk
+Moira_Quirk	Quirk	Lepa_Brena	Brena
+Pang_Ji	Ji	Jane_Elliot	Elliot
+Jane_Elliot	Elliot	Moira_Quirk	Quirk
+Lady_Mi	Mi	Brannon_Braga	Braga
+Lepa_Brena	Brena	Jane_Elliot	Elliot
+Vernon_Duke	Duke	Lepa_Brena	Brena
+Touré	26	Pang_Ji	Ji

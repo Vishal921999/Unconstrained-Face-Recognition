@@ -1,0 +1,1601 @@
+100	8
+rain	161	228
+lens	52	24
+motion	37	39
+distractor	2585	107
+haze	41	233
+focus	6	13
+illumination	490	513
+snow	41	567
+rain	558	haze	50
+lens	28	haze	240
+motion	89	snow	339
+distractor	887	focus	81
+haze	380	motion	58
+focus	149	distractor	2422
+illumination	461	snow	637
+snow	405	rain	151
+rain	6	234
+lens	16	37
+motion	281	197
+distractor	2224	581
+haze	115	54
+focus	25	60
+illumination	170	560
+snow	204	403
+rain	307	focus	6
+lens	44	snow	422
+motion	118	illumination	334
+distractor	3176	haze	173
+haze	131	rain	144
+focus	121	rain	539
+illumination	71	focus	133
+snow	61	focus	45
+rain	230	257
+lens	10	94
+motion	280	174
+distractor	2666	2487
+haze	320	243
+focus	148	192
+illumination	444	584
+snow	121	443
+rain	67	haze	34
+lens	8	illumination	410
+motion	16	lens	35
+distractor	239	snow	274
+haze	398	distractor	2848
+focus	190	distractor	39
+illumination	372	snow	371
+snow	347	focus	48
+rain	188	185
+lens	35	3
+motion	188	170
+distractor	1845	2768
+haze	124	283
+focus	20	160
+illumination	81	222
+snow	151	609
+rain	378	distractor	2324
+lens	72	rain	68
+motion	254	focus	158
+distractor	3053	focus	59
+haze	388	motion	200
+focus	194	rain	467
+illumination	468	rain	270
+snow	652	lens	19
+rain	88	264
+lens	51	78
+motion	64	204
+distractor	854	749
+haze	364	159
+focus	186	183
+illumination	5	118
+snow	3	8
+rain	426	focus	16
+lens	10	rain	175
+motion	41	snow	400
+distractor	2654	rain	493
+haze	99	distractor	1948
+focus	159	distractor	1943
+illumination	69	distractor	1090
+snow	538	distractor	2741
+rain	554	471
+lens	88	13
+motion	292	24
+distractor	2760	1385
+haze	439	57
+focus	78	143
+illumination	382	310
+snow	383	333
+rain	142	distractor	3436
+lens	53	rain	251
+motion	132	rain	168
+distractor	1841	haze	146
+haze	44	illumination	345
+focus	195	distractor	875
+illumination	262	rain	359
+snow	615	focus	150
+rain	622	425
+lens	83	54
+motion	20	165
+distractor	2495	856
+haze	304	162
+focus	87	60
+illumination	312	78
+snow	9	601
+rain	328	distractor	664
+lens	77	haze	206
+motion	102	focus	66
+distractor	1447	focus	15
+haze	76	illumination	6
+focus	27	distractor	2924
+illumination	212	focus	180
+snow	126	rain	130
+rain	169	360
+lens	8	78
+motion	46	155
+distractor	799	3175
+haze	214	195
+focus	198	101
+illumination	278	386
+snow	206	650
+rain	606	haze	195
+lens	20	illumination	126
+motion	290	illumination	352
+distractor	3099	focus	184
+haze	368	distractor	1474
+focus	160	rain	338
+illumination	65	haze	155
+snow	591	focus	44
+rain	107	618
+lens	3	41
+motion	253	144
+distractor	774	3310
+haze	29	11
+focus	164	21
+illumination	48	309
+snow	642	398
+rain	51	illumination	430
+lens	33	focus	64
+motion	244	snow	555
+distractor	700	focus	123
+haze	386	motion	283
+focus	123	rain	141
+illumination	390	snow	250
+snow	644	motion	81
+rain	221	163
+lens	58	82
+motion	132	9
+distractor	550	1690
+haze	145	407
+focus	194	101
+illumination	343	10
+snow	423	458
+rain	439	focus	166
+lens	87	motion	140
+motion	55	haze	12
+distractor	2934	lens	43
+haze	349	motion	17
+focus	35	haze	94
+illumination	394	motion	131
+snow	642	lens	31
+rain	518	439
+lens	49	26
+motion	152	58
+distractor	2669	892
+haze	268	201
+focus	76	151
+illumination	177	253
+snow	356	194
+rain	217	haze	275
+lens	60	motion	176
+motion	60	illumination	370
+distractor	1552	snow	59
+haze	395	distractor	1989
+focus	91	motion	150
+illumination	484	rain	44
+snow	475	rain	576
+rain	446	23
+lens	19	66
+motion	20	250
+distractor	2265	2333
+haze	42	399
+focus	80	145
+illumination	557	141
+snow	277	566
+rain	403	motion	57
+lens	89	rain	614
+motion	69	snow	612
+distractor	1784	haze	308
+haze	189	snow	20
+focus	125	rain	547
+illumination	247	haze	142
+snow	667	illumination	283
+rain	396	620
+lens	68	30
+motion	184	5
+distractor	3148	296
+haze	392	230
+focus	24	124
+illumination	345	594
+snow	192	34
+rain	369	motion	128
+lens	58	motion	121
+motion	22	distractor	2506
+distractor	1609	rain	63
+haze	256	rain	21
+focus	131	snow	578
+illumination	79	haze	230
+snow	458	motion	61
+rain	32	431
+lens	87	77
+motion	150	71
+distractor	175	1341
+haze	317	126
+focus	28	182
+illumination	554	57
+snow	83	48
+rain	171	lens	95
+lens	32	snow	402
+motion	229	illumination	552
+distractor	2214	focus	62
+haze	41	rain	365
+focus	66	motion	8
+illumination	409	haze	39
+snow	259	motion	163
+rain	556	598
+lens	18	90
+motion	216	15
+distractor	2041	1717
+haze	268	400
+focus	187	119
+illumination	55	479
+snow	180	636
+rain	85	illumination	131
+lens	3	illumination	100
+motion	116	snow	610
+distractor	2520	rain	465
+haze	417	motion	213
+focus	24	rain	553
+illumination	564	lens	95
+snow	566	illumination	229
+rain	427	427
+lens	33	43
+motion	132	106
+distractor	780	3218
+haze	41	144
+focus	194	124
+illumination	182	519
+snow	165	367
+rain	444	motion	23
+lens	47	distractor	3313
+motion	270	snow	79
+distractor	136	illumination	210
+haze	415	snow	278
+focus	169	haze	346
+illumination	231	lens	7
+snow	294	rain	478
+rain	306	71
+lens	41	57
+motion	291	86
+distractor	944	2012
+haze	437	71
+focus	67	8
+illumination	552	341
+snow	380	24
+rain	302	snow	158
+lens	8	snow	490
+motion	271	snow	372
+distractor	2179	lens	78
+haze	346	rain	147
+focus	6	snow	3
+illumination	498	rain	11
+snow	553	lens	90
+rain	601	315
+lens	23	88
+motion	104	300
+distractor	549	1395
+haze	93	60
+focus	107	40
+illumination	5	510
+snow	410	270
+rain	383	snow	357
+lens	33	haze	51
+motion	144	lens	92
+distractor	2764	haze	28
+haze	35	illumination	109
+focus	52	lens	52
+illumination	111	rain	298
+snow	296	illumination	84
+rain	189	442
+lens	83	2
+motion	17	279
+distractor	2187	312
+haze	208	188
+focus	133	3
+illumination	210	22
+snow	32	390
+rain	18	haze	432
+lens	41	focus	118
+motion	140	lens	8
+distractor	2558	haze	170
+haze	417	rain	295
+focus	96	snow	393
+illumination	391	motion	288
+snow	153	distractor	482
+rain	454	537
+lens	91	72
+motion	133	300
+distractor	1524	1648
+haze	267	373
+focus	203	24
+illumination	515	253
+snow	506	450
+rain	468	distractor	2228
+lens	55	illumination	177
+motion	133	snow	423
+distractor	1150	lens	58
+haze	344	lens	22
+focus	15	distractor	2405
+illumination	501	focus	43
+snow	243	rain	515
+rain	179	156
+lens	19	45
+motion	57	239
+distractor	480	2715
+haze	194	203
+focus	34	42
+illumination	10	322
+snow	196	3
+rain	400	illumination	153
+lens	23	focus	199
+motion	261	lens	24
+distractor	2639	haze	214
+haze	140	distractor	101
+focus	137	snow	93
+illumination	156	lens	82
+snow	384	rain	453
+rain	20	34
+lens	50	37
+motion	303	276
+distractor	2616	1766
+haze	316	337
+focus	70	144
+illumination	159	361
+snow	484	495
+rain	257	lens	30
+lens	67	haze	155
+motion	226	focus	64
+distractor	1785	rain	421
+haze	249	lens	63
+focus	39	illumination	6
+illumination	472	haze	190
+snow	499	distractor	1658
+rain	82	134
+lens	88	33
+motion	204	300
+distractor	1446	309
+haze	272	149
+focus	129	196
+illumination	20	515
+snow	224	454
+rain	57	haze	234
+lens	89	focus	28
+motion	274	distractor	2416
+distractor	2389	haze	332
+haze	95	snow	184
+focus	77	distractor	1154
+illumination	134	haze	387
+snow	52	focus	90
+rain	160	23
+lens	59	92
+motion	312	309
+distractor	1234	2928
+haze	380	369
+focus	71	169
+illumination	186	307
+snow	64	40
+rain	259	motion	184
+lens	1	illumination	431
+motion	197	snow	594
+distractor	2883	rain	349
+haze	289	snow	200
+focus	162	distractor	2338
+illumination	286	distractor	2883
+snow	271	haze	338
+rain	147	435
+lens	57	49
+motion	67	294
+distractor	1179	2937
+haze	373	64
+focus	30	34
+illumination	302	79
+snow	245	82
+rain	240	motion	256
+lens	12	snow	637
+motion	22	rain	160
+distractor	372	focus	80
+haze	108	lens	89
+focus	168	lens	53
+illumination	544	focus	63
+snow	107	illumination	293
+rain	84	540
+lens	23	1
+motion	192	32
+distractor	2103	375
+haze	86	31
+focus	111	108
+illumination	605	180
+snow	84	646
+rain	32	snow	45
+lens	73	distractor	2318
+motion	280	lens	47
+distractor	1230	rain	117
+haze	293	illumination	28
+focus	97	snow	340
+illumination	425	focus	26
+snow	279	lens	64
+rain	559	175
+lens	93	76
+motion	122	88
+distractor	2403	814
+haze	430	335
+focus	76	30
+illumination	81	45
+snow	597	375
+rain	361	motion	277
+lens	8	illumination	379
+motion	126	haze	333
+distractor	619	illumination	292
+haze	245	illumination	455
+focus	123	distractor	3122
+illumination	318	rain	256
+snow	91	haze	260
+rain	77	373
+lens	49	30
+motion	182	155
+distractor	708	116
+haze	428	172
+focus	36	132
+illumination	500	240
+snow	14	87
+rain	10	haze	359
+lens	68	snow	111
+motion	170	illumination	302
+distractor	2034	rain	450
+haze	284	illumination	102
+focus	177	lens	82
+illumination	530	distractor	3416
+snow	619	focus	186
+rain	308	302
+lens	34	53
+motion	181	298
+distractor	207	3319
+haze	94	151
+focus	132	90
+illumination	551	390
+snow	334	138
+rain	11	distractor	3068
+lens	34	illumination	243
+motion	161	haze	202
+distractor	601	illumination	449
+haze	245	rain	210
+focus	17	motion	303
+illumination	592	rain	235
+snow	618	distractor	829
+rain	405	402
+lens	31	72
+motion	186	158
+distractor	289	2463
+haze	442	67
+focus	65	14
+illumination	448	487
+snow	65	444
+rain	372	focus	75
+lens	48	focus	133
+motion	224	snow	28
+distractor	263	haze	39
+haze	52	snow	37
+focus	28	haze	221
+illumination	164	snow	410
+snow	670	illumination	346
+rain	298	145
+lens	71	32
+motion	119	195
+distractor	2845	43
+haze	279	305
+focus	43	22
+illumination	292	85
+snow	281	222
+rain	62	distractor	1528
+lens	11	rain	63
+motion	106	distractor	3005
+distractor	2244	snow	489
+haze	316	rain	458
+focus	71	snow	440
+illumination	319	lens	93
+snow	613	motion	3
+rain	295	123
+lens	3	20
+motion	285	92
+distractor	899	3308
+haze	178	374
+focus	37	170
+illumination	347	181
+snow	341	604
+rain	132	distractor	1495
+lens	59	illumination	166
+motion	259	focus	40
+distractor	551	snow	157
+haze	435	lens	12
+focus	23	distractor	1762
+illumination	454	focus	171
+snow	127	rain	32
+rain	197	256
+lens	10	50
+motion	100	88
+distractor	3072	566
+haze	276	86
+focus	27	189
+illumination	166	536
+snow	2	290
+rain	159	lens	30
+lens	87	motion	124
+motion	121	rain	430
+distractor	2165	focus	28
+haze	290	focus	86
+focus	30	lens	42
+illumination	425	lens	11
+snow	107	lens	37
+rain	228	138
+lens	74	39
+motion	20	122
+distractor	3365	897
+haze	36	130
+focus	56	199
+illumination	579	227
+snow	498	507
+rain	185	haze	125
+lens	93	haze	371
+motion	251	illumination	367
+distractor	457	snow	365
+haze	423	lens	45
+focus	18	rain	400
+illumination	148	haze	310
+snow	205	focus	106
+rain	448	303
+lens	79	77
+motion	31	174
+distractor	1856	1877
+haze	69	61
+focus	106	16
+illumination	156	533
+snow	246	308
+rain	48	lens	37
+lens	7	haze	42
+motion	64	haze	95
+distractor	616	illumination	511
+haze	272	motion	55
+focus	103	illumination	118
+illumination	42	distractor	2838
+snow	248	focus	57
+rain	238	436
+lens	75	28
+motion	59	301
+distractor	538	1055
+haze	308	8
+focus	136	29
+illumination	369	239
+snow	250	448
+rain	495	lens	65
+lens	67	snow	59
+motion	86	distractor	106
+distractor	1251	haze	418
+haze	293	illumination	294
+focus	170	snow	313
+illumination	87	lens	14
+snow	434	rain	178
+rain	59	434
+lens	90	22
+motion	280	302
+distractor	3367	1746
+haze	371	122
+focus	173	152
+illumination	119	95
+snow	385	130
+rain	401	focus	55
+lens	83	snow	315
+motion	98	focus	114
+distractor	1377	illumination	178
+haze	325	focus	186
+focus	25	distractor	2648
+illumination	140	rain	602
+snow	482	focus	113
+rain	550	516
+lens	78	29
+motion	184	220
+distractor	226	2914
+haze	310	334
+focus	186	129
+illumination	30	11
+snow	644	331
+rain	309	distractor	3380
+lens	6	motion	255
+motion	39	rain	432
+distractor	980	illumination	456
+haze	138	distractor	1827
+focus	65	lens	69
+illumination	597	lens	9
+snow	293	distractor	1161
+rain	292	155
+lens	89	66
+motion	52	241
+distractor	1989	3290
+haze	330	84
+focus	178	124
+illumination	412	559
+snow	539	477
+rain	54	haze	12
+lens	53	distractor	292
+motion	19	distractor	2501
+distractor	881	rain	260
+haze	23	illumination	149
+focus	40	distractor	404
+illumination	565	snow	328
+snow	212	lens	32
+rain	289	112
+lens	83	56
+motion	294	278
+distractor	555	3303
+haze	210	317
+focus	67	117
+illumination	25	414
+snow	368	58
+rain	383	focus	45
+lens	91	haze	221
+motion	211	illumination	35
+distractor	2287	illumination	402
+haze	383	snow	35
+focus	52	motion	254
+illumination	413	motion	212
+snow	55	focus	93
+rain	489	616
+lens	16	12
+motion	54	187
+distractor	375	1149
+haze	172	209
+focus	147	84
+illumination	542	304
+snow	237	676
+rain	102	illumination	97
+lens	22	haze	186
+motion	15	focus	24
+distractor	548	snow	590
+haze	75	distractor	3322
+focus	18	rain	50
+illumination	511	focus	185
+snow	116	focus	185
+rain	123	574
+lens	67	70
+motion	299	84
+distractor	3404	3356
+haze	259	298
+focus	112	7
+illumination	471	180
+snow	136	660
+rain	596	illumination	458
+lens	56	illumination	215
+motion	75	illumination	526
+distractor	1506	rain	310
+haze	44	motion	150
+focus	79	motion	238
+illumination	376	rain	579
+snow	581	distractor	1737
+rain	262	304
+lens	14	9
+motion	265	195
+distractor	2849	2563
+haze	128	67
+focus	10	177
+illumination	413	204
+snow	279	511
+rain	309	haze	81
+lens	89	haze	296
+motion	275	illumination	230
+distractor	2536	haze	28
+haze	395	illumination	590
+focus	173	haze	318
+illumination	24	rain	301
+snow	539	illumination	9
+rain	322	269
+lens	16	21
+motion	121	295
+distractor	1209	3362
+haze	176	315
+focus	176	128
+illumination	199	152
+snow	605	592
+rain	55	distractor	1394
+lens	49	illumination	292
+motion	293	focus	184
+distractor	2276	snow	75
+haze	129	lens	95
+focus	25	lens	58
+illumination	27	lens	58
+snow	551	lens	80
+rain	67	65
+lens	17	15
+motion	261	254
+distractor	706	3034
+haze	84	374
+focus	69	173
+illumination	283	473
+snow	339	343
+rain	536	distractor	2214
+lens	23	illumination	196
+motion	186	lens	15
+distractor	1854	haze	402
+haze	65	snow	600
+focus	120	illumination	266
+illumination	103	rain	27
+snow	111	rain	471
+rain	471	52
+lens	44	51
+motion	189	65
+distractor	2635	2798
+haze	4	307
+focus	163	175
+illumination	471	134
+snow	203	225
+rain	535	haze	243
+lens	34	haze	81
+motion	163	rain	366
+distractor	1451	lens	22
+haze	1	illumination	223
+focus	204	haze	111
+illumination	443	focus	104
+snow	5	rain	132
+rain	34	236
+lens	38	92
+motion	134	135
+distractor	2241	2611
+haze	364	312
+focus	28	146
+illumination	503	356
+snow	629	455
+rain	343	haze	200
+lens	21	distractor	617
+motion	215	lens	4
+distractor	398	haze	361
+haze	215	snow	329
+focus	101	distractor	2307
+illumination	64	snow	466
+snow	339	focus	141
+rain	435	85
+lens	48	63
+motion	208	188
+distractor	1067	1187
+haze	349	187
+focus	72	120
+illumination	469	355
+snow	672	346
+rain	3	motion	236
+lens	25	haze	271
+motion	232	illumination	568
+distractor	2728	illumination	473
+haze	314	motion	12
+focus	108	distractor	2427
+illumination	213	lens	95
+snow	215	haze	203
+rain	193	432
+lens	30	75
+motion	175	11
+distractor	2769	1838
+haze	12	273
+focus	166	196
+illumination	272	64
+snow	617	595
+rain	617	illumination	287
+lens	83	rain	335
+motion	298	focus	36
+distractor	871	illumination	47
+haze	137	illumination	39
+focus	27	distractor	3091
+illumination	207	motion	205
+snow	222	illumination	118
+rain	164	303
+lens	44	26
+motion	298	137
+distractor	2644	3069
+haze	434	396
+focus	35	196
+illumination	121	143
+snow	321	506
+rain	427	illumination	53
+lens	28	illumination	72
+motion	34	haze	7
+distractor	534	lens	51
+haze	95	focus	166
+focus	156	snow	426
+illumination	299	lens	20
+snow	404	haze	124
+rain	609	294
+lens	68	90
+motion	1	205
+distractor	1215	3010
+haze	56	235
+focus	168	67
+illumination	334	186
+snow	665	528
+rain	360	lens	25
+lens	61	rain	199
+motion	155	lens	34
+distractor	1083	illumination	313
+haze	294	motion	217
+focus	84	lens	57
+illumination	574	focus	122
+snow	508	focus	20
+rain	420	131
+lens	47	19
+motion	86	200
+distractor	107	865
+haze	276	42
+focus	172	182
+illumination	484	171
+snow	249	233
+rain	127	focus	8
+lens	76	illumination	292
+motion	44	lens	30
+distractor	2775	rain	129
+haze	27	focus	63
+focus	60	lens	45
+illumination	178	rain	388
+snow	570	lens	6
+rain	285	522
+lens	27	33
+motion	149	188
+distractor	2016	1276
+haze	82	340
+focus	10	68
+illumination	69	194
+snow	633	469
+rain	417	snow	7
+lens	61	rain	530
+motion	193	rain	336
+distractor	3054	lens	5
+haze	13	rain	491
+focus	13	haze	49
+illumination	454	haze	426
+snow	133	illumination	401
+rain	15	83
+lens	44	1
+motion	247	118
+distractor	2101	851
+haze	383	373
+focus	175	168
+illumination	285	530
+snow	353	504
+rain	99	distractor	79
+lens	83	focus	157
+motion	35	focus	158
+distractor	3401	snow	160
+haze	185	rain	94
+focus	102	haze	96
+illumination	449	motion	267
+snow	205	lens	15
+rain	131	500
+lens	88	72
+motion	132	25
+distractor	1440	609
+haze	441	267
+focus	57	135
+illumination	92	573
+snow	629	442
+rain	515	focus	68
+lens	29	illumination	160
+motion	167	haze	27
+distractor	3281	motion	195
+haze	348	focus	6
+focus	109	lens	79
+illumination	95	focus	8
+snow	225	lens	89
+rain	220	11
+lens	77	58
+motion	164	93
+distractor	2107	464
+haze	24	378
+focus	199	30
+illumination	500	538
+snow	437	15
+rain	492	motion	157
+lens	43	illumination	48
+motion	89	snow	269
+distractor	507	motion	34
+haze	121	rain	354
+focus	124	lens	46
+illumination	600	haze	305
+snow	626	distractor	327
+rain	77	55
+lens	52	86
+motion	262	302
+distractor	1967	2645
+haze	393	355
+focus	9	45
+illumination	219	282
+snow	319	671
+rain	221	illumination	290
+lens	47	haze	169
+motion	263	lens	6
+distractor	1398	motion	245
+haze	297	motion	210
+focus	46	haze	28
+illumination	11	motion	145
+snow	21	distractor	2517
+rain	407	575
+lens	40	39
+motion	208	71
+distractor	1231	2102
+haze	97	120
+focus	15	149
+illumination	594	568
+snow	94	260
+rain	53	snow	412
+lens	73	illumination	276
+motion	235	distractor	760
+distractor	1580	rain	528
+haze	106	lens	53
+focus	18	illumination	24
+illumination	181	haze	3
+snow	215	illumination	486
+rain	463	245
+lens	7	28
+motion	106	67
+distractor	3073	3126
+haze	389	218
+focus	96	30
+illumination	10	398
+snow	44	596
+rain	51	snow	595
+lens	74	motion	135
+motion	1	haze	362
+distractor	1775	motion	179
+haze	198	lens	81
+focus	20	lens	54
+illumination	341	rain	328
+snow	456	haze	162
+rain	568	410
+lens	54	6
+motion	124	1
+distractor	1565	3436
+haze	262	54
+focus	59	21
+illumination	198	475
+snow	161	626
+rain	490	haze	37
+lens	24	snow	357
+motion	145	focus	151
+distractor	2156	focus	103
+haze	348	focus	63
+focus	164	rain	273
+illumination	188	distractor	1825
+snow	217	lens	68
+rain	71	435
+lens	19	21
+motion	24	30
+distractor	1957	3356
+haze	39	327
+focus	82	149
+illumination	532	427
+snow	520	1
+rain	133	lens	59
+lens	57	snow	401
+motion	128	focus	100
+distractor	2320	motion	237
+haze	237	focus	139
+focus	157	lens	93
+illumination	135	rain	56
+snow	256	haze	395
+rain	379	33
+lens	26	69
+motion	147	172
+distractor	282	1775
+haze	365	353
+focus	101	106
+illumination	172	98
+snow	507	64
+rain	358	haze	412
+lens	74	illumination	268
+motion	87	focus	118
+distractor	1278	rain	405
+haze	301	lens	20
+focus	186	haze	287
+illumination	174	lens	32
+snow	437	distractor	569
+rain	423	26
+lens	35	38
+motion	25	56
+distractor	1817	2429
+haze	256	323
+focus	164	107
+illumination	549	314
+snow	228	540
+rain	318	motion	210
+lens	14	rain	28
+motion	299	illumination	419
+distractor	2120	focus	181
+haze	416	illumination	421
+focus	54	haze	12
+illumination	175	snow	465
+snow	312	focus	93
+rain	56	325
+lens	66	89
+motion	117	223
+distractor	1259	2159
+haze	403	289
+focus	58	149
+illumination	578	594
+snow	242	171
+rain	398	snow	65
+lens	78	distractor	2273
+motion	9	snow	35
+distractor	2157	illumination	194
+haze	354	distractor	2980
+focus	81	rain	515
+illumination	313	motion	191
+snow	400	lens	46
+rain	437	54
+lens	21	60
+motion	9	35
+distractor	930	863
+haze	26	245
+focus	180	61
+illumination	587	408
+snow	299	477
+rain	120	snow	125
+lens	9	distractor	506
+motion	252	lens	53
+distractor	3431	focus	114
+haze	39	snow	195
+focus	171	haze	110
+illumination	471	haze	93
+snow	426	motion	90
+rain	391	486
+lens	87	85
+motion	247	303
+distractor	933	2967
+haze	1	294
+focus	168	178
+illumination	78	11
+snow	154	62
+rain	466	snow	259
+lens	72	distractor	688
+motion	272	focus	202
+distractor	1311	focus	155
+haze	438	distractor	3051
+focus	52	rain	366
+illumination	544	distractor	215
+snow	422	haze	332
+rain	183	315
+lens	12	57
+motion	261	128
+distractor	618	529
+haze	377	39
+focus	127	144
+illumination	240	598
+snow	41	562
+rain	283	snow	150
+lens	84	illumination	609
+motion	83	illumination	28
+distractor	2215	lens	10
+haze	209	illumination	16
+focus	152	lens	43
+illumination	153	focus	169
+snow	272	rain	280
+rain	66	415
+lens	81	66
+motion	290	2
+distractor	1063	921
+haze	249	276
+focus	106	205
+illumination	267	61
+snow	164	224
+rain	532	haze	72
+lens	41	rain	431
+motion	260	lens	60
+distractor	2687	motion	114
+haze	81	lens	39
+focus	69	motion	219
+illumination	311	lens	1
+snow	237	rain	188
+rain	396	570
+lens	18	4
+motion	41	194
+distractor	56	3357
+haze	144	108
+focus	15	62
+illumination	594	70
+snow	53	443
+rain	119	snow	675
+lens	5	illumination	513
+motion	61	snow	477
+distractor	2913	rain	350
+haze	330	distractor	3079
+focus	149	illumination	564
+illumination	483	lens	56
+snow	310	distractor	3355
+rain	110	460
+lens	36	65
+motion	159	143
+distractor	1276	353
+haze	180	221
+focus	6	49
+illumination	3	500
+snow	457	112
+rain	164	haze	91
+lens	89	focus	72
+motion	208	snow	408
+distractor	1822	motion	8
+haze	45	illumination	28
+focus	21	lens	75
+illumination	351	rain	149
+snow	3	rain	368
+rain	407	131
+lens	33	2
+motion	195	170
+distractor	1024	1524
+haze	226	203
+focus	203	187
+illumination	376	475
+snow	631	532
+rain	44	distractor	39
+lens	29	haze	157
+motion	154	distractor	2649
+distractor	1402	illumination	38
+haze	281	rain	449
+focus	110	snow	178
+illumination	575	distractor	2390
+snow	640	haze	339
+rain	255	131
+lens	78	14
+motion	47	219
+distractor	1208	3260
+haze	166	272
+focus	170	127
+illumination	366	247
+snow	309	91
+rain	240	illumination	204
+lens	53	illumination	145
+motion	277	lens	58
+distractor	3447	rain	506
+haze	238	lens	40
+focus	43	distractor	496
+illumination	562	motion	45
+snow	287	haze	104
+rain	600	375
+lens	50	25
+motion	274	275
+distractor	2866	2023
+haze	159	3
+focus	121	49
+illumination	213	532
+snow	356	19
+rain	322	lens	44
+lens	4	motion	293
+motion	103	lens	75
+distractor	755	snow	562
+haze	63	illumination	509
+focus	165	distractor	3207
+illumination	104	lens	24
+snow	466	lens	60
+rain	94	473
+lens	50	92
+motion	309	83
+distractor	46	3229
+haze	176	347
+focus	129	22
+illumination	435	196
+snow	87	392
+rain	149	snow	192
+lens	61	motion	82
+motion	298	rain	429
+distractor	1493	snow	639
+haze	39	snow	298
+focus	47	motion	308
+illumination	370	snow	208
+snow	369	focus	162
+rain	599	326
+lens	37	34
+motion	39	218
+distractor	1050	2878
+haze	436	127
+focus	32	168
+illumination	584	282
+snow	618	561
+rain	130	haze	362
+lens	54	distractor	895
+motion	60	rain	361
+distractor	3183	illumination	568
+haze	56	focus	128
+focus	135	illumination	397
+illumination	462	lens	81
+snow	156	distractor	2621
+rain	242	232
+lens	21	71
+motion	173	222
+distractor	3085	2533
+haze	184	250
+focus	121	155
+illumination	212	337
+snow	656	472
+rain	508	motion	198
+lens	35	snow	485
+motion	291	snow	444
+distractor	2309	haze	36
+haze	5	distractor	2269
+focus	3	distractor	2615
+illumination	112	snow	428
+snow	527	distractor	198
+rain	608	161
+lens	89	44
+motion	43	86
+distractor	2997	1036
+haze	324	21
+focus	160	13
+illumination	386	475
+snow	675	355
+rain	269	distractor	246
+lens	39	distractor	2622
+motion	185	focus	78
+distractor	2292	illumination	444
+haze	373	illumination	122
+focus	205	haze	139
+illumination	564	lens	32
+snow	271	distractor	914
+rain	360	298
+lens	5	87
+motion	131	42
+distractor	822	1461
+haze	343	214
+focus	47	101
+illumination	475	195
+snow	453	172
+rain	535	lens	73
+lens	40	illumination	323
+motion	74	haze	336
+distractor	2212	rain	411
+haze	111	focus	9
+focus	168	snow	131
+illumination	542	lens	72
+snow	417	focus	114
+rain	344	270
+lens	90	61
+motion	26	59
+distractor	1487	2931
+haze	422	306
+focus	45	13
+illumination	599	540
+snow	372	198
+rain	125	snow	511
+lens	90	focus	23
+motion	180	distractor	2514
+distractor	1926	focus	24
+haze	378	rain	68
+focus	118	illumination	531
+illumination	121	snow	220
+snow	159	motion	174
+rain	510	114
+lens	40	78
+motion	12	61
+distractor	2176	1409
+haze	33	33
+focus	67	168
+illumination	49	174
+snow	146	216
+rain	549	distractor	3415
+lens	43	motion	167
+motion	127	rain	343
+distractor	3270	lens	31
+haze	316	rain	389
+focus	31	distractor	434
+illumination	95	snow	247
+snow	521	rain	417
+rain	179	470
+lens	15	2
+motion	63	49
+distractor	50	2089
+haze	330	231
+focus	98	128
+illumination	281	266
+snow	148	675
+rain	100	motion	45
+lens	58	motion	81
+motion	121	haze	301
+distractor	890	snow	88
+haze	398	snow	676
+focus	90	motion	131
+illumination	287	focus	67
+snow	11	focus	62
+rain	422	361
+lens	71	72
+motion	52	94
+distractor	166	1511
+haze	236	15
+focus	131	33
+illumination	418	439
+snow	308	618
+rain	529	distractor	2789
+lens	25	illumination	251
+motion	226	focus	150
+distractor	2423	illumination	171
+haze	296	lens	67
+focus	154	illumination	325
+illumination	397	motion	254
+snow	104	distractor	1676
+rain	276	254
+lens	90	44
+motion	59	37
+distractor	592	2235
+haze	410	174
+focus	109	16
+illumination	579	521
+snow	293	507
+rain	275	motion	96
+lens	42	distractor	350
+motion	133	illumination	136
+distractor	2870	lens	9
+haze	414	focus	204
+focus	184	haze	91
+illumination	350	rain	98
+snow	435	focus	205
+rain	239	213
+lens	13	36
+motion	160	169
+distractor	1679	2611
+haze	390	78
+focus	161	29
+illumination	508	232
+snow	509	566
+rain	310	motion	258
+lens	14	rain	302
+motion	85	focus	77
+distractor	1671	snow	499
+haze	8	distractor	265
+focus	153	snow	544
+illumination	297	haze	414
+snow	247	focus	95
+rain	493	581
+lens	79	15
+motion	13	157
+distractor	1678	2402
+haze	86	109
+focus	194	187
+illumination	100	508
+snow	404	154
+rain	320	distractor	1052
+lens	33	focus	195
+motion	48	focus	36
+distractor	2545	illumination	462
+haze	112	rain	163
+focus	14	lens	88
+illumination	11	snow	294
+snow	355	illumination	556
+rain	454	423
+lens	61	23
+motion	69	230
+distractor	816	3216
+haze	319	223
+focus	142	64
+illumination	325	245
+snow	489	474
+rain	410	distractor	1176
+lens	71	snow	41
+motion	117	distractor	1503
+distractor	2924	illumination	144
+haze	428	snow	437
+focus	167	distractor	2945
+illumination	321	snow	302
+snow	212	distractor	423
+rain	76	118
+lens	61	89
+motion	93	37
+distractor	3201	2886
+haze	180	43
+focus	134	69
+illumination	209	244
+snow	165	590
+rain	44	focus	44
+lens	31	rain	566
+motion	51	rain	346
+distractor	2016	lens	55
+haze	212	distractor	159
+focus	133	lens	61
+illumination	593	lens	1
+snow	660	distractor	858
+rain	390	62
+lens	54	58
+motion	147	93
+distractor	929	1552
+haze	116	412
+focus	39	115
+illumination	588	277
+snow	344	171
+rain	214	haze	146
+lens	12	motion	134
+motion	287	illumination	415
+distractor	3226	motion	209
+haze	116	motion	56
+focus	42	distractor	1868
+illumination	411	distractor	1823
+snow	457	lens	93
+rain	192	144
+lens	81	90
+motion	120	221
+distractor	2511	668
+haze	9	384
+focus	122	47
+illumination	502	401
+snow	579	543
+rain	529	haze	235
+lens	58	motion	134
+motion	189	lens	43
+distractor	1920	lens	20
+haze	186	motion	23
+focus	47	rain	206
+illumination	219	distractor	2447
+snow	603	distractor	2083
+rain	156	382
+lens	14	23
+motion	172	125
+distractor	2553	47
+haze	190	89
+focus	124	82
+illumination	123	314
+snow	573	494
+rain	201	distractor	779
+lens	72	haze	437
+motion	105	rain	365
+distractor	962	lens	19
+haze	24	rain	353
+focus	39	lens	21
+illumination	607	focus	88
+snow	102	haze	123
+rain	377	58
+lens	87	3
+motion	167	251
+distractor	1865	1497
+haze	1	60
+focus	118	29
+illumination	386	429
+snow	91	15
+rain	176	lens	95
+lens	5	motion	53
+motion	302	illumination	489
+distractor	1287	lens	59
+haze	278	snow	209
+focus	61	rain	460
+illumination	9	focus	151
+snow	262	haze	40
+rain	271	310
+lens	41	87
+motion	189	79
+distractor	380	1409
+haze	331	127
+focus	73	109
+illumination	471	83
+snow	123	193
+rain	566	snow	283
+lens	68	haze	372
+motion	266	focus	162
+distractor	696	snow	381
+haze	273	snow	126
+focus	184	illumination	408
+illumination	326	rain	586
+snow	510	lens	36
+rain	588	123
+lens	34	9
+motion	30	279
+distractor	2245	2180
+haze	389	175
+focus	140	110
+illumination	38	161
+snow	203	177
+rain	566	motion	247
+lens	25	snow	452
+motion	28	focus	107
+distractor	465	lens	17
+haze	390	lens	20
+focus	189	snow	146
+illumination	71	focus	81
+snow	375	motion	281
+rain	500	606
+lens	75	41
+motion	29	124
+distractor	555	2352
+haze	211	32
+focus	40	174
+illumination	456	38
+snow	105	355
+rain	483	focus	52
+lens	62	haze	45
+motion	272	focus	50
+distractor	2920	haze	435
+haze	353	motion	144
+focus	132	haze	2
+illumination	169	snow	471
+snow	242	motion	49
+rain	81	103
+lens	79	15
+motion	93	109
+distractor	785	247
+haze	187	69
+focus	41	2
+illumination	540	128
+snow	502	342
+rain	531	distractor	531
+lens	41	rain	327
+motion	277	snow	292
+distractor	977	illumination	481
+haze	43	snow	318
+focus	184	distractor	812
+illumination	284	haze	341
+snow	246	haze	281
+rain	521	376
+lens	35	71
+motion	96	64
+distractor	87	2736
+haze	33	139
+focus	104	31
+illumination	305	354
+snow	274	45
+rain	568	snow	499
+lens	81	snow	186
+motion	30	focus	189
+distractor	1050	illumination	117
+haze	373	focus	157
+focus	146	snow	210
+illumination	519	lens	83
+snow	260	rain	543
+rain	24	98
+lens	13	20
+motion	160	290
+distractor	378	2104
+haze	249	332
+focus	133	122
+illumination	373	441
+snow	246	605
+rain	27	distractor	1663
+lens	43	snow	662
+motion	188	illumination	9
+distractor	3030	rain	485
+haze	211	snow	293
+focus	103	distractor	439
+illumination	196	snow	190
+snow	180	distractor	2334
+rain	210	370
+lens	56	48
+motion	129	182
+distractor	2891	443
+haze	39	329
+focus	36	173
+illumination	350	192
+snow	380	498
+rain	591	focus	54
+lens	14	distractor	14
+motion	278	lens	15
+distractor	2705	focus	58
+haze	148	rain	431
+focus	124	lens	30
+illumination	431	focus	111
+snow	617	motion	125
+rain	134	238
+lens	52	37
+motion	173	150
+distractor	2563	2172
+haze	254	121
+focus	175	58
+illumination	586	208
+snow	461	630
+rain	444	focus	48
+lens	85	motion	88
+motion	294	snow	530
+distractor	1005	motion	177
+haze	261	distractor	659
+focus	142	distractor	2497
+illumination	234	lens	79
+snow	28	rain	542
+rain	252	117
+lens	80	71
+motion	23	11
+distractor	920	819
+haze	260	182
+focus	1	65
+illumination	470	503
+snow	174	510
+rain	70	illumination	550
+lens	74	focus	192
+motion	34	rain	500
+distractor	1010	motion	207
+haze	88	distractor	392
+focus	141	motion	14
+illumination	569	lens	52
+snow	531	focus	138

@@ -1,0 +1,2201 @@
+100	11
+Harini	4	13
+Abhijeet	3	11
+Sweetie	5	15
+Sumant	3	3
+Bug	12	12
+Indira	11	9
+Swayam	3	4
+Bhargav	12	9
+Abrar	6	2
+Vishal	8	20
+Ammi	9	2
+Harini	9	Indira	1
+Abhijeet	3	Sumant	2
+Sweetie	3	Abhijeet	15
+Sumant	7	Ammi	1
+Bug	9	Abhijeet	14
+Indira	9	Harini	4
+Swayam	4	Ammi	4
+Bhargav	10	Harini	9
+Abrar	3	Sweetie	15
+Vishal	6	Harini	6
+Ammi	1	Vishal	47
+Harini	11	14
+Abhijeet	9	8
+Sweetie	13	1
+Sumant	5	3
+Bug	10	4
+Indira	11	2
+Swayam	9	6
+Bhargav	7	8
+Abrar	9	7
+Vishal	6	10
+Ammi	10	1
+Harini	14	Indira	16
+Abhijeet	2	Indira	5
+Sweetie	7	Bhargav	5
+Sumant	9	Swayam	8
+Bug	3	Swayam	4
+Indira	3	Abhijeet	19
+Swayam	3	Abrar	4
+Bhargav	3	Bug	10
+Abrar	10	Bug	4
+Vishal	5	Abrar	7
+Ammi	8	Indira	12
+Harini	14	2
+Abhijeet	19	10
+Sweetie	7	14
+Sumant	5	7
+Bug	7	9
+Indira	7	12
+Swayam	6	4
+Bhargav	8	3
+Abrar	4	7
+Vishal	25	46
+Ammi	3	8
+Harini	11	Indira	3
+Abhijeet	6	Indira	6
+Sweetie	5	Sumant	2
+Sumant	4	Indira	16
+Bug	5	Vishal	23
+Indira	9	Sumant	2
+Swayam	3	Harini	6
+Bhargav	11	Bug	5
+Abrar	6	Ammi	2
+Vishal	29	Abrar	8
+Ammi	5	Swayam	9
+Harini	11	14
+Abhijeet	10	19
+Sweetie	8	8
+Sumant	4	4
+Bug	5	7
+Indira	14	4
+Swayam	5	1
+Bhargav	10	10
+Abrar	6	7
+Vishal	41	7
+Ammi	1	5
+Harini	7	Sweetie	12
+Abhijeet	19	Abrar	7
+Sweetie	1	Bug	7
+Sumant	5	Bug	5
+Bug	11	Indira	6
+Indira	1	Ammi	9
+Swayam	1	Vishal	11
+Bhargav	6	Sweetie	13
+Abrar	6	Sweetie	11
+Vishal	41	Swayam	6
+Ammi	2	Indira	12
+Harini	14	9
+Abhijeet	7	5
+Sweetie	7	15
+Sumant	2	2
+Bug	9	5
+Indira	15	14
+Swayam	3	10
+Bhargav	7	5
+Abrar	4	8
+Vishal	30	45
+Ammi	6	11
+Harini	8	Bug	10
+Abhijeet	13	Sweetie	7
+Sweetie	13	Indira	12
+Sumant	10	Bug	1
+Bug	5	Sumant	6
+Indira	11	Vishal	9
+Swayam	6	Abrar	6
+Bhargav	10	Harini	13
+Abrar	3	Bhargav	6
+Vishal	36	Indira	2
+Ammi	11	Swayam	6
+Harini	5	10
+Abhijeet	2	3
+Sweetie	15	5
+Sumant	9	11
+Bug	8	2
+Indira	8	6
+Swayam	10	2
+Bhargav	6	1
+Abrar	6	7
+Vishal	5	34
+Ammi	2	1
+Harini	3	Sumant	2
+Abhijeet	14	Bhargav	9
+Sweetie	4	Bug	10
+Sumant	4	Abhijeet	12
+Bug	6	Vishal	36
+Indira	15	Bug	7
+Swayam	5	Abrar	7
+Bhargav	12	Sweetie	10
+Abrar	11	Vishal	42
+Vishal	44	Harini	11
+Ammi	6	Abrar	3
+Harini	6	7
+Abhijeet	7	3
+Sweetie	9	15
+Sumant	5	10
+Bug	1	12
+Indira	1	17
+Swayam	8	1
+Bhargav	6	3
+Abrar	9	7
+Vishal	33	38
+Ammi	2	11
+Harini	10	Sumant	11
+Abhijeet	6	Harini	12
+Sweetie	6	Bhargav	3
+Sumant	6	Abhijeet	9
+Bug	7	Vishal	1
+Indira	13	Ammi	9
+Swayam	1	Ammi	4
+Bhargav	2	Swayam	6
+Abrar	9	Vishal	32
+Vishal	8	Ammi	3
+Ammi	1	Bug	5
+Harini	10	11
+Abhijeet	17	14
+Sweetie	10	1
+Sumant	3	4
+Bug	10	12
+Indira	2	8
+Swayam	2	9
+Bhargav	11	5
+Abrar	1	10
+Vishal	2	45
+Ammi	4	3
+Harini	4	Abrar	11
+Abhijeet	5	Swayam	2
+Sweetie	2	Sumant	1
+Sumant	9	Abhijeet	1
+Bug	4	Abhijeet	5
+Indira	15	Abhijeet	15
+Swayam	7	Bhargav	4
+Bhargav	4	Sumant	10
+Abrar	2	Vishal	51
+Vishal	49	Ammi	2
+Ammi	11	Sumant	8
+Harini	7	13
+Abhijeet	17	1
+Sweetie	12	15
+Sumant	9	6
+Bug	8	9
+Indira	10	4
+Swayam	8	4
+Bhargav	1	11
+Abrar	3	3
+Vishal	6	34
+Ammi	1	8
+Harini	8	Bug	9
+Abhijeet	11	Sumant	4
+Sweetie	9	Indira	7
+Sumant	5	Abrar	8
+Bug	10	Bhargav	5
+Indira	18	Abrar	11
+Swayam	2	Indira	14
+Bhargav	8	Sumant	1
+Abrar	4	Harini	7
+Vishal	44	Abhijeet	16
+Ammi	1	Abrar	11
+Harini	14	9
+Abhijeet	2	8
+Sweetie	9	12
+Sumant	8	1
+Bug	11	1
+Indira	16	9
+Swayam	6	8
+Bhargav	9	9
+Abrar	4	2
+Vishal	12	28
+Ammi	3	4
+Harini	11	Indira	2
+Abhijeet	10	Indira	4
+Sweetie	10	Bhargav	9
+Sumant	6	Ammi	7
+Bug	9	Abhijeet	4
+Indira	17	Bug	4
+Swayam	3	Bug	7
+Bhargav	11	Indira	17
+Abrar	10	Indira	11
+Vishal	25	Sweetie	4
+Ammi	8	Swayam	1
+Harini	2	10
+Abhijeet	8	13
+Sweetie	5	14
+Sumant	6	3
+Bug	4	11
+Indira	5	9
+Swayam	2	10
+Bhargav	5	5
+Abrar	11	7
+Vishal	15	50
+Ammi	1	2
+Harini	1	Vishal	3
+Abhijeet	16	Bhargav	3
+Sweetie	13	Bhargav	5
+Sumant	4	Swayam	5
+Bug	11	Swayam	10
+Indira	2	Abhijeet	18
+Swayam	1	Sumant	10
+Bhargav	4	Bug	5
+Abrar	11	Bug	1
+Vishal	22	Bhargav	6
+Ammi	10	Swayam	2
+Harini	1	4
+Abhijeet	16	17
+Sweetie	1	11
+Sumant	9	10
+Bug	11	7
+Indira	17	7
+Swayam	1	4
+Bhargav	11	9
+Abrar	8	2
+Vishal	20	23
+Ammi	11	11
+Harini	3	Bhargav	12
+Abhijeet	5	Sumant	10
+Sweetie	2	Harini	14
+Sumant	4	Abrar	8
+Bug	6	Ammi	7
+Indira	5	Bug	8
+Swayam	2	Ammi	4
+Bhargav	7	Sumant	4
+Abrar	6	Bhargav	8
+Vishal	27	Abrar	8
+Ammi	2	Swayam	1
+Harini	2	1
+Abhijeet	2	11
+Sweetie	1	9
+Sumant	10	11
+Bug	5	4
+Indira	13	12
+Swayam	5	4
+Bhargav	9	1
+Abrar	2	6
+Vishal	36	22
+Ammi	10	6
+Harini	1	Ammi	9
+Abhijeet	10	Ammi	7
+Sweetie	1	Ammi	8
+Sumant	1	Vishal	20
+Bug	4	Swayam	6
+Indira	16	Swayam	9
+Swayam	8	Abhijeet	19
+Bhargav	9	Sweetie	4
+Abrar	5	Abhijeet	7
+Vishal	20	Bug	11
+Ammi	3	Swayam	7
+Harini	13	8
+Abhijeet	9	1
+Sweetie	10	3
+Sumant	2	2
+Bug	9	3
+Indira	10	13
+Swayam	1	8
+Bhargav	12	8
+Abrar	7	10
+Vishal	2	8
+Ammi	2	5
+Harini	8	Indira	5
+Abhijeet	9	Vishal	32
+Sweetie	8	Sumant	3
+Sumant	9	Bug	7
+Bug	11	Bhargav	12
+Indira	18	Abhijeet	4
+Swayam	2	Bhargav	2
+Bhargav	10	Sumant	8
+Abrar	10	Abhijeet	10
+Vishal	7	Bug	6
+Ammi	10	Bug	8
+Harini	6	2
+Abhijeet	17	9
+Sweetie	2	14
+Sumant	7	11
+Bug	3	7
+Indira	13	16
+Swayam	9	2
+Bhargav	10	5
+Abrar	10	5
+Vishal	51	10
+Ammi	3	8
+Harini	5	Abrar	1
+Abhijeet	2	Harini	4
+Sweetie	6	Indira	7
+Sumant	2	Bhargav	2
+Bug	6	Abhijeet	14
+Indira	10	Harini	3
+Swayam	9	Bug	6
+Bhargav	3	Abhijeet	8
+Abrar	2	Sumant	4
+Vishal	18	Abrar	10
+Ammi	8	Indira	5
+Harini	3	7
+Abhijeet	13	1
+Sweetie	15	8
+Sumant	7	5
+Bug	13	13
+Indira	18	2
+Swayam	8	7
+Bhargav	4	6
+Abrar	6	9
+Vishal	17	35
+Ammi	10	4
+Harini	3	Sumant	1
+Abhijeet	7	Sumant	3
+Sweetie	14	Indira	8
+Sumant	2	Ammi	7
+Bug	5	Swayam	9
+Indira	2	Ammi	6
+Swayam	5	Sweetie	14
+Bhargav	11	Sweetie	10
+Abrar	1	Ammi	7
+Vishal	29	Sumant	7
+Ammi	8	Vishal	3
+Harini	3	10
+Abhijeet	14	19
+Sweetie	7	12
+Sumant	6	9
+Bug	10	8
+Indira	18	8
+Swayam	4	9
+Bhargav	2	12
+Abrar	11	1
+Vishal	16	2
+Ammi	9	6
+Harini	14	Indira	1
+Abhijeet	6	Swayam	5
+Sweetie	6	Indira	6
+Sumant	7	Swayam	1
+Bug	13	Vishal	8
+Indira	18	Harini	2
+Swayam	9	Harini	3
+Bhargav	1	Bug	9
+Abrar	4	Bug	7
+Vishal	15	Sumant	10
+Ammi	9	Abhijeet	11
+Harini	13	1
+Abhijeet	20	3
+Sweetie	12	14
+Sumant	4	1
+Bug	9	2
+Indira	18	7
+Swayam	2	6
+Bhargav	7	1
+Abrar	6	7
+Vishal	21	16
+Ammi	4	10
+Harini	6	Swayam	3
+Abhijeet	1	Vishal	43
+Sweetie	15	Swayam	6
+Sumant	5	Bhargav	11
+Bug	8	Sumant	6
+Indira	13	Bug	2
+Swayam	8	Abrar	10
+Bhargav	5	Indira	10
+Abrar	5	Bhargav	12
+Vishal	31	Swayam	9
+Ammi	11	Abhijeet	11
+Harini	11	10
+Abhijeet	5	6
+Sweetie	14	13
+Sumant	4	1
+Bug	3	12
+Indira	3	17
+Swayam	9	6
+Bhargav	11	4
+Abrar	7	5
+Vishal	22	18
+Ammi	2	6
+Harini	6	Abrar	1
+Abhijeet	18	Swayam	1
+Sweetie	8	Abhijeet	11
+Sumant	11	Swayam	10
+Bug	10	Ammi	11
+Indira	8	Vishal	3
+Swayam	7	Bhargav	8
+Bhargav	9	Indira	16
+Abrar	1	Ammi	7
+Vishal	47	Abhijeet	20
+Ammi	11	Abrar	7
+Harini	1	4
+Abhijeet	15	13
+Sweetie	9	4
+Sumant	3	2
+Bug	4	7
+Indira	18	17
+Swayam	7	8
+Bhargav	7	2
+Abrar	8	3
+Vishal	16	3
+Ammi	3	3
+Harini	8	Indira	16
+Abhijeet	20	Indira	2
+Sweetie	7	Indira	12
+Sumant	9	Indira	6
+Bug	5	Sumant	8
+Indira	6	Sumant	1
+Swayam	10	Harini	3
+Bhargav	7	Bug	10
+Abrar	11	Sweetie	9
+Vishal	39	Bug	3
+Ammi	1	Sweetie	6
+Harini	7	14
+Abhijeet	3	3
+Sweetie	13	9
+Sumant	9	3
+Bug	1	7
+Indira	1	7
+Swayam	7	4
+Bhargav	6	6
+Abrar	7	1
+Vishal	44	7
+Ammi	7	9
+Harini	13	Ammi	7
+Abhijeet	16	Abrar	7
+Sweetie	5	Abhijeet	7
+Sumant	6	Indira	6
+Bug	8	Sweetie	6
+Indira	12	Bhargav	5
+Swayam	10	Sumant	4
+Bhargav	7	Sweetie	1
+Abrar	11	Vishal	11
+Vishal	12	Ammi	10
+Ammi	5	Abhijeet	2
+Harini	12	5
+Abhijeet	6	1
+Sweetie	6	8
+Sumant	6	11
+Bug	4	4
+Indira	7	12
+Swayam	2	8
+Bhargav	2	1
+Abrar	4	6
+Vishal	30	31
+Ammi	9	7
+Harini	8	Indira	15
+Abhijeet	9	Sumant	2
+Sweetie	3	Bug	7
+Sumant	1	Harini	4
+Bug	6	Indira	16
+Indira	4	Bug	1
+Swayam	5	Bhargav	3
+Bhargav	6	Harini	12
+Abrar	1	Harini	6
+Vishal	12	Indira	12
+Ammi	7	Abrar	9
+Harini	9	3
+Abhijeet	11	6
+Sweetie	1	12
+Sumant	8	9
+Bug	5	4
+Indira	6	11
+Swayam	10	10
+Bhargav	2	8
+Abrar	9	1
+Vishal	6	48
+Ammi	2	10
+Harini	9	Abrar	1
+Abhijeet	8	Harini	1
+Sweetie	9	Bhargav	10
+Sumant	5	Vishal	42
+Bug	9	Ammi	7
+Indira	7	Bug	1
+Swayam	8	Harini	14
+Bhargav	11	Sumant	10
+Abrar	2	Indira	6
+Vishal	25	Abhijeet	17
+Ammi	7	Vishal	47
+Harini	12	14
+Abhijeet	18	3
+Sweetie	1	13
+Sumant	10	7
+Bug	5	12
+Indira	15	18
+Swayam	6	6
+Bhargav	10	4
+Abrar	11	6
+Vishal	19	5
+Ammi	3	1
+Harini	8	Sweetie	12
+Abhijeet	8	Bhargav	8
+Sweetie	9	Sumant	10
+Sumant	8	Swayam	1
+Bug	7	Sweetie	5
+Indira	9	Vishal	10
+Swayam	7	Sumant	3
+Bhargav	7	Sweetie	10
+Abrar	7	Abhijeet	19
+Vishal	22	Bug	11
+Ammi	9	Swayam	9
+Harini	6	8
+Abhijeet	17	7
+Sweetie	13	15
+Sumant	9	11
+Bug	3	13
+Indira	9	10
+Swayam	3	5
+Bhargav	12	12
+Abrar	11	11
+Vishal	22	19
+Ammi	1	6
+Harini	5	Abhijeet	13
+Abhijeet	2	Bhargav	6
+Sweetie	3	Abrar	11
+Sumant	6	Sweetie	1
+Bug	7	Sweetie	1
+Indira	2	Sweetie	4
+Swayam	1	Sweetie	5
+Bhargav	2	Abrar	7
+Abrar	3	Sumant	9
+Vishal	29	Bug	8
+Ammi	7	Abhijeet	20
+Harini	7	6
+Abhijeet	16	20
+Sweetie	5	14
+Sumant	4	4
+Bug	8	12
+Indira	7	8
+Swayam	6	8
+Bhargav	7	9
+Abrar	11	8
+Vishal	33	28
+Ammi	6	8
+Harini	11	Bug	10
+Abhijeet	18	Swayam	5
+Sweetie	6	Abhijeet	17
+Sumant	3	Vishal	15
+Bug	9	Harini	1
+Indira	15	Abrar	2
+Swayam	8	Sweetie	9
+Bhargav	1	Abrar	11
+Abrar	1	Bhargav	3
+Vishal	16	Sweetie	3
+Ammi	4	Vishal	26
+Harini	4	14
+Abhijeet	9	20
+Sweetie	13	5
+Sumant	7	10
+Bug	12	9
+Indira	3	3
+Swayam	8	3
+Bhargav	6	9
+Abrar	2	8
+Vishal	1	46
+Ammi	1	2
+Harini	4	Bug	3
+Abhijeet	6	Sumant	7
+Sweetie	3	Sumant	6
+Sumant	6	Sweetie	6
+Bug	1	Swayam	9
+Indira	14	Swayam	6
+Swayam	6	Harini	11
+Bhargav	3	Swayam	8
+Abrar	6	Ammi	9
+Vishal	6	Ammi	8
+Ammi	9	Abrar	11
+Harini	2	2
+Abhijeet	13	20
+Sweetie	2	7
+Sumant	8	11
+Bug	6	5
+Indira	3	18
+Swayam	8	5
+Bhargav	12	12
+Abrar	7	10
+Vishal	19	12
+Ammi	10	5
+Harini	4	Bhargav	5
+Abhijeet	11	Ammi	4
+Sweetie	10	Indira	3
+Sumant	7	Harini	3
+Bug	13	Swayam	3
+Indira	12	Sweetie	6
+Swayam	2	Sumant	11
+Bhargav	9	Abhijeet	8
+Abrar	9	Sweetie	8
+Vishal	27	Sumant	8
+Ammi	5	Sumant	9
+Harini	1	10
+Abhijeet	18	2
+Sweetie	3	13
+Sumant	6	6
+Bug	8	12
+Indira	6	9
+Swayam	6	9
+Bhargav	3	5
+Abrar	6	4
+Vishal	51	46
+Ammi	5	4
+Harini	13	Bug	7
+Abhijeet	13	Vishal	2
+Sweetie	9	Indira	15
+Sumant	5	Bug	11
+Bug	4	Vishal	45
+Indira	15	Ammi	5
+Swayam	4	Ammi	9
+Bhargav	10	Sweetie	5
+Abrar	10	Bug	3
+Vishal	14	Abhijeet	20
+Ammi	11	Vishal	36
+Harini	5	8
+Abhijeet	6	17
+Sweetie	8	4
+Sumant	4	5
+Bug	10	5
+Indira	5	16
+Swayam	7	9
+Bhargav	4	8
+Abrar	10	4
+Vishal	43	29
+Ammi	7	2
+Harini	13	Swayam	2
+Abhijeet	10	Sumant	8
+Sweetie	3	Sumant	6
+Sumant	5	Sweetie	15
+Bug	4	Abhijeet	20
+Indira	13	Bug	10
+Swayam	10	Sumant	10
+Bhargav	8	Abrar	1
+Abrar	8	Sweetie	14
+Vishal	49	Bug	8
+Ammi	6	Swayam	7
+Harini	3	5
+Abhijeet	9	15
+Sweetie	5	14
+Sumant	10	9
+Bug	1	12
+Indira	15	6
+Swayam	9	8
+Bhargav	12	11
+Abrar	2	8
+Vishal	19	36
+Ammi	3	5
+Harini	5	Abrar	5
+Abhijeet	20	Indira	13
+Sweetie	14	Ammi	8
+Sumant	4	Sweetie	15
+Bug	2	Sweetie	13
+Indira	12	Bug	8
+Swayam	3	Harini	13
+Bhargav	6	Swayam	5
+Abrar	8	Sumant	6
+Vishal	40	Bug	12
+Ammi	7	Bhargav	8
+Harini	2	12
+Abhijeet	15	16
+Sweetie	15	15
+Sumant	11	1
+Bug	6	4
+Indira	16	4
+Swayam	4	10
+Bhargav	10	10
+Abrar	9	11
+Vishal	19	6
+Ammi	5	9
+Harini	11	Indira	13
+Abhijeet	20	Abrar	7
+Sweetie	10	Abhijeet	11
+Sumant	11	Bhargav	8
+Bug	13	Sweetie	11
+Indira	9	Vishal	49
+Swayam	2	Indira	2
+Bhargav	11	Bug	10
+Abrar	4	Abhijeet	17
+Vishal	6	Sweetie	2
+Ammi	2	Bhargav	10
+Harini	9	1
+Abhijeet	5	4
+Sweetie	3	4
+Sumant	9	8
+Bug	3	12
+Indira	16	11
+Swayam	9	9
+Bhargav	3	3
+Abrar	3	3
+Vishal	39	11
+Ammi	7	2
+Harini	4	Abhijeet	16
+Abhijeet	10	Ammi	8
+Sweetie	9	Abrar	10
+Sumant	1	Vishal	19
+Bug	9	Vishal	40
+Indira	13	Bhargav	8
+Swayam	3	Bug	7
+Bhargav	6	Harini	5
+Abrar	10	Sumant	1
+Vishal	35	Sweetie	7
+Ammi	10	Harini	9
+Harini	7	10
+Abhijeet	13	9
+Sweetie	12	5
+Sumant	6	1
+Bug	12	2
+Indira	13	10
+Swayam	3	1
+Bhargav	4	3
+Abrar	2	3
+Vishal	26	10
+Ammi	6	11
+Harini	11	Ammi	6
+Abhijeet	14	Abrar	2
+Sweetie	2	Bug	12
+Sumant	2	Abhijeet	1
+Bug	6	Abrar	9
+Indira	6	Sumant	5
+Swayam	3	Indira	3
+Bhargav	3	Ammi	4
+Abrar	2	Sumant	9
+Vishal	23	Bug	11
+Ammi	7	Swayam	4
+Harini	13	13
+Abhijeet	2	5
+Sweetie	7	7
+Sumant	3	4
+Bug	8	9
+Indira	5	1
+Swayam	6	2
+Bhargav	8	1
+Abrar	9	2
+Vishal	14	50
+Ammi	10	9
+Harini	5	Vishal	13
+Abhijeet	18	Indira	8
+Sweetie	5	Abhijeet	19
+Sumant	9	Ammi	9
+Bug	8	Vishal	47
+Indira	15	Sumant	6
+Swayam	1	Bhargav	1
+Bhargav	3	Swayam	3
+Abrar	4	Bhargav	12
+Vishal	33	Sumant	6
+Ammi	7	Abrar	11
+Harini	4	9
+Abhijeet	14	5
+Sweetie	9	5
+Sumant	2	9
+Bug	8	12
+Indira	15	7
+Swayam	2	9
+Bhargav	3	8
+Abrar	1	3
+Vishal	26	39
+Ammi	6	11
+Harini	4	Abhijeet	17
+Abhijeet	20	Ammi	6
+Sweetie	13	Ammi	9
+Sumant	8	Bhargav	6
+Bug	4	Swayam	10
+Indira	12	Ammi	1
+Swayam	8	Sweetie	11
+Bhargav	4	Sweetie	6
+Abrar	9	Swayam	10
+Vishal	21	Bug	7
+Ammi	5	Indira	7
+Harini	8	4
+Abhijeet	2	20
+Sweetie	9	12
+Sumant	4	7
+Bug	11	9
+Indira	1	12
+Swayam	3	9
+Bhargav	3	4
+Abrar	3	7
+Vishal	24	27
+Ammi	8	10
+Harini	12	Bug	1
+Abhijeet	5	Swayam	8
+Sweetie	12	Ammi	3
+Sumant	7	Swayam	6
+Bug	6	Ammi	1
+Indira	8	Ammi	1
+Swayam	10	Harini	4
+Bhargav	10	Sweetie	7
+Abrar	11	Bug	10
+Vishal	42	Bhargav	6
+Ammi	8	Bhargav	5
+Harini	5	14
+Abhijeet	16	5
+Sweetie	11	13
+Sumant	8	5
+Bug	13	3
+Indira	6	3
+Swayam	6	2
+Bhargav	6	8
+Abrar	11	1
+Vishal	32	9
+Ammi	11	1
+Harini	6	Ammi	5
+Abhijeet	20	Sumant	6
+Sweetie	9	Bhargav	10
+Sumant	7	Ammi	5
+Bug	9	Abhijeet	1
+Indira	17	Vishal	49
+Swayam	8	Abhijeet	5
+Bhargav	8	Ammi	2
+Abrar	6	Vishal	23
+Vishal	32	Bhargav	9
+Ammi	5	Sumant	7
+Harini	9	9
+Abhijeet	2	14
+Sweetie	8	1
+Sumant	3	11
+Bug	9	6
+Indira	10	11
+Swayam	2	5
+Bhargav	6	11
+Abrar	9	2
+Vishal	37	2
+Ammi	9	5
+Harini	12	Sumant	2
+Abhijeet	7	Indira	6
+Sweetie	5	Swayam	10
+Sumant	3	Sweetie	9
+Bug	5	Abhijeet	12
+Indira	12	Bug	3
+Swayam	8	Bhargav	1
+Bhargav	2	Indira	3
+Abrar	2	Bhargav	4
+Vishal	11	Bug	2
+Ammi	3	Sumant	9
+Harini	7	3
+Abhijeet	18	8
+Sweetie	1	11
+Sumant	7	5
+Bug	9	6
+Indira	1	6
+Swayam	1	7
+Bhargav	10	3
+Abrar	7	8
+Vishal	33	12
+Ammi	11	1
+Harini	8	Swayam	1
+Abhijeet	20	Harini	12
+Sweetie	5	Abhijeet	6
+Sumant	3	Abhijeet	1
+Bug	2	Bhargav	3
+Indira	12	Abhijeet	3
+Swayam	3	Abhijeet	3
+Bhargav	8	Bug	11
+Abrar	6	Ammi	9
+Vishal	26	Indira	2
+Ammi	6	Sweetie	6
+Harini	13	8
+Abhijeet	16	10
+Sweetie	15	4
+Sumant	11	6
+Bug	12	6
+Indira	2	15
+Swayam	1	2
+Bhargav	10	4
+Abrar	2	8
+Vishal	6	35
+Ammi	2	1
+Harini	13	Ammi	5
+Abhijeet	19	Abrar	5
+Sweetie	11	Indira	16
+Sumant	7	Harini	13
+Bug	12	Swayam	4
+Indira	10	Ammi	11
+Swayam	8	Indira	12
+Bhargav	7	Bug	10
+Abrar	3	Vishal	17
+Vishal	13	Bhargav	8
+Ammi	6	Swayam	10
+Harini	11	11
+Abhijeet	10	13
+Sweetie	8	10
+Sumant	3	11
+Bug	3	13
+Indira	10	1
+Swayam	3	3
+Bhargav	11	10
+Abrar	3	1
+Vishal	27	14
+Ammi	11	10
+Harini	14	Abrar	5
+Abhijeet	6	Swayam	6
+Sweetie	8	Abhijeet	9
+Sumant	8	Bug	8
+Bug	10	Swayam	3
+Indira	9	Swayam	10
+Swayam	9	Abhijeet	2
+Bhargav	9	Swayam	6
+Abrar	8	Ammi	2
+Vishal	9	Bug	2
+Ammi	4	Vishal	45
+Harini	12	12
+Abhijeet	6	4
+Sweetie	5	14
+Sumant	6	3
+Bug	6	2
+Indira	13	7
+Swayam	5	5
+Bhargav	6	5
+Abrar	6	2
+Vishal	30	9
+Ammi	7	2
+Harini	14	Vishal	50
+Abhijeet	12	Swayam	9
+Sweetie	7	Bug	13
+Sumant	8	Abrar	6
+Bug	12	Sumant	9
+Indira	9	Bhargav	2
+Swayam	8	Bhargav	7
+Bhargav	7	Bug	2
+Abrar	6	Abhijeet	9
+Vishal	17	Abrar	10
+Ammi	10	Swayam	7
+Harini	2	12
+Abhijeet	9	7
+Sweetie	14	9
+Sumant	5	1
+Bug	1	8
+Indira	1	12
+Swayam	9	6
+Bhargav	3	6
+Abrar	4	6
+Vishal	32	32
+Ammi	3	3
+Harini	6	Vishal	46
+Abhijeet	3	Abrar	1
+Sweetie	4	Abhijeet	7
+Sumant	11	Bug	9
+Bug	6	Abhijeet	5
+Indira	6	Bhargav	5
+Swayam	6	Bhargav	5
+Bhargav	11	Sweetie	1
+Abrar	9	Indira	18
+Vishal	45	Abrar	10
+Ammi	1	Bug	7
+Harini	8	6
+Abhijeet	13	16
+Sweetie	3	15
+Sumant	11	11
+Bug	8	10
+Indira	4	1
+Swayam	1	6
+Bhargav	1	1
+Abrar	9	7
+Vishal	42	29
+Ammi	2	2
+Harini	8	Ammi	1
+Abhijeet	19	Abrar	8
+Sweetie	2	Vishal	32
+Sumant	11	Bug	7
+Bug	5	Swayam	1
+Indira	6	Swayam	7
+Swayam	3	Vishal	31
+Bhargav	12	Sumant	1
+Abrar	11	Harini	11
+Vishal	33	Ammi	6
+Ammi	7	Sweetie	11
+Harini	6	1
+Abhijeet	19	20
+Sweetie	15	8
+Sumant	7	8
+Bug	12	11
+Indira	12	16
+Swayam	3	9
+Bhargav	10	1
+Abrar	5	2
+Vishal	28	25
+Ammi	9	8
+Harini	6	Ammi	11
+Abhijeet	4	Harini	10
+Sweetie	1	Indira	18
+Sumant	2	Swayam	8
+Bug	11	Vishal	5
+Indira	6	Bhargav	10
+Swayam	5	Harini	8
+Bhargav	7	Indira	14
+Abrar	5	Bhargav	10
+Vishal	49	Bug	10
+Ammi	2	Vishal	32
+Harini	3	3
+Abhijeet	13	3
+Sweetie	13	7
+Sumant	11	10
+Bug	12	13
+Indira	11	8
+Swayam	10	10
+Bhargav	12	4
+Abrar	6	1
+Vishal	12	36
+Ammi	10	2
+Harini	7	Indira	2
+Abhijeet	20	Ammi	9
+Sweetie	5	Sumant	1
+Sumant	11	Indira	17
+Bug	9	Harini	10
+Indira	14	Sumant	7
+Swayam	3	Indira	10
+Bhargav	7	Ammi	5
+Abrar	2	Indira	8
+Vishal	43	Abhijeet	14
+Ammi	10	Bug	6
+Harini	7	13
+Abhijeet	7	8
+Sweetie	3	1
+Sumant	7	4
+Bug	11	2
+Indira	14	14
+Swayam	5	3
+Bhargav	10	1
+Abrar	8	5
+Vishal	26	46
+Ammi	2	8
+Harini	6	Sweetie	4
+Abhijeet	3	Harini	13
+Sweetie	8	Ammi	9
+Sumant	1	Vishal	20
+Bug	1	Harini	4
+Indira	5	Abhijeet	1
+Swayam	2	Vishal	21
+Bhargav	3	Abrar	7
+Abrar	10	Bhargav	8
+Vishal	13	Indira	4
+Ammi	4	Bhargav	6
+Harini	1	11
+Abhijeet	16	5
+Sweetie	1	10
+Sumant	5	8
+Bug	10	4
+Indira	8	3
+Swayam	5	9
+Bhargav	5	10
+Abrar	7	2
+Vishal	45	10
+Ammi	11	2
+Harini	3	Ammi	1
+Abhijeet	19	Indira	6
+Sweetie	2	Bhargav	8
+Sumant	4	Abrar	3
+Bug	6	Harini	7
+Indira	1	Abrar	5
+Swayam	3	Sumant	4
+Bhargav	11	Indira	8
+Abrar	11	Bhargav	5
+Vishal	41	Bug	6
+Ammi	10	Bhargav	6
+Harini	12	6
+Abhijeet	6	6
+Sweetie	1	1
+Sumant	9	5
+Bug	3	4
+Indira	10	17
+Swayam	4	4
+Bhargav	4	12
+Abrar	5	11
+Vishal	30	46
+Ammi	4	5
+Harini	10	Sumant	3
+Abhijeet	18	Harini	11
+Sweetie	10	Ammi	9
+Sumant	2	Bug	11
+Bug	13	Sweetie	1
+Indira	11	Swayam	5
+Swayam	9	Indira	18
+Bhargav	2	Sumant	4
+Abrar	6	Ammi	8
+Vishal	27	Bug	1
+Ammi	11	Swayam	6
+Harini	13	2
+Abhijeet	19	19
+Sweetie	6	10
+Sumant	11	8
+Bug	9	1
+Indira	5	13
+Swayam	1	9
+Bhargav	4	12
+Abrar	2	5
+Vishal	19	38
+Ammi	3	8
+Harini	9	Abhijeet	12
+Abhijeet	19	Abrar	2
+Sweetie	7	Abhijeet	5
+Sumant	2	Ammi	4
+Bug	11	Swayam	2
+Indira	7	Abrar	3
+Swayam	5	Sumant	2
+Bhargav	10	Indira	8
+Abrar	5	Ammi	10
+Vishal	24	Ammi	2
+Ammi	6	Indira	13
+Harini	2	13
+Abhijeet	2	4
+Sweetie	15	11
+Sumant	6	6
+Bug	5	7
+Indira	10	17
+Swayam	6	5
+Bhargav	2	6
+Abrar	9	3
+Vishal	3	19
+Ammi	1	1
+Harini	10	Vishal	16
+Abhijeet	2	Bhargav	5
+Sweetie	4	Bhargav	8
+Sumant	8	Swayam	3
+Bug	13	Indira	13
+Indira	7	Ammi	10
+Swayam	7	Vishal	39
+Bhargav	12	Bug	11
+Abrar	2	Sumant	5
+Vishal	42	Harini	13
+Ammi	10	Indira	16
+Harini	7	8
+Abhijeet	18	11
+Sweetie	5	8
+Sumant	1	9
+Bug	1	6
+Indira	2	10
+Swayam	8	4
+Bhargav	2	5
+Abrar	11	6
+Vishal	40	51
+Ammi	4	3
+Harini	7	Abhijeet	13
+Abhijeet	4	Abrar	10
+Sweetie	6	Bhargav	3
+Sumant	5	Abhijeet	15
+Bug	7	Swayam	8
+Indira	9	Abhijeet	4
+Swayam	1	Indira	8
+Bhargav	11	Sumant	4
+Abrar	1	Bug	9
+Vishal	47	Abhijeet	17
+Ammi	9	Swayam	10
+Harini	14	8
+Abhijeet	13	4
+Sweetie	9	7
+Sumant	3	4
+Bug	1	13
+Indira	13	11
+Swayam	8	3
+Bhargav	1	1
+Abrar	10	3
+Vishal	6	46
+Ammi	11	2
+Harini	12	Ammi	10
+Abhijeet	16	Ammi	2
+Sweetie	1	Abrar	6
+Sumant	11	Abrar	4
+Bug	2	Swayam	5
+Indira	13	Bhargav	9
+Swayam	6	Sweetie	8
+Bhargav	6	Ammi	7
+Abrar	5	Harini	12
+Vishal	28	Harini	9
+Ammi	1	Abhijeet	16
+Harini	4	12
+Abhijeet	4	11
+Sweetie	2	5
+Sumant	2	7
+Bug	3	3
+Indira	7	11
+Swayam	7	8
+Bhargav	10	11
+Abrar	10	4
+Vishal	20	5
+Ammi	8	7
+Harini	10	Ammi	5
+Abhijeet	8	Indira	13
+Sweetie	4	Sumant	5
+Sumant	8	Sweetie	2
+Bug	10	Indira	5
+Indira	1	Ammi	5
+Swayam	8	Ammi	11
+Bhargav	7	Sweetie	3
+Abrar	6	Vishal	51
+Vishal	30	Harini	2
+Ammi	2	Indira	9
+Harini	5	10
+Abhijeet	2	18
+Sweetie	1	14
+Sumant	1	7
+Bug	9	12
+Indira	13	5
+Swayam	3	9
+Bhargav	4	12
+Abrar	6	9
+Vishal	18	29
+Ammi	2	5
+Harini	7	Bhargav	8
+Abhijeet	20	Bug	8
+Sweetie	15	Sumant	9
+Sumant	3	Bug	1
+Bug	3	Sweetie	7
+Indira	2	Sweetie	2
+Swayam	10	Sumant	4
+Bhargav	2	Harini	11
+Abrar	7	Bug	3
+Vishal	17	Abrar	5
+Ammi	7	Indira	17
+Harini	14	3
+Abhijeet	15	1
+Sweetie	3	6
+Sumant	10	4
+Bug	3	4
+Indira	9	11
+Swayam	2	3
+Bhargav	10	7
+Abrar	9	7
+Vishal	33	50
+Ammi	9	5
+Harini	6	Bug	11
+Abhijeet	2	Indira	7
+Sweetie	1	Swayam	1
+Sumant	7	Harini	6
+Bug	2	Swayam	7
+Indira	6	Swayam	10
+Swayam	1	Abrar	1
+Bhargav	8	Abrar	7
+Abrar	2	Bug	6
+Vishal	30	Swayam	6
+Ammi	5	Indira	11
+Harini	9	11
+Abhijeet	11	13
+Sweetie	3	5
+Sumant	7	11
+Bug	4	9
+Indira	17	5
+Swayam	2	1
+Bhargav	7	2
+Abrar	2	11
+Vishal	5	43
+Ammi	4	4
+Harini	14	Ammi	7
+Abhijeet	19	Sumant	4
+Sweetie	7	Ammi	6
+Sumant	6	Swayam	3
+Bug	1	Ammi	9
+Indira	14	Abhijeet	18
+Swayam	1	Vishal	18
+Bhargav	3	Abhijeet	18
+Abrar	6	Sumant	6
+Vishal	48	Bug	2
+Ammi	5	Sweetie	2
+Harini	11	10
+Abhijeet	18	6
+Sweetie	3	4
+Sumant	5	4
+Bug	9	6
+Indira	18	4
+Swayam	1	7
+Bhargav	5	7
+Abrar	10	8
+Vishal	38	3
+Ammi	2	1
+Harini	12	Bhargav	3
+Abhijeet	2	Vishal	37
+Sweetie	8	Sumant	10
+Sumant	3	Bhargav	3
+Bug	13	Sweetie	13
+Indira	8	Abhijeet	18
+Swayam	8	Ammi	3
+Bhargav	2	Indira	13
+Abrar	1	Bug	4
+Vishal	32	Abhijeet	8
+Ammi	11	Bhargav	6
+Harini	11	6
+Abhijeet	1	19
+Sweetie	14	11
+Sumant	5	9
+Bug	2	12
+Indira	9	8
+Swayam	6	8
+Bhargav	3	6
+Abrar	11	5
+Vishal	3	18
+Ammi	11	5
+Harini	4	Sumant	8
+Abhijeet	8	Harini	7
+Sweetie	6	Bug	10
+Sumant	2	Sweetie	13
+Bug	11	Bhargav	3
+Indira	10	Sweetie	6
+Swayam	10	Bug	4
+Bhargav	2	Swayam	4
+Abrar	3	Abhijeet	7
+Vishal	4	Swayam	7
+Ammi	1	Sweetie	6
+Harini	1	10
+Abhijeet	14	9
+Sweetie	4	11
+Sumant	1	5
+Bug	4	9
+Indira	13	6
+Swayam	10	9
+Bhargav	3	4
+Abrar	4	8
+Vishal	47	32
+Ammi	7	7
+Harini	11	Indira	8
+Abhijeet	13	Indira	15
+Sweetie	14	Indira	14
+Sumant	6	Ammi	4
+Bug	10	Harini	2
+Indira	6	Sweetie	13
+Swayam	6	Vishal	25
+Bhargav	1	Vishal	48
+Abrar	7	Harini	14
+Vishal	7	Indira	18
+Ammi	9	Abrar	3
+Harini	11	2
+Abhijeet	11	17
+Sweetie	8	11
+Sumant	3	6
+Bug	7	12
+Indira	3	9
+Swayam	6	9
+Bhargav	7	2
+Abrar	6	3
+Vishal	29	27
+Ammi	9	3
+Harini	5	Swayam	8
+Abhijeet	17	Sumant	1
+Sweetie	6	Indira	3
+Sumant	10	Harini	6
+Bug	10	Indira	18
+Indira	13	Abrar	4
+Swayam	3	Abhijeet	2
+Bhargav	5	Abrar	2
+Abrar	11	Harini	3
+Vishal	26	Bhargav	3
+Ammi	9	Vishal	36
+Harini	7	7
+Abhijeet	19	11
+Sweetie	11	11
+Sumant	1	10
+Bug	9	7
+Indira	16	12
+Swayam	3	6
+Bhargav	12	1
+Abrar	4	5
+Vishal	29	38
+Ammi	2	8
+Harini	9	Swayam	9
+Abhijeet	6	Bhargav	3
+Sweetie	5	Abhijeet	4
+Sumant	7	Swayam	8
+Bug	10	Swayam	5
+Indira	8	Harini	6
+Swayam	10	Abrar	6
+Bhargav	4	Sumant	8
+Abrar	9	Sumant	8
+Vishal	51	Swayam	5
+Ammi	10	Sweetie	13
+Harini	8	13
+Abhijeet	6	18
+Sweetie	8	7
+Sumant	9	8
+Bug	11	3
+Indira	5	18
+Swayam	10	3
+Bhargav	7	8
+Abrar	5	4
+Vishal	43	22
+Ammi	9	1
+Harini	6	Sweetie	14
+Abhijeet	6	Bhargav	2
+Sweetie	14	Vishal	38
+Sumant	3	Indira	2
+Bug	10	Vishal	22
+Indira	9	Harini	10
+Swayam	8	Bug	5
+Bhargav	2	Harini	8
+Abrar	8	Swayam	1
+Vishal	43	Indira	13
+Ammi	9	Abhijeet	5
+Harini	7	4
+Abhijeet	15	4
+Sweetie	8	11
+Sumant	11	4
+Bug	3	9
+Indira	14	9
+Swayam	6	1
+Bhargav	2	8
+Abrar	2	7
+Vishal	35	44
+Ammi	8	10
+Harini	14	Indira	5
+Abhijeet	13	Abrar	3
+Sweetie	1	Vishal	18
+Sumant	1	Bhargav	12
+Bug	5	Vishal	4
+Indira	14	Ammi	8
+Swayam	7	Bug	1
+Bhargav	7	Abrar	8
+Abrar	5	Sweetie	6
+Vishal	2	Ammi	8
+Ammi	7	Abrar	7
+Harini	3	2
+Abhijeet	12	3
+Sweetie	7	12
+Sumant	6	1
+Bug	12	9
+Indira	3	18
+Swayam	5	6
+Bhargav	8	3
+Abrar	3	10
+Vishal	9	15
+Ammi	6	7
+Harini	6	Swayam	9
+Abhijeet	3	Vishal	7
+Sweetie	15	Bhargav	10
+Sumant	9	Indira	8
+Bug	8	Bhargav	8
+Indira	11	Sumant	2
+Swayam	7	Ammi	11
+Bhargav	1	Vishal	38
+Abrar	3	Bhargav	10
+Vishal	11	Bug	6
+Ammi	6	Vishal	4
+Harini	5	3
+Abhijeet	20	17
+Sweetie	6	6
+Sumant	6	2
+Bug	6	13
+Indira	8	12
+Swayam	2	3
+Bhargav	3	8
+Abrar	11	1
+Vishal	44	7
+Ammi	1	11
+Harini	13	Abrar	2
+Abhijeet	3	Harini	7
+Sweetie	5	Harini	4
+Sumant	6	Bug	5
+Bug	8	Sumant	10
+Indira	12	Sweetie	4
+Swayam	2	Harini	5
+Bhargav	2	Bug	5
+Abrar	1	Bhargav	4
+Vishal	9	Sumant	11
+Ammi	11	Sumant	10
+Harini	7	5
+Abhijeet	4	1
+Sweetie	10	13
+Sumant	10	10
+Bug	9	8
+Indira	7	15
+Swayam	7	9
+Bhargav	9	7
+Abrar	4	10
+Vishal	37	43
+Ammi	2	6
+Harini	6	Abrar	7
+Abhijeet	14	Ammi	7
+Sweetie	15	Harini	12
+Sumant	5	Abrar	8
+Bug	2	Swayam	4
+Indira	18	Vishal	11
+Swayam	3	Indira	11
+Bhargav	11	Swayam	10
+Abrar	8	Ammi	10
+Vishal	37	Ammi	2
+Ammi	1	Vishal	33
+Harini	3	13
+Abhijeet	4	9
+Sweetie	5	13
+Sumant	9	4
+Bug	1	1
+Indira	16	2
+Swayam	6	1
+Bhargav	5	12
+Abrar	3	10
+Vishal	7	22
+Ammi	9	11
+Harini	2	Abhijeet	2
+Abhijeet	15	Sumant	7
+Sweetie	15	Bhargav	12
+Sumant	6	Bhargav	12
+Bug	8	Abrar	5
+Indira	7	Sumant	2
+Swayam	8	Harini	1
+Bhargav	2	Sumant	1
+Abrar	1	Indira	16
+Vishal	26	Sumant	3
+Ammi	2	Harini	8
+Harini	4	14
+Abhijeet	2	6
+Sweetie	1	15
+Sumant	3	1
+Bug	6	3
+Indira	11	11
+Swayam	4	1
+Bhargav	2	6
+Abrar	4	7
+Vishal	14	6
+Ammi	9	2
+Harini	11	Ammi	3
+Abhijeet	17	Harini	10
+Sweetie	2	Abhijeet	7
+Sumant	8	Swayam	7
+Bug	3	Swayam	1
+Indira	11	Swayam	8
+Swayam	8	Harini	14
+Bhargav	10	Sumant	10
+Abrar	2	Indira	3
+Vishal	44	Abhijeet	3
+Ammi	8	Sumant	3
+Harini	6	14
+Abhijeet	1	10
+Sweetie	1	12
+Sumant	2	9
+Bug	10	13
+Indira	10	5
+Swayam	6	7
+Bhargav	2	9
+Abrar	3	5
+Vishal	35	34
+Ammi	7	3
+Harini	4	Sumant	3
+Abhijeet	5	Abrar	6
+Sweetie	13	Indira	2
+Sumant	5	Ammi	9
+Bug	4	Vishal	48
+Indira	16	Sumant	6
+Swayam	8	Bhargav	12
+Bhargav	9	Sweetie	3
+Abrar	8	Ammi	2
+Vishal	31	Abrar	4
+Ammi	4	Swayam	8
+Harini	10	13
+Abhijeet	8	17
+Sweetie	1	2
+Sumant	1	4
+Bug	3	7
+Indira	6	5
+Swayam	1	9
+Bhargav	10	9
+Abrar	6	1
+Vishal	18	20
+Ammi	2	10
+Harini	11	Bug	5
+Abhijeet	20	Vishal	27
+Sweetie	7	Vishal	24
+Sumant	4	Bhargav	7
+Bug	3	Abrar	11
+Indira	6	Harini	5
+Swayam	4	Harini	7
+Bhargav	5	Indira	3
+Abrar	3	Indira	6
+Vishal	31	Abrar	5
+Ammi	3	Abhijeet	1
+Harini	14	3
+Abhijeet	5	7
+Sweetie	9	3
+Sumant	9	7
+Bug	13	9
+Indira	9	14
+Swayam	3	8
+Bhargav	12	2
+Abrar	10	4
+Vishal	39	28
+Ammi	6	11
+Harini	14	Sweetie	7
+Abhijeet	11	Swayam	9
+Sweetie	4	Swayam	4
+Sumant	5	Sweetie	10
+Bug	12	Abrar	11
+Indira	17	Bhargav	11
+Swayam	3	Abhijeet	18
+Bhargav	7	Harini	2
+Abrar	8	Sumant	3
+Vishal	17	Sumant	9
+Ammi	8	Abrar	1
+Harini	11	7
+Abhijeet	9	1
+Sweetie	12	11
+Sumant	6	4
+Bug	7	3
+Indira	4	7
+Swayam	1	2
+Bhargav	4	5
+Abrar	8	6
+Vishal	34	2
+Ammi	2	9
+Harini	4	Vishal	34
+Abhijeet	1	Ammi	9
+Sweetie	15	Sumant	1
+Sumant	10	Bhargav	2
+Bug	2	Sumant	9
+Indira	4	Swayam	4
+Swayam	4	Sumant	10
+Bhargav	8	Abhijeet	20
+Abrar	5	Sweetie	12
+Vishal	1	Sweetie	2
+Ammi	4	Bug	5
+Harini	11	3
+Abhijeet	5	4
+Sweetie	7	2
+Sumant	3	6
+Bug	9	5
+Indira	18	11
+Swayam	6	4
+Bhargav	5	6
+Abrar	8	3
+Vishal	12	41
+Ammi	7	2
+Harini	12	Indira	1
+Abhijeet	14	Vishal	4
+Sweetie	1	Vishal	41
+Sumant	5	Bhargav	1
+Bug	7	Abrar	6
+Indira	5	Abrar	8
+Swayam	5	Harini	13
+Bhargav	2	Bug	6
+Abrar	2	Swayam	1
+Vishal	17	Ammi	1
+Ammi	8	Indira	11
+Harini	6	14
+Abhijeet	18	12
+Sweetie	7	14
+Sumant	8	4
+Bug	8	1
+Indira	17	9
+Swayam	6	8
+Bhargav	8	10
+Abrar	10	4
+Vishal	44	34
+Ammi	11	10
+Harini	10	Sumant	4
+Abhijeet	2	Sumant	10
+Sweetie	9	Bhargav	3
+Sumant	9	Swayam	7
+Bug	3	Swayam	2
+Indira	7	Swayam	4
+Swayam	1	Bhargav	10
+Bhargav	5	Abrar	1
+Abrar	4	Swayam	6
+Vishal	18	Bug	13
+Ammi	2	Sumant	7
+Harini	10	10
+Abhijeet	4	8
+Sweetie	2	5
+Sumant	3	2
+Bug	1	6
+Indira	7	18
+Swayam	10	5
+Bhargav	5	7
+Abrar	5	11
+Vishal	13	33
+Ammi	9	10
+Harini	7	Ammi	11
+Abhijeet	18	Abrar	9
+Sweetie	13	Indira	16
+Sumant	8	Harini	12
+Bug	9	Ammi	8
+Indira	18	Vishal	15
+Swayam	1	Indira	17
+Bhargav	6	Abrar	1
+Abrar	7	Sweetie	5
+Vishal	17	Indira	6
+Ammi	9	Swayam	10
+Harini	5	4
+Abhijeet	11	9
+Sweetie	11	9
+Sumant	10	11
+Bug	12	11
+Indira	18	1
+Swayam	9	8
+Bhargav	7	8
+Abrar	8	1
+Vishal	7	38
+Ammi	9	10
+Harini	14	Bhargav	3
+Abhijeet	19	Abrar	5
+Sweetie	4	Vishal	28
+Sumant	4	Bhargav	5
+Bug	1	Bhargav	7
+Indira	17	Swayam	3
+Swayam	9	Abhijeet	10
+Bhargav	1	Vishal	19
+Abrar	1	Bhargav	11
+Vishal	11	Bug	7
+Ammi	2	Swayam	6
+Harini	3	13
+Abhijeet	4	18
+Sweetie	5	8
+Sumant	11	11
+Bug	3	8
+Indira	11	11
+Swayam	6	9
+Bhargav	9	1
+Abrar	7	3
+Vishal	33	9
+Ammi	4	3
+Harini	5	Bug	6
+Abhijeet	8	Ammi	6
+Sweetie	5	Vishal	8
+Sumant	6	Swayam	10
+Bug	8	Abrar	4
+Indira	6	Abrar	8
+Swayam	6	Vishal	8
+Bhargav	7	Vishal	12
+Abrar	6	Vishal	16
+Vishal	17	Ammi	4
+Ammi	8	Bug	10
+Harini	11	4
+Abhijeet	7	16
+Sweetie	8	10
+Sumant	10	11
+Bug	4	1
+Indira	7	12
+Swayam	1	9
+Bhargav	8	3
+Abrar	7	8
+Vishal	6	10
+Ammi	2	1
+Harini	9	Ammi	9
+Abhijeet	10	Ammi	3
+Sweetie	6	Abrar	10
+Sumant	9	Abhijeet	1
+Bug	12	Ammi	1
+Indira	16	Vishal	19
+Swayam	7	Bhargav	10
+Bhargav	8	Abhijeet	18
+Abrar	10	Indira	7
+Vishal	34	Bhargav	1
+Ammi	2	Vishal	44
+Harini	8	7
+Abhijeet	20	1
+Sweetie	6	3
+Sumant	10	2
+Bug	1	11
+Indira	15	14
+Swayam	5	1
+Bhargav	3	12
+Abrar	1	4
+Vishal	45	21
+Ammi	2	10
+Harini	14	Sweetie	5
+Abhijeet	6	Vishal	24
+Sweetie	9	Harini	11
+Sumant	9	Swayam	3
+Bug	5	Abhijeet	6
+Indira	14	Harini	10
+Swayam	7	Sweetie	13
+Bhargav	5	Abhijeet	1
+Abrar	10	Sumant	8
+Vishal	21	Sweetie	10
+Ammi	6	Abhijeet	1
+Harini	14	11
+Abhijeet	3	8
+Sweetie	3	11
+Sumant	7	5
+Bug	13	7
+Indira	7	18
+Swayam	1	10
+Bhargav	4	6
+Abrar	9	1
+Vishal	29	1
+Ammi	10	9
+Harini	11	Sumant	5
+Abhijeet	16	Harini	13
+Sweetie	2	Vishal	5
+Sumant	5	Bug	6
+Bug	2	Bhargav	6
+Indira	15	Vishal	42
+Swayam	10	Sumant	5
+Bhargav	10	Bug	9
+Abrar	10	Indira	16
+Vishal	19	Sweetie	3
+Ammi	9	Vishal	44
+Harini	3	8
+Abhijeet	3	16
+Sweetie	3	12
+Sumant	8	10
+Bug	11	6
+Indira	13	1
+Swayam	6	10
+Bhargav	12	4
+Abrar	2	11
+Vishal	34	26
+Ammi	6	10
+Harini	10	Abrar	10
+Abhijeet	9	Vishal	32
+Sweetie	7	Bug	9
+Sumant	11	Swayam	5
+Bug	6	Sumant	5
+Indira	2	Sweetie	6
+Swayam	5	Bug	13
+Bhargav	1	Sweetie	3
+Abrar	9	Harini	11
+Vishal	18	Bug	10
+Ammi	3	Sumant	6
+Harini	13	2
+Abhijeet	10	12
+Sweetie	1	4
+Sumant	8	6
+Bug	13	13
+Indira	5	9
+Swayam	2	8
+Bhargav	2	2
+Abrar	1	1
+Vishal	34	4
+Ammi	9	7
+Harini	5	Ammi	8
+Abhijeet	5	Ammi	2
+Sweetie	2	Ammi	9
+Sumant	10	Sweetie	13
+Bug	3	Sumant	5
+Indira	9	Sumant	6
+Swayam	10	Bhargav	9
+Bhargav	12	Bug	12
+Abrar	1	Harini	10
+Vishal	22	Bhargav	9
+Ammi	5	Vishal	31
+Harini	11	5
+Abhijeet	13	1
+Sweetie	3	4
+Sumant	8	6
+Bug	7	1
+Indira	6	17
+Swayam	8	1
+Bhargav	3	10
+Abrar	7	5
+Vishal	43	50
+Ammi	1	1
+Harini	7	Vishal	40
+Abhijeet	16	Indira	2
+Sweetie	6	Ammi	9
+Sumant	5	Vishal	19
+Bug	11	Indira	17
+Indira	8	Sweetie	7
+Swayam	4	Bhargav	2
+Bhargav	1	Vishal	3
+Abrar	11	Bhargav	6
+Vishal	17	Harini	6
+Ammi	10	Bhargav	1
+Harini	1	5
+Abhijeet	14	6
+Sweetie	8	2
+Sumant	4	4
+Bug	13	9
+Indira	3	13
+Swayam	7	7
+Bhargav	8	8
+Abrar	8	10
+Vishal	45	5
+Ammi	3	1
+Harini	3	Bug	3
+Abhijeet	1	Indira	18
+Sweetie	13	Swayam	7
+Sumant	11	Abrar	9
+Bug	4	Ammi	3
+Indira	3	Bhargav	7
+Swayam	8	Bhargav	3
+Bhargav	5	Indira	4
+Abrar	6	Ammi	2
+Vishal	33	Harini	2
+Ammi	5	Harini	4
+Harini	7	7
+Abhijeet	17	8
+Sweetie	1	4
+Sumant	8	5
+Bug	6	4
+Indira	1	16
+Swayam	1	1
+Bhargav	8	4
+Abrar	7	5
+Vishal	32	32
+Ammi	8	7
+Harini	2	Sweetie	12
+Abhijeet	7	Sumant	8
+Sweetie	11	Bug	1
+Sumant	2	Ammi	1
+Bug	9	Ammi	2
+Indira	3	Vishal	50
+Swayam	4	Bug	11
+Bhargav	10	Indira	6
+Abrar	10	Swayam	8
+Vishal	39	Indira	4
+Ammi	6	Bug	2
+Harini	5	13
+Abhijeet	3	6
+Sweetie	4	12
+Sumant	9	2
+Bug	4	11
+Indira	7	1
+Swayam	5	9
+Bhargav	4	5
+Abrar	5	6
+Vishal	11	30
+Ammi	8	4
+Harini	7	Bhargav	1
+Abhijeet	20	Ammi	6
+Sweetie	12	Bhargav	5
+Sumant	5	Bug	8
+Bug	10	Sweetie	11
+Indira	16	Sweetie	10
+Swayam	10	Ammi	9
+Bhargav	4	Ammi	9
+Abrar	10	Sumant	1
+Vishal	44	Bug	4
+Ammi	3	Sumant	3
+Harini	1	8
+Abhijeet	7	5
+Sweetie	2	2
+Sumant	8	6
+Bug	9	4
+Indira	11	13
+Swayam	8	3
+Bhargav	6	1
+Abrar	6	5
+Vishal	49	43
+Ammi	9	3
+Harini	9	Vishal	7
+Abhijeet	19	Bug	6
+Sweetie	12	Ammi	4
+Sumant	8	Abrar	3
+Bug	12	Sweetie	2
+Indira	1	Ammi	11
+Swayam	1	Abhijeet	18
+Bhargav	5	Sweetie	5
+Abrar	7	Vishal	34
+Vishal	44	Abrar	4
+Ammi	4	Swayam	1
+Harini	12	4
+Abhijeet	17	3
+Sweetie	1	13
+Sumant	2	11
+Bug	6	4
+Indira	15	7
+Swayam	2	4
+Bhargav	1	4
+Abrar	3	3
+Vishal	9	49
+Ammi	7	6
+Harini	12	Sumant	9
+Abhijeet	14	Bhargav	7
+Sweetie	3	Harini	2
+Sumant	7	Abhijeet	4
+Bug	11	Ammi	9
+Indira	14	Sweetie	9
+Swayam	8	Bhargav	6
+Bhargav	11	Abrar	10
+Abrar	9	Vishal	26
+Vishal	7	Swayam	4
+Ammi	11	Indira	15
+Harini	3	3
+Abhijeet	20	1
+Sweetie	1	9
+Sumant	1	3
+Bug	11	2
+Indira	8	1
+Swayam	5	8
+Bhargav	5	3
+Abrar	5	6
+Vishal	20	33
+Ammi	1	2
+Harini	1	Vishal	21
+Abhijeet	8	Vishal	26
+Sweetie	8	Swayam	9
+Sumant	8	Abrar	8
+Bug	10	Abhijeet	14
+Indira	1	Vishal	46
+Swayam	3	Harini	12
+Bhargav	9	Ammi	6
+Abrar	5	Sumant	7
+Vishal	12	Sumant	2
+Ammi	11	Abhijeet	18
+Harini	14	2
+Abhijeet	20	10
+Sweetie	1	14
+Sumant	2	11
+Bug	1	7
+Indira	12	12
+Swayam	8	8
+Bhargav	7	5
+Abrar	7	9
+Vishal	7	11
+Ammi	1	7
+Harini	5	Indira	14
+Abhijeet	5	Sumant	11
+Sweetie	1	Abhijeet	12
+Sumant	9	Swayam	7
+Bug	2	Indira	14
+Indira	6	Abrar	6
+Swayam	3	Abhijeet	13
+Bhargav	7	Sumant	7
+Abrar	11	Harini	10
+Vishal	40	Sumant	10
+Ammi	11	Bug	5
+Harini	14	8
+Abhijeet	4	8
+Sweetie	2	3
+Sumant	6	2
+Bug	10	5
+Indira	13	18
+Swayam	6	5
+Bhargav	5	8
+Abrar	6	10
+Vishal	10	23
+Ammi	10	4
+Harini	9	Abhijeet	12
+Abhijeet	18	Abrar	10
+Sweetie	14	Bug	5
+Sumant	10	Abhijeet	2
+Bug	8	Indira	14
+Indira	9	Sumant	6
+Swayam	7	Harini	4
+Bhargav	3	Harini	3
+Abrar	2	Swayam	10
+Vishal	4	Bug	10
+Ammi	1	Harini	9
+Harini	13	8
+Abhijeet	13	2
+Sweetie	5	11
+Sumant	8	10
+Bug	7	1
+Indira	6	5
+Swayam	6	6
+Bhargav	5	1
+Abrar	11	10
+Vishal	29	37
+Ammi	2	2
+Harini	4	Bhargav	6
+Abhijeet	9	Ammi	7
+Sweetie	3	Harini	13
+Sumant	9	Bug	8
+Bug	1	Bhargav	7
+Indira	12	Bhargav	6
+Swayam	1	Vishal	3
+Bhargav	1	Ammi	1
+Abrar	1	Sumant	9
+Vishal	9	Bug	3
+Ammi	11	Swayam	2
+Harini	7	1
+Abhijeet	4	19
+Sweetie	2	3
+Sumant	2	6
+Bug	12	13
+Indira	12	2
+Swayam	10	9
+Bhargav	8	1
+Abrar	2	2
+Vishal	18	32
+Ammi	5	8
+Harini	11	Sumant	4
+Abhijeet	20	Sweetie	5
+Sweetie	7	Abhijeet	11
+Sumant	5	Harini	10
+Bug	5	Ammi	9
+Indira	6	Vishal	4
+Swayam	7	Abrar	3
+Bhargav	2	Vishal	8
+Abrar	10	Swayam	8
+Vishal	35	Ammi	1
+Ammi	6	Harini	3
+Harini	9	10
+Abhijeet	10	9
+Sweetie	15	9
+Sumant	5	5
+Bug	1	10
+Indira	3	15
+Swayam	9	4
+Bhargav	8	6
+Abrar	8	10
+Vishal	8	33
+Ammi	4	10
+Harini	7	Sweetie	4
+Abhijeet	10	Sweetie	10
+Sweetie	7	Swayam	5
+Sumant	1	Vishal	8
+Bug	6	Bhargav	6
+Indira	2	Sweetie	6
+Swayam	9	Bug	2
+Bhargav	6	Abhijeet	15
+Abrar	8	Bug	1
+Vishal	25	Harini	2
+Ammi	5	Swayam	8
+Harini	5	11
+Abhijeet	8	3
+Sweetie	10	6
+Sumant	3	10
+Bug	2	8
+Indira	17	6
+Swayam	8	9
+Bhargav	3	10
+Abrar	4	4
+Vishal	33	51
+Ammi	3	4
+Harini	14	Indira	12
+Abhijeet	14	Abrar	8
+Sweetie	11	Abhijeet	9
+Sumant	5	Ammi	7
+Bug	13	Swayam	2
+Indira	12	Vishal	27
+Swayam	7	Indira	6
+Bhargav	2	Abhijeet	18
+Abrar	6	Sweetie	4
+Vishal	22	Sumant	11
+Ammi	6	Bug	2
+Harini	8	14
+Abhijeet	2	4
+Sweetie	5	2
+Sumant	7	4
+Bug	9	12
+Indira	2	4
+Swayam	8	7
+Bhargav	2	3
+Abrar	8	3
+Vishal	50	41
+Ammi	9	11
+Harini	13	Sumant	6
+Abhijeet	18	Harini	10
+Sweetie	11	Indira	16
+Sumant	9	Bug	10
+Bug	12	Abhijeet	9
+Indira	11	Harini	13
+Swayam	6	Bhargav	4
+Bhargav	11	Harini	6
+Abrar	11	Swayam	6
+Vishal	20	Abhijeet	18
+Ammi	8	Abrar	8
+Harini	11	9
+Abhijeet	16	1
+Sweetie	10	4
+Sumant	8	11
+Bug	6	2
+Indira	18	4
+Swayam	7	10
+Bhargav	9	2
+Abrar	3	7
+Vishal	5	7
+Ammi	7	8
+Harini	6	Vishal	25
+Abhijeet	18	Harini	5
+Sweetie	2	Indira	9
+Sumant	11	Indira	7
+Bug	1	Swayam	3
+Indira	7	Bug	4
+Swayam	10	Sweetie	14
+Bhargav	6	Ammi	2
+Abrar	5	Vishal	33
+Vishal	37	Bhargav	8
+Ammi	2	Vishal	44
+Harini	8	14
+Abhijeet	20	15
+Sweetie	9	3
+Sumant	8	8
+Bug	4	9
+Indira	15	14
+Swayam	5	6
+Bhargav	12	12
+Abrar	2	9
+Vishal	6	34
+Ammi	6	9
+Harini	8	Bhargav	5
+Abhijeet	10	Bug	4
+Sweetie	2	Indira	16
+Sumant	6	Indira	7
+Bug	2	Indira	1
+Indira	14	Abhijeet	16
+Swayam	9	Abhijeet	16
+Bhargav	9	Abhijeet	14
+Abrar	2	Sumant	8
+Vishal	21	Harini	13
+Ammi	11	Sweetie	14

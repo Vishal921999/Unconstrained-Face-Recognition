@@ -1,0 +1,5801 @@
+100	29
+person9	6	15
+person18	7	7
+person10	2	6
+person24	1	2
+person2	2	8
+person22	16	12
+person14	19	15
+person19	5	4
+Person28	1	1
+person6	1	2
+person5	18	3
+Sketches	2	2
+Person27	1	1
+person16	17	19
+person21	16	9
+person26	21	21
+person7	16	9
+person1	8	11
+person8	2	5
+person12	3	3
+person3	4	1
+person23	10	11
+person20	8	19
+person17	4	1
+person25	15	13
+person15	3	10
+person11	1	3
+person13	6	5
+person4	1	12
+person9	16	person24	1
+person18	10	Sketches	2
+person10	3	person18	5
+person24	1	person19	5
+person2	10	person1	8
+person22	12	person21	2
+person14	12	person21	1
+person19	1	person26	1
+Person28	1	person8	5
+person6	20	person16	15
+person5	21	person1	2
+Sketches	2	Person28	1
+Person27	1	person12	1
+person16	3	person23	15
+person21	7	Sketches	2
+person26	3	person13	3
+person7	14	Sketches	2
+person1	6	person6	22
+person8	1	Person27	1
+person12	3	person15	3
+person3	2	person14	21
+person23	10	person17	3
+person20	15	person17	5
+person17	3	person7	9
+person25	1	person22	7
+person15	15	person6	17
+person11	3	person16	10
+person13	4	person14	4
+person4	12	person15	10
+person9	17	19
+person18	11	5
+person10	3	3
+person24	4	5
+person2	14	17
+person22	16	7
+person14	9	3
+person19	12	10
+Person28	1	1
+person6	15	22
+person5	8	19
+Sketches	2	2
+Person27	1	1
+person16	12	12
+person21	11	5
+person26	18	15
+person7	6	4
+person1	20	6
+person8	1	3
+person12	3	5
+person3	4	4
+person23	18	20
+person20	9	14
+person17	4	2
+person25	15	13
+person15	8	8
+person11	3	5
+person13	14	11
+person4	14	18
+person9	1	person22	19
+person18	1	Sketches	2
+person10	7	person22	6
+person24	4	person26	3
+person2	11	person17	3
+person22	15	person10	3
+person14	15	person16	2
+person19	10	person2	10
+Person28	1	person19	20
+person6	4	person10	5
+person5	8	person14	14
+Sketches	2	Person28	1
+Person27	1	person10	2
+person16	22	Person27	1
+person21	2	person11	4
+person26	17	Person27	1
+person7	6	person10	2
+person1	19	Person27	1
+person8	1	person24	5
+person12	2	person8	4
+person3	5	person10	5
+person23	20	Person28	1
+person20	9	person17	4
+person17	2	person18	13
+person25	17	Person28	1
+person15	17	person8	5
+person11	4	person13	17
+person13	5	Person28	1
+person4	16	person13	9
+person9	6	18
+person18	1	3
+person10	3	5
+person24	4	1
+person2	3	3
+person22	3	4
+person14	12	4
+person19	16	7
+Person28	1	1
+person6	6	6
+person5	15	21
+Sketches	2	2
+Person27	1	1
+person16	2	4
+person21	5	4
+person26	7	3
+person7	13	14
+person1	11	8
+person8	5	4
+person12	4	3
+person3	4	3
+person23	1	22
+person20	19	28
+person17	4	5
+person25	19	1
+person15	22	16
+person11	3	1
+person13	12	6
+person4	20	12
+person9	13	person24	5
+person18	11	Person28	1
+person10	2	person12	2
+person24	1	person15	13
+person2	16	person15	14
+person22	8	person25	6
+person14	14	Person28	1
+person19	11	person7	11
+Person28	1	person6	7
+person6	20	person14	9
+person5	9	person6	18
+Sketches	2	person20	11
+Person27	1	person16	1
+person16	13	person10	1
+person21	20	Person27	1
+person26	15	person11	5
+person7	12	person8	1
+person1	4	person16	17
+person8	2	person9	14
+person12	2	person4	5
+person3	3	person11	5
+person23	2	person12	3
+person20	12	person18	8
+person17	5	person21	1
+person25	3	person11	2
+person15	16	person8	2
+person11	4	person22	9
+person13	8	person24	4
+person4	22	person6	14
+person9	15	3
+person18	17	3
+person10	6	5
+person24	4	1
+person2	20	15
+person22	13	16
+person14	21	15
+person19	18	4
+Person28	1	1
+person6	9	9
+person5	9	11
+Sketches	2	2
+Person27	1	1
+person16	9	16
+person21	11	19
+person26	13	5
+person7	4	19
+person1	17	13
+person8	2	1
+person12	3	2
+person3	4	5
+person23	22	5
+person20	22	19
+person17	3	3
+person25	1	8
+person15	24	1
+person11	3	5
+person13	9	15
+person4	20	8
+person9	13	Sketches	2
+person18	7	person22	1
+person10	4	person3	4
+person24	2	person15	21
+person2	14	person13	20
+person22	1	person23	6
+person14	21	person23	1
+person19	18	person21	18
+Person28	1	person14	15
+person6	11	person26	2
+person5	2	person12	3
+Sketches	2	person3	2
+Person27	1	person13	4
+person16	21	person4	20
+person21	18	person13	3
+person26	3	person6	15
+person7	9	person24	3
+person1	11	person18	17
+person8	2	person23	18
+person12	3	person7	12
+person3	5	person22	14
+person23	7	person17	2
+person20	22	person12	3
+person17	5	person11	5
+person25	13	person6	4
+person15	21	person25	2
+person11	2	person15	15
+person13	15	person18	7
+person4	4	person23	20
+person9	20	11
+person18	12	19
+person10	5	1
+person24	5	1
+person2	18	8
+person22	8	16
+person14	13	19
+person19	6	6
+Person28	1	1
+person6	11	12
+person5	13	17
+Sketches	2	2
+Person27	1	1
+person16	20	14
+person21	16	19
+person26	4	2
+person7	19	13
+person1	13	9
+person8	2	3
+person12	4	1
+person3	5	5
+person23	8	16
+person20	20	29
+person17	3	3
+person25	19	5
+person15	19	21
+person11	1	3
+person13	7	17
+person4	9	10
+person9	9	Sketches	2
+person18	7	person8	1
+person10	5	person11	1
+person24	4	person5	13
+person2	14	person6	6
+person22	13	person1	5
+person14	8	person4	12
+person19	17	person23	17
+Person28	1	Person27	1
+person6	17	person7	1
+person5	1	person9	17
+Sketches	2	person26	4
+Person27	1	person22	11
+person16	16	person25	7
+person21	7	person2	13
+person26	9	person3	3
+person7	16	person17	4
+person1	21	person15	20
+person8	5	person6	9
+person12	2	person14	7
+person3	2	person19	2
+person23	4	person6	17
+person20	26	person25	12
+person17	5	person23	18
+person25	17	person26	13
+person15	7	person16	12
+person11	5	person19	18
+person13	14	person2	18
+person4	15	person25	12
+person9	15	16
+person18	3	14
+person10	5	6
+person24	5	2
+person2	12	10
+person22	3	12
+person14	15	18
+person19	15	16
+Person28	1	1
+person6	2	17
+person5	13	15
+Sketches	2	2
+Person27	1	1
+person16	20	13
+person21	10	11
+person26	22	1
+person7	3	2
+person1	5	6
+person8	1	2
+person12	1	4
+person3	3	4
+person23	6	13
+person20	8	10
+person17	2	2
+person25	11	17
+person15	12	1
+person11	1	1
+person13	3	7
+person4	5	19
+person9	9	person1	13
+person18	1	person15	5
+person10	3	person17	1
+person24	5	person18	17
+person2	7	person15	11
+person22	16	person10	1
+person14	12	Person27	1
+person19	2	person20	12
+Person28	1	person23	2
+person6	22	Person27	1
+person5	11	person9	6
+Sketches	2	Person27	1
+Person27	1	person8	1
+person16	8	person20	10
+person21	12	person4	18
+person26	2	Sketches	2
+person7	18	person9	2
+person1	12	Person28	1
+person8	1	person17	3
+person12	1	Person28	1
+person3	4	person23	5
+person23	14	person19	19
+person20	12	person4	13
+person17	2	person25	8
+person25	15	person10	6
+person15	24	person4	18
+person11	3	person19	12
+person13	8	person17	3
+person4	4	person24	1
+person9	19	18
+person18	1	5
+person10	3	6
+person24	3	5
+person2	9	4
+person22	7	7
+person14	10	12
+person19	6	16
+Person28	1	1
+person6	20	6
+person5	19	17
+Sketches	2	2
+Person27	1	1
+person16	21	7
+person21	20	6
+person26	7	17
+person7	5	10
+person1	8	8
+person8	5	3
+person12	5	5
+person3	1	4
+person23	15	20
+person20	27	4
+person17	3	2
+person25	4	13
+person15	25	16
+person11	4	4
+person13	1	6
+person4	15	3
+person9	13	person8	1
+person18	9	Person27	1
+person10	3	person12	1
+person24	5	person11	3
+person2	7	person19	16
+person22	20	Sketches	2
+person14	16	person3	4
+person19	6	person14	5
+Person28	1	person12	5
+person6	23	person8	4
+person5	9	person9	1
+Sketches	2	person22	20
+Person27	1	person9	7
+person16	16	person14	21
+person21	5	person18	7
+person26	18	person4	12
+person7	9	person3	2
+person1	3	person22	17
+person8	1	person7	11
+person12	3	person23	5
+person3	4	person15	11
+person23	10	person20	7
+person20	13	person21	4
+person17	3	person6	3
+person25	5	person21	4
+person15	4	person6	7
+person11	3	person4	4
+person13	18	Person27	1
+person4	19	person24	2
+person9	18	15
+person18	17	3
+person10	5	2
+person24	5	3
+person2	3	12
+person22	3	14
+person14	15	20
+person19	15	10
+Person28	1	1
+person6	19	12
+person5	16	15
+Sketches	2	2
+Person27	1	1
+person16	7	14
+person21	11	15
+person26	8	15
+person7	15	9
+person1	20	15
+person8	4	3
+person12	1	5
+person3	3	4
+person23	13	10
+person20	8	27
+person17	2	3
+person25	20	6
+person15	23	15
+person11	2	4
+person13	9	11
+person4	10	13
+person9	20	Person27	1
+person18	19	Person27	1
+person10	7	person21	4
+person24	1	person5	6
+person2	15	person19	8
+person22	17	person19	4
+person14	17	person12	2
+person19	8	person3	1
+Person28	1	person6	22
+person6	1	Person27	1
+person5	8	person15	11
+Sketches	2	person12	1
+Person27	1	person3	2
+person16	9	person9	18
+person21	1	person9	20
+person26	19	person25	13
+person7	5	person23	19
+person1	17	person9	15
+person8	4	person10	7
+person12	3	person23	11
+person3	4	person10	4
+person23	22	person20	25
+person20	9	person2	8
+person17	2	person2	3
+person25	18	person16	15
+person15	8	person20	3
+person11	2	person19	14
+person13	14	person23	11
+person4	11	person25	3
+person9	16	8
+person18	10	8
+person10	4	1
+person24	5	2
+person2	2	10
+person22	6	15
+person14	8	9
+person19	20	9
+Person28	1	1
+person6	1	7
+person5	4	8
+Sketches	2	2
+Person27	1	1
+person16	19	12
+person21	14	20
+person26	17	21
+person7	2	12
+person1	1	9
+person8	3	1
+person12	5	1
+person3	1	1
+person23	5	4
+person20	27	26
+person17	4	2
+person25	20	8
+person15	4	24
+person11	5	4
+person13	12	9
+person4	1	3
+person9	16	person13	5
+person18	10	Sketches	2
+person10	5	person20	10
+person24	3	person15	25
+person2	20	person12	2
+person22	5	person11	5
+person14	2	Person27	1
+person19	18	Sketches	2
+Person28	1	person2	14
+person6	16	person3	2
+person5	12	Sketches	2
+Sketches	2	person18	5
+Person27	1	person26	3
+person16	13	Sketches	2
+person21	10	person11	4
+person26	21	Person28	1
+person7	4	person26	3
+person1	12	person8	1
+person8	4	person14	2
+person12	1	person10	3
+person3	1	person12	1
+person23	4	Person28	1
+person20	21	person15	24
+person17	4	person16	21
+person25	4	person17	5
+person15	17	person17	3
+person11	4	person8	4
+person13	11	person15	11
+person4	1	person20	25
+person9	1	3
+person18	2	9
+person10	1	5
+person24	4	2
+person2	1	11
+person22	16	4
+person14	21	18
+person19	17	8
+Person28	1	1
+person6	18	10
+person5	10	12
+Sketches	2	2
+Person27	1	1
+person16	6	9
+person21	9	16
+person26	20	19
+person7	2	3
+person1	1	3
+person8	2	2
+person12	4	4
+person3	5	1
+person23	13	17
+person20	1	1
+person17	2	5
+person25	18	20
+person15	20	22
+person11	1	4
+person13	4	9
+person4	2	5
+person9	13	person17	5
+person18	17	Person27	1
+person10	4	person24	1
+person24	1	person12	3
+person2	9	person4	22
+person22	10	person9	12
+person14	4	Person27	1
+person19	11	person4	12
+Person28	1	person16	4
+person6	11	person17	3
+person5	20	person6	10
+Sketches	2	person15	20
+Person27	1	person20	4
+person16	22	Sketches	2
+person21	3	person5	6
+person26	4	person4	3
+person7	20	person20	24
+person1	10	person20	17
+person8	1	person11	5
+person12	3	person3	3
+person3	4	person4	2
+person23	1	Person28	1
+person20	26	person8	1
+person17	2	person4	19
+person25	15	person9	5
+person15	19	person18	2
+person11	2	Sketches	2
+person13	20	person5	12
+person4	6	person21	7
+person9	19	3
+person18	12	9
+person10	2	7
+person24	2	2
+person2	10	17
+person22	6	3
+person14	13	11
+person19	9	4
+Person28	1	1
+person6	10	1
+person5	17	2
+Sketches	2	2
+Person27	1	1
+person16	8	20
+person21	16	20
+person26	5	5
+person7	6	16
+person1	20	3
+person8	2	2
+person12	5	4
+person3	1	4
+person23	6	3
+person20	13	5
+person17	4	5
+person25	12	12
+person15	9	8
+person11	5	1
+person13	5	14
+person4	6	4
+person9	10	person8	4
+person18	14	person21	15
+person10	3	Person28	1
+person24	3	person14	6
+person2	12	person14	6
+person22	2	person4	5
+person14	3	person15	21
+person19	20	person14	12
+Person28	1	person26	8
+person6	7	person25	1
+person5	9	person18	17
+Sketches	2	person23	8
+Person27	1	person26	2
+person16	17	person21	10
+person21	10	person12	2
+person26	8	person2	8
+person7	9	person11	2
+person1	10	person24	5
+person8	4	Sketches	2
+person12	1	person19	20
+person3	1	person8	2
+person23	13	person9	20
+person20	15	person1	4
+person17	1	person9	11
+person25	17	person18	19
+person15	18	person25	10
+person11	1	person10	6
+person13	13	person8	2
+person4	2	person25	10
+person9	12	7
+person18	15	12
+person10	4	4
+person24	4	3
+person2	2	8
+person22	11	1
+person14	16	12
+person19	9	11
+Person28	1	1
+person6	6	11
+person5	21	20
+Sketches	2	2
+Person27	1	1
+person16	12	7
+person21	13	16
+person26	20	2
+person7	3	19
+person1	17	19
+person8	1	4
+person12	5	1
+person3	2	3
+person23	19	22
+person20	24	22
+person17	3	1
+person25	16	13
+person15	12	17
+person11	1	1
+person13	11	7
+person4	14	3
+person9	12	person26	14
+person18	7	person21	14
+person10	7	person6	4
+person24	4	person3	4
+person2	11	person11	2
+person22	14	person23	9
+person14	12	person4	1
+person19	2	person20	15
+Person28	1	person6	7
+person6	18	Person28	1
+person5	3	person2	9
+Sketches	2	person16	9
+Person27	1	person9	14
+person16	20	Person27	1
+person21	6	person10	5
+person26	12	person16	17
+person7	14	person5	12
+person1	18	person10	2
+person8	1	person1	14
+person12	2	person20	20
+person3	1	person21	12
+person23	21	person9	7
+person20	8	person11	5
+person17	3	person9	21
+person25	4	person6	1
+person15	2	person7	6
+person11	4	person7	7
+person13	14	person12	3
+person4	15	person22	12
+person9	9	14
+person18	8	1
+person10	4	4
+person24	4	2
+person2	11	7
+person22	9	17
+person14	11	8
+person19	4	10
+Person28	1	1
+person6	17	20
+person5	8	16
+Sketches	2	2
+Person27	1	1
+person16	9	7
+person21	14	16
+person26	16	9
+person7	6	3
+person1	6	2
+person8	1	5
+person12	4	5
+person3	3	5
+person23	7	1
+person20	6	11
+person17	1	1
+person25	17	9
+person15	9	17
+person11	1	1
+person13	2	16
+person4	6	4
+person9	18	person8	4
+person18	12	person8	1
+person10	5	person23	8
+person24	2	person23	3
+person2	9	person15	22
+person22	19	person25	13
+person14	12	person11	3
+person19	6	person9	5
+Person28	1	person16	17
+person6	16	person2	18
+person5	17	person10	5
+Sketches	2	person18	8
+Person27	1	person12	2
+person16	1	person3	2
+person21	7	Sketches	2
+person26	1	person12	5
+person7	3	person11	1
+person1	15	person21	10
+person8	2	person11	5
+person12	2	person2	11
+person3	2	person26	6
+person23	9	person19	16
+person20	16	person10	3
+person17	1	person15	25
+person25	14	person8	3
+person15	4	person3	4
+person11	3	person19	5
+person13	13	person22	11
+person4	16	person10	5
+person9	19	16
+person18	5	5
+person10	3	3
+person24	1	1
+person2	3	20
+person22	4	13
+person14	8	4
+person19	2	3
+Person28	1	1
+person6	19	11
+person5	21	12
+Sketches	2	2
+Person27	1	1
+person16	10	6
+person21	20	4
+person26	18	7
+person7	2	6
+person1	5	14
+person8	4	1
+person12	1	1
+person3	4	1
+person23	18	22
+person20	1	14
+person17	3	5
+person25	15	1
+person15	5	14
+person11	1	2
+person13	7	19
+person4	17	13
+person9	17	person22	2
+person18	1	person17	5
+person10	2	person1	17
+person24	2	person17	5
+person2	18	person7	7
+person22	10	person23	4
+person14	5	person12	4
+person19	5	person2	14
+Person28	1	person15	20
+person6	22	person25	4
+person5	5	person9	2
+Sketches	2	person12	3
+Person27	1	Person28	1
+person16	14	person10	5
+person21	8	person10	4
+person26	8	Person27	1
+person7	17	person19	20
+person1	13	person5	13
+person8	2	person20	26
+person12	5	person2	7
+person3	5	person22	3
+person23	1	person7	12
+person20	18	person4	14
+person17	5	person1	8
+person25	20	person23	3
+person15	17	person6	1
+person11	2	person19	1
+person13	12	person10	3
+person4	22	person9	18
+person9	17	6
+person18	9	5
+person10	1	6
+person24	1	5
+person2	16	15
+person22	1	3
+person14	13	16
+person19	4	9
+Person28	1	1
+person6	9	17
+person5	10	8
+Sketches	2	2
+Person27	1	1
+person16	12	18
+person21	4	10
+person26	20	18
+person7	9	14
+person1	13	16
+person8	1	3
+person12	1	4
+person3	1	4
+person23	12	13
+person20	11	26
+person17	4	2
+person25	7	15
+person15	7	24
+person11	2	5
+person13	12	15
+person4	20	6
+person9	4	person20	16
+person18	5	person9	13
+person10	4	person5	8
+person24	3	person12	4
+person2	15	person13	5
+person22	17	Sketches	2
+person14	9	Sketches	2
+person19	6	Person28	1
+Person28	1	person11	1
+person6	13	person22	14
+person5	21	person6	3
+Sketches	2	person2	7
+Person27	1	person24	1
+person16	2	person7	20
+person21	2	person3	1
+person26	20	person10	5
+person7	11	person12	5
+person1	2	person26	9
+person8	2	person10	2
+person12	2	person19	15
+person3	4	person19	18
+person23	20	person25	11
+person20	29	person23	2
+person17	1	person11	3
+person25	1	person21	6
+person15	14	person12	3
+person11	5	person13	7
+person13	12	person19	6
+person4	6	person16	3
+person9	1	6
+person18	14	18
+person10	5	4
+person24	2	4
+person2	16	8
+person22	20	10
+person14	14	11
+person19	11	8
+Person28	1	1
+person6	2	7
+person5	21	6
+Sketches	2	2
+Person27	1	1
+person16	4	18
+person21	12	11
+person26	5	16
+person7	18	16
+person1	14	6
+person8	2	3
+person12	2	4
+person3	2	4
+person23	17	9
+person20	3	25
+person17	3	3
+person25	6	14
+person15	1	19
+person11	3	2
+person13	15	19
+person4	7	2
+person9	7	person7	2
+person18	3	person11	2
+person10	6	person20	8
+person24	4	person15	6
+person2	11	person3	1
+person22	14	person7	10
+person14	1	person12	4
+person19	19	person17	4
+Person28	1	person23	2
+person6	3	person1	16
+person5	13	person22	9
+Sketches	2	person10	3
+Person27	1	person20	26
+person16	2	person4	19
+person21	10	person10	4
+person26	6	person14	10
+person7	8	person14	20
+person1	5	person10	1
+person8	2	person22	4
+person12	3	person19	18
+person3	5	person4	14
+person23	14	person19	15
+person20	24	person24	4
+person17	3	person18	16
+person25	2	Sketches	2
+person15	19	person12	3
+person11	1	person20	14
+person13	16	person2	19
+person4	13	person9	16
+person9	9	12
+person18	5	17
+person10	3	7
+person24	3	5
+person2	7	13
+person22	15	7
+person14	8	12
+person19	4	5
+Person28	1	1
+person6	3	3
+person5	13	13
+Sketches	2	2
+Person27	1	1
+person16	16	10
+person21	1	8
+person26	1	18
+person7	8	16
+person1	19	12
+person8	3	4
+person12	2	2
+person3	4	5
+person23	2	8
+person20	8	8
+person17	1	4
+person25	2	11
+person15	21	14
+person11	1	3
+person13	1	10
+person4	21	18
+person9	14	person22	16
+person18	8	person24	3
+person10	6	person18	11
+person24	3	person2	12
+person2	17	person26	11
+person22	8	person9	5
+person14	13	Sketches	2
+person19	2	person22	9
+Person28	1	person5	1
+person6	18	person7	1
+person5	14	person3	2
+Sketches	2	person26	21
+Person27	1	person2	20
+person16	16	person8	3
+person21	11	Person27	1
+person26	2	person12	5
+person7	3	Sketches	2
+person1	18	Person27	1
+person8	3	person15	12
+person12	4	person5	11
+person3	3	person11	2
+person23	3	person10	7
+person20	23	person3	2
+person17	2	person4	17
+person25	4	person9	20
+person15	25	person13	17
+person11	3	person6	19
+person13	4	person15	21
+person4	11	person24	2
+person9	14	3
+person18	13	17
+person10	4	3
+person24	3	1
+person2	7	2
+person22	11	16
+person14	4	8
+person19	20	3
+Person28	1	1
+person6	7	10
+person5	9	9
+Sketches	2	2
+Person27	1	1
+person16	8	12
+person21	19	19
+person26	4	5
+person7	2	7
+person1	16	16
+person8	4	5
+person12	2	1
+person3	2	1
+person23	2	11
+person20	6	18
+person17	4	2
+person25	1	12
+person15	18	14
+person11	2	3
+person13	7	8
+person4	15	18
+person9	8	person11	1
+person18	8	person10	7
+person10	4	person21	5
+person24	3	person14	4
+person2	1	Person28	1
+person22	9	person13	6
+person14	16	person13	10
+person19	2	person22	12
+Person28	1	person19	20
+person6	15	person2	17
+person5	9	person14	8
+Sketches	2	person19	1
+Person27	1	person26	22
+person16	12	Person28	1
+person21	7	person18	2
+person26	1	Sketches	2
+person7	13	person9	2
+person1	17	person13	20
+person8	4	person23	2
+person12	2	person13	4
+person3	1	person19	12
+person23	21	person13	11
+person20	7	person8	2
+person17	2	person18	5
+person25	11	person15	25
+person15	8	person23	15
+person11	1	person14	3
+person13	1	person18	18
+person4	13	person9	15
+person9	5	18
+person18	9	10
+person10	1	2
+person24	4	1
+person2	6	7
+person22	10	19
+person14	10	14
+person19	6	11
+Person28	1	1
+person6	1	2
+person5	7	18
+Sketches	2	2
+Person27	1	1
+person16	11	4
+person21	2	20
+person26	22	11
+person7	18	5
+person1	16	5
+person8	4	5
+person12	4	3
+person3	5	1
+person23	15	11
+person20	10	25
+person17	5	4
+person25	10	12
+person15	17	17
+person11	1	2
+person13	1	11
+person4	12	3
+person9	10	person3	1
+person18	4	person6	9
+person10	2	person17	1
+person24	1	person12	1
+person2	8	person15	21
+person22	12	person26	19
+person14	7	Person28	1
+person19	18	person7	13
+Person28	1	person23	22
+person6	10	person16	16
+person5	2	person22	2
+Sketches	2	person2	12
+Person27	1	person16	14
+person16	13	person1	11
+person21	8	person26	1
+person26	15	person19	20
+person7	20	person17	5
+person1	10	person11	3
+person8	4	person5	20
+person12	2	person2	8
+person3	5	person18	8
+person23	21	person19	13
+person20	12	person19	1
+person17	5	person14	17
+person25	19	person22	6
+person15	3	person9	13
+person11	1	person4	14
+person13	12	person2	10
+person4	8	person23	8
+person9	13	12
+person18	7	17
+person10	5	3
+person24	1	5
+person2	18	5
+person22	12	1
+person14	21	6
+person19	3	14
+Person28	1	1
+person6	3	22
+person5	2	1
+Sketches	2	2
+Person27	1	1
+person16	22	15
+person21	3	17
+person26	9	3
+person7	18	12
+person1	7	12
+person8	1	5
+person12	1	3
+person3	5	5
+person23	17	15
+person20	26	18
+person17	5	5
+person25	11	17
+person15	15	1
+person11	2	5
+person13	17	17
+person4	18	14
+person9	8	person17	2
+person18	15	person7	18
+person10	6	person3	5
+person24	3	person14	9
+person2	9	person14	7
+person22	7	person1	6
+person14	11	person6	9
+person19	16	Person27	1
+Person28	1	person1	10
+person6	22	person16	15
+person5	8	person11	4
+Sketches	2	person8	2
+Person27	1	person7	10
+person16	10	person11	1
+person21	20	person19	7
+person26	22	person19	6
+person7	3	person25	10
+person1	8	person2	18
+person8	4	person23	13
+person12	3	person21	15
+person3	4	person24	4
+person23	15	person18	4
+person20	12	person18	15
+person17	2	person7	11
+person25	20	person17	5
+person15	3	person24	4
+person11	1	person15	13
+person13	9	person8	4
+person4	6	person14	13
+person9	11	12
+person18	11	16
+person10	7	1
+person24	2	3
+person2	3	12
+person22	19	19
+person14	10	18
+person19	16	12
+Person28	1	1
+person6	2	8
+person5	12	5
+Sketches	2	2
+Person27	1	1
+person16	11	13
+person21	13	5
+person26	10	5
+person7	18	7
+person1	20	12
+person8	4	1
+person12	1	5
+person3	3	1
+person23	18	13
+person20	26	29
+person17	1	3
+person25	16	16
+person15	5	4
+person11	4	5
+person13	15	4
+person4	15	19
+person9	2	person25	5
+person18	11	person22	15
+person10	2	person19	20
+person24	4	person19	12
+person2	6	person14	16
+person22	13	person16	1
+person14	4	person11	3
+person19	15	person25	9
+Person28	1	person16	13
+person6	6	person2	14
+person5	6	person24	1
+Sketches	2	person11	3
+Person27	1	person1	20
+person16	18	person15	3
+person21	19	person14	13
+person26	9	person23	9
+person7	20	person24	2
+person1	4	person14	20
+person8	4	person4	22
+person12	2	person24	4
+person3	1	person18	10
+person23	12	person8	5
+person20	17	person2	4
+person17	5	person10	1
+person25	14	person16	20
+person15	20	person23	6
+person11	5	person21	15
+person13	13	person4	5
+person4	9	person2	6
+person9	21	5
+person18	6	5
+person10	3	4
+person24	4	5
+person2	19	17
+person22	16	6
+person14	19	2
+person19	1	15
+Person28	1	1
+person6	12	3
+person5	10	13
+Sketches	2	2
+Person27	1	1
+person16	20	15
+person21	16	10
+person26	15	16
+person7	19	4
+person1	17	4
+person8	1	2
+person12	1	2
+person3	4	1
+person23	19	21
+person20	3	4
+person17	4	2
+person25	8	5
+person15	20	3
+person11	4	3
+person13	1	2
+person4	12	17
+person9	11	person4	15
+person18	17	person2	12
+person10	6	person22	14
+person24	1	person7	6
+person2	4	person8	2
+person22	11	Sketches	2
+person14	21	person10	4
+person19	17	person10	6
+Person28	1	person13	3
+person6	21	person1	11
+person5	18	person12	1
+Sketches	2	person1	18
+Person27	1	person4	15
+person16	13	person2	17
+person21	6	person2	9
+person26	10	person4	17
+person7	4	person25	11
+person1	21	person10	5
+person8	2	person15	15
+person12	5	person20	6
+person3	5	person25	9
+person23	5	person13	3
+person20	1	Person28	1
+person17	1	person10	7
+person25	8	person6	8
+person15	18	person21	10
+person11	4	person26	6
+person13	16	person3	5
+person4	10	person20	9
+person9	5	12
+person18	4	3
+person10	7	3
+person24	2	1
+person2	14	12
+person22	11	16
+person14	17	18
+person19	8	9
+Person28	1	1
+person6	11	17
+person5	15	15
+Sketches	2	2
+Person27	1	1
+person16	11	2
+person21	10	6
+person26	7	16
+person7	1	14
+person1	6	11
+person8	1	1
+person12	4	2
+person3	3	1
+person23	10	12
+person20	12	20
+person17	4	1
+person25	12	15
+person15	20	16
+person11	4	5
+person13	17	3
+person4	2	12
+person9	15	person23	5
+person18	18	person23	18
+person10	7	Sketches	2
+person24	2	person22	13
+person2	14	person25	8
+person22	5	Person27	1
+person14	4	person24	1
+person19	10	Sketches	2
+Person28	1	Sketches	2
+person6	18	person22	8
+person5	8	person14	16
+Sketches	2	person2	9
+Person27	1	person4	4
+person16	21	person1	18
+person21	19	person9	18
+person26	16	person20	3
+person7	15	person23	22
+person1	10	person17	3
+person8	2	Person28	1
+person12	4	person19	1
+person3	1	person12	5
+person23	14	person1	19
+person20	15	person6	15
+person17	1	person25	19
+person25	10	person26	21
+person15	16	person22	12
+person11	4	person15	1
+person13	4	person24	3
+person4	15	person15	2
+person9	6	16
+person18	18	17
+person10	4	4
+person24	5	3
+person2	11	14
+person22	3	19
+person14	6	13
+person19	19	1
+Person28	1	1
+person6	2	9
+person5	17	4
+Sketches	2	2
+Person27	1	1
+person16	13	1
+person21	15	6
+person26	3	6
+person7	17	12
+person1	12	11
+person8	2	1
+person12	2	2
+person3	5	1
+person23	10	10
+person20	9	11
+person17	2	2
+person25	5	9
+person15	19	11
+person11	3	5
+person13	1	19
+person4	15	12
+person9	9	person26	17
+person18	9	Person27	1
+person10	2	person6	11
+person24	5	person9	15
+person2	5	person24	5
+person22	11	person24	4
+person14	13	person11	2
+person19	17	person7	14
+Person28	1	person24	2
+person6	9	person2	2
+person5	4	person23	15
+Sketches	2	person24	4
+Person27	1	person23	9
+person16	17	person18	17
+person21	13	person14	6
+person26	2	person25	13
+person7	8	person16	6
+person1	21	person4	12
+person8	5	person5	16
+person12	4	person9	14
+person3	4	person22	4
+person23	8	person3	1
+person20	16	person10	5
+person17	3	person16	13
+person25	19	person20	27
+person15	1	person26	20
+person11	4	person22	5
+person13	3	person21	7
+person4	8	person9	6
+person9	21	10
+person18	6	13
+person10	4	5
+person24	1	1
+person2	7	11
+person22	4	16
+person14	19	14
+person19	17	9
+Person28	1	1
+person6	22	10
+person5	18	5
+Sketches	2	2
+Person27	1	1
+person16	7	8
+person21	14	7
+person26	15	4
+person7	4	9
+person1	10	6
+person8	4	5
+person12	5	4
+person3	1	1
+person23	21	22
+person20	3	28
+person17	5	2
+person25	12	14
+person15	16	16
+person11	2	2
+person13	4	10
+person4	17	20
+person9	18	person1	1
+person18	6	person23	11
+person10	3	person3	2
+person24	4	person5	18
+person2	14	person5	5
+person22	3	person24	2
+person14	21	person16	14
+person19	8	person8	5
+Person28	1	person14	19
+person6	15	Person27	1
+person5	17	person19	6
+Sketches	2	person25	8
+Person27	1	person24	1
+person16	22	person22	15
+person21	15	person16	22
+person26	2	Person28	1
+person7	2	person17	1
+person1	14	person24	3
+person8	5	person3	3
+person12	1	person1	14
+person3	5	person2	5
+person23	6	person4	22
+person20	22	person6	9
+person17	4	person3	5
+person25	6	Person28	1
+person15	3	person17	1
+person11	1	person24	3
+person13	7	person7	1
+person4	15	person3	1
+person9	13	12
+person18	7	12
+person10	2	3
+person24	2	4
+person2	4	1
+person22	12	19
+person14	20	7
+person19	2	4
+Person28	1	1
+person6	3	16
+person5	17	17
+Sketches	2	2
+Person27	1	1
+person16	17	21
+person21	11	5
+person26	3	4
+person7	6	14
+person1	7	17
+person8	3	4
+person12	3	2
+person3	1	2
+person23	16	8
+person20	22	27
+person17	3	2
+person25	7	11
+person15	11	11
+person11	2	2
+person13	9	20
+person4	22	4
+person9	19	person21	19
+person18	10	person6	19
+person10	1	person23	14
+person24	1	person10	3
+person2	5	person16	10
+person22	15	person5	13
+person14	17	person19	3
+person19	11	person14	17
+Person28	1	person6	21
+person6	15	person18	1
+person5	16	person26	2
+Sketches	2	person16	13
+Person27	1	person16	12
+person16	22	person26	15
+person21	16	person2	6
+person26	18	person25	4
+person7	12	Person28	1
+person1	3	Person27	1
+person8	3	person7	17
+person12	2	Sketches	2
+person3	2	person6	13
+person23	22	person25	11
+person20	7	person9	7
+person17	3	person11	2
+person25	3	person6	14
+person15	2	person24	3
+person11	5	person7	11
+person13	5	person1	20
+person4	6	person11	1
+person9	16	4
+person18	17	6
+person10	7	6
+person24	4	4
+person2	7	14
+person22	6	18
+person14	11	15
+person19	7	18
+Person28	1	1
+person6	4	2
+person5	4	3
+Sketches	2	2
+Person27	1	1
+person16	21	12
+person21	17	7
+person26	14	19
+person7	16	8
+person1	8	16
+person8	2	4
+person12	5	4
+person3	3	2
+person23	9	5
+person20	7	12
+person17	5	4
+person25	12	10
+person15	17	16
+person11	4	1
+person13	11	20
+person4	10	18
+person9	8	person20	28
+person18	17	person8	2
+person10	7	person14	7
+person24	3	person9	12
+person2	5	person15	4
+person22	9	Sketches	2
+person14	3	person11	2
+person19	10	person23	22
+Person28	1	person4	20
+person6	20	person12	4
+person5	2	person24	1
+Sketches	2	person19	19
+Person27	1	person19	3
+person16	4	person26	14
+person21	13	person20	18
+person26	21	person17	5
+person7	9	person13	13
+person1	3	person25	2
+person8	2	person21	3
+person12	1	person1	11
+person3	5	person20	3
+person23	3	person24	1
+person20	10	person5	2
+person17	3	person1	15
+person25	18	person10	1
+person15	14	person10	4
+person11	4	person24	2
+person13	9	person1	10
+person4	5	person13	10
+person9	4	5
+person18	12	12
+person10	3	5
+person24	1	1
+person2	15	10
+person22	1	18
+person14	12	19
+person19	8	13
+Person28	1	1
+person6	18	5
+person5	18	18
+Sketches	2	2
+Person27	1	1
+person16	18	1
+person21	2	19
+person26	17	14
+person7	20	16
+person1	10	8
+person8	2	4
+person12	1	5
+person3	3	3
+person23	9	1
+person20	17	22
+person17	4	4
+person25	18	6
+person15	4	20
+person11	2	4
+person13	7	6
+person4	14	10
+person9	16	Person27	1
+person18	19	person2	1
+person10	7	person21	18
+person24	1	person2	3
+person2	13	person10	3
+person22	18	person6	13
+person14	11	person17	1
+person19	8	person15	23
+Person28	1	person10	2
+person6	20	Person27	1
+person5	9	person26	14
+Sketches	2	person3	1
+Person27	1	Person28	1
+person16	17	person12	2
+person21	18	person18	11
+person26	6	person14	20
+person7	2	person11	4
+person1	21	Person28	1
+person8	5	Person28	1
+person12	3	person17	5
+person3	5	person11	2
+person23	4	person18	17
+person20	21	person18	16
+person17	5	Person27	1
+person25	1	person2	3
+person15	1	person20	22
+person11	4	person17	2
+person13	9	person25	4
+person4	9	person14	6
+person9	3	17
+person18	8	8
+person10	6	6
+person24	3	3
+person2	14	10
+person22	3	14
+person14	13	16
+person19	4	10
+Person28	1	1
+person6	10	3
+person5	17	19
+Sketches	2	2
+Person27	1	1
+person16	19	7
+person21	13	13
+person26	19	20
+person7	18	12
+person1	8	19
+person8	5	4
+person12	2	2
+person3	4	3
+person23	18	7
+person20	28	18
+person17	2	2
+person25	5	4
+person15	12	7
+person11	3	2
+person13	9	9
+person4	22	15
+person9	6	person10	4
+person18	19	person11	5
+person10	1	person13	4
+person24	2	person2	19
+person2	9	person5	11
+person22	13	person19	19
+person14	10	Person28	1
+person19	20	person3	1
+Person28	1	person2	3
+person6	20	person10	6
+person5	6	person1	20
+Sketches	2	person19	16
+Person27	1	Person28	1
+person16	6	Person28	1
+person21	2	person1	4
+person26	4	person22	18
+person7	18	person18	3
+person1	1	person4	11
+person8	2	person7	15
+person12	1	person4	9
+person3	1	person20	8
+person23	22	person17	2
+person20	27	person16	21
+person17	4	person8	5
+person25	8	person15	18
+person15	21	person25	9
+person11	5	person8	5
+person13	6	person11	2
+person4	3	Person27	1
+person9	4	5
+person18	11	8
+person10	4	1
+person24	3	3
+person2	16	4
+person22	1	16
+person14	13	1
+person19	16	10
+Person28	1	1
+person6	8	5
+person5	8	21
+Sketches	2	2
+Person27	1	1
+person16	18	3
+person21	7	15
+person26	13	1
+person7	11	14
+person1	13	16
+person8	3	3
+person12	1	4
+person3	5	5
+person23	3	6
+person20	8	8
+person17	1	3
+person25	8	16
+person15	9	3
+person11	4	1
+person13	3	7
+person4	18	7
+person9	6	person14	16
+person18	15	person19	9
+person10	7	person2	9
+person24	3	person11	4
+person2	7	person6	2
+person22	13	person11	5
+person14	20	person26	8
+person19	2	person21	1
+Person28	1	person2	4
+person6	11	Person28	1
+person5	3	person6	20
+Sketches	2	person15	25
+Person27	1	Sketches	2
+person16	14	person11	2
+person21	11	Sketches	2
+person26	22	person24	1
+person7	3	person12	5
+person1	19	person13	6
+person8	3	person20	26
+person12	5	person26	12
+person3	4	person10	1
+person23	22	person6	9
+person20	21	person19	14
+person17	4	person15	15
+person25	18	person11	5
+person15	6	Person27	1
+person11	2	person5	15
+person13	20	person25	8
+person4	2	person23	19
+person9	16	20
+person18	16	11
+person10	6	5
+person24	4	4
+person2	2	3
+person22	4	8
+person14	4	5
+person19	3	16
+Person28	1	1
+person6	12	1
+person5	10	21
+Sketches	2	2
+Person27	1	1
+person16	14	12
+person21	3	14
+person26	5	3
+person7	18	14
+person1	10	10
+person8	5	5
+person12	1	2
+person3	4	2
+person23	12	4
+person20	17	13
+person17	2	4
+person25	13	13
+person15	15	9
+person11	5	3
+person13	17	13
+person4	6	2
+person9	4	person8	4
+person18	18	person16	6
+person10	6	person13	2
+person24	3	person6	6
+person2	19	person20	23
+person22	16	person16	14
+person14	20	person25	20
+person19	11	person21	1
+Person28	1	person3	4
+person6	13	person19	19
+person5	6	Sketches	2
+Sketches	2	person17	1
+Person27	1	person23	22
+person16	8	person21	6
+person21	6	person7	18
+person26	10	person3	4
+person7	13	person23	21
+person1	18	person2	17
+person8	3	person5	15
+person12	3	Person27	1
+person3	1	person14	9
+person23	9	person19	10
+person20	10	person1	15
+person17	2	person23	15
+person25	12	person2	12
+person15	4	person14	20
+person11	3	person2	13
+person13	11	person15	14
+person4	8	person7	2
+person9	11	4
+person18	18	7
+person10	5	2
+person24	4	1
+person2	5	18
+person22	14	2
+person14	11	5
+person19	8	2
+Person28	1	1
+person6	13	18
+person5	2	8
+Sketches	2	2
+Person27	1	1
+person16	8	15
+person21	20	1
+person26	3	20
+person7	9	5
+person1	8	18
+person8	2	5
+person12	2	2
+person3	2	4
+person23	16	3
+person20	24	29
+person17	2	5
+person25	11	4
+person15	2	17
+person11	4	1
+person13	5	11
+person4	18	8
+person9	19	person7	14
+person18	13	person17	3
+person10	5	person22	15
+person24	5	Person27	1
+person2	16	person6	22
+person22	9	person11	3
+person14	7	person20	14
+person19	3	person9	18
+Person28	1	person3	4
+person6	3	person1	20
+person5	6	person1	4
+Sketches	2	person16	15
+Person27	1	Sketches	2
+person16	9	person2	19
+person21	11	person22	14
+person26	16	person15	25
+person7	15	person12	1
+person1	1	person12	4
+person8	1	person23	9
+person12	1	person18	10
+person3	2	person17	1
+person23	11	person14	10
+person20	25	Person28	1
+person17	1	person22	14
+person25	3	person24	2
+person15	2	person24	1
+person11	4	person15	9
+person13	10	person17	5
+person4	16	person14	20
+person9	3	13
+person18	1	15
+person10	7	5
+person24	5	1
+person2	11	10
+person22	17	7
+person14	6	11
+person19	16	16
+Person28	1	1
+person6	11	10
+person5	18	12
+Sketches	2	2
+Person27	1	1
+person16	7	22
+person21	15	6
+person26	17	16
+person7	19	11
+person1	8	3
+person8	3	1
+person12	5	4
+person3	1	4
+person23	2	9
+person20	15	25
+person17	1	3
+person25	13	12
+person15	10	23
+person11	1	4
+person13	17	6
+person4	2	3
+person9	9	person16	21
+person18	19	person4	8
+person10	2	person19	16
+person24	5	person2	18
+person2	11	Person27	1
+person22	8	person19	10
+person14	20	person19	8
+person19	2	person2	15
+Person28	1	person11	2
+person6	20	person17	4
+person5	10	person21	19
+Sketches	2	Person28	1
+Person27	1	person15	24
+person16	17	Sketches	2
+person21	16	person20	16
+person26	19	person12	5
+person7	3	person23	14
+person1	9	person22	16
+person8	5	person22	10
+person12	3	person7	9
+person3	4	person1	7
+person23	21	person26	16
+person20	13	person25	5
+person17	4	person6	13
+person25	3	person19	2
+person15	16	person7	20
+person11	2	person15	22
+person13	19	person15	9
+person4	9	person8	4
+person9	5	12
+person18	5	11
+person10	7	1
+person24	3	1
+person2	4	14
+person22	17	15
+person14	4	18
+person19	16	18
+Person28	1	1
+person6	14	11
+person5	16	11
+Sketches	2	2
+Person27	1	1
+person16	2	9
+person21	8	9
+person26	13	16
+person7	14	4
+person1	1	2
+person8	4	3
+person12	1	1
+person3	4	4
+person23	10	8
+person20	20	12
+person17	2	1
+person25	15	4
+person15	10	15
+person11	2	1
+person13	11	3
+person4	3	2
+person9	16	person21	12
+person18	11	person1	2
+person10	2	Person28	1
+person24	3	Person28	1
+person2	14	person24	5
+person22	2	person3	2
+person14	12	person20	2
+person19	3	person17	1
+Person28	1	person5	17
+person6	13	person4	9
+person5	21	person13	5
+Sketches	2	person16	15
+Person27	1	Sketches	2
+person16	2	Person28	1
+person21	17	Person28	1
+person26	9	person3	5
+person7	17	person12	1
+person1	13	person23	21
+person8	2	person16	9
+person12	1	person4	6
+person3	1	person5	8
+person23	18	person15	10
+person20	2	person14	13
+person17	3	person14	4
+person25	3	person26	11
+person15	17	person16	15
+person11	4	person25	17
+person13	17	person24	5
+person4	2	Person27	1
+person9	10	18
+person18	1	1
+person10	2	7
+person24	3	3
+person2	11	4
+person22	15	9
+person14	7	18
+person19	16	3
+Person28	1	1
+person6	12	5
+person5	8	10
+Sketches	2	2
+Person27	1	1
+person16	8	12
+person21	20	12
+person26	9	6
+person7	13	8
+person1	17	11
+person8	5	3
+person12	1	4
+person3	4	4
+person23	8	22
+person20	8	13
+person17	3	4
+person25	13	18
+person15	5	13
+person11	3	3
+person13	6	18
+person4	2	14
+person9	2	person18	2
+person18	11	person9	21
+person10	4	person19	18
+person24	1	person13	20
+person2	12	person1	17
+person22	12	person18	2
+person14	5	person24	4
+person19	6	person10	7
+Person28	1	person18	8
+person6	2	person4	13
+person5	17	person9	1
+Sketches	2	person1	8
+Person27	1	person24	2
+person16	8	person13	17
+person21	5	person25	4
+person26	16	person22	16
+person7	15	person12	1
+person1	14	person21	19
+person8	1	person11	3
+person12	5	person15	12
+person3	2	person7	7
+person23	20	person21	5
+person20	23	person14	15
+person17	5	person26	15
+person25	6	person12	5
+person15	1	person17	1
+person11	2	Person27	1
+person13	7	person11	1
+person4	18	person23	9
+person9	13	1
+person18	17	9
+person10	6	3
+person24	4	5
+person2	5	10
+person22	6	11
+person14	16	19
+person19	17	19
+Person28	1	1
+person6	6	13
+person5	20	21
+Sketches	2	2
+Person27	1	1
+person16	12	14
+person21	6	11
+person26	15	6
+person7	19	4
+person1	18	9
+person8	2	4
+person12	3	2
+person3	4	4
+person23	15	18
+person20	2	29
+person17	3	3
+person25	15	5
+person15	9	7
+person11	3	2
+person13	3	11
+person4	3	16
+person9	18	person13	19
+person18	2	person15	8
+person10	2	person18	10
+person24	2	person4	1
+person2	6	person12	2
+person22	8	person1	3
+person14	19	person9	18
+person19	9	person2	13
+Person28	1	person23	16
+person6	11	Person28	1
+person5	6	person18	13
+Sketches	2	Person27	1
+Person27	1	Sketches	2
+person16	3	Person27	1
+person21	13	person13	4
+person26	15	person17	4
+person7	10	person17	1
+person1	21	person4	9
+person8	4	person2	12
+person12	2	person1	14
+person3	5	person12	5
+person23	16	person11	4
+person20	8	person10	4
+person17	3	person6	14
+person25	11	Person28	1
+person15	17	person8	3
+person11	3	Person27	1
+person13	9	person20	26
+person4	7	person9	17
+person9	3	10
+person18	13	19
+person10	2	2
+person24	2	4
+person2	14	2
+person22	1	14
+person14	16	16
+person19	4	18
+Person28	1	1
+person6	15	23
+person5	19	11
+Sketches	2	2
+Person27	1	1
+person16	16	6
+person21	12	8
+person26	15	15
+person7	5	20
+person1	20	6
+person8	4	5
+person12	3	1
+person3	5	4
+person23	10	1
+person20	27	12
+person17	5	5
+person25	4	16
+person15	1	14
+person11	4	1
+person13	3	18
+person4	17	17
+person9	1	person4	3
+person18	12	person22	3
+person10	4	person4	7
+person24	5	person19	4
+person2	15	person25	5
+person22	12	person9	16
+person14	8	person2	19
+person19	2	person10	6
+Person28	1	person18	6
+person6	3	person25	16
+person5	19	Person27	1
+Sketches	2	person23	17
+Person27	1	person5	12
+person16	8	person5	7
+person21	11	person9	17
+person26	17	person25	7
+person7	3	person18	4
+person1	12	person15	4
+person8	5	person9	10
+person12	1	person5	21
+person3	5	person19	13
+person23	12	person13	15
+person20	2	person15	15
+person17	4	person1	16
+person25	15	Person27	1
+person15	13	person22	19
+person11	1	person22	14
+person13	6	person12	2
+person4	2	person20	18
+person9	14	10
+person18	18	17
+person10	5	6
+person24	4	1
+person2	9	1
+person22	8	1
+person14	8	20
+person19	13	17
+Person28	1	1
+person6	16	17
+person5	5	13
+Sketches	2	2
+Person27	1	1
+person16	3	9
+person21	10	5
+person26	5	17
+person7	12	8
+person1	20	1
+person8	3	1
+person12	2	4
+person3	3	5
+person23	8	20
+person20	6	28
+person17	2	2
+person25	14	13
+person15	3	14
+person11	5	4
+person13	3	18
+person4	18	6
+person9	16	person14	18
+person18	19	person13	16
+person10	3	person25	7
+person24	4	person6	18
+person2	5	person12	3
+person22	7	person16	16
+person14	7	person7	9
+person19	4	person7	13
+Person28	1	person24	3
+person6	17	person2	4
+person5	11	Person27	1
+Sketches	2	person2	4
+Person27	1	person2	18
+person16	4	person8	5
+person21	6	Person27	1
+person26	22	person4	15
+person7	6	person6	15
+person1	9	person17	3
+person8	1	person18	3
+person12	3	person4	17
+person3	3	person17	3
+person23	15	person5	16
+person20	12	person5	14
+person17	4	person6	22
+person25	19	person2	7
+person15	10	person13	12
+person11	4	person18	19
+person13	2	person20	27
+person4	1	person15	20
+person9	2	2
+person18	10	8
+person10	4	7
+person24	4	4
+person2	1	18
+person22	10	4
+person14	17	9
+person19	12	19
+Person28	1	1
+person6	20	1
+person5	15	21
+Sketches	2	2
+Person27	1	1
+person16	7	10
+person21	15	16
+person26	10	20
+person7	2	20
+person1	11	18
+person8	1	4
+person12	3	2
+person3	1	4
+person23	16	9
+person20	11	16
+person17	5	2
+person25	10	16
+person15	20	5
+person11	1	2
+person13	3	15
+person4	20	1
+person9	19	person20	20
+person18	15	person8	3
+person10	7	Person28	1
+person24	2	person16	12
+person2	8	person15	19
+person22	11	person19	18
+person14	18	person13	16
+person19	6	person9	18
+Person28	1	person26	20
+person6	11	person5	13
+person5	17	person4	16
+Sketches	2	person5	6
+Person27	1	person16	13
+person16	6	person22	18
+person21	16	person10	6
+person26	19	person20	29
+person7	20	person18	13
+person1	19	person9	15
+person8	4	person22	3
+person12	2	person26	20
+person3	3	person21	20
+person23	3	person19	2
+person20	6	person24	4
+person17	3	person8	3
+person25	5	person26	1
+person15	8	person2	6
+person11	2	person26	14
+person13	4	person15	23
+person4	17	person24	5
+person9	10	8
+person18	18	3
+person10	7	7
+person24	5	3
+person2	12	15
+person22	13	2
+person14	20	4
+person19	3	20
+Person28	1	1
+person6	5	16
+person5	9	6
+Sketches	2	2
+Person27	1	1
+person16	19	9
+person21	3	7
+person26	12	11
+person7	18	7
+person1	3	8
+person8	4	3
+person12	4	4
+person3	3	4
+person23	4	1
+person20	11	15
+person17	4	2
+person25	18	17
+person15	2	12
+person11	3	3
+person13	7	20
+person4	10	21
+person9	18	person26	8
+person18	6	person8	5
+person10	5	person14	15
+person24	2	Sketches	2
+person2	5	person24	2
+person22	15	person5	7
+person14	12	Person27	1
+person19	13	person22	10
+Person28	1	person14	21
+person6	13	person25	6
+person5	13	person24	1
+Sketches	2	person19	1
+Person27	1	person14	9
+person16	5	Person28	1
+person21	3	person20	15
+person26	20	person11	1
+person7	15	person12	5
+person1	12	person13	20
+person8	5	person18	7
+person12	3	Person28	1
+person3	4	person11	1
+person23	20	person12	2
+person20	17	Person28	1
+person17	1	person16	18
+person25	9	person21	20
+person15	8	person13	7
+person11	5	person22	8
+person13	13	person16	22
+person4	14	Person27	1
+person9	19	20
+person18	1	9
+person10	4	1
+person24	4	3
+person2	11	7
+person22	4	12
+person14	17	4
+person19	4	8
+Person28	1	1
+person6	12	12
+person5	17	6
+Sketches	2	2
+Person27	1	1
+person16	21	8
+person21	4	19
+person26	13	12
+person7	7	3
+person1	7	2
+person8	3	4
+person12	3	3
+person3	3	5
+person23	9	14
+person20	7	26
+person17	1	2
+person25	20	17
+person15	4	18
+person11	2	3
+person13	7	3
+person4	19	20
+person9	15	person18	3
+person18	1	person5	8
+person10	5	person7	15
+person24	1	person5	7
+person2	12	person10	3
+person22	5	Person27	1
+person14	21	person17	3
+person19	18	person5	14
+Person28	1	person1	4
+person6	18	person4	4
+person5	1	person10	5
+Sketches	2	person25	3
+Person27	1	person3	2
+person16	5	person5	13
+person21	12	person9	17
+person26	5	person6	17
+person7	16	person10	5
+person1	6	person16	2
+person8	5	person16	17
+person12	1	person7	20
+person3	3	person18	16
+person23	10	person11	4
+person20	6	person23	8
+person17	2	person6	18
+person25	20	person15	13
+person15	2	person2	14
+person11	3	person5	4
+person13	5	person18	12
+person4	18	person5	8
+person9	5	19
+person18	6	15
+person10	1	3
+person24	4	4
+person2	15	8
+person22	17	7
+person14	11	16
+person19	7	1
+Person28	1	1
+person6	22	23
+person5	9	19
+Sketches	2	2
+Person27	1	1
+person16	13	16
+person21	14	7
+person26	3	20
+person7	20	3
+person1	5	18
+person8	3	1
+person12	3	4
+person3	4	1
+person23	1	12
+person20	18	14
+person17	2	4
+person25	4	8
+person15	15	22
+person11	5	3
+person13	9	8
+person4	2	6
+person9	5	Person27	1
+person18	11	person10	3
+person10	7	person12	5
+person24	4	person10	2
+person2	4	person17	2
+person22	2	person14	21
+person14	2	person21	4
+person19	3	person22	3
+Person28	1	person5	17
+person6	21	person15	17
+person5	6	person9	15
+Sketches	2	person7	16
+Person27	1	person14	17
+person16	2	person1	6
+person21	9	person17	2
+person26	7	person25	4
+person7	8	person1	6
+person1	19	person2	11
+person8	1	person19	13
+person12	4	person11	5
+person3	3	person12	1
+person23	1	Person27	1
+person20	27	person10	2
+person17	3	person25	10
+person25	14	person2	6
+person15	16	person14	4
+person11	4	person26	10
+person13	14	person23	8
+person4	4	person3	3
+person9	6	2
+person18	7	18
+person10	2	2
+person24	2	5
+person2	2	16
+person22	15	14
+person14	20	8
+person19	13	10
+Person28	1	1
+person6	11	7
+person5	6	14
+Sketches	2	2
+Person27	1	1
+person16	15	2
+person21	18	3
+person26	8	6
+person7	20	10
+person1	20	1
+person8	4	4
+person12	1	3
+person3	2	1
+person23	15	4
+person20	28	25
+person17	3	4
+person25	14	8
+person15	3	4
+person11	2	4
+person13	1	14
+person4	17	15
+person9	4	person1	19
+person18	6	person10	6
+person10	6	person21	15
+person24	3	person7	15
+person2	5	person19	4
+person22	7	person1	2
+person14	11	Person28	1
+person19	20	person21	15
+Person28	1	person25	4
+person6	1	person18	17
+person5	7	person19	1
+Sketches	2	person7	11
+Person27	1	person4	13
+person16	9	person18	18
+person21	19	person10	3
+person26	12	person4	18
+person7	12	person26	12
+person1	2	Person28	1
+person8	5	person21	17
+person12	1	person24	5
+person3	4	person15	19
+person23	16	person24	2
+person20	13	person13	14
+person17	2	person5	15
+person25	18	person13	7
+person15	15	Person28	1
+person11	4	person23	11
+person13	7	person24	4
+person4	16	person2	4
+person9	5	20
+person18	3	4
+person10	7	2
+person24	5	5
+person2	4	3
+person22	5	11
+person14	9	15
+person19	3	2
+Person28	1	1
+person6	18	8
+person5	17	13
+Sketches	2	2
+Person27	1	1
+person16	13	16
+person21	10	6
+person26	5	20
+person7	10	17
+person1	7	1
+person8	2	3
+person12	2	2
+person3	3	5
+person23	2	15
+person20	22	6
+person17	3	3
+person25	16	17
+person15	24	22
+person11	4	2
+person13	17	7
+person4	2	16
+person9	7	person6	15
+person18	17	person8	1
+person10	4	person2	12
+person24	1	Person28	1
+person2	4	Sketches	2
+person22	15	person16	7
+person14	6	person17	5
+person19	20	person17	1
+Person28	1	person2	10
+person6	9	person3	1
+person5	8	person24	3
+Sketches	2	person24	5
+Person27	1	person25	2
+person16	7	person24	4
+person21	14	person3	3
+person26	8	Person27	1
+person7	5	person9	2
+person1	16	person20	3
+person8	5	person14	7
+person12	1	person2	2
+person3	4	person16	17
+person23	11	person7	7
+person20	27	person14	10
+person17	2	person16	6
+person25	5	person1	3
+person15	24	person6	10
+person11	1	person4	13
+person13	16	person17	3
+person4	8	person15	15
+person9	11	11
+person18	15	4
+person10	7	3
+person24	2	5
+person2	10	18
+person22	9	18
+person14	11	1
+person19	8	3
+Person28	1	1
+person6	2	3
+person5	20	5
+Sketches	2	2
+Person27	1	1
+person16	6	19
+person21	6	18
+person26	17	21
+person7	4	18
+person1	3	19
+person8	1	3
+person12	4	4
+person3	4	3
+person23	13	16
+person20	26	12
+person17	4	1
+person25	6	4
+person15	16	16
+person11	5	4
+person13	1	12
+person4	2	7
+person9	8	person7	9
+person18	19	person14	13
+person10	2	person14	13
+person24	1	person23	6
+person2	19	person6	20
+person22	7	person14	12
+person14	9	person20	26
+person19	8	person20	8
+Person28	1	person15	11
+person6	20	person13	11
+person5	14	person23	8
+Sketches	2	person14	2
+Person27	1	person16	5
+person16	21	person19	8
+person21	2	person5	5
+person26	10	Person28	1
+person7	12	person11	5
+person1	4	person12	2
+person8	2	person18	4
+person12	2	person5	20
+person3	1	Person28	1
+person23	21	person13	12
+person20	26	person15	12
+person17	5	person3	1
+person25	2	Person27	1
+person15	1	Sketches	2
+person11	3	Person27	1
+person13	3	person5	8
+person4	6	person10	6
+person9	19	17
+person18	13	7
+person10	4	5
+person24	4	2
+person2	16	20
+person22	11	3
+person14	3	16
+person19	1	6
+Person28	1	1
+person6	6	20
+person5	17	11
+Sketches	2	2
+Person27	1	1
+person16	14	8
+person21	19	4
+person26	5	8
+person7	11	8
+person1	2	3
+person8	3	1
+person12	4	1
+person3	2	3
+person23	13	6
+person20	5	24
+person17	1	5
+person25	4	14
+person15	23	1
+person11	4	4
+person13	9	18
+person4	21	9
+person9	13	person13	13
+person18	2	person12	3
+person10	7	person1	6
+person24	2	person9	18
+person2	19	person7	10
+person22	7	person18	12
+person14	9	person25	2
+person19	11	person21	13
+Person28	1	person8	3
+person6	21	Person28	1
+person5	1	person9	13
+Sketches	2	person25	2
+Person27	1	person2	11
+person16	6	person23	13
+person21	3	person20	5
+person26	2	person25	9
+person7	10	person19	16
+person1	19	person4	21
+person8	1	person13	18
+person12	5	Sketches	2
+person3	3	person23	8
+person23	6	person10	4
+person20	20	Person27	1
+person17	3	person24	1
+person25	17	person19	9
+person15	14	person5	10
+person11	5	person12	4
+person13	5	person11	5
+person4	19	person14	13
+person9	1	20
+person18	5	4
+person10	4	6
+person24	1	4
+person2	7	4
+person22	10	18
+person14	14	1
+person19	2	13
+Person28	1	1
+person6	23	7
+person5	5	1
+Sketches	2	2
+Person27	1	1
+person16	5	12
+person21	4	15
+person26	5	22
+person7	9	20
+person1	8	9
+person8	5	3
+person12	2	5
+person3	4	1
+person23	2	15
+person20	6	27
+person17	1	3
+person25	17	11
+person15	18	8
+person11	1	5
+person13	12	10
+person4	7	1
+person9	8	Person28	1
+person18	19	person14	10
+person10	1	Sketches	2
+person24	2	person15	22
+person2	11	person9	7
+person22	9	person9	18
+person14	17	person25	1
+person19	10	person26	4
+Person28	1	person25	15
+person6	15	person21	20
+person5	13	person25	9
+Sketches	2	person2	7
+Person27	1	person20	4
+person16	16	person7	6
+person21	3	person1	6
+person26	9	person13	17
+person7	18	person25	7
+person1	2	Person28	1
+person8	1	person14	20
+person12	4	person26	12
+person3	3	person7	6
+person23	7	person24	3
+person20	28	person14	21
+person17	2	person7	7
+person25	3	person15	25
+person15	10	person1	12
+person11	3	person8	1
+person13	11	person2	15
+person4	16	person22	16
+person9	2	5
+person18	15	16
+person10	4	3
+person24	5	3
+person2	6	8
+person22	10	13
+person14	11	18
+person19	14	2
+Person28	1	1
+person6	4	22
+person5	15	18
+Sketches	2	2
+Person27	1	1
+person16	11	22
+person21	19	8
+person26	16	9
+person7	12	17
+person1	19	19
+person8	2	4
+person12	1	2
+person3	2	2
+person23	20	4
+person20	18	10
+person17	3	5
+person25	20	6
+person15	6	19
+person11	5	3
+person13	17	14
+person4	8	9
+person9	20	Person27	1
+person18	13	person4	22
+person10	4	person19	19
+person24	4	person23	1
+person2	1	person22	10
+person22	20	person4	14
+person14	8	person10	5
+person19	4	person21	13
+Person28	1	person14	13
+person6	16	person14	19
+person5	18	person16	2
+Sketches	2	person18	17
+Person27	1	Person28	1
+person16	16	person3	3
+person21	2	person3	3
+person26	4	person14	5
+person7	5	person13	19
+person1	19	person17	5
+person8	2	person13	17
+person12	2	person17	5
+person3	4	person17	1
+person23	2	person16	4
+person20	21	person17	2
+person17	1	person20	17
+person25	15	person9	9
+person15	24	person7	14
+person11	1	person26	11
+person13	17	person15	20
+person4	14	person16	18
+person9	13	7
+person18	6	11
+person10	3	5
+person24	1	3
+person2	4	11
+person22	11	1
+person14	21	19
+person19	7	18
+Person28	1	1
+person6	18	6
+person5	19	16
+Sketches	2	2
+Person27	1	1
+person16	4	9
+person21	16	12
+person26	18	6
+person7	4	8
+person1	7	8
+person8	3	4
+person12	3	4
+person3	2	1
+person23	3	11
+person20	29	13
+person17	1	3
+person25	5	11
+person15	13	23
+person11	2	5
+person13	11	11
+person4	2	13
+person9	11	person4	12
+person18	16	person5	19
+person10	1	person5	14
+person24	4	person19	5
+person2	11	person25	1
+person22	15	person6	11
+person14	20	person1	4
+person19	14	person23	4
+Person28	1	person16	19
+person6	2	person17	3
+person5	10	person8	2
+Sketches	2	person17	3
+Person27	1	person23	14
+person16	17	person17	5
+person21	17	person8	4
+person26	20	person15	12
+person7	16	person1	9
+person1	12	person6	9
+person8	3	person19	1
+person12	1	person9	19
+person3	2	person1	20
+person23	13	person1	3
+person20	20	person1	17
+person17	2	person10	7
+person25	3	person22	11
+person15	4	person25	9
+person11	3	person15	14
+person13	1	person10	2
+person4	11	person11	5
+person9	21	4
+person18	8	14
+person10	4	5
+person24	5	3
+person2	7	6
+person22	8	4
+person14	19	13
+person19	9	13
+Person28	1	1
+person6	9	23
+person5	2	10
+Sketches	2	2
+Person27	1	1
+person16	7	4
+person21	8	17
+person26	15	19
+person7	6	12
+person1	1	17
+person8	2	1
+person12	4	4
+person3	5	4
+person23	14	1
+person20	16	13
+person17	2	4
+person25	18	12
+person15	25	15
+person11	3	4
+person13	19	18
+person4	6	3
+person9	20	Person28	1
+person18	15	person15	15
+person10	3	person20	18
+person24	4	person5	17
+person2	5	person9	14
+person22	6	person1	18
+person14	7	person6	2
+person19	15	person16	18
+Person28	1	person13	11
+person6	11	person16	1
+person5	15	person21	11
+Sketches	2	person3	3
+Person27	1	person22	5
+person16	8	person14	2
+person21	18	person22	19
+person26	5	person11	2
+person7	10	person9	17
+person1	21	Sketches	2
+person8	1	person7	13
+person12	1	person4	10
+person3	4	person6	4
+person23	22	person7	14
+person20	23	person12	5
+person17	5	Sketches	2
+person25	16	person2	8
+person15	4	Person28	1
+person11	5	person9	10
+person13	15	person8	5
+person4	19	person9	3
+person9	18	19
+person18	14	14
+person10	5	7
+person24	5	1
+person2	10	16
+person22	3	7
+person14	7	19
+person19	4	4
+Person28	1	1
+person6	14	13
+person5	2	2
+Sketches	2	2
+Person27	1	1
+person16	14	12
+person21	18	18
+person26	5	16
+person7	9	1
+person1	15	6
+person8	2	3
+person12	3	3
+person3	4	4
+person23	5	11
+person20	22	16
+person17	4	5
+person25	6	12
+person15	12	9
+person11	5	5
+person13	3	9
+person4	4	8
+person9	13	person10	5
+person18	18	person17	4
+person10	3	person7	1
+person24	5	person26	19
+person2	8	person24	5
+person22	12	person10	6
+person14	12	person7	1
+person19	2	person25	3
+Person28	1	person22	15
+person6	12	person1	19
+person5	8	person25	6
+Sketches	2	person23	6
+Person27	1	person24	3
+person16	6	person8	1
+person21	17	person15	15
+person26	3	Person27	1
+person7	15	person16	4
+person1	2	person20	21
+person8	4	person1	1
+person12	4	person15	4
+person3	2	person26	9
+person23	11	person13	12
+person20	10	person14	14
+person17	1	person26	14
+person25	12	person14	14
+person15	24	Sketches	2
+person11	3	person25	3
+person13	5	person2	12
+person4	21	person3	4
+person9	9	11
+person18	10	6
+person10	5	4
+person24	4	4
+person2	1	11
+person22	15	19
+person14	21	5
+person19	8	3
+Person28	1	1
+person6	15	21
+person5	13	15
+Sketches	2	2
+Person27	1	1
+person16	15	3
+person21	10	1
+person26	18	15
+person7	18	17
+person1	19	5
+person8	2	3
+person12	4	2
+person3	5	3
+person23	13	2
+person20	15	17
+person17	4	5
+person25	8	7
+person15	13	14
+person11	2	1
+person13	6	3
+person4	14	3
+person9	4	person6	19
+person18	15	person2	10
+person10	7	Person27	1
+person24	2	person22	15
+person2	3	person11	4
+person22	12	person3	3
+person14	19	person2	15
+person19	8	person24	3
+Person28	1	person25	10
+person6	18	person2	19
+person5	4	person26	20
+Sketches	2	person6	19
+Person27	1	person12	3
+person16	12	person17	4
+person21	8	person15	18
+person26	14	person14	2
+person7	17	person14	15
+person1	11	person26	15
+person8	1	person5	2
+person12	1	person24	5
+person3	2	Person27	1
+person23	9	person5	2
+person20	17	person19	4
+person17	1	person20	19
+person25	17	person26	22
+person15	21	person3	1
+person11	5	person12	5
+person13	11	person26	12
+person4	21	Person27	1
+person9	15	10
+person18	3	14
+person10	5	4
+person24	3	4
+person2	5	1
+person22	12	18
+person14	10	7
+person19	8	20
+Person28	1	1
+person6	13	22
+person5	18	20
+Sketches	2	2
+Person27	1	1
+person16	16	16
+person21	7	16
+person26	3	10
+person7	10	7
+person1	12	14
+person8	4	3
+person12	5	2
+person3	4	1
+person23	12	15
+person20	1	22
+person17	1	5
+person25	11	20
+person15	18	22
+person11	5	2
+person13	1	7
+person4	5	16
+person9	15	person20	12
+person18	4	person12	4
+person10	7	person2	10
+person24	4	person13	3
+person2	2	Person28	1
+person22	1	person12	5
+person14	7	person11	5
+person19	8	person26	8
+Person28	1	person16	6
+person6	6	person26	17
+person5	7	person9	15
+Sketches	2	person20	10
+Person27	1	person24	3
+person16	11	person19	4
+person21	9	person22	6
+person26	11	person7	11
+person7	7	person8	2
+person1	2	person7	16
+person8	4	person15	17
+person12	5	Person27	1
+person3	4	person23	14
+person23	1	person7	5
+person20	19	person16	8
+person17	1	person12	4
+person25	16	person18	2
+person15	14	Sketches	2
+person11	1	person26	15
+person13	8	person2	19
+person4	20	person25	18
+person9	4	9
+person18	7	5
+person10	6	6
+person24	2	1
+person2	15	16
+person22	16	4
+person14	1	15
+person19	16	12
+Person28	1	1
+person6	2	15
+person5	9	2
+Sketches	2	2
+Person27	1	1
+person16	2	17
+person21	12	14
+person26	6	16
+person7	19	8
+person1	5	6
+person8	3	2
+person12	1	4
+person3	2	2
+person23	14	8
+person20	25	28
+person17	2	5
+person25	15	9
+person15	8	10
+person11	4	1
+person13	10	9
+person4	14	16
+person9	20	person6	4
+person18	7	Sketches	2
+person10	4	Person27	1
+person24	4	person8	4
+person2	7	person22	8
+person22	13	Sketches	2
+person14	17	person10	7
+person19	10	person7	5
+Person28	1	person15	15
+person6	17	person19	8
+person5	19	person18	18
+Sketches	2	person15	21
+Person27	1	person9	17
+person16	16	person25	10
+person21	15	person6	1
+person26	22	person2	4
+person7	19	person2	6
+person1	10	person4	1
+person8	3	person21	10
+person12	3	Sketches	2
+person3	4	person25	18
+person23	14	person21	16
+person20	24	person16	22
+person17	2	person20	23
+person25	7	person3	1
+person15	9	person5	6
+person11	3	person18	10
+person13	9	person21	9
+person4	11	person18	8
+person9	16	11
+person18	19	15
+person10	7	1
+person24	3	5
+person2	16	1
+person22	18	4
+person14	7	1
+person19	16	8
+Person28	1	1
+person6	3	8
+person5	11	12
+Sketches	2	2
+Person27	1	1
+person16	5	8
+person21	16	17
+person26	22	12
+person7	5	11
+person1	20	3
+person8	1	2
+person12	3	3
+person3	2	5
+person23	13	22
+person20	27	29
+person17	5	2
+person25	1	2
+person15	4	16
+person11	5	4
+person13	8	14
+person4	19	9
+person9	17	person21	12
+person18	18	person22	3
+person10	4	Sketches	2
+person24	5	person10	2
+person2	18	Person27	1
+person22	17	person18	17
+person14	3	person25	7
+person19	15	person13	19
+Person28	1	person15	17
+person6	13	person5	2
+person5	2	person8	2
+Sketches	2	person9	1
+Person27	1	person9	12
+person16	11	person21	18
+person21	3	person16	11
+person26	11	Sketches	2
+person7	6	person14	14
+person1	13	person15	20
+person8	3	Sketches	2
+person12	1	person1	13
+person3	4	person10	2
+person23	1	person9	12
+person20	13	person14	18
+person17	4	person12	1
+person25	13	Sketches	2
+person15	2	person2	14
+person11	1	person21	12
+person13	20	person3	5
+person4	3	person3	2
+person9	21	2
+person18	9	1
+person10	1	4
+person24	3	4
+person2	7	7
+person22	10	9
+person14	8	5
+person19	18	1
+Person28	1	1
+person6	6	18
+person5	18	17
+Sketches	2	2
+Person27	1	1
+person16	18	8
+person21	5	5
+person26	17	17
+person7	18	17
+person1	21	6
+person8	2	4
+person12	2	5
+person3	3	3
+person23	2	4
+person20	3	11
+person17	1	5
+person25	13	18
+person15	3	7
+person11	4	3
+person13	14	14
+person4	18	18
+person9	18	person7	14
+person18	9	person14	21
+person10	5	person24	2
+person24	5	person1	16
+person2	4	person8	3
+person22	19	person15	9
+person14	10	person20	8
+person19	19	person26	12
+Person28	1	person23	12
+person6	10	person18	11
+person5	9	person17	1
+Sketches	2	person15	21
+Person27	1	person2	5
+person16	19	person9	4
+person21	2	person26	19
+person26	8	person14	17
+person7	16	person1	1
+person1	7	Sketches	2
+person8	5	person22	1
+person12	3	person21	8
+person3	5	person15	3
+person23	16	person10	6
+person20	27	person8	5
+person17	4	person14	5
+person25	20	person2	11
+person15	12	person19	19
+person11	5	person9	9
+person13	6	person10	5
+person4	18	person23	19
+person9	19	16
+person18	5	3
+person10	7	3
+person24	5	5
+person2	10	19
+person22	11	8
+person14	21	5
+person19	1	15
+Person28	1	1
+person6	6	9
+person5	18	15
+Sketches	2	2
+Person27	1	1
+person16	6	4
+person21	11	17
+person26	13	3
+person7	2	5
+person1	13	10
+person8	2	3
+person12	2	5
+person3	2	1
+person23	8	20
+person20	8	16
+person17	5	2
+person25	13	6
+person15	2	15
+person11	5	5
+person13	14	7
+person4	3	20
+person9	9	Sketches	2
+person18	9	person6	12
+person10	2	person15	19
+person24	4	person26	5
+person2	7	Person28	1
+person22	5	person2	15
+person14	20	person4	3
+person19	19	person24	5
+Person28	1	person26	12
+person6	6	person26	5
+person5	4	person14	15
+Sketches	2	person23	5
+Person27	1	person13	19
+person16	16	person6	6
+person21	20	person19	7
+person26	19	person10	1
+person7	9	person15	4
+person1	15	person23	18
+person8	2	person21	6
+person12	2	person19	10
+person3	1	person8	2
+person23	15	person26	12
+person20	4	person5	13
+person17	5	person15	18
+person25	6	person13	15
+person15	15	person2	19
+person11	1	person17	2
+person13	20	person22	7
+person4	20	person24	1
+person9	8	10
+person18	15	11
+person10	4	7
+person24	5	3
+person2	6	1
+person22	13	1
+person14	2	20
+person19	10	1
+Person28	1	1
+person6	16	12
+person5	12	11
+Sketches	2	2
+Person27	1	1
+person16	17	12
+person21	3	20
+person26	15	6
+person7	6	14
+person1	5	5
+person8	2	3
+person12	4	4
+person3	2	1
+person23	21	11
+person20	17	2
+person17	1	3
+person25	2	2
+person15	10	22
+person11	5	2
+person13	14	19
+person4	13	17
+person9	13	person8	3
+person18	2	person6	22
+person10	7	person16	13
+person24	5	person12	4
+person2	10	person1	12
+person22	4	person8	2
+person14	1	person6	5
+person19	11	Person28	1
+Person28	1	person4	15
+person6	11	person8	4
+person5	21	person12	2
+Sketches	2	person11	1
+Person27	1	person1	8
+person16	22	person25	18
+person21	13	person12	1
+person26	1	person3	5
+person7	3	person1	10
+person1	18	person24	1
+person8	5	person10	1
+person12	5	person5	3
+person3	1	person7	14
+person23	18	person11	1
+person20	27	person10	6
+person17	2	person19	11
+person25	11	person24	4
+person15	4	person16	12
+person11	1	person18	9
+person13	2	person26	22
+person4	3	Sketches	2
+person9	17	11
+person18	8	2
+person10	3	7
+person24	1	3
+person2	4	9
+person22	16	4
+person14	13	12
+person19	5	11
+Person28	1	1
+person6	20	20
+person5	1	4
+Sketches	2	2
+Person27	1	1
+person16	6	10
+person21	12	13
+person26	14	5
+person7	11	15
+person1	6	7
+person8	4	1
+person12	2	3
+person3	1	3
+person23	22	6
+person20	25	6
+person17	4	4
+person25	2	8
+person15	21	4
+person11	5	3
+person13	4	6
+person4	10	3
+person9	6	person21	10
+person18	11	person10	7
+person10	2	Person28	1
+person24	5	person25	19
+person2	3	person3	2
+person22	15	Person28	1
+person14	15	Sketches	2
+person19	4	Person27	1
+Person28	1	person13	5
+person6	16	person24	3
+person5	21	Person27	1
+Sketches	2	person16	7
+Person27	1	person20	26
+person16	13	person11	2
+person21	19	Sketches	2
+person26	19	person7	10
+person7	20	person21	8
+person1	2	person23	18
+person8	3	person7	6
+person12	1	person15	7
+person3	3	person11	1
+person23	9	person25	17
+person20	2	person7	13
+person17	3	person3	3
+person25	8	person4	12
+person15	24	person22	15
+person11	4	person13	19
+person13	3	person4	20
+person4	6	Person28	1
+person9	11	7
+person18	14	18
+person10	6	1
+person24	5	3
+person2	13	5
+person22	17	15
+person14	21	18
+person19	20	9
+Person28	1	1
+person6	9	11
+person5	2	6
+Sketches	2	2
+Person27	1	1
+person16	8	11
+person21	12	11
+person26	21	4
+person7	13	15
+person1	14	17
+person8	4	1
+person12	1	2
+person3	4	2
+person23	22	16
+person20	6	22
+person17	5	4
+person25	18	3
+person15	10	4
+person11	4	1
+person13	16	1
+person4	2	17
+person9	10	person18	8
+person18	7	person10	3
+person10	6	person25	20
+person24	3	person26	4
+person2	13	Person27	1
+person22	15	person20	16
+person14	5	person6	6
+person19	11	person4	22
+Person28	1	Sketches	2
+person6	10	person23	3
+person5	12	person24	3
+Sketches	2	person14	4
+Person27	1	person9	8
+person16	7	person11	5
+person21	11	person10	2
+person26	9	person5	2
+person7	18	person21	1
+person1	15	Person27	1
+person8	2	person15	14
+person12	5	person13	19
+person3	2	person9	6
+person23	5	person9	12
+person20	19	person1	3
+person17	5	person9	16
+person25	8	person11	2
+person15	22	Person28	1
+person11	3	person9	5
+person13	16	person21	18
+person4	19	person2	16
+person9	1	1
+person18	10	16
+person10	1	4
+person24	1	2
+person2	6	20
+person22	14	18
+person14	10	14
+person19	20	12
+Person28	1	1
+person6	7	17
+person5	4	2
+Sketches	2	2
+Person27	1	1
+person16	11	16
+person21	4	2
+person26	6	12
+person7	7	2
+person1	10	8
+person8	3	1
+person12	1	4
+person3	3	2
+person23	13	22
+person20	5	4
+person17	3	5
+person25	18	7
+person15	25	15
+person11	2	1
+person13	16	8
+person4	2	13
+person9	4	person23	1
+person18	12	person8	1
+person10	6	person14	11
+person24	3	person6	18
+person2	4	person4	3
+person22	12	person26	19
+person14	7	person22	8
+person19	18	person6	13
+Person28	1	person23	17
+person6	11	person12	4
+person5	21	person19	6
+Sketches	2	person6	16
+Person27	1	person12	2
+person16	14	person13	11
+person21	10	person10	1
+person26	11	person24	4
+person7	17	person12	5
+person1	17	person14	17
+person8	4	person17	2
+person12	3	Sketches	2
+person3	3	person25	14
+person23	1	person19	5
+person20	18	person2	7
+person17	5	person3	1
+person25	17	person13	8
+person15	23	Person28	1
+person11	2	person26	4
+person13	11	person24	3
+person4	22	person9	8
+person9	4	11
+person18	3	12
+person10	3	4
+person24	4	5
+person2	19	14
+person22	2	6
+person14	15	19
+person19	4	4
+Person28	1	1
+person6	14	21
+person5	5	10
+Sketches	2	2
+Person27	1	1
+person16	13	18
+person21	12	3
+person26	20	21
+person7	1	2
+person1	18	21
+person8	2	2
+person12	2	5
+person3	1	2
+person23	2	16
+person20	16	7
+person17	1	4
+person25	19	10
+person15	25	20
+person11	5	4
+person13	14	10
+person4	22	4
+person9	16	person25	13
+person18	16	person2	15
+person10	4	person24	1
+person24	5	person3	5
+person2	6	person10	1
+person22	17	person4	1
+person14	16	person5	18
+person19	14	Sketches	2
+Person28	1	person17	3
+person6	7	person14	3
+person5	7	person21	13
+Sketches	2	person23	18
+Person27	1	person12	2
+person16	9	person14	11
+person21	7	person1	9
+person26	20	person22	2
+person7	15	person16	14
+person1	8	person5	17
+person8	2	person11	1
+person12	5	person16	11
+person3	3	person23	20
+person23	2	person4	12
+person20	23	person15	9
+person17	3	person1	9
+person25	6	person20	15
+person15	2	person17	3
+person11	4	person6	11
+person13	14	person4	2
+person4	13	person17	2
+person9	1	8
+person18	13	12
+person10	3	1
+person24	1	4
+person2	13	5
+person22	10	13
+person14	3	21
+person19	14	15
+Person28	1	1
+person6	18	16
+person5	15	19
+Sketches	2	2
+Person27	1	1
+person16	6	2
+person21	12	5
+person26	21	11
+person7	13	10
+person1	5	19
+person8	1	4
+person12	2	3
+person3	1	4
+person23	16	18
+person20	21	19
+person17	2	2
+person25	12	7
+person15	10	2
+person11	3	5
+person13	3	4
+person4	21	17
+person9	10	person16	11
+person18	18	Person27	1
+person10	6	Person27	1
+person24	2	person10	1
+person2	5	person21	13
+person22	17	person15	6
+person14	6	person12	2
+person19	19	person8	1
+Person28	1	person22	8
+person6	6	person9	13
+person5	10	person24	2
+Sketches	2	person9	16
+Person27	1	person7	11
+person16	11	person18	1
+person21	20	Person28	1
+person26	7	person13	11
+person7	6	person4	21
+person1	11	person2	20
+person8	4	person21	14
+person12	3	person14	15
+person3	2	Person28	1
+person23	1	person7	6
+person20	8	person14	18
+person17	1	person7	10
+person25	19	person17	3
+person15	15	person16	14
+person11	2	person2	3
+person13	2	person17	3
+person4	22	person16	11
+person9	21	8
+person18	17	1
+person10	5	3
+person24	5	4
+person2	19	10
+person22	6	15
+person14	1	21
+person19	4	3
+Person28	1	1
+person6	2	20
+person5	18	1
+Sketches	2	2
+Person27	1	1
+person16	15	12
+person21	3	6
+person26	8	11
+person7	10	3
+person1	20	7
+person8	1	1
+person12	3	3
+person3	2	5
+person23	3	4
+person20	22	15
+person17	5	5
+person25	11	17
+person15	16	17
+person11	3	4
+person13	4	9
+person4	2	19
+person9	13	person2	16
+person18	6	person21	16
+person10	7	person12	3
+person24	2	person15	19
+person2	5	person10	4
+person22	6	person26	5
+person14	9	person24	3
+person19	3	person13	15
+Person28	1	person23	15
+person6	16	person22	12
+person5	20	person13	6
+Sketches	2	person11	5
+Person27	1	person7	8
+person16	13	person19	7
+person21	2	person5	3
+person26	3	Sketches	2
+person7	17	person11	5
+person1	15	person8	1
+person8	5	person3	4
+person12	2	person6	3
+person3	2	person20	15
+person23	2	Person27	1
+person20	24	person7	5
+person17	4	person10	7
+person25	6	person2	4
+person15	23	person7	9
+person11	1	person26	20
+person13	3	person22	5
+person4	21	person25	13
+person9	6	17
+person18	5	19
+person10	5	2
+person24	2	4
+person2	8	14
+person22	13	18
+person14	6	9
+person19	3	10
+Person28	1	1
+person6	5	12
+person5	15	6
+Sketches	2	2
+Person27	1	1
+person16	21	15
+person21	20	11
+person26	12	2
+person7	17	17
+person1	5	12
+person8	1	2
+person12	1	3
+person3	1	1
+person23	16	2
+person20	22	17
+person17	5	3
+person25	14	9
+person15	8	14
+person11	2	2
+person13	5	17
+person4	3	14
+person9	15	person5	6
+person18	11	person24	1
+person10	1	person13	7
+person24	5	person5	2
+person2	15	person9	9
+person22	14	person25	20
+person14	19	person23	7
+person19	11	person16	13
+Person28	1	person8	2
+person6	10	Person27	1
+person5	14	person23	2
+Sketches	2	person18	6
+Person27	1	person25	4
+person16	11	person2	2
+person21	1	person13	10
+person26	8	person10	5
+person7	18	person9	19
+person1	18	person2	16
+person8	2	person18	9
+person12	1	person7	20
+person3	4	person17	1
+person23	15	person1	4
+person20	22	person17	3
+person17	4	person9	18
+person25	4	person14	11
+person15	2	person9	19
+person11	5	person4	8
+person13	1	person7	2
+person4	15	person12	2
+person9	2	21
+person18	13	15
+person10	1	1
+person24	2	4
+person2	20	5
+person22	4	6
+person14	21	13
+person19	13	13
+Person28	1	1
+person6	21	21
+person5	20	6
+Sketches	2	2
+Person27	1	1
+person16	2	2
+person21	18	19
+person26	13	9
+person7	13	13
+person1	7	2
+person8	4	2
+person12	4	1
+person3	4	5
+person23	9	3
+person20	8	17
+person17	4	4
+person25	11	12
+person15	21	10
+person11	2	2
+person13	11	15
+person4	11	4
+person9	2	person5	5
+person18	11	person17	3
+person10	3	person19	16
+person24	3	person2	12
+person2	15	person15	10
+person22	3	person13	13
+person14	13	person15	12
+person19	7	person14	6
+Person28	1	Sketches	2
+person6	4	person21	16
+person5	8	person9	7
+Sketches	2	person21	11
+Person27	1	person23	3
+person16	22	person1	2
+person21	3	person9	19
+person26	1	Person28	1
+person7	4	person4	12
+person1	10	person19	13
+person8	3	person6	15
+person12	1	person13	15
+person3	4	person6	5
+person23	9	person3	1
+person20	9	person26	3
+person17	3	person11	1
+person25	6	person18	4
+person15	8	person22	4
+person11	2	person12	1
+person13	5	person21	20
+person4	5	person11	4
+person9	15	8
+person18	2	12
+person10	7	1
+person24	1	1
+person2	8	8
+person22	16	4
+person14	5	15
+person19	8	8
+Person28	1	1
+person6	13	2
+person5	18	16
+Sketches	2	2
+Person27	1	1
+person16	15	3
+person21	4	7
+person26	9	16
+person7	16	19
+person1	19	12
+person8	2	4
+person12	4	3
+person3	3	2
+person23	22	10
+person20	25	4
+person17	1	1
+person25	6	3
+person15	19	25
+person11	4	2
+person13	16	12
+person4	17	10
+person9	20	person22	1
+person18	17	person19	1
+person10	2	person16	3
+person24	2	person7	17
+person2	2	person26	21
+person22	9	Person28	1
+person14	3	person2	7
+person19	18	person13	17
+Person28	1	person23	19
+person6	15	person12	3
+person5	14	person1	20
+Sketches	2	person8	3
+Person27	1	person16	21
+person16	4	person17	1
+person21	18	person12	5
+person26	6	person17	5
+person7	11	person24	3
+person1	18	person13	12
+person8	3	person6	6
+person12	3	person14	13
+person3	4	person16	6
+person23	20	person4	12
+person20	6	person15	3
+person17	4	person6	18
+person25	16	person1	5
+person15	20	person10	2
+person11	5	person15	15
+person13	1	Person28	1
+person4	5	person20	11
+person9	8	1
+person18	19	13
+person10	4	5
+person24	3	3
+person2	11	1
+person22	17	20
+person14	20	5
+person19	8	13
+Person28	1	1
+person6	3	19
+person5	4	7
+Sketches	2	2
+Person27	1	1
+person16	16	13
+person21	2	9
+person26	9	8
+person7	3	9
+person1	1	17
+person8	1	3
+person12	1	2
+person3	1	2
+person23	16	11
+person20	6	1
+person17	1	3
+person25	3	7
+person15	19	7
+person11	5	5
+person13	14	6
+person4	12	21
+person9	9	person25	13
+person18	17	person8	2
+person10	5	person19	10
+person24	4	person13	2
+person2	2	person11	3
+person22	6	person20	9
+person14	20	person9	20
+person19	5	person22	13
+Person28	1	person3	1
+person6	14	person24	3
+person5	7	person6	16
+Sketches	2	person23	8
+Person27	1	person22	9
+person16	21	person14	20
+person21	20	person23	12
+person26	15	person9	2
+person7	15	person8	2
+person1	3	person23	9
+person8	4	person17	2
+person12	5	person14	16
+person3	1	person19	17
+person23	6	person24	5
+person20	15	person21	16
+person17	5	person9	20
+person25	11	person9	16
+person15	2	person8	5
+person11	3	person21	20
+person13	18	person5	13
+person4	4	person19	14
+person9	3	5
+person18	9	5
+person10	1	6
+person24	3	2
+person2	3	19
+person22	2	8
+person14	20	20
+person19	7	17
+Person28	1	1
+person6	22	11
+person5	19	2
+Sketches	2	2
+Person27	1	1
+person16	16	3
+person21	17	18
+person26	11	18
+person7	15	10
+person1	16	14
+person8	1	1
+person12	5	5
+person3	3	3
+person23	5	17
+person20	10	12
+person17	5	4
+person25	9	16
+person15	9	8
+person11	5	3
+person13	6	8
+person4	12	1
+person9	15	person3	4
+person18	7	person3	1
+person10	6	person18	7
+person24	5	Person27	1
+person2	6	person21	7
+person22	9	person26	20
+person14	17	person16	7
+person19	4	person5	19
+Person28	1	person2	8
+person6	1	person18	6
+person5	10	person23	21
+Sketches	2	person14	12
+Person27	1	person12	3
+person16	18	person9	8
+person21	19	person23	14
+person26	5	person20	21
+person7	15	person24	5
+person1	3	person21	11
+person8	5	person7	18
+person12	2	person17	1
+person3	2	person20	5
+person23	2	person24	1
+person20	22	person12	2
+person17	1	person3	2
+person25	3	person9	17
+person15	21	person3	5
+person11	1	person21	18
+person13	16	person8	3
+person4	6	person8	1
+person9	14	13
+person18	15	17
+person10	1	3
+person24	2	5
+person2	2	4
+person22	15	3
+person14	18	8
+person19	3	9
+Person28	1	1
+person6	4	22
+person5	15	11
+Sketches	2	2
+Person27	1	1
+person16	2	4
+person21	2	12
+person26	7	18
+person7	9	20
+person1	15	10
+person8	2	1
+person12	2	5
+person3	3	5
+person23	15	13
+person20	4	12
+person17	2	4
+person25	3	20
+person15	12	17
+person11	2	2
+person13	5	8
+person4	2	17
+person9	16	Person28	1
+person18	1	person17	3
+person10	6	person8	4
+person24	3	person17	3
+person2	16	person22	8
+person22	20	Person28	1
+person14	6	person25	2
+person19	13	person26	7
+Person28	1	person17	5
+person6	4	person3	3
+person5	1	person10	2
+Sketches	2	person5	18
+Person27	1	person16	8
+person16	2	person5	10
+person21	7	person26	4
+person26	17	person2	17
+person7	5	person18	17
+person1	9	person4	15
+person8	5	person15	18
+person12	2	person20	24
+person3	1	person2	11
+person23	16	Person27	1
+person20	27	person2	8
+person17	5	person13	8
+person25	18	person2	19
+person15	16	person3	1
+person11	1	Person28	1
+person13	9	person15	17
+person4	9	person17	2
+person9	5	4
+person18	11	1
+person10	5	3
+person24	5	4
+person2	9	15
+person22	5	20
+person14	12	13
+person19	4	4
+Person28	1	1
+person6	18	2
+person5	9	13
+Sketches	2	2
+Person27	1	1
+person16	13	19
+person21	16	1
+person26	2	20
+person7	1	14
+person1	21	13
+person8	1	4
+person12	5	1
+person3	3	5
+person23	21	15
+person20	14	17
+person17	1	2
+person25	15	15
+person15	16	17
+person11	5	2
+person13	20	14
+person4	10	16
+person9	1	person26	8
+person18	9	person3	4
+person10	7	person6	12
+person24	1	person9	20
+person2	11	person26	16
+person22	16	person11	5
+person14	13	person3	4
+person19	7	person14	7
+Person28	1	person23	10
+person6	9	person13	11
+person5	3	person12	4
+Sketches	2	person13	1
+Person27	1	person23	4
+person16	3	person17	1
+person21	1	person19	1
+person26	5	person7	7
+person7	4	person11	4
+person1	2	person12	5
+person8	3	person9	12
+person12	3	person4	6
+person3	2	person20	7
+person23	11	person19	7
+person20	22	person24	1
+person17	5	person22	2
+person25	18	person24	2
+person15	3	person22	2
+person11	3	person5	7
+person13	13	person26	18
+person4	19	person8	3
+person9	6	7
+person18	1	7
+person10	4	6
+person24	2	2
+person2	5	12
+person22	8	11
+person14	1	21
+person19	8	12
+Person28	1	1
+person6	16	19
+person5	16	15
+Sketches	2	2
+Person27	1	1
+person16	5	15
+person21	18	18
+person26	22	3
+person7	12	13
+person1	6	15
+person8	3	1
+person12	4	5
+person3	2	4
+person23	16	6
+person20	4	23
+person17	2	4
+person25	9	2
+person15	24	20
+person11	1	2
+person13	9	1
+person4	3	20
+person9	2	person24	5
+person18	5	person25	4
+person10	7	person14	10
+person24	4	person19	10
+person2	16	person19	1
+person22	16	person17	2
+person14	5	person4	10
+person19	3	person16	12
+Person28	1	person6	12
+person6	9	person15	24
+person5	16	person21	3
+Sketches	2	person7	3
+Person27	1	person13	12
+person16	8	person10	7
+person21	17	person26	14
+person26	16	person16	6
+person7	7	person12	1
+person1	4	person13	7
+person8	5	person2	9
+person12	5	person1	20
+person3	4	person7	11
+person23	16	Person28	1
+person20	13	person25	6
+person17	3	person11	5
+person25	8	person6	12
+person15	8	person10	2
+person11	3	person7	11
+person13	7	Sketches	2
+person4	21	person10	3
+person9	7	21
+person18	5	12
+person10	1	2
+person24	5	1
+person2	7	4
+person22	4	15
+person14	10	13
+person19	11	7
+Person28	1	1
+person6	13	1
+person5	21	2
+Sketches	2	2
+Person27	1	1
+person16	2	19
+person21	16	19
+person26	20	9
+person7	13	18
+person1	11	13
+person8	4	4
+person12	3	2
+person3	4	2
+person23	3	15
+person20	27	4
+person17	3	5
+person25	11	6
+person15	15	11
+person11	1	1
+person13	15	11
+person4	9	15
+person9	13	person12	1
+person18	6	person1	11
+person10	6	Person27	1
+person24	3	person19	20
+person2	14	person15	15
+person22	4	person21	8
+person14	16	person11	1
+person19	10	person8	4
+Person28	1	Sketches	2
+person6	13	person24	4
+person5	17	person11	5
+Sketches	2	Person28	1
+Person27	1	person19	7
+person16	1	person19	5
+person21	8	person10	4
+person26	12	Person28	1
+person7	2	person1	19
+person1	20	person20	17
+person8	1	person24	1
+person12	1	person3	3
+person3	2	person6	6
+person23	19	person12	3
+person20	10	person9	10
+person17	4	person1	5
+person25	9	person19	6
+person15	1	person23	5
+person11	3	person3	5
+person13	5	person12	2
+person4	3	person14	13
+person9	4	19
+person18	16	10
+person10	1	3
+person24	1	1
+person2	20	12
+person22	18	10
+person14	7	2
+person19	18	2
+Person28	1	1
+person6	22	5
+person5	11	17
+Sketches	2	2
+Person27	1	1
+person16	14	16
+person21	8	3
+person26	5	4
+person7	1	14
+person1	6	16
+person8	5	3
+person12	5	5
+person3	1	3
+person23	3	19
+person20	19	24
+person17	5	1
+person25	3	19
+person15	1	22
+person11	4	2
+person13	9	4
+person4	11	1
+person9	21	person5	20
+person18	1	person1	21
+person10	7	person23	3
+person24	1	person11	1
+person2	16	person24	3
+person22	11	person4	20
+person14	3	person6	23
+person19	6	person23	4
+Person28	1	Person27	1
+person6	22	person18	10
+person5	10	person11	5
+Sketches	2	person7	19
+Person27	1	person24	1
+person16	9	person3	1
+person21	6	person4	12
+person26	5	Person28	1
+person7	9	person12	3
+person1	7	person17	4
+person8	1	person5	9
+person12	2	person19	7
+person3	1	person12	5
+person23	13	person2	16
+person20	18	person24	5
+person17	4	Sketches	2
+person25	7	person2	20
+person15	4	person20	5
+person11	2	person16	22
+person13	15	person22	11
+person4	10	person10	2
+person9	1	11
+person18	15	18
+person10	5	2
+person24	5	3
+person2	16	18
+person22	2	12
+person14	3	8
+person19	20	6
+Person28	1	1
+person6	7	22
+person5	21	15
+Sketches	2	2
+Person27	1	1
+person16	17	18
+person21	2	8
+person26	22	11
+person7	4	14
+person1	10	17
+person8	1	1
+person12	3	3
+person3	4	3
+person23	10	22
+person20	5	14
+person17	4	3
+person25	20	6
+person15	1	18
+person11	4	3
+person13	10	13
+person4	17	9
+person9	7	person18	2
+person18	7	person26	10
+person10	2	person14	6
+person24	3	person26	1
+person2	7	person16	6
+person22	12	person12	1
+person14	7	person23	8
+person19	14	person7	11
+Person28	1	person26	9
+person6	11	person5	11
+person5	8	person10	2
+Sketches	2	person18	11
+Person27	1	person17	5
+person16	16	person26	9
+person21	3	person5	12
+person26	5	person12	1
+person7	18	person25	6
+person1	13	person24	4
+person8	5	person3	5
+person12	4	person25	17
+person3	1	person14	12
+person23	18	person13	12
+person20	9	Person28	1
+person17	2	person15	18
+person25	2	person10	6
+person15	2	person22	3
+person11	1	person2	9
+person13	5	person21	18
+person4	7	person16	5
+person9	10	7
+person18	13	15
+person10	3	2
+person24	5	4
+person2	20	7
+person22	18	3
+person14	2	9
+person19	3	4
+Person28	1	1
+person6	10	4
+person5	14	6
+Sketches	2	2
+Person27	1	1
+person16	4	19
+person21	13	6
+person26	12	8
+person7	16	4
+person1	14	2
+person8	4	4
+person12	1	2
+person3	3	3
+person23	8	13
+person20	7	28
+person17	5	5
+person25	8	19
+person15	13	18
+person11	5	2
+person13	14	4
+person4	8	15
+person9	5	person13	15
+person18	19	person14	18
+person10	7	Person28	1
+person24	1	person15	7
+person2	2	person1	15
+person22	11	person10	3
+person14	7	person16	21
+person19	5	person25	12
+Person28	1	person1	13
+person6	11	person3	5
+person5	6	person9	12
+Sketches	2	person12	4
+Person27	1	person8	3
+person16	17	person24	5
+person21	9	person16	10
+person26	3	person17	3
+person7	10	person15	22
+person1	13	person17	3
+person8	1	person9	7
+person12	4	person5	7
+person3	4	person26	14
+person23	14	person9	6
+person20	14	person3	4
+person17	2	person25	2
+person25	10	person1	6
+person15	8	person11	3
+person11	5	person21	11
+person13	4	person2	17
+person4	14	person20	6
+person9	21	19
+person18	7	5
+person10	6	6
+person24	1	4
+person2	16	17
+person22	3	19
+person14	6	10
+person19	19	9
+Person28	1	1
+person6	18	2
+person5	21	12
+Sketches	2	2
+Person27	1	1
+person16	13	11
+person21	20	11
+person26	10	14
+person7	20	19
+person1	6	13
+person8	4	4
+person12	2	1
+person3	1	4
+person23	8	10
+person20	11	18
+person17	4	1
+person25	19	3
+person15	2	11
+person11	3	3
+person13	14	5
+person4	11	4
+person9	15	person22	20
+person18	15	person6	8
+person10	3	person18	19
+person24	5	person19	19
+person2	3	Sketches	2
+person22	5	person25	1
+person14	4	person15	18
+person19	2	person18	6
+Person28	1	person5	2
+person6	23	person4	2
+person5	5	person17	3
+Sketches	2	person25	14
+Person27	1	person20	8
+person16	18	person20	1
+person21	15	person19	12
+person26	10	person20	18
+person7	2	person24	3
+person1	8	person2	17
+person8	1	person22	7
+person12	1	Person27	1
+person3	3	person22	2
+person23	22	Sketches	2
+person20	18	person24	4
+person17	3	person18	12
+person25	17	person8	4
+person15	17	person9	5
+person11	3	person1	1
+person13	7	Sketches	2
+person4	7	person20	5
+person9	15	7
+person18	18	18
+person10	1	2
+person24	2	3
+person2	16	1
+person22	6	7
+person14	9	17
+person19	15	9
+Person28	1	1
+person6	13	6
+person5	4	4
+Sketches	2	2
+Person27	1	1
+person16	14	20
+person21	20	19
+person26	19	17
+person7	16	12
+person1	7	17
+person8	2	3
+person12	4	3
+person3	4	2
+person23	14	6
+person20	18	5
+person17	4	4
+person25	1	8
+person15	19	7
+person11	2	5
+person13	19	5
+person4	1	15
+person9	14	Sketches	2
+person18	19	person9	15
+person10	2	person2	16
+person24	3	person4	22
+person2	6	person24	4
+person22	8	Sketches	2
+person14	19	person8	3
+person19	16	person6	10
+Person28	1	person23	15
+person6	10	Person27	1
+person5	15	person26	19
+Sketches	2	person24	5
+Person27	1	person9	15
+person16	2	person20	29
+person21	1	person13	19
+person26	17	person21	16
+person7	17	person12	4
+person1	15	person2	15
+person8	4	person21	14
+person12	1	person22	3
+person3	4	person15	7
+person23	6	person9	18
+person20	3	person16	16
+person17	2	person4	7
+person25	13	person18	4
+person15	8	person8	3
+person11	5	Sketches	2
+person13	1	person19	2
+person4	3	person13	2
+person9	7	18
+person18	14	14
+person10	3	6
+person24	4	3
+person2	11	5
+person22	5	10
+person14	3	16
+person19	18	18
+Person28	1	1
+person6	18	21
+person5	3	5
+Sketches	2	2
+Person27	1	1
+person16	18	2
+person21	18	3
+person26	6	1
+person7	20	3
+person1	18	13
+person8	3	1
+person12	5	3
+person3	4	4
+person23	20	14
+person20	10	17
+person17	4	1
+person25	8	9
+person15	24	1
+person11	5	1
+person13	19	2
+person4	9	15
+person9	14	Sketches	2
+person18	18	person7	14
+person10	5	person3	1
+person24	3	person1	6
+person2	9	person4	2
+person22	14	person23	18
+person14	2	person5	19
+person19	11	person23	9
+Person28	1	person13	13
+person6	3	person1	11
+person5	8	person1	6
+Sketches	2	person17	5
+Person27	1	person24	4
+person16	1	person6	17
+person21	7	person18	9
+person26	6	person4	19
+person7	19	person6	5
+person1	5	person13	20
+person8	1	person19	3
+person12	1	person26	8
+person3	5	person12	2
+person23	9	person20	26
+person20	21	person10	5
+person17	3	Person27	1
+person25	3	person6	21
+person15	8	person13	11
+person11	5	person20	9
+person13	13	person21	19
+person4	7	person26	21
+person9	5	4
+person18	12	17
+person10	2	3
+person24	4	3
+person2	15	8
+person22	5	18
+person14	4	3
+person19	17	12
+Person28	1	1
+person6	7	21
+person5	1	7
+Sketches	2	2
+Person27	1	1
+person16	18	22
+person21	9	15
+person26	15	16
+person7	17	18
+person1	11	12
+person8	1	4
+person12	4	3
+person3	5	1
+person23	6	7
+person20	1	22
+person17	1	4
+person25	3	2
+person15	22	5
+person11	3	4
+person13	11	13
+person4	16	19
+person9	13	person10	2
+person18	16	person7	19
+person10	7	person23	13
+person24	3	person14	16
+person2	10	person14	6
+person22	16	person12	4
+person14	1	person4	17
+person19	16	person22	10
+Person28	1	person1	20
+person6	12	person17	3
+person5	17	Person27	1
+Sketches	2	person13	10
+Person27	1	person3	4
+person16	12	person26	5
+person21	10	person10	6
+person26	8	person11	2
+person7	4	person18	2
+person1	13	person11	5
+person8	2	person2	11
+person12	2	person10	5
+person3	3	person24	2
+person23	20	Person28	1
+person20	15	Person27	1
+person17	2	person22	3
+person25	12	person3	1
+person15	13	Person28	1
+person11	3	person16	18
+person13	7	person14	21
+person4	16	person17	3
+person9	6	6
+person18	14	7
+person10	3	2
+person24	1	2
+person2	14	20
+person22	15	6
+person14	20	14
+person19	14	1
+Person28	1	1
+person6	10	3
+person5	14	8
+Sketches	2	2
+Person27	1	1
+person16	10	6
+person21	4	13
+person26	11	13
+person7	20	13
+person1	5	9
+person8	5	2
+person12	1	4
+person3	2	1
+person23	10	18
+person20	25	12
+person17	3	3
+person25	15	19
+person15	23	23
+person11	4	1
+person13	15	7
+person4	3	21
+person9	15	person15	11
+person18	7	person22	2
+person10	7	person6	14
+person24	4	Sketches	2
+person2	14	person26	10
+person22	5	person8	3
+person14	19	Sketches	2
+person19	20	person16	19
+Person28	1	person4	3
+person6	1	person8	1
+person5	8	person26	13
+Sketches	2	person21	3
+Person27	1	person16	13
+person16	15	person12	3
+person21	18	person19	15
+person26	5	person6	10
+person7	4	person11	2
+person1	20	Person27	1
+person8	4	Person27	1
+person12	1	person15	2
+person3	2	person9	16
+person23	20	person9	9
+person20	4	person8	4
+person17	4	person6	6
+person25	16	person2	11
+person15	24	person19	5
+person11	3	person19	19
+person13	2	person14	11
+person4	22	person26	2
+person9	17	16
+person18	13	16
+person10	7	5
+person24	4	5
+person2	18	7
+person22	1	4
+person14	20	11
+person19	2	8
+Person28	1	1
+person6	18	6
+person5	10	17
+Sketches	2	2
+Person27	1	1
+person16	17	10
+person21	13	9
+person26	9	1
+person7	16	1
+person1	19	15
+person8	1	3
+person12	1	5
+person3	2	5
+person23	15	20
+person20	15	16
+person17	4	1
+person25	8	8
+person15	17	6
+person11	5	5
+person13	15	10
+person4	14	21
+person9	16	Sketches	2
+person18	17	person23	13
+person10	3	person16	7
+person24	4	person18	5
+person2	13	Person27	1
+person22	7	person13	15
+person14	17	person11	3
+person19	9	person8	5
+Person28	1	person9	9
+person6	2	person5	14
+person5	15	person18	3
+Sketches	2	person4	19
+Person27	1	person3	1
+person16	15	person20	1
+person21	1	person13	14
+person26	6	person25	17
+person7	6	person15	22
+person1	15	person8	2
+person8	3	person1	8
+person12	5	person4	14
+person3	4	person8	5
+person23	9	person10	2
+person20	18	Person28	1
+person17	2	person10	6
+person25	9	person9	14
+person15	14	person2	3
+person11	5	person15	25
+person13	16	person9	17
+person4	2	Sketches	2
+person9	2	3
+person18	19	8
+person10	5	4
+person24	2	1
+person2	17	19
+person22	1	8
+person14	16	14
+person19	4	2
+Person28	1	1
+person6	4	17
+person5	10	20
+Sketches	2	2
+Person27	1	1
+person16	8	3
+person21	20	17
+person26	2	14
+person7	5	12
+person1	17	16
+person8	1	4
+person12	2	5
+person3	2	2
+person23	9	21
+person20	21	21
+person17	2	5
+person25	10	18
+person15	18	10
+person11	4	5
+person13	13	10
+person4	20	1
+person9	10	Person28	1
+person18	10	person10	4
+person10	6	person18	6
+person24	2	person5	3
+person2	18	person24	1
+person22	19	person21	4
+person14	10	person2	19
+person19	11	person16	9
+Person28	1	person25	4
+person6	23	person8	2
+person5	7	person6	22
+Sketches	2	person3	1
+Person27	1	Person28	1
+person16	17	person5	6
+person21	5	Person28	1
+person26	21	person5	8
+person7	13	person1	6
+person1	14	person13	5
+person8	4	person6	7
+person12	4	person11	2
+person3	4	person25	8
+person23	3	person11	3
+person20	17	person9	15
+person17	3	person12	2
+person25	8	person23	22
+person15	25	person10	1
+person11	5	person14	14
+person13	7	person16	2
+person4	8	person6	10
+person9	4	20
+person18	15	3
+person10	7	3
+person24	5	1
+person2	4	11
+person22	17	11
+person14	6	10
+person19	14	17
+Person28	1	1
+person6	19	8
+person5	20	10
+Sketches	2	2
+Person27	1	1
+person16	8	4
+person21	10	4
+person26	9	17
+person7	9	10
+person1	6	7
+person8	5	3
+person12	4	5
+person3	1	1
+person23	13	11
+person20	13	14
+person17	3	2
+person25	13	5
+person15	7	21
+person11	1	1
+person13	11	1
+person4	1	15
+person9	13	person2	17
+person18	14	person13	6
+person10	1	person12	2
+person24	2	person13	14
+person2	4	person15	15
+person22	6	Sketches	2
+person14	2	person13	2
+person19	14	person9	1
+Person28	1	Sketches	2
+person6	23	person7	4
+person5	18	person20	19
+Sketches	2	person15	14
+Person27	1	person2	8
+person16	14	person6	8
+person21	14	Sketches	2
+person26	5	person14	12
+person7	6	person16	9
+person1	10	person8	2
+person8	1	person22	11
+person12	1	person26	6
+person3	1	person16	13
+person23	17	person5	15
+person20	13	person24	4
+person17	3	person8	3
+person25	14	person20	19
+person15	19	person8	5
+person11	1	person12	4
+person13	15	person24	4
+person4	16	person7	20
+person9	7	18
+person18	17	8
+person10	3	5
+person24	1	2
+person2	18	13
+person22	7	2
+person14	15	10
+person19	16	12
+Person28	1	1
+person6	8	14
+person5	20	21
+Sketches	2	2
+Person27	1	1
+person16	1	13
+person21	8	19
+person26	11	12
+person7	16	8
+person1	2	19
+person8	4	1
+person12	3	5
+person3	5	2
+person23	17	21
+person20	27	20
+person17	5	1
+person25	17	18
+person15	14	21
+person11	2	3
+person13	20	8
+person4	3	3
+person9	9	person23	11
+person18	14	person4	14
+person10	7	person9	8
+person24	3	person4	4
+person2	11	Person28	1
+person22	2	person20	20
+person14	21	person4	11
+person19	11	person3	3
+Person28	1	person21	7
+person6	17	person9	4
+person5	14	person9	12
+Sketches	2	person11	3
+Person27	1	person8	3
+person16	11	person3	1
+person21	2	person2	16
+person26	7	Sketches	2
+person7	3	person13	11
+person1	6	person3	5
+person8	3	person22	16
+person12	3	person16	15
+person3	5	person7	5
+person23	22	person1	8
+person20	1	person14	2
+person17	1	person9	12
+person25	12	person21	9
+person15	7	person19	8
+person11	5	person4	7
+person13	5	person6	6
+person4	5	person12	3
+person9	10	16
+person18	8	3
+person10	6	3
+person24	3	1
+person2	5	9
+person22	17	13
+person14	19	18
+person19	9	15
+Person28	1	1
+person6	4	9
+person5	5	5
+Sketches	2	2
+Person27	1	1
+person16	12	22
+person21	13	7
+person26	11	19
+person7	2	9
+person1	2	5
+person8	5	4
+person12	1	1
+person3	3	5
+person23	8	15
+person20	13	6
+person17	4	5
+person25	4	12
+person15	7	9
+person11	1	4
+person13	13	8
+person4	6	5
+person9	3	person2	9
+person18	2	person9	17
+person10	3	Person28	1
+person24	2	person1	5
+person2	4	person20	13
+person22	19	person24	3
+person14	10	person7	19
+person19	18	person4	17
+Person28	1	person9	14
+person6	14	person2	15
+person5	6	Person28	1
+Sketches	2	person2	16
+Person27	1	person10	6
+person16	9	Sketches	2
+person21	10	person3	4
+person26	7	person9	21
+person7	18	person2	4
+person1	10	person5	18
+person8	5	person20	20
+person12	5	person17	4
+person3	3	person13	20
+person23	1	person24	3
+person20	19	person19	4
+person17	2	Sketches	2
+person25	13	person11	2
+person15	5	person21	13
+person11	3	person1	12
+person13	7	person5	5
+person4	18	person13	13
+person9	4	10
+person18	17	6
+person10	3	3
+person24	3	5
+person2	3	5
+person22	13	12
+person14	16	21
+person19	4	18
+Person28	1	1
+person6	1	13
+person5	8	16
+Sketches	2	2
+Person27	1	1
+person16	21	9
+person21	16	18
+person26	16	13
+person7	11	13
+person1	15	4
+person8	1	1
+person12	1	5
+person3	2	3
+person23	4	9
+person20	24	1
+person17	5	4
+person25	11	8
+person15	14	19
+person11	5	1
+person13	17	11
+person4	3	4
+person9	10	person4	19
+person18	13	person16	7
+person10	5	person14	20
+person24	2	person8	3
+person2	17	person25	19
+person22	16	person21	16
+person14	9	person11	5
+person19	11	person23	19
+Person28	1	person19	8
+person6	22	person24	1
+person5	17	person7	5
+Sketches	2	person4	8
+Person27	1	person24	1
+person16	6	person21	2
+person21	6	person24	5
+person26	5	person21	20
+person7	11	person6	22
+person1	12	person12	4
+person8	2	person4	4
+person12	3	Person28	1
+person3	3	person1	8
+person23	14	Person27	1
+person20	10	person22	9
+person17	1	Person28	1
+person25	9	person1	5
+person15	20	person21	12
+person11	4	person1	17
+person13	6	person17	2
+person4	3	person16	4
+person9	9	15
+person18	1	9
+person10	1	2
+person24	4	1
+person2	16	20
+person22	1	14
+person14	18	13
+person19	11	5
+Person28	1	1
+person6	12	17
+person5	17	14
+Sketches	2	2
+Person27	1	1
+person16	13	20
+person21	5	5
+person26	16	20
+person7	9	8
+person1	2	19
+person8	5	1
+person12	2	4
+person3	1	1
+person23	6	8
+person20	17	28
+person17	2	4
+person25	16	8
+person15	9	4
+person11	1	1
+person13	18	2
+person4	10	3
+person9	21	Sketches	2
+person18	19	Person28	1
+person10	2	person18	5
+person24	5	person7	4
+person2	17	person13	11
+person22	18	Person27	1
+person14	12	person11	5
+person19	10	person10	5
+Person28	1	person17	3
+person6	3	person26	15
+person5	16	person12	4
+Sketches	2	person16	20
+Person27	1	person23	18
+person16	5	person6	5
+person21	9	person1	11
+person26	8	person23	19
+person7	17	person11	1
+person1	5	person2	7
+person8	5	person6	13
+person12	5	person3	1
+person3	3	Person28	1
+person23	12	Person28	1
+person20	26	person7	4
+person17	2	Sketches	2
+person25	5	person18	12
+person15	7	person16	10
+person11	2	person23	11
+person13	2	person1	19
+person4	12	person17	4
+person9	3	7
+person18	15	18
+person10	4	3
+person24	5	1
+person2	7	2
+person22	17	18
+person14	20	3
+person19	5	7
+Person28	1	1
+person6	19	2
+person5	12	18
+Sketches	2	2
+Person27	1	1
+person16	14	3
+person21	10	15
+person26	18	3
+person7	6	17
+person1	13	1
+person8	1	5
+person12	1	3
+person3	1	4
+person23	22	2
+person20	28	25
+person17	5	3
+person25	8	17
+person15	14	21
+person11	3	2
+person13	17	17
+person4	2	11
+person9	2	person8	3
+person18	2	Sketches	2
+person10	3	person3	4
+person24	4	Person27	1
+person2	11	person5	20
+person22	13	person19	14
+person14	16	person19	16
+person19	3	person18	15
+Person28	1	person10	5
+person6	8	person25	12
+person5	21	person12	3
+Sketches	2	person5	10
+Person27	1	person20	7
+person16	18	person4	10
+person21	2	person11	1
+person26	17	person7	8
+person7	3	person22	16
+person1	3	person8	4
+person8	3	person22	17
+person12	4	person9	11
+person3	4	person14	8
+person23	14	person24	3
+person20	5	person25	11
+person17	5	person10	3
+person25	17	person9	21
+person15	8	person4	8
+person11	1	person1	8
+person13	14	person5	9
+person4	22	person5	2
+person9	6	16
+person18	15	15
+person10	2	1
+person24	1	3
+person2	9	15
+person22	16	12
+person14	16	14
+person19	15	4
+Person28	1	1
+person6	12	17
+person5	2	17
+Sketches	2	2
+Person27	1	1
+person16	8	5
+person21	13	19
+person26	1	16
+person7	14	9
+person1	5	16
+person8	5	2
+person12	1	5
+person3	5	4
+person23	19	19
+person20	12	29
+person17	2	5
+person25	4	7
+person15	19	15
+person11	5	5
+person13	1	10
+person4	9	15
+person9	2	Person27	1
+person18	16	person24	4
+person10	6	person16	2
+person24	2	person6	4
+person2	10	person19	9
+person22	12	person5	17
+person14	16	person10	4
+person19	2	person1	7
+Person28	1	person23	5
+person6	6	person22	19
+person5	7	person16	7
+Sketches	2	person4	22
+Person27	1	person10	3
+person16	7	person21	5
+person21	15	person19	13
+person26	9	person23	2
+person7	1	person8	5
+person1	21	person9	17
+person8	4	person1	21
+person12	1	person11	4
+person3	1	person11	3
+person23	2	person21	4
+person20	25	person26	1
+person17	3	person11	4
+person25	9	person24	2
+person15	17	Sketches	2
+person11	1	person5	17
+person13	11	person16	3
+person4	11	person5	1
+person9	17	8
+person18	5	9
+person10	3	2
+person24	1	4
+person2	7	12
+person22	19	2
+person14	14	5
+person19	6	20
+Person28	1	1
+person6	22	2
+person5	11	6
+Sketches	2	2
+Person27	1	1
+person16	15	3
+person21	14	3
+person26	22	17
+person7	10	8
+person1	15	3
+person8	3	2
+person12	4	4
+person3	4	5
+person23	1	4
+person20	1	27
+person17	2	5
+person25	17	13
+person15	16	1
+person11	3	3
+person13	16	11
+person4	21	19
+person9	6	person15	23
+person18	17	person23	12
+person10	4	person22	11
+person24	4	Sketches	2
+person2	9	person26	2
+person22	6	Person28	1
+person14	13	person1	4
+person19	10	person24	5
+Person28	1	person15	11
+person6	6	person14	5
+person5	10	person4	21
+Sketches	2	person23	8
+Person27	1	person9	11
+person16	9	person7	15
+person21	7	person23	18
+person26	8	person19	10
+person7	3	Person27	1
+person1	7	person25	1
+person8	2	person25	17
+person12	3	person4	7
+person3	4	person14	4
+person23	3	person9	2
+person20	9	person17	1
+person17	3	person6	9
+person25	10	person7	4
+person15	9	person19	8
+person11	1	person2	9
+person13	18	person1	12
+person4	7	person21	5
+person9	5	17
+person18	13	10
+person10	3	2
+person24	4	5
+person2	10	12
+person22	9	11
+person14	4	16
+person19	13	9
+Person28	1	1
+person6	11	15
+person5	13	6
+Sketches	2	2
+Person27	1	1
+person16	20	20
+person21	8	3
+person26	18	12
+person7	17	11
+person1	5	3
+person8	3	1
+person12	1	4
+person3	3	4
+person23	12	17
+person20	9	21
+person17	3	3
+person25	3	14
+person15	24	9
+person11	5	1
+person13	14	20
+person4	6	4
+person9	10	person7	19
+person18	3	person21	12
+person10	7	person9	1
+person24	5	person2	12
+person2	6	person16	16
+person22	20	person24	2
+person14	12	person21	4
+person19	12	person4	14
+Person28	1	person21	3
+person6	5	person24	4
+person5	19	person8	4
+Sketches	2	person5	2
+Person27	1	person19	13
+person16	5	person12	5
+person21	9	person26	12
+person26	16	person12	1
+person7	19	person1	15
+person1	11	person11	4
+person8	2	person11	1
+person12	3	person2	9
+person3	2	person10	3
+person23	17	person15	11
+person20	11	Sketches	2
+person17	2	person4	4
+person25	18	person11	5
+person15	19	person5	10
+person11	1	person9	7
+person13	14	person9	15
+person4	21	person6	9
+person9	8	4
+person18	4	5
+person10	3	5
+person24	5	1
+person2	10	11
+person22	1	20
+person14	14	21
+person19	3	15
+Person28	1	1
+person6	2	4
+person5	7	8
+Sketches	2	2
+Person27	1	1
+person16	17	19
+person21	3	15
+person26	14	8
+person7	2	8
+person1	8	9
+person8	2	5
+person12	4	2
+person3	2	1
+person23	18	15
+person20	14	8
+person17	2	3
+person25	2	5
+person15	9	9
+person11	1	2
+person13	13	18
+person4	6	4
+person9	4	person24	2
+person18	15	person7	2
+person10	6	person8	1
+person24	2	person12	1
+person2	4	person20	23
+person22	16	person18	6
+person14	14	person20	24
+person19	7	person26	2
+Person28	1	person2	7
+person6	6	Person28	1
+person5	10	person16	9
+Sketches	2	person11	2
+Person27	1	person4	21
+person16	17	person14	11
+person21	6	Person28	1
+person26	8	Sketches	2
+person7	8	person18	9
+person1	17	person20	12
+person8	5	person1	9
+person12	2	person16	13
+person3	3	person21	6
+person23	18	person5	8
+person20	2	person4	10
+person17	2	person4	5
+person25	15	person5	3
+person15	6	person3	3
+person11	2	person8	4
+person13	14	person14	7
+person4	9	person23	13
+person9	19	2
+person18	9	9
+person10	4	2
+person24	3	1
+person2	2	18
+person22	5	19
+person14	16	16
+person19	13	11
+Person28	1	1
+person6	16	19
+person5	20	7
+Sketches	2	2
+Person27	1	1
+person16	1	19
+person21	6	17
+person26	21	10
+person7	2	1
+person1	4	11
+person8	5	3
+person12	4	2
+person3	5	3
+person23	14	7
+person20	28	15
+person17	1	4
+person25	8	19
+person15	18	24
+person11	1	2
+person13	11	15
+person4	22	5
+person9	9	person22	14
+person18	2	person1	14
+person10	7	person9	15
+person24	4	person4	14
+person2	16	person19	3
+person22	3	person3	4
+person14	8	person15	7
+person19	8	person7	3
+Person28	1	person14	9
+person6	21	person15	20
+person5	3	Person27	1
+Sketches	2	person13	7
+Person27	1	person25	12
+person16	10	person5	7
+person21	11	Person27	1
+person26	18	person5	13
+person7	3	person24	4
+person1	20	person12	1
+person8	3	Person27	1
+person12	4	person15	25
+person3	4	person5	3
+person23	14	person17	2
+person20	19	person13	5
+person17	3	Sketches	2
+person25	2	person3	5
+person15	8	person4	2
+person11	2	person15	2
+person13	12	person14	8
+person4	14	person14	15
+person9	2	8
+person18	14	13
+person10	3	2
+person24	1	3
+person2	8	8
+person22	1	19
+person14	17	12
+person19	17	7
+Person28	1	1
+person6	3	4
+person5	4	10
+Sketches	2	2
+Person27	1	1
+person16	21	9
+person21	19	7
+person26	14	19
+person7	13	4
+person1	6	17
+person8	4	5
+person12	4	3
+person3	2	4
+person23	20	1
+person20	12	18
+person17	5	2
+person25	14	18
+person15	2	8
+person11	2	3
+person13	4	1
+person4	6	7
+person9	7	person4	12
+person18	19	person6	6
+person10	6	person6	7
+person24	4	person3	2
+person2	16	person21	20
+person22	15	person9	5
+person14	1	person17	1
+person19	3	person11	1
+Person28	1	person26	22
+person6	13	person25	19
+person5	7	person4	6
+Sketches	2	person11	3
+Person27	1	person14	2
+person16	4	person15	3
+person21	8	person6	23
+person26	22	person2	7
+person7	18	person23	5
+person1	7	person4	8
+person8	2	person9	17
+person12	3	person4	1
+person3	5	person24	3
+person23	12	person24	5
+person20	23	person1	12
+person17	5	person3	1
+person25	15	person12	2
+person15	18	person2	12
+person11	3	person5	2
+person13	7	person2	12
+person4	18	person20	14
+person9	8	16
+person18	8	15
+person10	4	1
+person24	1	2
+person2	5	3
+person22	14	5
+person14	11	15
+person19	15	17
+Person28	1	1
+person6	14	8
+person5	19	7
+Sketches	2	2
+Person27	1	1
+person16	16	2
+person21	4	9
+person26	22	9
+person7	20	3
+person1	2	9
+person8	4	4
+person12	2	4
+person3	2	5
+person23	12	11
+person20	9	3
+person17	1	2
+person25	12	4
+person15	10	16
+person11	1	4
+person13	10	3
+person4	6	13
+person9	12	person15	18
+person18	5	person6	20
+person10	3	person21	2
+person24	3	person8	5
+person2	9	person14	21
+person22	3	person19	14
+person14	4	person22	1
+person19	6	person22	1
+Person28	1	person9	10
+person6	17	person21	11
+person5	17	person12	3
+Sketches	2	person3	2
+Person27	1	person25	9
+person16	22	person11	5
+person21	11	person14	11
+person26	1	person14	19
+person7	16	person5	12
+person1	13	person2	17
+person8	3	Sketches	2
+person12	4	person21	17
+person3	1	person1	7
+person23	5	person22	4
+person20	26	Person27	1
+person17	5	person5	20
+person25	7	person26	14
+person15	2	person8	5
+person11	1	Person27	1
+person13	12	Person28	1
+person4	11	person6	1
+person9	18	10
+person18	4	19
+person10	6	1
+person24	1	2
+person2	9	10
+person22	18	11
+person14	20	2
+person19	11	3
+Person28	1	1
+person6	5	5
+person5	20	1
+Sketches	2	2
+Person27	1	1
+person16	22	5
+person21	19	20
+person26	16	6
+person7	3	17
+person1	19	21
+person8	2	4
+person12	1	4
+person3	2	3
+person23	13	1
+person20	17	18
+person17	1	1
+person25	11	14
+person15	20	13
+person11	3	3
+person13	19	11
+person4	6	10
+person9	9	person2	17
+person18	13	person4	7
+person10	5	person9	13
+person24	4	Person27	1
+person2	8	person21	1
+person22	18	person9	6
+person14	21	person6	12
+person19	1	person18	9
+Person28	1	person20	15
+person6	5	person11	3
+person5	2	person25	1
+Sketches	2	Person28	1
+Person27	1	Sketches	2
+person16	7	person2	16
+person21	9	person20	6
+person26	19	person6	3
+person7	10	person21	4
+person1	17	person23	15
+person8	4	person21	19
+person12	4	person5	19
+person3	1	person11	4
+person23	6	person7	13
+person20	19	person1	21
+person17	2	person24	5
+person25	3	person23	20
+person15	4	person17	5
+person11	1	person14	14
+person13	8	Person28	1
+person4	10	person17	3
+person9	4	19
+person18	16	15
+person10	7	2
+person24	2	1
+person2	7	14
+person22	5	5
+person14	13	1
+person19	7	17
+Person28	1	1
+person6	16	12
+person5	6	7
+Sketches	2	2
+Person27	1	1
+person16	19	20
+person21	16	15
+person26	2	6
+person7	10	16
+person1	9	11
+person8	3	4
+person12	5	5
+person3	4	4
+person23	3	2
+person20	12	3
+person17	5	5
+person25	6	17
+person15	14	21
+person11	2	2
+person13	4	11
+person4	11	17
+person9	3	person8	4
+person18	16	Sketches	2
+person10	4	person6	13
+person24	2	person6	13
+person2	12	person15	6
+person22	16	Person28	1
+person14	21	Person27	1
+person19	16	person16	1
+Person28	1	person9	11
+person6	19	person9	2
+person5	14	person18	15
+Sketches	2	person3	2
+Person27	1	person16	21
+person16	22	Sketches	2
+person21	14	person12	5
+person26	13	person18	12
+person7	2	person25	2
+person1	14	person11	3
+person8	3	person20	9
+person12	3	person6	11
+person3	2	person1	8
+person23	21	person18	8
+person20	23	person7	12
+person17	1	person19	19
+person25	5	Person28	1
+person15	7	person20	26
+person11	5	person22	5
+person13	6	person9	12
+person4	8	person26	9
+person9	7	6
+person18	12	8
+person10	5	4
+person24	3	5
+person2	17	18
+person22	19	7
+person14	21	19
+person19	7	16
+Person28	1	1
+person6	7	5
+person5	18	19
+Sketches	2	2
+Person27	1	1
+person16	8	18
+person21	19	18
+person26	10	16
+person7	8	16
+person1	6	14
+person8	5	4
+person12	4	4
+person3	1	5
+person23	2	11
+person20	14	18
+person17	3	1
+person25	9	18
+person15	7	14
+person11	2	1
+person13	16	15
+person4	4	15
+person9	21	person2	19
+person18	6	person12	1
+person10	4	person13	5
+person24	5	person21	13
+person2	7	person26	7
+person22	19	person9	12
+person14	7	person3	3
+person19	4	person25	13
+Person28	1	person24	2
+person6	19	person26	10
+person5	16	person21	12
+Sketches	2	Person27	1
+Person27	1	person10	7
+person16	6	person2	1
+person21	15	person9	5
+person26	14	person17	2
+person7	1	person17	5
+person1	5	person3	4
+person8	4	person20	24
+person12	1	person17	3
+person3	1	person17	4
+person23	15	Person28	1
+person20	26	person2	16
+person17	4	person3	5
+person25	9	person21	2
+person15	23	person18	3
+person11	1	person2	3
+person13	17	person5	1
+person4	14	person24	1
+person9	5	9
+person18	6	8
+person10	7	7
+person24	5	5
+person2	15	11
+person22	19	10
+person14	4	9
+person19	20	9
+Person28	1	1
+person6	12	5
+person5	15	16
+Sketches	2	2
+Person27	1	1
+person16	4	13
+person21	15	13
+person26	15	1
+person7	17	2
+person1	14	17
+person8	1	2
+person12	2	3
+person3	3	3
+person23	22	15
+person20	21	17
+person17	2	4
+person25	11	18
+person15	2	19
+person11	1	5
+person13	11	7
+person4	20	2
+person9	17	person21	9
+person18	12	person1	19
+person10	7	Person28	1
+person24	2	person4	14
+person2	17	person11	3
+person22	8	person16	17
+person14	19	person20	25
+person19	1	person21	11
+Person28	1	Sketches	2
+person6	18	person16	1
+person5	14	person20	23
+Sketches	2	person18	2
+Person27	1	person11	1
+person16	15	person14	10
+person21	5	person2	14
+person26	14	person6	11
+person7	4	Person28	1
+person1	21	person8	4
+person8	3	person23	9
+person12	3	person1	12
+person3	2	person8	5
+person23	2	person22	12
+person20	22	person23	20
+person17	3	person23	8
+person25	1	person7	8
+person15	22	person11	4
+person11	5	person7	1
+person13	9	person3	1
+person4	2	Sketches	2
