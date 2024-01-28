@@ -1,4 +1,4 @@
-# Unconstrained-Face-Recognition
+# Unconstrained Face Recognition
 This was my final year undergraduate project from Feb 2021 to July 2021. I also extended this project to a research project till May 2022.
 
 To download the datasets for this project, go to https://drive.google.com/drive/folders/1X8ja6E3wW-43KR7n21ZVP5TrmjCLOjve?usp=drive_link
