@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 
 
 
-FACE IDENTIFICATION
+# Face Identification
 
 1. python 'path to the code file' 'path to the original dataset folder' 'path to the aligned dataset folder'
 
@@ -53,7 +53,7 @@ Link for reference to perform Face identification
 https://appliedmachinelearning.blog/2018/10/30/yet-another-face-recognition-demonstration-on-images-videos-using-python-and-tensorflow/
 
 
-TESTING ACCURACY AND VALIDATION RATE
+# Testing Accuracy And Validation Rate
 
 1. Arrange the images with clear labels same as format of lfw dataset
 
